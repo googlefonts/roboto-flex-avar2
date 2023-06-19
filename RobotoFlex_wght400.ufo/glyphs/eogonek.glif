@@ -3,7 +3,26 @@
   <advance width="1088"/>
   <unicode hex="0119"/>
   <outline>
-    <component base="e"/>
-    <component base="ogonekcomb" xOffset="166"/>
+    <component base="e" identifier="3706BBA3"/>
+    <component base="ogonekcomb" xOffset="166" identifier="59BE8E14"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2023-06-19 18:52:36 +0000</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>3706BBA3</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>59BE8E14</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

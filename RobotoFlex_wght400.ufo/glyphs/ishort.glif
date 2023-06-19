@@ -1,10 +1,29 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="ishort" format="2">
-	<unicode hex="0439"/>
-	<advance width="1158"/>
-	<outline>
-		<component base="icyr"/>
-		<component base="breve.cyr" xOffset="49"/>
-	</outline>
-	<guideline x="578" y="1072" angle="90" identifier="p0aJ1s3JmT"/>
+  <advance width="1158"/>
+  <unicode hex="0439"/>
+  <guideline x="578" y="1072" angle="90" identifier="p0aJ1s3JmT"/>
+  <outline>
+    <component base="icyr" identifier="622D0493"/>
+    <component base="breve.cyr" xOffset="49" identifier="A316C2ED"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2023-06-19 18:52:36 +0000</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>622D0493</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>A316C2ED</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

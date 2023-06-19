@@ -1,9 +1,28 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="adieresiscyr" format="2">
-	<unicode hex="04D3"/>
-	<advance width="1106"/>
-	<outline>
-		<component base="a"/>
-		<component base="dieresiscomb" xOffset="46"/>
-	</outline>
+  <advance width="1106"/>
+  <unicode hex="04D3"/>
+  <outline>
+    <component base="a" identifier="C53A8DB9"/>
+    <component base="dieresiscomb" xOffset="46" identifier="A17472DF"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2023-06-19 18:52:36 +0000</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>A17472DF</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>C53A8DB9</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

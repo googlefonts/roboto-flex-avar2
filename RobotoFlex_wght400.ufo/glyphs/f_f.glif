@@ -1,9 +1,28 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="f_f" format="2">
-	<unicode hex="FB00"/>
-	<advance width="1200"/>
-	<outline>
-		<component base="f"/>
-		<component base="f" xOffset="600"/>
-	</outline>
+  <advance width="1200"/>
+  <unicode hex="FB00"/>
+  <outline>
+    <component base="f" identifier="57A3644B"/>
+    <component base="f" xOffset="600" identifier="0544952D"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2023-06-19 18:52:36 +0000</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>0544952D</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>57A3644B</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

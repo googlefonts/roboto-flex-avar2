@@ -3,7 +3,26 @@
   <advance width="1170"/>
   <unicode hex="0111"/>
   <outline>
-    <component base="d"/>
-    <component base="horizontalbarlc" xOffset="478" yOffset="584"/>
+    <component base="d" identifier="A3FAE297"/>
+    <component base="horizontalbarlc" xOffset="478" yOffset="584" identifier="5D48936B"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2023-06-19 18:52:36 +0000</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>5D48936B</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>A3FAE297</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

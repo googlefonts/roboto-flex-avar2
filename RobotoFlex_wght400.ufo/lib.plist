@@ -949,6 +949,21 @@
         <string>glyphList</string>
       </dict>
     </array>
+    <key>com.schriftgestaltung.DisplayStrings</key>
+    <array>
+      <string>%%¼¼½½¾¾ØØøøĐđđęĦĦħħĿŀŀŁŁłłŉŊŊŋŋŐőťŧŧųǾǿȰ̑̑‰‰ﬀﬀﬁﬁﬂﬂﬃﬃﬄﬄ/hungarumlautcomb.case/dblgravecomb.case/f_f_ij/f_f_ij/f_ij/f_ij ΆΆΈΈΉΉΊΊΌΌΎΎΫΏΏӐӒӖӖӁӁЙЙЎЎЫЫҪ/igrave.bgr άάέέήήΐΐίίόόΰΰύύώώӑӑӓӗӗӂӂййўӯӱӳыыћғғ/ishort.bgr/amacroncyr/Iemacroncyr/obrevecyr/Ebrevecyr/Ebrevecyr/ebrevecyr/ebrevecyr/yumacron</string>
+      <string>R</string>
+    </array>
+    <key>com.schriftgestaltung.appVersion</key>
+    <string>3201</string>
+    <key>com.schriftgestaltung.disablesAutomaticAlignment</key>
+    <false/>
+    <key>com.schriftgestaltung.formatVersion</key>
+    <integer>3</integer>
+    <key>com.schriftgestaltung.useGlyphOrder</key>
+    <true/>
+    <key>com.schriftgestaltung.useNiceNames</key>
+    <false/>
     <key>com.typemytype.glyphBuilder.lastSavedFileName</key>
     <string>3-RobotoFlex-Regular</string>
     <key>com.typemytype.robofont.Roboto-Regular.layerShow</key>
@@ -997,9 +1012,9 @@
     <integer>1</integer>
     <key>com.typemytype.robofont.foreground.layerStrokeColor</key>
     <array>
-      <real>0.875953311</real>
-      <real>0.8520636921</real>
-      <real>0.6924212208</real>
+      <real>0.876</real>
+      <real>0.852</real>
+      <real>0.692</real>
       <real>0.3</real>
     </array>
     <key>com.typemytype.robofont.guideline.magnetic.23oiUVufgG</key>
@@ -2503,8 +2518,6 @@
     </array>
     <key>public.postscriptNames</key>
     <dict/>
-    <key>public.skipExportGlyphs</key>
-    <array/>
     <key>tnCurvePalet</key>
     <dict>
       <key>sliderBottomMax</key>

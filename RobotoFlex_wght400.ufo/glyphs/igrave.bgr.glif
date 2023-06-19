@@ -1,8 +1,27 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="igrave.bgr" format="2">
-	<advance width="1138"/>
-	<outline>
-		<component base="u"/>
-		<component base="gravecomb" xOffset="18"/>
-	</outline>
+  <advance width="1138"/>
+  <outline>
+    <component base="u" identifier="538CCC41"/>
+    <component base="gravecomb" xOffset="18" identifier="AC8E0EDE"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2023-06-19 18:52:36 +0000</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>538CCC41</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>AC8E0EDE</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

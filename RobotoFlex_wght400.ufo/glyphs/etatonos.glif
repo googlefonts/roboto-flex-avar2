@@ -1,9 +1,28 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="etatonos" format="2">
-	<unicode hex="03AE"/>
-	<advance width="1138"/>
-	<outline>
-		<component base="eta"/>
-		<component base="tonoscomb" xOffset="129"/>
-	</outline>
+  <advance width="1138"/>
+  <unicode hex="03AE"/>
+  <outline>
+    <component base="eta" identifier="545837AB"/>
+    <component base="tonoscomb" xOffset="129" identifier="F6120BFC"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2023-06-19 18:52:36 +0000</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>545837AB</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>F6120BFC</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

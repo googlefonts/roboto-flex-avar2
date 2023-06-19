@@ -1,9 +1,28 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="ushort" format="2">
-	<unicode hex="045E"/>
-	<advance width="942"/>
-	<outline>
-		<component base="y"/>
-		<component base="breve.cyr" xOffset="-59"/>
-	</outline>
+  <advance width="942"/>
+  <unicode hex="045E"/>
+  <outline>
+    <component base="y" identifier="9FC21C93"/>
+    <component base="breve.cyr" xOffset="-59" identifier="0AD8158F"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2023-06-19 18:52:36 +0000</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>0AD8158F</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>9FC21C93</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

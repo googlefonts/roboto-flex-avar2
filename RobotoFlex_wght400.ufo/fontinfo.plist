@@ -16,13 +16,13 @@
     <array>
       <dict>
         <key>angle</key>
-        <real>0.0</real>
+        <integer>0</integer>
         <key>identifier</key>
         <string>23oiUVufgG</string>
         <key>x</key>
-        <real>358.0</real>
+        <integer>358</integer>
         <key>y</key>
-        <real>1602.0</real>
+        <integer>1602</integer>
       </dict>
     </array>
     <key>italicAngle</key>
@@ -62,6 +62,8 @@
     <string>Google</string>
     <key>openTypeNameManufacturerURL</key>
     <string>Google.com</string>
+    <key>openTypeNamePreferredSubfamilyName</key>
+    <string>Regular</string>
     <key>openTypeNameSampleText</key>
     <string></string>
     <key>openTypeNameUniqueID</key>
@@ -69,13 +71,6 @@
     <key>openTypeOS2CodePageRanges</key>
     <array>
       <integer>0</integer>
-      <integer>1</integer>
-      <integer>2</integer>
-      <integer>3</integer>
-      <integer>4</integer>
-      <integer>7</integer>
-      <integer>8</integer>
-      <integer>29</integer>
     </array>
     <key>openTypeOS2FamilyClass</key>
     <array>
@@ -169,7 +164,7 @@
     <key>postscriptBlueFuzz</key>
     <integer>1</integer>
     <key>postscriptBlueScale</key>
-    <real>0.039625</real>
+    <real>0.04</real>
     <key>postscriptBlueShift</key>
     <integer>7</integer>
     <key>postscriptBlueValues</key>
@@ -185,10 +180,8 @@
     </array>
     <key>postscriptDefaultCharacter</key>
     <string>space</string>
-    <key>postscriptFamilyBlues</key>
-    <array/>
-    <key>postscriptFamilyOtherBlues</key>
-    <array/>
+    <key>postscriptFontName</key>
+    <string>RobotoFlex-Regular</string>
     <key>postscriptForceBold</key>
     <false/>
     <key>postscriptIsFixedPitch</key>

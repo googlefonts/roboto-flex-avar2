@@ -1,10 +1,29 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="hungarumlautcomb.case" format="2">
-	<advance width="1024"/>
-	<outline>
-		<component base="acutecomb.case" xOffset="-147"/>
-		<component base="acutecomb.case" xOffset="187"/>
-	</outline>
-	<anchor name="_top" x="512" y="1456"/>
-	<anchor name="top" x="512" y="1998"/>
+  <advance width="1024"/>
+  <anchor x="512" y="1456" name="_top"/>
+  <anchor x="512" y="1998" name="top"/>
+  <outline>
+    <component base="acutecomb.case" xOffset="-147" identifier="400E51D3"/>
+    <component base="acutecomb.case" xOffset="187" identifier="D10F51FA"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2023-06-19 18:52:36 +0000</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>400E51D3</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>D10F51FA</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

@@ -1,9 +1,28 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="eng" format="2">
-	<unicode hex="014B"/>
-	<advance width="1138"/>
-	<outline>
-		<component base="n"/>
-		<component base="engtail" xOffset="478"/>
-	</outline>
+  <advance width="1138"/>
+  <unicode hex="014B"/>
+  <outline>
+    <component base="n" identifier="150B5C65"/>
+    <component base="engtail" xOffset="478" identifier="F0B3EA6D"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2023-06-19 18:52:36 +0000</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>150B5C65</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>F0B3EA6D</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

@@ -1,9 +1,28 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="tcaron" format="2">
-	<unicode hex="0165"/>
-	<advance width="1112"/>
-	<outline>
-		<component base="t"/>
-		<component base="caroncomb.alt" xOffset="384"/>
-	</outline>
+  <advance width="1112"/>
+  <unicode hex="0165"/>
+  <outline>
+    <component base="t" identifier="487CECE2"/>
+    <component base="caroncomb.alt" xOffset="384" identifier="0D362638"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2023-06-19 18:52:36 +0000</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>0D362638</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>487CECE2</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

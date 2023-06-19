@@ -1,9 +1,28 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="obrevecyr" format="2">
-	<unicode hex="F51B"/>
-	<advance width="1162"/>
-	<outline>
-		<component base="o"/>
-		<component base="breve.cyr" xOffset="50"/>
-	</outline>
+  <advance width="1162"/>
+  <unicode hex="F51B"/>
+  <outline>
+    <component base="o" identifier="37C6306C"/>
+    <component base="breve.cyr" xOffset="50" identifier="87739262"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2023-06-19 18:52:36 +0000</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>37C6306C</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>87739262</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

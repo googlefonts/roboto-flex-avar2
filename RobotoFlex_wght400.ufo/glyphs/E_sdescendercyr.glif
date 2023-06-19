@@ -1,9 +1,28 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Esdescendercyr" format="2">
-	<unicode hex="04AA"/>
-	<advance width="1359"/>
-	<outline>
-		<component base="C"/>
-		<component base="cedillacomb.case" xOffset="235" yOffset="-12"/>
-	</outline>
+  <advance width="1359"/>
+  <unicode hex="04AA"/>
+  <outline>
+    <component base="C" identifier="F436F417"/>
+    <component base="cedillacomb.case" xOffset="235" yOffset="-12" identifier="F84DD902"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2023-06-19 18:52:36 +0000</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>F436F417</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>F84DD902</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

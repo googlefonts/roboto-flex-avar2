@@ -1,8 +1,27 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="ishort.bgr" format="2">
-	<advance width="1138"/>
-	<outline>
-		<component base="u"/>
-		<component base="breve.cyr" xOffset="36"/>
-	</outline>
+  <advance width="1138"/>
+  <outline>
+    <component base="u" identifier="C21189B2"/>
+    <component base="breve.cyr" xOffset="36" identifier="BD96179F"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2023-06-19 18:52:36 +0000</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>BD96179F</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>C21189B2</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
 </glyph>
