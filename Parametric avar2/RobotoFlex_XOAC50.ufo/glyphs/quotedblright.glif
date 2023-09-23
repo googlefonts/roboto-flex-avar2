@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="quotedblright" format="2">
+  <advance width="706"/>
+  <unicode hex="201D"/>
+  <outline>
+    <contour>
+      <point x="277" y="1456" type="line"/>
+      <point x="277" y="1328" type="line" smooth="yes"/>
+      <point x="277" y="1218"/>
+      <point x="216" y="1025"/>
+      <point x="145" y="966" type="qcurve"/>
+      <point x="39" y="1039" type="line"/>
+      <point x="96" y="1095"/>
+      <point x="178" y="1244"/>
+      <point x="177" y="1325" type="qcurve" smooth="yes"/>
+      <point x="177" y="1456" type="line"/>
+    </contour>
+    <contour>
+      <point x="614" y="1456" type="line"/>
+      <point x="614" y="1328" type="line" smooth="yes"/>
+      <point x="614" y="1218"/>
+      <point x="549" y="1023"/>
+      <point x="482" y="966" type="qcurve"/>
+      <point x="376" y="1039" type="line"/>
+      <point x="433" y="1095"/>
+      <point x="515" y="1244"/>
+      <point x="514" y="1325" type="qcurve" smooth="yes"/>
+      <point x="514" y="1456" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.2584,0.6182,0.2767,1</string>
+    </dict>
+  </lib>
+</glyph>

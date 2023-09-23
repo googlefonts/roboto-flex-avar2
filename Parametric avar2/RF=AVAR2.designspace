@@ -1,0 +1,603 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<designspace format="5.0">
+  <axes>
+    <axis tag="nwx1" name="YTUC" minimum="528" maximum="760" default="728"/>
+    <axis tag="nwx2" name="YTLC" minimum="416" maximum="570" default="526"/>
+    <axis tag="nwx3" name="YTFI" minimum="560" maximum="788" default="728"/>
+    <axis tag="nwx4" name="YTDE" minimum="-305" maximum="-98" default="-208"/>
+    <axis tag="nwx5" name="YTAS" minimum="649" maximum="854" default="768"/>
+    <axis tag="nwx6" name="YOPQ" minimum="25" maximum="135" default="79"/>
+    <axis tag="nwx7" name="XTUC" minimum="323" maximum="603" default="463"/>
+    <axis tag="nwx8" name="XTRA" minimum="323" maximum="603" default="463"/>
+    <axis tag="nwx9" name="XTLC" minimum="272" maximum="580" default="333"/>
+    <axis tag="nwx10" name="XTFI" minimum="252" maximum="488" default="371"/>
+    <axis tag="nwx11" name="XOUC" minimum="27" maximum="175" default="96"/>
+    <axis tag="nwx12" name="XOPQ" minimum="27" maximum="175" default="96"/>
+    <axis tag="nwx13" name="XOLC" minimum="27" maximum="170" default="93"/>
+    <axis tag="nwx14" name="XOFI" minimum="27" maximum="180" default="97"/>
+    <axis tag="nwx15" name="XOAC" minimum="50" maximum="164" default="90"/>
+    <axis tag="nwx16" name="YOAC" minimum="26" maximum="137" default="67"/>
+  </axes>
+  <sources>
+    <source filename="../../../old sources/1A-drawings/Parametric Axes/Parametric avar2/RobotoFlex_wght400.ufo" familyname="Roboto Flex" stylename="Regular">
+      <location>
+        <dimension name="YTUC" xvalue="728"/>
+        <dimension name="YTLC" xvalue="526"/>
+        <dimension name="YTFI" xvalue="728"/>
+        <dimension name="YTDE" xvalue="-208"/>
+        <dimension name="YTAS" xvalue="768"/>
+        <dimension name="YOPQ" xvalue="79"/>
+        <dimension name="XTUC" xvalue="463"/>
+        <dimension name="XTRA" xvalue="463"/>
+        <dimension name="XTLC" xvalue="333"/>
+        <dimension name="XTFI" xvalue="371"/>
+        <dimension name="XOUC" xvalue="96"/>
+        <dimension name="XOPQ" xvalue="96"/>
+        <dimension name="XOLC" xvalue="93"/>
+        <dimension name="XOFI" xvalue="97"/>
+        <dimension name="XOAC" xvalue="0"/>
+        <dimension name="YOAC" xvalue="0"/>
+      </location>
+    </source>
+    <source filename="../../../old sources/1A-drawings/Parametric Axes/Parametric avar2/RobotoFlex_XOFI27.ufo" familyname="Roboto Flex" stylename="XOFI27">
+      <location>
+        <dimension name="YTUC" xvalue="728"/>
+        <dimension name="YTLC" xvalue="526"/>
+        <dimension name="YTFI" xvalue="728"/>
+        <dimension name="YTDE" xvalue="-208"/>
+        <dimension name="YTAS" xvalue="768"/>
+        <dimension name="YOPQ" xvalue="79"/>
+        <dimension name="XTUC" xvalue="463"/>
+        <dimension name="XTRA" xvalue="463"/>
+        <dimension name="XTLC" xvalue="333"/>
+        <dimension name="XTFI" xvalue="371"/>
+        <dimension name="XOUC" xvalue="96"/>
+        <dimension name="XOPQ" xvalue="96"/>
+        <dimension name="XOLC" xvalue="93"/>
+        <dimension name="XOFI" xvalue="97"/>
+        <dimension name="XOAC" xvalue="0"/>
+        <dimension name="YOAC" xvalue="0"/>
+      </location>
+    </source>
+    <source filename="../../../old sources/1A-drawings/Parametric Axes/Parametric avar2/RobotoFlex_XOFI175.ufo" familyname="Roboto Flex" stylename="XOFI175">
+      <location>
+        <dimension name="YTUC" xvalue="728"/>
+        <dimension name="YTLC" xvalue="526"/>
+        <dimension name="YTFI" xvalue="728"/>
+        <dimension name="YTDE" xvalue="-208"/>
+        <dimension name="YTAS" xvalue="768"/>
+        <dimension name="YOPQ" xvalue="79"/>
+        <dimension name="XTUC" xvalue="463"/>
+        <dimension name="XTRA" xvalue="463"/>
+        <dimension name="XTLC" xvalue="333"/>
+        <dimension name="XTFI" xvalue="371"/>
+        <dimension name="XOUC" xvalue="96"/>
+        <dimension name="XOPQ" xvalue="96"/>
+        <dimension name="XOLC" xvalue="93"/>
+        <dimension name="XOFI" xvalue="97"/>
+        <dimension name="XOAC" xvalue="0"/>
+        <dimension name="YOAC" xvalue="0"/>
+      </location>
+    </source>
+    <source filename="../../../old sources/1A-drawings/Parametric Axes/Parametric avar2/RobotoFlex_XOLC27.ufo" familyname="Roboto Flex" stylename="XOLC27">
+      <location>
+        <dimension name="YTUC" xvalue="728"/>
+        <dimension name="YTLC" xvalue="526"/>
+        <dimension name="YTFI" xvalue="728"/>
+        <dimension name="YTDE" xvalue="-208"/>
+        <dimension name="YTAS" xvalue="768"/>
+        <dimension name="YOPQ" xvalue="79"/>
+        <dimension name="XTUC" xvalue="463"/>
+        <dimension name="XTRA" xvalue="463"/>
+        <dimension name="XTLC" xvalue="333"/>
+        <dimension name="XTFI" xvalue="371"/>
+        <dimension name="XOUC" xvalue="96"/>
+        <dimension name="XOPQ" xvalue="96"/>
+        <dimension name="XOLC" xvalue="93"/>
+        <dimension name="XOFI" xvalue="97"/>
+        <dimension name="XOAC" xvalue="0"/>
+        <dimension name="YOAC" xvalue="0"/>
+      </location>
+    </source>
+    <source filename="../../../old sources/1A-drawings/Parametric Axes/Parametric avar2/RobotoFlex_XOLC175.ufo" familyname="Roboto Flex" stylename="XOLC175">
+      <location>
+        <dimension name="YTUC" xvalue="728"/>
+        <dimension name="YTLC" xvalue="526"/>
+        <dimension name="YTFI" xvalue="728"/>
+        <dimension name="YTDE" xvalue="-208"/>
+        <dimension name="YTAS" xvalue="768"/>
+        <dimension name="YOPQ" xvalue="79"/>
+        <dimension name="XTUC" xvalue="463"/>
+        <dimension name="XTRA" xvalue="463"/>
+        <dimension name="XTLC" xvalue="333"/>
+        <dimension name="XTFI" xvalue="371"/>
+        <dimension name="XOUC" xvalue="96"/>
+        <dimension name="XOPQ" xvalue="96"/>
+        <dimension name="XOLC" xvalue="93"/>
+        <dimension name="XOFI" xvalue="97"/>
+        <dimension name="XOAC" xvalue="0"/>
+        <dimension name="YOAC" xvalue="0"/>
+      </location>
+    </source>
+    <source filename="../../../old sources/1A-drawings/Parametric Axes/Parametric avar2/RobotoFlex_XOPQ27.ufo" familyname="Roboto Flex" stylename="XOPQ27">
+      <location>
+        <dimension name="YTUC" xvalue="728"/>
+        <dimension name="YTLC" xvalue="526"/>
+        <dimension name="YTFI" xvalue="728"/>
+        <dimension name="YTDE" xvalue="-208"/>
+        <dimension name="YTAS" xvalue="768"/>
+        <dimension name="YOPQ" xvalue="79"/>
+        <dimension name="XTUC" xvalue="463"/>
+        <dimension name="XTRA" xvalue="463"/>
+        <dimension name="XTLC" xvalue="333"/>
+        <dimension name="XTFI" xvalue="371"/>
+        <dimension name="XOUC" xvalue="96"/>
+        <dimension name="XOPQ" xvalue="96"/>
+        <dimension name="XOLC" xvalue="93"/>
+        <dimension name="XOFI" xvalue="97"/>
+        <dimension name="XOAC" xvalue="0"/>
+        <dimension name="YOAC" xvalue="0"/>
+      </location>
+    </source>
+    <source filename="../../../old sources/1A-drawings/Parametric Axes/Parametric avar2/RobotoFlex_XOPQ175.ufo" familyname="Roboto Flex" stylename="XOPQ175">
+      <location>
+        <dimension name="YTUC" xvalue="728"/>
+        <dimension name="YTLC" xvalue="526"/>
+        <dimension name="YTFI" xvalue="728"/>
+        <dimension name="YTDE" xvalue="-208"/>
+        <dimension name="YTAS" xvalue="768"/>
+        <dimension name="YOPQ" xvalue="79"/>
+        <dimension name="XTUC" xvalue="463"/>
+        <dimension name="XTRA" xvalue="463"/>
+        <dimension name="XTLC" xvalue="333"/>
+        <dimension name="XTFI" xvalue="371"/>
+        <dimension name="XOUC" xvalue="96"/>
+        <dimension name="XOPQ" xvalue="96"/>
+        <dimension name="XOLC" xvalue="93"/>
+        <dimension name="XOFI" xvalue="97"/>
+        <dimension name="XOAC" xvalue="0"/>
+        <dimension name="YOAC" xvalue="0"/>
+      </location>
+    </source>
+    <source filename="../../../old sources/1A-drawings/Parametric Axes/Parametric avar2/RobotoFlex_XOUC27.ufo" familyname="Roboto Flex" stylename="XOUC27">
+      <location>
+        <dimension name="YTUC" xvalue="728"/>
+        <dimension name="YTLC" xvalue="526"/>
+        <dimension name="YTFI" xvalue="728"/>
+        <dimension name="YTDE" xvalue="-208"/>
+        <dimension name="YTAS" xvalue="768"/>
+        <dimension name="YOPQ" xvalue="79"/>
+        <dimension name="XTUC" xvalue="463"/>
+        <dimension name="XTRA" xvalue="463"/>
+        <dimension name="XTLC" xvalue="333"/>
+        <dimension name="XTFI" xvalue="371"/>
+        <dimension name="XOUC" xvalue="96"/>
+        <dimension name="XOPQ" xvalue="96"/>
+        <dimension name="XOLC" xvalue="93"/>
+        <dimension name="XOFI" xvalue="97"/>
+        <dimension name="XOAC" xvalue="0"/>
+        <dimension name="YOAC" xvalue="0"/>
+      </location>
+    </source>
+    <source filename="../../../old sources/1A-drawings/Parametric Axes/Parametric avar2/RobotoFlex_XOUC175.ufo" familyname="Roboto Flex" stylename="XOUC175">
+      <location>
+        <dimension name="YTUC" xvalue="728"/>
+        <dimension name="YTLC" xvalue="526"/>
+        <dimension name="YTFI" xvalue="728"/>
+        <dimension name="YTDE" xvalue="-208"/>
+        <dimension name="YTAS" xvalue="768"/>
+        <dimension name="YOPQ" xvalue="79"/>
+        <dimension name="XTUC" xvalue="463"/>
+        <dimension name="XTRA" xvalue="463"/>
+        <dimension name="XTLC" xvalue="333"/>
+        <dimension name="XTFI" xvalue="371"/>
+        <dimension name="XOUC" xvalue="96"/>
+        <dimension name="XOPQ" xvalue="96"/>
+        <dimension name="XOLC" xvalue="93"/>
+        <dimension name="XOFI" xvalue="97"/>
+        <dimension name="XOAC" xvalue="0"/>
+        <dimension name="YOAC" xvalue="0"/>
+      </location>
+    </source>
+    <source filename="../../../old sources/1A-drawings/Parametric Axes/Parametric avar2/RobotoFlex_XTFI323.ufo" familyname="Roboto Flex" stylename="XTFI323">
+      <location>
+        <dimension name="YTUC" xvalue="728"/>
+        <dimension name="YTLC" xvalue="526"/>
+        <dimension name="YTFI" xvalue="728"/>
+        <dimension name="YTDE" xvalue="-208"/>
+        <dimension name="YTAS" xvalue="768"/>
+        <dimension name="YOPQ" xvalue="79"/>
+        <dimension name="XTUC" xvalue="463"/>
+        <dimension name="XTRA" xvalue="463"/>
+        <dimension name="XTLC" xvalue="333"/>
+        <dimension name="XTFI" xvalue="371"/>
+        <dimension name="XOUC" xvalue="96"/>
+        <dimension name="XOPQ" xvalue="96"/>
+        <dimension name="XOLC" xvalue="93"/>
+        <dimension name="XOFI" xvalue="97"/>
+        <dimension name="XOAC" xvalue="0"/>
+        <dimension name="YOAC" xvalue="0"/>
+      </location>
+    </source>
+    <source filename="../../../old sources/1A-drawings/Parametric Axes/Parametric avar2/RobotoFlex_XTFI488.ufo" familyname="Roboto Flex" stylename="XTFI603">
+      <location>
+        <dimension name="YTUC" xvalue="728"/>
+        <dimension name="YTLC" xvalue="526"/>
+        <dimension name="YTFI" xvalue="728"/>
+        <dimension name="YTDE" xvalue="-208"/>
+        <dimension name="YTAS" xvalue="768"/>
+        <dimension name="YOPQ" xvalue="79"/>
+        <dimension name="XTUC" xvalue="463"/>
+        <dimension name="XTRA" xvalue="463"/>
+        <dimension name="XTLC" xvalue="333"/>
+        <dimension name="XTFI" xvalue="371"/>
+        <dimension name="XOUC" xvalue="96"/>
+        <dimension name="XOPQ" xvalue="96"/>
+        <dimension name="XOLC" xvalue="93"/>
+        <dimension name="XOFI" xvalue="97"/>
+        <dimension name="XOAC" xvalue="0"/>
+        <dimension name="YOAC" xvalue="0"/>
+      </location>
+    </source>
+    <source filename="../../../old sources/1A-drawings/Parametric Axes/Parametric avar2/RobotoFlex_XTLC323.ufo" familyname="Roboto Flex" stylename="XTLC323">
+      <location>
+        <dimension name="YTUC" xvalue="728"/>
+        <dimension name="YTLC" xvalue="526"/>
+        <dimension name="YTFI" xvalue="728"/>
+        <dimension name="YTDE" xvalue="-208"/>
+        <dimension name="YTAS" xvalue="768"/>
+        <dimension name="YOPQ" xvalue="79"/>
+        <dimension name="XTUC" xvalue="463"/>
+        <dimension name="XTRA" xvalue="463"/>
+        <dimension name="XTLC" xvalue="333"/>
+        <dimension name="XTFI" xvalue="371"/>
+        <dimension name="XOUC" xvalue="96"/>
+        <dimension name="XOPQ" xvalue="96"/>
+        <dimension name="XOLC" xvalue="93"/>
+        <dimension name="XOFI" xvalue="97"/>
+        <dimension name="XOAC" xvalue="0"/>
+        <dimension name="YOAC" xvalue="0"/>
+      </location>
+    </source>
+    <source filename="../../../old sources/1A-drawings/Parametric Axes/Parametric avar2/RobotoFlex_XTLC603.ufo" familyname="Roboto Flex" stylename="XTLC603">
+      <location>
+        <dimension name="YTUC" xvalue="728"/>
+        <dimension name="YTLC" xvalue="526"/>
+        <dimension name="YTFI" xvalue="728"/>
+        <dimension name="YTDE" xvalue="-208"/>
+        <dimension name="YTAS" xvalue="768"/>
+        <dimension name="YOPQ" xvalue="79"/>
+        <dimension name="XTUC" xvalue="463"/>
+        <dimension name="XTRA" xvalue="463"/>
+        <dimension name="XTLC" xvalue="333"/>
+        <dimension name="XTFI" xvalue="371"/>
+        <dimension name="XOUC" xvalue="96"/>
+        <dimension name="XOPQ" xvalue="96"/>
+        <dimension name="XOLC" xvalue="93"/>
+        <dimension name="XOFI" xvalue="97"/>
+        <dimension name="XOAC" xvalue="0"/>
+        <dimension name="YOAC" xvalue="0"/>
+      </location>
+    </source>
+    <source filename="../../../old sources/1A-drawings/Parametric Axes/Parametric avar2/RobotoFlex_XTRA323.ufo" familyname="Roboto Flex" stylename="XTRA323">
+      <location>
+        <dimension name="YTUC" xvalue="728"/>
+        <dimension name="YTLC" xvalue="526"/>
+        <dimension name="YTFI" xvalue="728"/>
+        <dimension name="YTDE" xvalue="-208"/>
+        <dimension name="YTAS" xvalue="768"/>
+        <dimension name="YOPQ" xvalue="79"/>
+        <dimension name="XTUC" xvalue="463"/>
+        <dimension name="XTRA" xvalue="463"/>
+        <dimension name="XTLC" xvalue="333"/>
+        <dimension name="XTFI" xvalue="371"/>
+        <dimension name="XOUC" xvalue="96"/>
+        <dimension name="XOPQ" xvalue="96"/>
+        <dimension name="XOLC" xvalue="93"/>
+        <dimension name="XOFI" xvalue="97"/>
+        <dimension name="XOAC" xvalue="0"/>
+        <dimension name="YOAC" xvalue="0"/>
+      </location>
+    </source>
+    <source filename="../../../old sources/1A-drawings/Parametric Axes/Parametric avar2/RobotoFlex_XTRA603.ufo" familyname="Roboto Flex" stylename="XTRA603">
+      <location>
+        <dimension name="YTUC" xvalue="728"/>
+        <dimension name="YTLC" xvalue="526"/>
+        <dimension name="YTFI" xvalue="728"/>
+        <dimension name="YTDE" xvalue="-208"/>
+        <dimension name="YTAS" xvalue="768"/>
+        <dimension name="YOPQ" xvalue="79"/>
+        <dimension name="XTUC" xvalue="463"/>
+        <dimension name="XTRA" xvalue="463"/>
+        <dimension name="XTLC" xvalue="333"/>
+        <dimension name="XTFI" xvalue="371"/>
+        <dimension name="XOUC" xvalue="96"/>
+        <dimension name="XOPQ" xvalue="96"/>
+        <dimension name="XOLC" xvalue="93"/>
+        <dimension name="XOFI" xvalue="97"/>
+        <dimension name="XOAC" xvalue="0"/>
+        <dimension name="YOAC" xvalue="0"/>
+      </location>
+    </source>
+    <source filename="../../../old sources/1A-drawings/Parametric Axes/Parametric avar2/RobotoFlex_XTUC323.ufo" familyname="Roboto Flex" stylename="XTUC323">
+      <location>
+        <dimension name="YTUC" xvalue="728"/>
+        <dimension name="YTLC" xvalue="526"/>
+        <dimension name="YTFI" xvalue="728"/>
+        <dimension name="YTDE" xvalue="-208"/>
+        <dimension name="YTAS" xvalue="768"/>
+        <dimension name="YOPQ" xvalue="79"/>
+        <dimension name="XTUC" xvalue="463"/>
+        <dimension name="XTRA" xvalue="463"/>
+        <dimension name="XTLC" xvalue="333"/>
+        <dimension name="XTFI" xvalue="371"/>
+        <dimension name="XOUC" xvalue="96"/>
+        <dimension name="XOPQ" xvalue="96"/>
+        <dimension name="XOLC" xvalue="93"/>
+        <dimension name="XOFI" xvalue="97"/>
+        <dimension name="XOAC" xvalue="0"/>
+        <dimension name="YOAC" xvalue="0"/>
+      </location>
+    </source>
+    <source filename="../../../old sources/1A-drawings/Parametric Axes/Parametric avar2/RobotoFlex_XTUC603.ufo" familyname="Roboto Flex" stylename="XTUC603">
+      <location>
+        <dimension name="YTUC" xvalue="728"/>
+        <dimension name="YTLC" xvalue="526"/>
+        <dimension name="YTFI" xvalue="728"/>
+        <dimension name="YTDE" xvalue="-208"/>
+        <dimension name="YTAS" xvalue="768"/>
+        <dimension name="YOPQ" xvalue="79"/>
+        <dimension name="XTUC" xvalue="463"/>
+        <dimension name="XTRA" xvalue="463"/>
+        <dimension name="XTLC" xvalue="333"/>
+        <dimension name="XTFI" xvalue="371"/>
+        <dimension name="XOUC" xvalue="96"/>
+        <dimension name="XOPQ" xvalue="96"/>
+        <dimension name="XOLC" xvalue="93"/>
+        <dimension name="XOFI" xvalue="97"/>
+        <dimension name="XOAC" xvalue="0"/>
+        <dimension name="YOAC" xvalue="0"/>
+      </location>
+    </source>
+    <source filename="../../../old sources/1A-drawings/Parametric Axes/Parametric avar2/RobotoFlex_YOPQ25.ufo" familyname="Roboto Flex" stylename="YOPQ25">
+      <location>
+        <dimension name="YTUC" xvalue="728"/>
+        <dimension name="YTLC" xvalue="526"/>
+        <dimension name="YTFI" xvalue="728"/>
+        <dimension name="YTDE" xvalue="-208"/>
+        <dimension name="YTAS" xvalue="768"/>
+        <dimension name="YOPQ" xvalue="79"/>
+        <dimension name="XTUC" xvalue="463"/>
+        <dimension name="XTRA" xvalue="463"/>
+        <dimension name="XTLC" xvalue="333"/>
+        <dimension name="XTFI" xvalue="371"/>
+        <dimension name="XOUC" xvalue="96"/>
+        <dimension name="XOPQ" xvalue="96"/>
+        <dimension name="XOLC" xvalue="93"/>
+        <dimension name="XOFI" xvalue="97"/>
+        <dimension name="XOAC" xvalue="0"/>
+        <dimension name="YOAC" xvalue="0"/>
+      </location>
+    </source>
+    <source filename="../../../old sources/1A-drawings/Parametric Axes/Parametric avar2/RobotoFlex_YOPQ135.ufo" familyname="Roboto Flex" stylename="YOPQ135">
+      <location>
+        <dimension name="YTUC" xvalue="728"/>
+        <dimension name="YTLC" xvalue="526"/>
+        <dimension name="YTFI" xvalue="728"/>
+        <dimension name="YTDE" xvalue="-208"/>
+        <dimension name="YTAS" xvalue="768"/>
+        <dimension name="YOPQ" xvalue="79"/>
+        <dimension name="XTUC" xvalue="463"/>
+        <dimension name="XTRA" xvalue="463"/>
+        <dimension name="XTLC" xvalue="333"/>
+        <dimension name="XTFI" xvalue="371"/>
+        <dimension name="XOUC" xvalue="96"/>
+        <dimension name="XOPQ" xvalue="96"/>
+        <dimension name="XOLC" xvalue="93"/>
+        <dimension name="XOFI" xvalue="97"/>
+        <dimension name="XOAC" xvalue="0"/>
+        <dimension name="YOAC" xvalue="0"/>
+      </location>
+    </source>
+    <source filename="../../../old sources/1A-drawings/Parametric Axes/Parametric avar2/RobotoFlex_YTAS649.ufo" familyname="Roboto Flex" stylename="YTAS649">
+      <location>
+        <dimension name="YTUC" xvalue="728"/>
+        <dimension name="YTLC" xvalue="526"/>
+        <dimension name="YTFI" xvalue="728"/>
+        <dimension name="YTDE" xvalue="-208"/>
+        <dimension name="YTAS" xvalue="768"/>
+        <dimension name="YOPQ" xvalue="79"/>
+        <dimension name="XTUC" xvalue="463"/>
+        <dimension name="XTRA" xvalue="463"/>
+        <dimension name="XTLC" xvalue="333"/>
+        <dimension name="XTFI" xvalue="371"/>
+        <dimension name="XOUC" xvalue="96"/>
+        <dimension name="XOPQ" xvalue="96"/>
+        <dimension name="XOLC" xvalue="93"/>
+        <dimension name="XOFI" xvalue="97"/>
+        <dimension name="XOAC" xvalue="0"/>
+        <dimension name="YOAC" xvalue="0"/>
+      </location>
+    </source>
+    <source filename="../../../old sources/1A-drawings/Parametric Axes/Parametric avar2/RobotoFlex_YTAS854.ufo" familyname="Roboto Flex" stylename="YTAS854">
+      <location>
+        <dimension name="YTUC" xvalue="728"/>
+        <dimension name="YTLC" xvalue="526"/>
+        <dimension name="YTFI" xvalue="728"/>
+        <dimension name="YTDE" xvalue="-208"/>
+        <dimension name="YTAS" xvalue="768"/>
+        <dimension name="YOPQ" xvalue="79"/>
+        <dimension name="XTUC" xvalue="463"/>
+        <dimension name="XTRA" xvalue="463"/>
+        <dimension name="XTLC" xvalue="333"/>
+        <dimension name="XTFI" xvalue="371"/>
+        <dimension name="XOUC" xvalue="96"/>
+        <dimension name="XOPQ" xvalue="96"/>
+        <dimension name="XOLC" xvalue="93"/>
+        <dimension name="XOFI" xvalue="97"/>
+        <dimension name="XOAC" xvalue="0"/>
+        <dimension name="YOAC" xvalue="0"/>
+      </location>
+    </source>
+    <source filename="../../../old sources/1A-drawings/Parametric Axes/Parametric avar2/RobotoFlex_YTDE-98.ufo" familyname="Roboto Flex" stylename="YTDE-98">
+      <location>
+        <dimension name="YTUC" xvalue="728"/>
+        <dimension name="YTLC" xvalue="526"/>
+        <dimension name="YTFI" xvalue="728"/>
+        <dimension name="YTDE" xvalue="-208"/>
+        <dimension name="YTAS" xvalue="768"/>
+        <dimension name="YOPQ" xvalue="79"/>
+        <dimension name="XTUC" xvalue="463"/>
+        <dimension name="XTRA" xvalue="463"/>
+        <dimension name="XTLC" xvalue="333"/>
+        <dimension name="XTFI" xvalue="371"/>
+        <dimension name="XOUC" xvalue="96"/>
+        <dimension name="XOPQ" xvalue="96"/>
+        <dimension name="XOLC" xvalue="93"/>
+        <dimension name="XOFI" xvalue="97"/>
+        <dimension name="XOAC" xvalue="0"/>
+        <dimension name="YOAC" xvalue="0"/>
+      </location>
+    </source>
+    <source filename="../../../old sources/1A-drawings/Parametric Axes/Parametric avar2/RobotoFlex_YTDE-305.ufo" familyname="Roboto Flex" stylename="YTDE-305">
+      <location>
+        <dimension name="YTUC" xvalue="728"/>
+        <dimension name="YTLC" xvalue="526"/>
+        <dimension name="YTFI" xvalue="728"/>
+        <dimension name="YTDE" xvalue="-208"/>
+        <dimension name="YTAS" xvalue="768"/>
+        <dimension name="YOPQ" xvalue="79"/>
+        <dimension name="XTUC" xvalue="463"/>
+        <dimension name="XTRA" xvalue="463"/>
+        <dimension name="XTLC" xvalue="333"/>
+        <dimension name="XTFI" xvalue="371"/>
+        <dimension name="XOUC" xvalue="96"/>
+        <dimension name="XOPQ" xvalue="96"/>
+        <dimension name="XOLC" xvalue="93"/>
+        <dimension name="XOFI" xvalue="97"/>
+        <dimension name="XOAC" xvalue="0"/>
+        <dimension name="YOAC" xvalue="0"/>
+      </location>
+    </source>
+    <source filename="../../../old sources/1A-drawings/Parametric Axes/Parametric avar2/RobotoFlex_YTFI560.ufo" familyname="Roboto Flex" stylename="YTFI560">
+      <location>
+        <dimension name="YTUC" xvalue="728"/>
+        <dimension name="YTLC" xvalue="526"/>
+        <dimension name="YTFI" xvalue="728"/>
+        <dimension name="YTDE" xvalue="-208"/>
+        <dimension name="YTAS" xvalue="768"/>
+        <dimension name="YOPQ" xvalue="79"/>
+        <dimension name="XTUC" xvalue="463"/>
+        <dimension name="XTRA" xvalue="463"/>
+        <dimension name="XTLC" xvalue="333"/>
+        <dimension name="XTFI" xvalue="371"/>
+        <dimension name="XOUC" xvalue="96"/>
+        <dimension name="XOPQ" xvalue="96"/>
+        <dimension name="XOLC" xvalue="93"/>
+        <dimension name="XOFI" xvalue="97"/>
+        <dimension name="XOAC" xvalue="0"/>
+        <dimension name="YOAC" xvalue="0"/>
+      </location>
+    </source>
+    <source filename="../../../old sources/1A-drawings/Parametric Axes/Parametric avar2/RobotoFlex_YTFI788.ufo" familyname="Roboto Flex" stylename="YTFI788">
+      <location>
+        <dimension name="YTUC" xvalue="728"/>
+        <dimension name="YTLC" xvalue="526"/>
+        <dimension name="YTFI" xvalue="728"/>
+        <dimension name="YTDE" xvalue="-208"/>
+        <dimension name="YTAS" xvalue="768"/>
+        <dimension name="YOPQ" xvalue="79"/>
+        <dimension name="XTUC" xvalue="463"/>
+        <dimension name="XTRA" xvalue="463"/>
+        <dimension name="XTLC" xvalue="333"/>
+        <dimension name="XTFI" xvalue="371"/>
+        <dimension name="XOUC" xvalue="96"/>
+        <dimension name="XOPQ" xvalue="96"/>
+        <dimension name="XOLC" xvalue="93"/>
+        <dimension name="XOFI" xvalue="97"/>
+        <dimension name="XOAC" xvalue="0"/>
+        <dimension name="YOAC" xvalue="0"/>
+      </location>
+    </source>
+    <source filename="../../../old sources/1A-drawings/Parametric Axes/Parametric avar2/RobotoFlex_YTLC416.ufo" familyname="Roboto Flex" stylename="YTLC416">
+      <location>
+        <dimension name="YTUC" xvalue="728"/>
+        <dimension name="YTLC" xvalue="526"/>
+        <dimension name="YTFI" xvalue="728"/>
+        <dimension name="YTDE" xvalue="-208"/>
+        <dimension name="YTAS" xvalue="768"/>
+        <dimension name="YOPQ" xvalue="79"/>
+        <dimension name="XTUC" xvalue="463"/>
+        <dimension name="XTRA" xvalue="463"/>
+        <dimension name="XTLC" xvalue="333"/>
+        <dimension name="XTFI" xvalue="371"/>
+        <dimension name="XOUC" xvalue="96"/>
+        <dimension name="XOPQ" xvalue="96"/>
+        <dimension name="XOLC" xvalue="93"/>
+        <dimension name="XOFI" xvalue="97"/>
+        <dimension name="XOAC" xvalue="0"/>
+        <dimension name="YOAC" xvalue="0"/>
+      </location>
+    </source>
+    <source filename="../../../old sources/1A-drawings/Parametric Axes/Parametric avar2/RobotoFlex_YTLC570.ufo" familyname="Roboto Flex" stylename="YTLC570">
+      <location>
+        <dimension name="YTUC" xvalue="728"/>
+        <dimension name="YTLC" xvalue="526"/>
+        <dimension name="YTFI" xvalue="728"/>
+        <dimension name="YTDE" xvalue="-208"/>
+        <dimension name="YTAS" xvalue="768"/>
+        <dimension name="YOPQ" xvalue="79"/>
+        <dimension name="XTUC" xvalue="463"/>
+        <dimension name="XTRA" xvalue="463"/>
+        <dimension name="XTLC" xvalue="333"/>
+        <dimension name="XTFI" xvalue="371"/>
+        <dimension name="XOUC" xvalue="96"/>
+        <dimension name="XOPQ" xvalue="96"/>
+        <dimension name="XOLC" xvalue="93"/>
+        <dimension name="XOFI" xvalue="97"/>
+        <dimension name="XOAC" xvalue="0"/>
+        <dimension name="YOAC" xvalue="0"/>
+      </location>
+    </source>
+    <source filename="../../../old sources/1A-drawings/Parametric Axes/Parametric avar2/RobotoFlex_YTUC528.ufo" familyname="Roboto Flex" stylename="YTUC528">
+      <location>
+        <dimension name="YTUC" xvalue="728"/>
+        <dimension name="YTLC" xvalue="526"/>
+        <dimension name="YTFI" xvalue="728"/>
+        <dimension name="YTDE" xvalue="-208"/>
+        <dimension name="YTAS" xvalue="768"/>
+        <dimension name="YOPQ" xvalue="79"/>
+        <dimension name="XTUC" xvalue="463"/>
+        <dimension name="XTRA" xvalue="463"/>
+        <dimension name="XTLC" xvalue="333"/>
+        <dimension name="XTFI" xvalue="371"/>
+        <dimension name="XOUC" xvalue="96"/>
+        <dimension name="XOPQ" xvalue="96"/>
+        <dimension name="XOLC" xvalue="93"/>
+        <dimension name="XOFI" xvalue="97"/>
+        <dimension name="XOAC" xvalue="0"/>
+        <dimension name="YOAC" xvalue="0"/>
+      </location>
+    </source>
+    <source filename="../../../old sources/1A-drawings/Parametric Axes/Parametric avar2/RobotoFlex_YTUC760.ufo" familyname="Roboto Flex" stylename="YTUC760">
+      <location>
+        <dimension name="YTUC" xvalue="728"/>
+        <dimension name="YTLC" xvalue="526"/>
+        <dimension name="YTFI" xvalue="728"/>
+        <dimension name="YTDE" xvalue="-208"/>
+        <dimension name="YTAS" xvalue="768"/>
+        <dimension name="YOPQ" xvalue="79"/>
+        <dimension name="XTUC" xvalue="463"/>
+        <dimension name="XTRA" xvalue="463"/>
+        <dimension name="XTLC" xvalue="333"/>
+        <dimension name="XTFI" xvalue="371"/>
+        <dimension name="XOUC" xvalue="96"/>
+        <dimension name="XOPQ" xvalue="96"/>
+        <dimension name="XOLC" xvalue="93"/>
+        <dimension name="XOFI" xvalue="97"/>
+        <dimension name="XOAC" xvalue="0"/>
+        <dimension name="YOAC" xvalue="0"/>
+      </location>
+    </source>
+  </sources>
+</designspace>

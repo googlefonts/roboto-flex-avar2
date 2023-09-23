@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<designspace format="5.0">
+  <axes>
+    <axis tag="nwx1" name="YTUC" minimum="528" maximum="760" default="728"/>
+    <axis tag="nwx2" name="YTLC" minimum="416" maximum="570" default="526"/>
+    <axis tag="nwx3" name="YTFI" minimum="560" maximum="788" default="728"/>
+    <axis tag="nwx4" name="YTDE" minimum="-305" maximum="-98" default="-208"/>
+    <axis tag="nwx5" name="YTAS" minimum="649" maximum="854" default="768"/>
+    <axis tag="nwx6" name="YOPQ" minimum="25" maximum="135" default="79"/>
+    <axis tag="nwx7" name="XTUC" minimum="323" maximum="603" default="463"/>
+    <axis tag="nwx8" name="XTRA" minimum="323" maximum="603" default="463"/>
+    <axis tag="nwx9" name="XTLC" minimum="272" maximum="580" default="333"/>
+    <axis tag="nwx10" name="XTFI" minimum="252" maximum="488" default="371"/>
+  </axes>
+</designspace>

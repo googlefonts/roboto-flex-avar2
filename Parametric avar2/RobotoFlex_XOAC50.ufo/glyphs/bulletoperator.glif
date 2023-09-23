@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="bulletoperator" format="2">
+  <advance width="892"/>
+  <unicode hex="2219"/>
+  <outline>
+    <contour>
+      <point x="368" y="674" type="qcurve" smooth="yes"/>
+      <point x="368" y="705"/>
+      <point x="412" y="752"/>
+      <point x="446" y="752" type="qcurve" smooth="yes"/>
+      <point x="480" y="752"/>
+      <point x="524" y="705"/>
+      <point x="524" y="674" type="qcurve" smooth="yes"/>
+      <point x="524" y="643"/>
+      <point x="480" y="597"/>
+      <point x="446" y="597" type="qcurve" smooth="yes"/>
+      <point x="412" y="597"/>
+      <point x="368" y="643"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.2584,0.6182,0.2767,1</string>
+    </dict>
+  </lib>
+</glyph>
