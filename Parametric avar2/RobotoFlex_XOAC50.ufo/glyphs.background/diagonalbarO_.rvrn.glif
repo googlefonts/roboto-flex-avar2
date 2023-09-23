@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<glyph name="diagonalbarO" format="2">
-  <advance width="623"/>
+<glyph name="diagonalbarO.rvrn" format="2">
+  <advance width="500"/>
   <outline>
     <contour>
       <point x="2" y="-109" type="line"/>
@@ -23,10 +23,4 @@
       <point x="410" y="1460" type="line"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>0.2584,0.6182,0.2767,1</string>
-    </dict>
-  </lib>
 </glyph>
