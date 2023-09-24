@@ -241,7 +241,6 @@
           <string>itilde</string>
           <string>Imacron</string>
           <string>imacron</string>
-          <string>Ibreve</string>
           <string>ibreve</string>
           <string>Iogonek</string>
           <string>iogonek</string>
@@ -264,6 +263,7 @@
           <string>lslash</string>
           <string>Nacute</string>
           <string>nacute</string>
+          <string>Ibreve</string>
           <string>Ncommaaccent</string>
           <string>ncommaaccent</string>
           <string>Ncaron</string>
@@ -944,6 +944,17 @@
           <string>circumflextildecomb.case</string>
           <string>diagonalbarO.rvrn</string>
           <string>diagonalbaro.rvrn</string>
+          <string>arrowleft</string>
+          <string>arrowup</string>
+          <string>arrowright</string>
+          <string>arrowdown</string>
+          <string>replacementchar</string>
+          <string>commaaccentturned</string>
+          <string>enspace</string>
+          <string>thinspace</string>
+          <string>zerowidthspace</string>
+          <string>zerowidthnbspace</string>
+          <string>hryvnia.rvrn</string>
         </array>
         <key>type</key>
         <string>glyphList</string>
@@ -1784,7 +1795,6 @@
       <string>itilde</string>
       <string>Imacron</string>
       <string>imacron</string>
-      <string>Ibreve</string>
       <string>ibreve</string>
       <string>Iogonek</string>
       <string>iogonek</string>
@@ -1807,6 +1817,7 @@
       <string>lslash</string>
       <string>Nacute</string>
       <string>nacute</string>
+      <string>Ibreve</string>
       <string>Ncommaaccent</string>
       <string>ncommaaccent</string>
       <string>Ncaron</string>
