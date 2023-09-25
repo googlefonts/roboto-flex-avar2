@@ -1,19 +1,19 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="De.bgr" format="2">
-  <advance width="1660"/>
+  <advance width="1920"/>
   <outline>
     <contour>
-      <point x="1358" y="-290" type="line"/>
-      <point x="1358" y="0" type="line"/>
+      <point x="1618" y="-290" type="line"/>
+      <point x="1618" y="0" type="line"/>
       <point x="292" y="0" type="line"/>
       <point x="292" y="-290" type="line"/>
       <point x="10" y="-290" type="line"/>
       <point x="10" y="158" type="line"/>
-      <point x="1650" y="158" type="line"/>
-      <point x="1650" y="-290" type="line"/>
+      <point x="1910" y="158" type="line"/>
+      <point x="1910" y="-290" type="line"/>
     </contour>
     <contour>
-      <point x="1568" y="0" type="line"/>
+      <point x="1828" y="0" type="line"/>
       <point x="1208" y="0" type="line"/>
       <point x="802" y="1082" type="line" smooth="yes"/>
       <point x="789" y="1118"/>
@@ -26,7 +26,7 @@
       <point x="300" y="0" type="line"/>
       <point x="112" y="0" type="line"/>
       <point x="676" y="1466" type="line"/>
-      <point x="1004" y="1466" type="line"/>
+      <point x="1264" y="1466" type="line"/>
     </contour>
   </outline>
 </glyph>
