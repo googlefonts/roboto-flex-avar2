@@ -2,6 +2,8 @@
 <glyph name="g" format="2">
   <advance width="1484"/>
   <unicode hex="0067"/>
+  <anchor x="735" y="-416" name="bottom"/>
+  <anchor x="655" y="1052" name="top"/>
   <outline>
     <contour>
       <point x="164" y="-284" type="qcurve"/>
@@ -29,10 +31,10 @@
       <point x="1006" y="915" type="line"/>
       <point x="1014" y="1052" type="line"/>
       <point x="1336" y="1052" type="line"/>
-      <point x="1336" y="20" type="line" smooth="yes"/>
+      <point x="1336" y="83" type="line" smooth="yes"/>
       <point x="1336" y="-200"/>
       <point x="988" y="-436"/>
-      <point x="710" y="-436" type="qcurve" smooth="yes"/>
+      <point x="723" y="-436" type="qcurve" smooth="yes"/>
       <point x="540" y="-436"/>
       <point x="254" y="-350"/>
     </contour>

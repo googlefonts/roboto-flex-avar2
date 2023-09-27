@@ -2,6 +2,9 @@
 <glyph name="e" format="2">
   <advance width="1388"/>
   <unicode hex="0065"/>
+  <anchor x="740" y="0" name="bottom"/>
+  <anchor x="934" y="0" name="ogonek"/>
+  <anchor x="710" y="1052" name="top"/>
   <outline>
     <contour>
       <point x="85" y="510" type="qcurve" smooth="yes"/>
@@ -13,8 +16,8 @@
       <point x="1308" y="800"/>
       <point x="1308" y="560" type="qcurve" smooth="yes"/>
       <point x="1308" y="484" type="line"/>
-      <point x="349" y="484" type="line"/>
-      <point x="349" y="632" type="line"/>
+      <point x="269" y="484" type="line"/>
+      <point x="269" y="632" type="line"/>
       <point x="968" y="632" type="line"/>
       <point x="968" y="632" type="line"/>
       <point x="968" y="760"/>
