@@ -2,6 +2,8 @@
 <glyph name="F" format="2">
   <advance width="1558"/>
   <unicode hex="0046"/>
+  <anchor x="775" y="0" name="bottom"/>
+  <anchor x="840" y="1457" name="top"/>
   <outline>
     <contour>
       <point x="170" y="0" type="line"/>
@@ -9,11 +11,13 @@
       <point x="1500" y="1456" type="line"/>
       <point x="1500" y="1298" type="line"/>
       <point x="790" y="1298" type="line"/>
-      <point x="790" y="801" type="line"/>
+      <point x="790" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="490" y="643" type="line"/>
+      <point x="490" y="801" type="line"/>
       <point x="1401" y="801" type="line"/>
       <point x="1401" y="643" type="line"/>
-      <point x="790" y="643" type="line"/>
-      <point x="790" y="0" type="line"/>
     </contour>
   </outline>
 </glyph>

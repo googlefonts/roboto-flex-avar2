@@ -2,6 +2,8 @@
 <glyph name="B" format="2">
   <advance width="2132"/>
   <unicode hex="0042"/>
+  <anchor x="1040" y="0" name="bottom"/>
+  <anchor x="1040" y="1456" name="top"/>
   <outline>
     <contour>
       <point x="170" y="0" type="line"/>
@@ -30,10 +32,8 @@
       <point x="1402" y="540"/>
       <point x="1262" y="680"/>
       <point x="1112" y="680" type="qcurve" smooth="yes"/>
-      <point x="790" y="680" type="line"/>
-    </contour>
-    <contour>
-      <point x="790" y="836" type="line"/>
+      <point x="490" y="680" type="line"/>
+      <point x="490" y="836" type="line"/>
       <point x="1052" y="836" type="line" smooth="yes"/>
       <point x="1202" y="836"/>
       <point x="1334" y="960"/>

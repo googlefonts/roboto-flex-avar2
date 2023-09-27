@@ -2,20 +2,27 @@
 <glyph name="H" format="2">
   <advance width="2314"/>
   <unicode hex="0048"/>
+  <anchor x="1169" y="0" name="bottom"/>
+  <anchor x="1169" y="1100" name="center"/>
+  <anchor x="1169" y="1456" name="top"/>
   <outline>
     <contour>
       <point x="170" y="0" type="line"/>
       <point x="170" y="1456" type="line"/>
       <point x="790" y="1456" type="line"/>
-      <point x="790" y="830" type="line"/>
-      <point x="1524" y="830" type="line"/>
+      <point x="790" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="490" y="672" type="line"/>
+      <point x="490" y="830" type="line"/>
+      <point x="1844" y="830" type="line"/>
+      <point x="1844" y="672" type="line"/>
+    </contour>
+    <contour>
+      <point x="1524" y="0" type="line"/>
       <point x="1524" y="1456" type="line"/>
       <point x="2144" y="1456" type="line"/>
       <point x="2144" y="0" type="line"/>
-      <point x="1524" y="0" type="line"/>
-      <point x="1524" y="672" type="line"/>
-      <point x="790" y="672" type="line"/>
-      <point x="790" y="0" type="line"/>
     </contour>
   </outline>
 </glyph>

@@ -2,16 +2,21 @@
 <glyph name="T" format="2">
   <advance width="1604"/>
   <unicode hex="0054"/>
+  <anchor x="804" y="0" name="bottom"/>
+  <anchor x="804" y="728" name="center"/>
+  <anchor x="804" y="1456" name="top"/>
   <outline>
+    <contour>
+      <point x="492" y="0" type="line"/>
+      <point x="492" y="1378" type="line"/>
+      <point x="1112" y="1378" type="line"/>
+      <point x="1112" y="0" type="line"/>
+    </contour>
     <contour>
       <point x="24" y="1298" type="line"/>
       <point x="24" y="1456" type="line"/>
       <point x="1580" y="1456" type="line"/>
       <point x="1580" y="1298" type="line"/>
-      <point x="1112" y="1298" type="line"/>
-      <point x="1112" y="0" type="line"/>
-      <point x="492" y="0" type="line"/>
-      <point x="492" y="1298" type="line"/>
     </contour>
   </outline>
 </glyph>

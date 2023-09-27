@@ -2,6 +2,8 @@
 <glyph name="P" format="2">
   <advance width="2069"/>
   <unicode hex="0050"/>
+  <anchor x="1000" y="0" name="bottom"/>
+  <anchor x="1000" y="1456" name="top"/>
   <outline>
     <contour>
       <point x="170" y="0" type="line"/>
@@ -13,11 +15,8 @@
       <point x="2019" y="815"/>
       <point x="1679" y="570"/>
       <point x="1363" y="570" type="qcurve" smooth="yes"/>
-      <point x="790" y="570" type="line"/>
-      <point x="790" y="0" type="line"/>
-    </contour>
-    <contour>
-      <point x="790" y="728" type="line"/>
+      <point x="490" y="570" type="line"/>
+      <point x="490" y="728" type="line"/>
       <point x="1080" y="728" type="line" smooth="yes"/>
       <point x="1250" y="728"/>
       <point x="1386" y="895"/>
@@ -26,6 +25,7 @@
       <point x="1250" y="1298"/>
       <point x="1080" y="1298" type="qcurve" smooth="yes"/>
       <point x="790" y="1298" type="line"/>
+      <point x="790" y="0" type="line"/>
     </contour>
   </outline>
 </glyph>
