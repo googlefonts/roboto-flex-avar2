@@ -1,25 +1,33 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Endescender" format="2">
-  <advance width="1884"/>
+  <advance width="2378"/>
   <unicode hex="04A2"/>
   <outline>
     <contour>
       <point x="170" y="0" type="line"/>
       <point x="170" y="1456" type="line"/>
-      <point x="520" y="1456" type="line"/>
-      <point x="520" y="830" type="line"/>
-      <point x="1254" y="830" type="line"/>
-      <point x="1254" y="1456" type="line"/>
-      <point x="1604" y="1456" type="line"/>
-      <point x="1604" y="158" type="line"/>
-      <point x="1854" y="158" type="line"/>
-      <point x="1854" y="-290" type="line"/>
-      <point x="1542" y="-290" type="line"/>
-      <point x="1542" y="0" type="line"/>
-      <point x="1254" y="0" type="line"/>
-      <point x="1254" y="672" type="line"/>
-      <point x="520" y="672" type="line"/>
-      <point x="520" y="0" type="line"/>
+      <point x="790" y="1456" type="line"/>
+      <point x="790" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="490" y="672" type="line"/>
+      <point x="490" y="830" type="line"/>
+      <point x="1844" y="830" type="line"/>
+      <point x="1844" y="672" type="line"/>
+    </contour>
+    <contour>
+      <point x="1524" y="0" type="line"/>
+      <point x="1524" y="1456" type="line"/>
+      <point x="2144" y="1456" type="line"/>
+      <point x="2144" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="2176" y="-290" type="line"/>
+      <point x="2176" y="0" type="line"/>
+      <point x="2068" y="0" type="line"/>
+      <point x="2068" y="158" type="line"/>
+      <point x="2348" y="158" type="line"/>
+      <point x="2348" y="-290" type="line"/>
     </contour>
   </outline>
 </glyph>
