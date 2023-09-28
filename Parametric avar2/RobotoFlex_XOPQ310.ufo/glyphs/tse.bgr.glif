@@ -3,6 +3,9 @@
   <advance width="1475"/>
   <outline>
     <contour>
+      <point x="567" y="-20" type="qcurve" smooth="yes"/>
+      <point x="370" y="-20"/>
+      <point x="138" y="161"/>
       <point x="138" y="373" type="qcurve" smooth="yes"/>
       <point x="138" y="1052" type="line"/>
       <point x="479" y="1052" type="line"/>
@@ -15,19 +18,20 @@
       <point x="959" y="308" type="qcurve"/>
       <point x="959" y="1052" type="line"/>
       <point x="1300" y="1052" type="line"/>
-      <point x="1300" y="145" type="line"/>
-      <point x="1455" y="145" type="line"/>
-      <point x="1455" y="-270" type="line"/>
-      <point x="1147" y="-270" type="line"/>
-      <point x="1147" y="0" type="line"/>
+      <point x="1300" y="0" type="line"/>
       <point x="977" y="0" type="line"/>
       <point x="969" y="135" type="line"/>
       <point x="963" y="135" type="line"/>
       <point x="893" y="63"/>
       <point x="689" y="-20"/>
-      <point x="567" y="-20" type="qcurve" smooth="yes"/>
-      <point x="370" y="-20"/>
-      <point x="138" y="161"/>
+    </contour>
+    <contour>
+      <point x="1287" y="-270" type="line"/>
+      <point x="1287" y="0" type="line"/>
+      <point x="1235" y="0" type="line"/>
+      <point x="1235" y="145" type="line"/>
+      <point x="1455" y="145" type="line"/>
+      <point x="1455" y="-270" type="line"/>
     </contour>
   </outline>
 </glyph>
