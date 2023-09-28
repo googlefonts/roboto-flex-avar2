@@ -6,12 +6,8 @@
   <outline>
     <contour>
       <point x="472" y="0" type="line"/>
-      <point x="472" y="1298" type="line"/>
-      <point x="24" y="1298" type="line"/>
-      <point x="24" y="1456" type="line"/>
-      <point x="1570" y="1456" type="line"/>
-      <point x="1570" y="1298" type="line"/>
-      <point x="1082" y="1298" type="line"/>
+      <point x="472" y="1378" type="line"/>
+      <point x="1082" y="1378" type="line"/>
       <point x="1082" y="0" type="line"/>
     </contour>
     <contour>
@@ -39,6 +35,12 @@
       <point x="2364" y="235"/>
       <point x="1932" y="0"/>
       <point x="1613" y="0" type="qcurve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="24" y="1298" type="line"/>
+      <point x="24" y="1456" type="line"/>
+      <point x="1570" y="1456" type="line"/>
+      <point x="1570" y="1298" type="line"/>
     </contour>
   </outline>
 </glyph>
