@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="kadescender" format="2">
+  <advance width="939"/>
+  <unicode hex="049B"/>
+  <outline>
+    <contour>
+      <point x="692" y="0" type="line"/>
+      <point x="273" y="477" type="line"/>
+      <point x="387" y="603" type="line"/>
+      <point x="820" y="113" type="line"/>
+      <point x="820" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="103" y="610" type="line"/>
+      <point x="282" y="610" type="line"/>
+      <point x="667" y="1052" type="line"/>
+      <point x="885" y="1052" type="line"/>
+      <point x="370" y="465" type="line"/>
+      <point x="103" y="465" type="line"/>
+    </contour>
+    <contour>
+      <point x="196" y="1052" type="line"/>
+      <point x="196" y="0" type="line"/>
+      <point x="10" y="0" type="line"/>
+      <point x="10" y="1052" type="line"/>
+    </contour>
+    <contour>
+      <point x="692" y="145" type="line"/>
+      <point x="929" y="145" type="line"/>
+      <point x="929" y="-270" type="line"/>
+      <point x="761" y="-270" type="line"/>
+      <point x="761" y="0" type="line"/>
+      <point x="692" y="0" type="line"/>
+    </contour>
+  </outline>
+</glyph>

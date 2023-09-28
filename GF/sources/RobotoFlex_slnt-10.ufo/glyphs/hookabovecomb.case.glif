@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="hookabovecomb.case" format="2">
+  <advance width="1024"/>
+  <anchor x="512" y="1456" name="_top"/>
+  <anchor x="512" y="2072" name="top"/>
+  <outline>
+    <contour>
+      <point x="528.123169133544" y="1600.0" type="line"/>
+      <point x="534.9999213811741" y="1639.0" type="line" smooth="yes"/>
+      <point x="544.1689243780143" y="1691.0"/>
+      <point x="615.5118130276069" y="1761.0"/>
+      <point x="693.4514098154" y="1772.0" type="qcurve" smooth="yes"/>
+      <point x="750.8620256610677" y="1780.0"/>
+      <point x="796.5044890437385" y="1812.0"/>
+      <point x="803.7338952527856" y="1853.0" type="qcurve" smooth="yes"/>
+      <point x="810.6106475004158" y="1892.0"/>
+      <point x="757.9584188059205" y="1928.0"/>
+      <point x="703.9584188059205" y="1928.0" type="qcurve" smooth="yes"/>
+      <point x="639.9584188059205" y="1928.0"/>
+      <point x="522.1396284425412" y="1895.0"/>
+      <point x="510.7290125968734" y="1887.0" type="qcurve"/>
+      <point x="478.7698851854316" y="2012.0" type="line"/>
+      <point x="517.1200978188924" y="2031.0"/>
+      <point x="678.3495040279395" y="2072.0"/>
+      <point x="760.3495040279395" y="2072.0" type="qcurve" smooth="yes"/>
+      <point x="880.3495040279395" y="2072.0"/>
+      <point x="985.2482282271744" y="1958.0"/>
+      <point x="968.3208380791618" y="1862.0" type="qcurve" smooth="yes"/>
+      <point x="950.5118130276069" y="1761.0"/>
+      <point x="801.5289023232995" y="1642.0"/>
+      <point x="656.5893055355064" y="1631.0" type="qcurve"/>
+      <point x="651.123169133544" y="1600.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0,0.1,1,0.2</string>
+    </dict>
+  </lib>
+</glyph>
