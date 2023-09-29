@@ -1,60 +1,13 @@
 {
   "font": {
-    "XDOT": {
-      "direction": "x",
-      "glyph 1": "period",
-      "point 1": "0",
-      "glyph 2": "period",
-      "point 2": "6",
-      "parent": ""
-    },
-    "XFIR": {
-      "direction": "x",
-      "glyph 1": "zero",
-      "point 1": "0",
-      "glyph 2": "zero",
-      "point 2": "-1",
-      "parent": "XTSP"
-    },
-    "XLCR": {
-      "direction": "x",
-      "glyph 1": "o",
-      "point 1": "0",
-      "glyph 2": "o",
-      "point 2": "-1",
-      "parent": "XTSP"
-    },
-    "XLCS": {
-      "direction": "x",
-      "glyph 1": "n",
-      "point 1": "0",
-      "glyph 2": "n",
-      "point 2": "-1",
-      "parent": "XTSP"
-    },
-    "XOFI": {
-      "direction": "x",
-      "glyph 1": "zero",
-      "point 1": "1",
-      "glyph 2": "zero",
-      "point 2": "27",
-      "parent": "XOPQ"
-    },
-    "XOLC": {
-      "direction": "x",
-      "glyph 1": "n",
-      "point 1": "0",
-      "glyph 2": "n",
-      "point 2": "20",
-      "parent": "XOPQ"
-    },
     "XOPQ": {
       "direction": "x",
       "glyph 1": "H",
       "point 1": "0",
       "glyph 2": "H",
       "point 2": "11",
-      "parent": ""
+      "parent": "",
+      "description": "General x opaque"
     },
     "XOUC": {
       "direction": "x",
@@ -62,31 +15,26 @@
       "point 1": "0",
       "glyph 2": "H",
       "point 2": "11",
-      "parent": "XOPQ"
+      "parent": "XOPQ",
+      "description": "X stem uppercase"
     },
-    "XTAB": {
-      "direction": "x",
-      "glyph 1": "zero",
-      "point 1": "-1",
-      "glyph 2": "zero",
-      "point 2": "99",
-      "parent": ""
-    },
-    "XTFI": {
-      "direction": "x",
-      "glyph 1": "zero",
-      "point 1": "14",
-      "glyph 2": "zero",
-      "point 2": "20",
-      "parent": "XTRA"
-    },
-    "XTLC": {
+    "XOLC": {
       "direction": "x",
       "glyph 1": "n",
-      "point 1": "20",
+      "point 1": "0",
       "glyph 2": "n",
-      "point 2": "12",
-      "parent": "XTRA"
+      "point 2": "20",
+      "parent": "XOPQ",
+      "description": "x stem lowercase"
+    },
+    "XOFI": {
+      "direction": "x",
+      "glyph 1": "zero",
+      "point 1": "1",
+      "glyph 2": "zero",
+      "point 2": "27",
+      "parent": "XOPQ",
+      "description": "X stem figures"
     },
     "XTRA": {
       "direction": "x",
@@ -94,15 +42,8 @@
       "point 1": "11",
       "glyph 2": "H",
       "point 2": "8",
-      "parent": ""
-    },
-    "XTSP": {
-      "direction": "x",
-      "glyph 1": "H",
-      "point 1": "0",
-      "glyph 2": "H",
-      "point 2": "-1",
-      "parent": ""
+      "parent": "",
+      "description": "General x transparent"
     },
     "XTUC": {
       "direction": "x",
@@ -110,47 +51,89 @@
       "point 1": "11",
       "glyph 2": "H",
       "point 2": "8",
-      "parent": "XTRA"
+      "parent": "XTRA",
+      "description": "x trans uppercase"
     },
-    "XUCR": {
+    "XTLC": {
       "direction": "x",
-      "glyph 1": "O",
-      "point 1": "0",
-      "glyph 2": "O",
-      "point 2": "-1",
-      "parent": "XTSP"
+      "glyph 1": "n",
+      "point 1": "20",
+      "glyph 2": "n",
+      "point 2": "12",
+      "parent": "XTRA",
+      "description": "x trans lowercase"
+    },
+    "XTFI": {
+      "direction": "x",
+      "glyph 1": "zero",
+      "point 1": "14",
+      "glyph 2": "zero",
+      "point 2": "20",
+      "parent": "XTRA",
+      "description": "x trans figures"
+    },
+    "XTAB": {
+      "direction": "x",
+      "glyph 1": "zero",
+      "point 1": "-1",
+      "glyph 2": "zero",
+      "point 2": "99",
+      "parent": "XTRA",
+      "description": "Figure width"
+    },
+    "XTSP": {
+      "direction": "x",
+      "glyph 1": "H",
+      "point 1": "-1",
+      "glyph 2": "H",
+      "point 2": "0",
+      "parent": "",
+      "description": "General x sidebearing"
     },
     "XUCS": {
       "direction": "x",
       "glyph 1": "H",
-      "point 1": "0",
+      "point 1": "-1",
       "glyph 2": "H",
-      "point 2": "-1",
-      "parent": "XTSP"
+      "point 2": "0",
+      "parent": "XTSP",
+      "description": "x sidebearing uppercase H"
     },
-    "YDOT": {
-      "direction": "y",
-      "glyph 1": "period",
-      "point 1": "3",
-      "glyph 2": "period",
-      "point 2": "9",
-      "parent": ""
+    "XUCR": {
+      "direction": "x",
+      "glyph 1": "O",
+      "point 1": "-1",
+      "glyph 2": "O",
+      "point 2": "0",
+      "parent": "XTSP",
+      "description": "x sidebearing uppercase O"
     },
-    "YOFI": {
-      "direction": "y",
+    "XLCS": {
+      "direction": "x",
+      "glyph 1": "n",
+      "point 1": "-1",
+      "glyph 2": "n",
+      "point 2": "0",
+      "parent": "XTSP",
+      "description": "x sidebearing lowercase n"
+    },
+    "XLCR": {
+      "direction": "x",
+      "glyph 1": "o",
+      "point 1": "-1",
+      "glyph 2": "o",
+      "point 2": "0",
+      "parent": "XTSP",
+      "description": "x sidebearing lowercase o"
+    },
+    "XFIR": {
+      "direction": "x",
       "glyph 1": "zero",
-      "point 1": "11",
+      "point 1": "-1",
       "glyph 2": "zero",
-      "point 2": "17",
-      "parent": "YOPQ"
-    },
-    "YOLC": {
-      "direction": "y",
-      "glyph 1": "f",
-      "point 1": "18",
-      "glyph 2": "f",
-      "point 2": "19",
-      "parent": "YOPQ"
+      "point 2": "0",
+      "parent": "XTSP",
+      "description": "x sidebearing figure 0"
     },
     "YOPQ": {
       "direction": "y",
@@ -158,7 +141,8 @@
       "point 1": "10",
       "glyph 2": "H",
       "point 2": "3",
-      "parent": "XOPQ"
+      "parent": "XOPQ",
+      "description": "General y opaque"
     },
     "YOUC": {
       "direction": "y",
@@ -166,7 +150,26 @@
       "point 1": "10",
       "glyph 2": "H",
       "point 2": "3",
-      "parent": "YOPQ"
+      "parent": "YOPQ",
+      "description": "Y opaque uppercase"
+    },
+    "YOLC": {
+      "direction": "y",
+      "glyph 1": "f",
+      "point 1": "18",
+      "glyph 2": "f",
+      "point 2": "19",
+      "parent": "YOPQ",
+      "description": "y opaque lowercase"
+    },
+    "YOFI": {
+      "direction": "y",
+      "glyph 1": "zero",
+      "point 1": "11",
+      "glyph 2": "zero",
+      "point 2": "17",
+      "parent": "YOPQ",
+      "description": "y opaque figures"
     },
     "YTAS": {
       "direction": "y",
@@ -174,7 +177,8 @@
       "point 1": "0",
       "glyph 2": "h",
       "point 2": "1",
-      "parent": "YTRA"
+      "parent": "YTRA",
+      "description": "y transparent ascender "
     },
     "YTDE": {
       "direction": "y",
@@ -182,47 +186,8 @@
       "point 1": "0",
       "glyph 2": "p",
       "point 2": "0",
-      "parent": "YTRA"
-    },
-    "YTDO": {
-      "direction": "y",
-      "glyph 1": "p",
-      "point 1": "0",
-      "glyph 2": "g",
-      "point 2": "28",
-      "parent": "YTOS"
-    },
-    "YTFI": {
-      "direction": "y",
-      "glyph 1": "five",
-      "point 1": "-1",
-      "glyph 2": "five",
-      "point 2": "18",
-      "parent": "YTRA"
-    },
-    "YTLC": {
-      "direction": "y",
-      "glyph 1": "h",
-      "point 1": "0",
-      "glyph 2": "h",
-      "point 2": "6",
-      "parent": "YTRA"
-    },
-    "YTUC": {
-      "direction": "y",
-      "glyph 1": "H",
-      "point 1": "0",
-      "glyph 2": "H",
-      "point 2": "1",
-      "parent": "YTRA"
-    },
-    "YTUO": {
-      "direction": "y",
-      "glyph 1": "X",
-      "point 1": "8",
-      "glyph 2": "O",
-      "point 2": "4",
-      "parent": "YTOS"
+      "parent": "YTRA",
+      "description": "y transparent descender"
     },
     "YTOS": {
       "direction": "y",
@@ -230,7 +195,17 @@
       "point 1": "8",
       "glyph 2": "O",
       "point 2": "4",
-      "parent": ""
+      "parent": "",
+      "description": "General y overshoot"
+    },
+    "YTUO": {
+      "direction": "y",
+      "glyph 1": "X",
+      "point 1": "8",
+      "glyph 2": "O",
+      "point 2": "4",
+      "parent": "YTOS",
+      "description": "y uppercase overshoot"
     },
     "YTLO": {
       "direction": "y",
@@ -238,7 +213,35 @@
       "point 1": "8",
       "glyph 2": "o",
       "point 2": "4",
-      "parent": "YTOS"
+      "parent": "YTOS",
+      "description": "y lowercase overshoot"
+    },
+    "YTFO": {
+      "direction": "y",
+      "glyph 1": "zero",
+      "point 1": "-1",
+      "glyph 2": "zero",
+      "point 2": "11",
+      "parent": "YTOS",
+      "description": "y figures overshoot"
+    },
+    "YTDO": {
+      "direction": "y",
+      "glyph 1": "g",
+      "point 1": "28",
+      "glyph 2": "p",
+      "point 2": "0",
+      "parent": "YTOS",
+      "description": "y descender overshoot"
+    },
+    "YTAO": {
+      "direction": "y",
+      "glyph 1": "h",
+      "point 1": "1",
+      "glyph 2": "f",
+      "point 2": "4",
+      "parent": "YTOS",
+      "description": "y ascender overshoot"
     },
     "YTRA": {
       "direction": "y",
@@ -246,15 +249,53 @@
       "point 1": "0",
       "glyph 2": "H",
       "point 2": "1",
-      "parent": ""
+      "parent": "",
+      "description": "y transparent"
     },
-    "YTAO": {
+    "YTUC": {
       "direction": "y",
-      "glyph 1": "f",
-      "point 1": "4",
-      "glyph 2": "h",
+      "glyph 1": "H",
+      "point 1": "0",
+      "glyph 2": "H",
       "point 2": "1",
-      "parent": "YTOS"
+      "parent": "YTRA",
+      "description": "y transparent uppercase"
+    },
+    "YTLC": {
+      "direction": "y",
+      "glyph 1": "h",
+      "point 1": "0",
+      "glyph 2": "h",
+      "point 2": "6",
+      "parent": "YTRA",
+      "description": "y transparent lowercase"
+    },
+    "YTFI": {
+      "direction": "y",
+      "glyph 1": "five",
+      "point 1": "-1",
+      "glyph 2": "five",
+      "point 2": "18",
+      "parent": "YTRA",
+      "description": "y transparent figures"
+    },
+    "XDOT": {
+      "direction": "x",
+      "glyph 1": "period",
+      "point 1": "0",
+      "glyph 2": "period",
+      "point 2": "6",
+      "parent": "",
+      "description": ""
+    },
+    "YDOT": {
+      "direction": "y",
+      "glyph 1": "period",
+      "point 1": "9",
+      "glyph 2": "period",
+      "point 2": "3",
+      "parent": "",
+      "description": ""
     }
   },
   "glyphs": {
@@ -286,40 +327,40 @@
     },
     "zero": {
       "-1 99": {
-        "direction": "x",
-        "name": "XTAB"
+        "name": "XTAB",
+        "direction": "x"
       },
       "0 -1": {
-        "direction": "x",
-        "name": "XFIR"
+        "name": "XFIR",
+        "direction": "x"
       },
       "0 14": {
-        "direction": "x",
-        "name": "XOFI"
+        "name": "XOFI",
+        "direction": "x"
       },
       "11 17": {
-        "direction": "y",
-        "name": "YOFI"
+        "name": "YOFI",
+        "direction": "y"
       },
       "14 20": {
-        "direction": "x",
-        "name": "XTFI"
+        "name": "XTFI",
+        "direction": "x"
       },
       "4 11": {
-        "direction": "y",
-        "name": "YTFI"
+        "name": "YTFI",
+        "direction": "y"
       },
       "4 24": {
-        "direction": "y",
-        "name": "YOFI"
+        "name": "YOFI",
+        "direction": "y"
       },
       "8 20": {
-        "direction": "x",
-        "name": "XOFI"
+        "name": "XOFI",
+        "direction": "x"
       },
       "99 8": {
-        "direction": "x",
-        "name": "XFIR"
+        "name": "XFIR",
+        "direction": "x"
       }
     },
     "one": {
@@ -1991,6 +2032,7 @@
         "direction": "y",
         "name": "YDOT"
       }
-    }
+    },
+    "parenleft": {}
   }
 }
