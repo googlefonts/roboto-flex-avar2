@@ -83,12 +83,12 @@
     },
     "XTSP": {
       "direction": "x",
-      "glyph 1": "H",
-      "point 1": "-1",
-      "glyph 2": "H",
-      "point 2": "0",
+      "glyph 1": "",
+      "point 1": "",
+      "glyph 2": "",
+      "point 2": "",
       "parent": "",
-      "description": "General x sidebearing"
+      "description": ""
     },
     "XUCS": {
       "direction": "x",
@@ -279,6 +279,87 @@
       "parent": "YTRA",
       "description": "y transparent figures"
     },
+    "XOAC": {
+      "direction": "a",
+      "glyph 1": "grave",
+      "point 1": "1",
+      "glyph 2": "grave",
+      "point 2": "2",
+      "parent": "",
+      "description": "Accents main weight"
+    },
+    "YOAC": {
+      "direction": "a",
+      "glyph 1": "grave",
+      "point 1": "3",
+      "glyph 2": "grave",
+      "point 2": "0",
+      "parent": "XOAC",
+      "description": "Accents secondary weight"
+    },
+    "YTUA": {
+      "direction": "y",
+      "glyph 1": "",
+      "point 1": "",
+      "glyph 2": "",
+      "point 2": "",
+      "parent": "",
+      "description": "Uppercase accent base"
+    },
+    "YTLA": {
+      "direction": "y",
+      "glyph 1": "",
+      "point 1": "",
+      "glyph 2": "",
+      "point 2": "",
+      "parent": "",
+      "description": "Lowercase accent base"
+    },
+    "YUAT": {
+      "direction": "y",
+      "glyph 1": "",
+      "point 1": "",
+      "glyph 2": "",
+      "point 2": "",
+      "parent": "",
+      "description": "Uppercase accent height"
+    },
+    "YLAT": {
+      "direction": "y",
+      "glyph 1": "",
+      "point 1": "",
+      "glyph 2": "",
+      "point 2": "",
+      "parent": "",
+      "description": "Lowercase accent height"
+    },
+    "UDLN": {
+      "direction": "y",
+      "glyph 1": "underscore",
+      "point 1": "-1",
+      "glyph 2": "underscore",
+      "point 2": "1",
+      "parent": "",
+      "description": "underline top"
+    },
+    "YTTL": {
+      "direction": "a",
+      "glyph 1": "A",
+      "point 1": "12",
+      "glyph 2": "A",
+      "point 2": "9",
+      "parent": "",
+      "description": "trap length"
+    },
+    "XTTW": {
+      "direction": "a",
+      "glyph 1": "A",
+      "point 1": "8",
+      "glyph 2": "A",
+      "point 2": "9",
+      "parent": "",
+      "description": "trap width"
+    },
     "XDOT": {
       "direction": "x",
       "glyph 1": "period",
@@ -286,7 +367,7 @@
       "glyph 2": "period",
       "point 2": "6",
       "parent": "",
-      "description": ""
+      "description": "dot width"
     },
     "YDOT": {
       "direction": "y",
@@ -294,8 +375,8 @@
       "point 1": "9",
       "glyph 2": "period",
       "point 2": "3",
-      "parent": "",
-      "description": ""
+      "parent": "XDOT",
+      "description": "dot height"
     }
   },
   "glyphs": {
@@ -311,8 +392,8 @@
     },
     "comma": {
       "4 5": {
-        "direction": "x",
-        "name": "XOPQ"
+        "name": "XOPQ",
+        "direction": "x"
       }
     },
     "period": {
@@ -713,12 +794,12 @@
     },
     "A": {
       "1 13": {
-        "direction": "y",
-        "name": "YTUC"
+        "name": "YTUC",
+        "direction": "y"
       },
       "14 15": {
-        "direction": "y",
-        "name": "YOUC"
+        "name": "YOUC",
+        "direction": "y"
       }
     },
     "B": {
@@ -2033,6 +2114,8 @@
         "name": "YDOT"
       }
     },
-    "parenleft": {}
+    "parenleft": {},
+    "grave": {},
+    "underscore": {}
   }
 }
