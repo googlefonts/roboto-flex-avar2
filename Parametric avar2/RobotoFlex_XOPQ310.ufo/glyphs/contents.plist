@@ -694,6 +694,10 @@
     <string>acircumflextilde.glif</string>
     <key>acute</key>
     <string>acute.glif</string>
+    <key>acute-stack</key>
+    <string>acute-stack.glif</string>
+    <key>acute-stack.case</key>
+    <string>acute-stack.case.glif</string>
     <key>acutecomb</key>
     <string>acutecomb.glif</string>
     <key>acutecomb.case</key>
@@ -782,14 +786,14 @@
     <string>bracketright.glif</string>
     <key>breve</key>
     <string>breve.glif</string>
+    <key>breve-stack</key>
+    <string>breve-stack.glif</string>
+    <key>breve-stack.case</key>
+    <string>breve-stack.case.glif</string>
     <key>breve.cyr</key>
     <string>breve.cyr.glif</string>
     <key>breve.cyr.case</key>
     <string>breve.cyr.case.glif</string>
-    <key>breveacutecomb</key>
-    <string>breveacutecomb.glif</string>
-    <key>breveacutecomb.case</key>
-    <string>breveacutecomb.case.glif</string>
     <key>brevebelowcomb</key>
     <string>brevebelowcomb.glif</string>
     <key>brevebelowcomb.case</key>
@@ -800,22 +804,10 @@
     <string>brevecomb.case.glif</string>
     <key>brevecombstack.case</key>
     <string>brevecombstack.case.glif</string>
-    <key>brevegravecomb</key>
-    <string>brevegravecomb.glif</string>
-    <key>brevegravecomb.case</key>
-    <string>brevegravecomb.case.glif</string>
-    <key>brevehookabovecomb</key>
-    <string>brevehookabovecomb.glif</string>
-    <key>brevehookabovecomb.case</key>
-    <string>brevehookabovecomb.case.glif</string>
     <key>breveinvertedcomb</key>
     <string>breveinvertedcomb.glif</string>
     <key>breveinvertedcomb.case</key>
     <string>breveinvertedcomb.case.glif</string>
-    <key>brevetildecomb</key>
-    <string>brevetildecomb.glif</string>
-    <key>brevetildecomb.case</key>
-    <string>brevetildecomb.case.glif</string>
     <key>brokenbar</key>
     <string>brokenbar.glif</string>
     <key>bullet</key>
@@ -864,28 +856,16 @@
     <string>chi.glif</string>
     <key>circumflex</key>
     <string>circumflex.glif</string>
-    <key>circumflexacutecomb</key>
-    <string>circumflexacutecomb.glif</string>
-    <key>circumflexacutecomb.case</key>
-    <string>circumflexacutecomb.case.glif</string>
+    <key>circumflex-stack</key>
+    <string>circumflex-stack.glif</string>
+    <key>circumflex-stack.case</key>
+    <string>circumflex-stack.case.glif</string>
     <key>circumflexcomb</key>
     <string>circumflexcomb.glif</string>
     <key>circumflexcomb.case</key>
     <string>circumflexcomb.case.glif</string>
     <key>circumflexcombstack.case</key>
     <string>circumflexcombstack.case.glif</string>
-    <key>circumflexgravecomb</key>
-    <string>circumflexgravecomb.glif</string>
-    <key>circumflexgravecomb.case</key>
-    <string>circumflexgravecomb.case.glif</string>
-    <key>circumflexhookabovecomb</key>
-    <string>circumflexhookabovecomb.glif</string>
-    <key>circumflexhookabovecomb.case</key>
-    <string>circumflexhookabovecomb.case.glif</string>
-    <key>circumflextildecomb</key>
-    <string>circumflextildecomb.glif</string>
-    <key>circumflextildecomb.case</key>
-    <string>circumflextildecomb.case.glif</string>
     <key>colon</key>
     <string>colon.glif</string>
     <key>coloncurrency</key>
@@ -1158,6 +1138,10 @@
     <string>gr_question.glif</string>
     <key>grave</key>
     <string>grave.glif</string>
+    <key>grave-stack</key>
+    <string>grave-stack.glif</string>
+    <key>grave-stack.case</key>
+    <string>grave-stack.case.glif</string>
     <key>gravecomb</key>
     <string>gravecomb.glif</string>
     <key>gravecomb.case</key>
@@ -1192,6 +1176,10 @@
     <string>hbar.glif</string>
     <key>hcircumflex</key>
     <string>hcircumflex.glif</string>
+    <key>hook-stack.case</key>
+    <string>hook-stack.case.glif</string>
+    <key>hookabove-stack</key>
+    <string>hookabove-stack.glif</string>
     <key>hookabovecomb</key>
     <string>hookabovecomb.glif</string>
     <key>hookabovecomb.case</key>
@@ -1704,6 +1692,10 @@
     <string>threesuperior.glif</string>
     <key>tilde</key>
     <string>tilde.glif</string>
+    <key>tilde-stack</key>
+    <string>tilde-stack.glif</string>
+    <key>tilde-stack.case</key>
+    <string>tilde-stack.case.glif</string>
     <key>tildecomb</key>
     <string>tildecomb.glif</string>
     <key>tildecomb.case</key>

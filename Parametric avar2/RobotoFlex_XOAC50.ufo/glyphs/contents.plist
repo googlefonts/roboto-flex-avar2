@@ -100,6 +100,8 @@
     <string>C_heverticalstroke-cy.glif</string>
     <key>Chi</key>
     <string>C_hi.glif</string>
+    <key>Cy-descenderH</key>
+    <string>C_y-descenderH_.glif</string>
     <key>D</key>
     <string>D_.glif</string>
     <key>DZcaron</key>
@@ -626,6 +628,8 @@
     <string>Y_hookabove.glif</string>
     <key>Yi</key>
     <string>Y_i.glif</string>
+    <key>Yi-dieresis</key>
+    <string>Y_i-dieresis.glif</string>
     <key>Ymacron</key>
     <string>Y_macron.glif</string>
     <key>Ytilde</key>
@@ -690,6 +694,10 @@
     <string>acircumflextilde.glif</string>
     <key>acute</key>
     <string>acute.glif</string>
+    <key>acute-stack</key>
+    <string>acute-stack.glif</string>
+    <key>acute-stack.case</key>
+    <string>acute-stack.case.glif</string>
     <key>acutecomb</key>
     <string>acutecomb.glif</string>
     <key>acutecomb.case</key>
@@ -778,6 +786,10 @@
     <string>bracketright.glif</string>
     <key>breve</key>
     <string>breve.glif</string>
+    <key>breve-stack</key>
+    <string>breve-stack.glif</string>
+    <key>breve-stack.case</key>
+    <string>breve-stack.case.glif</string>
     <key>breve.cyr</key>
     <string>breve.cyr.glif</string>
     <key>breve.cyr.case</key>
@@ -860,6 +872,10 @@
     <string>chi.glif</string>
     <key>circumflex</key>
     <string>circumflex.glif</string>
+    <key>circumflex-stack</key>
+    <string>circumflex-stack.glif</string>
+    <key>circumflex-stack.case</key>
+    <string>circumflex-stack.case.glif</string>
     <key>circumflexacutecomb</key>
     <string>circumflexacutecomb.glif</string>
     <key>circumflexacutecomb.case</key>
@@ -902,6 +918,8 @@
     <string>copyright.glif</string>
     <key>currency</key>
     <string>currency.glif</string>
+    <key>cy-descndeden</key>
+    <string>cy-descndeden.glif</string>
     <key>d</key>
     <string>d.glif</string>
     <key>dagger</key>
@@ -1150,6 +1168,10 @@
     <string>gr_question.glif</string>
     <key>grave</key>
     <string>grave.glif</string>
+    <key>grave-stack</key>
+    <string>grave-stack.glif</string>
+    <key>grave-stack.case</key>
+    <string>grave-stack.case.glif</string>
     <key>gravecomb</key>
     <string>gravecomb.glif</string>
     <key>gravecomb.case</key>
@@ -1184,6 +1206,10 @@
     <string>hbar.glif</string>
     <key>hcircumflex</key>
     <string>hcircumflex.glif</string>
+    <key>hook-stack.case</key>
+    <string>hook-stack.case.glif</string>
+    <key>hookabove-stack</key>
+    <string>hookabove-stack.glif</string>
     <key>hookabovecomb</key>
     <string>hookabovecomb.glif</string>
     <key>hookabovecomb.case</key>
@@ -1696,6 +1722,10 @@
     <string>threesuperior.glif</string>
     <key>tilde</key>
     <string>tilde.glif</string>
+    <key>tilde-stack</key>
+    <string>tilde-stack.glif</string>
+    <key>tilde-stack.case</key>
+    <string>tilde-stack.case.glif</string>
     <key>tildecomb</key>
     <string>tildecomb.glif</string>
     <key>tildecomb.case</key>
@@ -1850,6 +1880,8 @@
     <string>yhookabove.glif</string>
     <key>yi</key>
     <string>yi.glif</string>
+    <key>yi-dieresis</key>
+    <string>yi-dieresis.glif</string>
     <key>ymacron</key>
     <string>ymacron.glif</string>
     <key>ytilde</key>
