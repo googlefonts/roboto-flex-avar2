@@ -9,10 +9,6 @@
       <point x="1002" y="1456" type="line"/>
       <point x="1002" y="1298" type="line"/>
       <point x="372" y="1298" type="line"/>
-      <point x="372" y="861" type="line"/>
-      <point x="913" y="861" type="line"/>
-      <point x="913" y="703" type="line"/>
-      <point x="372" y="703" type="line"/>
       <point x="372" y="0" type="line"/>
     </contour>
     <contour>
@@ -20,6 +16,12 @@
       <point x="20" y="454" type="line"/>
       <point x="725" y="454" type="line"/>
       <point x="725" y="296" type="line"/>
+    </contour>
+    <contour>
+      <point x="282" y="703" type="line"/>
+      <point x="282" y="861" type="line"/>
+      <point x="913" y="861" type="line"/>
+      <point x="913" y="703" type="line"/>
     </contour>
   </outline>
   <lib>
