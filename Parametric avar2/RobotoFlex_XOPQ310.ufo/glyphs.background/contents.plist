@@ -2,14 +2,20 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
   <dict>
+    <key>DZcaron</key>
+    <string>D_Z_caron.glif</string>
     <key>Delta</key>
     <string>D_elta.glif</string>
+    <key>Dzcaron</key>
+    <string>D_zcaron.glif</string>
     <key>Ecyr</key>
     <string>E_cyr.glif</string>
     <key>K</key>
     <string>K_.glif</string>
     <key>Kaisymbol</key>
     <string>K_aisymbol.glif</string>
+    <key>Oslashacute</key>
+    <string>O_slashacute.glif</string>
     <key>Phi</key>
     <string>P_hi.glif</string>
     <key>Y</key>
@@ -24,6 +30,8 @@
     <string>cent.glif</string>
     <key>degree</key>
     <string>degree.glif</string>
+    <key>dzcaron</key>
+    <string>dzcaron.glif</string>
     <key>eta</key>
     <string>eta.glif</string>
     <key>gravecomb.case</key>
@@ -48,6 +56,8 @@
     <string>n.glif</string>
     <key>ogonekcomb.case</key>
     <string>ogonekcomb.case.glif</string>
+    <key>oslashacute</key>
+    <string>oslashacute.glif</string>
     <key>r</key>
     <string>r.glif</string>
     <key>ringcomb.case</key>

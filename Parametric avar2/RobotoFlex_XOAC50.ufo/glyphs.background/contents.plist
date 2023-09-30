@@ -4,6 +4,12 @@
   <dict>
     <key>.notdef</key>
     <string>_notdef.glif</string>
+    <key>DZcaron</key>
+    <string>D_Z_caron.glif</string>
+    <key>Dzcaron</key>
+    <string>D_zcaron.glif</string>
+    <key>Oslashacute</key>
+    <string>O_slashacute.glif</string>
     <key>Zhe</key>
     <string>Z_he.glif</string>
     <key>Zhedescender</key>
@@ -26,6 +32,8 @@
     <string>diagonalbaro.glif</string>
     <key>diagonalbaro.rvrn</key>
     <string>diagonalbaro.rvrn.glif</string>
+    <key>dzcaron</key>
+    <string>dzcaron.glif</string>
     <key>ef</key>
     <string>ef.glif</string>
     <key>guillemotleft</key>
@@ -40,6 +48,8 @@
     <string>notequal.glif</string>
     <key>ordfeminine</key>
     <string>ordfeminine.glif</string>
+    <key>oslashacute</key>
+    <string>oslashacute.glif</string>
     <key>r</key>
     <string>r.glif</string>
     <key>rho</key>

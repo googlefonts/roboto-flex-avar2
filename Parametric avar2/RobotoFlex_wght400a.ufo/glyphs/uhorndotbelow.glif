@@ -3,7 +3,8 @@
   <advance width="1138"/>
   <unicode hex="1EF1"/>
   <outline>
-    <component base="uhorn"/>
+    <component base="u"/>
+    <component base="horncomb" xOffset="870"/>
     <component base="dotbelowcomb" xOffset="57"/>
   </outline>
 </glyph>
