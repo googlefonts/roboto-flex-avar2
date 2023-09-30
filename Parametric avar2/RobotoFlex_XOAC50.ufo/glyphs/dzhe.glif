@@ -12,16 +12,12 @@
       <point x="794" y="1052" type="line"/>
       <point x="980" y="1052" type="line"/>
       <point x="980" y="0" type="line"/>
-      <point x="648" y="0" type="line"/>
-      <point x="648" y="-270" type="line"/>
+    </contour>
+    <contour>
       <point x="480" y="-270" type="line"/>
-      <point x="480" y="0" type="line"/>
+      <point x="480" y="70" type="line"/>
+      <point x="648" y="70" type="line"/>
+      <point x="648" y="-270" type="line"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>0.884,0.8791,0.0317,1</string>
-    </dict>
-  </lib>
 </glyph>

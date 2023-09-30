@@ -3,29 +3,7 @@
   <advance width="1165"/>
   <unicode hex="04A3"/>
   <outline>
-    <contour>
-      <point x="977" y="-270" type="line"/>
-      <point x="977" y="0" type="line"/>
-      <point x="804" y="0" type="line"/>
-      <point x="804" y="465" type="line"/>
-      <point x="334" y="465" type="line"/>
-      <point x="334" y="0" type="line"/>
-      <point x="148" y="0" type="line"/>
-      <point x="148" y="1052" type="line"/>
-      <point x="334" y="1052" type="line"/>
-      <point x="334" y="610" type="line"/>
-      <point x="804" y="610" type="line"/>
-      <point x="804" y="1052" type="line"/>
-      <point x="990" y="1052" type="line"/>
-      <point x="990" y="145" type="line"/>
-      <point x="1145" y="145" type="line"/>
-      <point x="1145" y="-270" type="line"/>
-    </contour>
+    <component base="en"/>
+    <component base="cy-descndeden" xOffset="870"/>
   </outline>
-  <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>0.884,0.8791,0.0317,1</string>
-    </dict>
-  </lib>
 </glyph>
