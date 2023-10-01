@@ -3,13 +3,8 @@
   <advance width="1364"/>
   <unicode hex="1EE8"/>
   <outline>
-    <component base="Uhorn"/>
+    <component base="U"/>
+    <component base="horncomb.case" xOffset="731"/>
     <component base="acutecomb.case" xOffset="170"/>
   </outline>
-  <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>0.884,0.8791,0.0317,1</string>
-    </dict>
-  </lib>
 </glyph>
