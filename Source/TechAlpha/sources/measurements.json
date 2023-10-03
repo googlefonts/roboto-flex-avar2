@@ -1,0 +1,2755 @@
+{
+  "font": {
+    "XOPQ": {
+      "direction": "x",
+      "glyph 1": "H",
+      "point 1": "0",
+      "glyph 2": "H",
+      "point 2": "11",
+      "parent": "",
+      "description": "General x opaque"
+    },
+    "XOUC": {
+      "direction": "x",
+      "glyph 1": "H",
+      "point 1": "0",
+      "glyph 2": "H",
+      "point 2": "11",
+      "parent": "XOPQ",
+      "description": "X stem uppercase"
+    },
+    "XOLC": {
+      "direction": "x",
+      "glyph 1": "n",
+      "point 1": "0",
+      "glyph 2": "n",
+      "point 2": "20",
+      "parent": "XOPQ",
+      "description": "x stem lowercase"
+    },
+    "XOFI": {
+      "direction": "x",
+      "glyph 1": "zero",
+      "point 1": "1",
+      "glyph 2": "zero",
+      "point 2": "27",
+      "parent": "XOPQ",
+      "description": "X stem figures"
+    },
+    "XTRA": {
+      "direction": "x",
+      "glyph 1": "H",
+      "point 1": "11",
+      "glyph 2": "H",
+      "point 2": "8",
+      "parent": "",
+      "description": "General x transparent"
+    },
+    "XTUC": {
+      "direction": "x",
+      "glyph 1": "H",
+      "point 1": "11",
+      "glyph 2": "H",
+      "point 2": "8",
+      "parent": "XTRA",
+      "description": "x trans uppercase"
+    },
+    "XTLC": {
+      "direction": "x",
+      "glyph 1": "n",
+      "point 1": "20",
+      "glyph 2": "n",
+      "point 2": "12",
+      "parent": "XTRA",
+      "description": "x trans lowercase"
+    },
+    "XTFI": {
+      "direction": "x",
+      "glyph 1": "zero",
+      "point 1": "14",
+      "glyph 2": "zero",
+      "point 2": "20",
+      "parent": "XTRA",
+      "description": "x trans figures"
+    },
+    "XTAB": {
+      "direction": "x",
+      "glyph 1": "zero",
+      "point 1": "-1",
+      "glyph 2": "zero",
+      "point 2": "99",
+      "parent": "XTRA",
+      "description": "Figure width"
+    },
+    "XTSP": {
+      "direction": "x",
+      "glyph 1": "H",
+      "point 1": "-1",
+      "glyph 2": "H",
+      "point 2": "0",
+      "parent": "",
+      "description": "General x sidebearing"
+    },
+    "XUCS": {
+      "direction": "x",
+      "glyph 1": "H",
+      "point 1": "-1",
+      "glyph 2": "H",
+      "point 2": "0",
+      "parent": "XTSP",
+      "description": "x sidebearing uppercase H"
+    },
+    "XUCR": {
+      "direction": "x",
+      "glyph 1": "O",
+      "point 1": "-1",
+      "glyph 2": "O",
+      "point 2": "0",
+      "parent": "XTSP",
+      "description": "x sidebearing uppercase O"
+    },
+    "XLCS": {
+      "direction": "x",
+      "glyph 1": "n",
+      "point 1": "-1",
+      "glyph 2": "n",
+      "point 2": "0",
+      "parent": "XTSP",
+      "description": "x sidebearing lowercase n"
+    },
+    "XLCR": {
+      "direction": "x",
+      "glyph 1": "o",
+      "point 1": "-1",
+      "glyph 2": "o",
+      "point 2": "0",
+      "parent": "XTSP",
+      "description": "x sidebearing lowercase o"
+    },
+    "XFIR": {
+      "direction": "x",
+      "glyph 1": "zero",
+      "point 1": "-1",
+      "glyph 2": "zero",
+      "point 2": "0",
+      "parent": "XTSP",
+      "description": "x sidebearing figure 0"
+    },
+    "YOPQ": {
+      "direction": "y",
+      "glyph 1": "H",
+      "point 1": "10",
+      "glyph 2": "H",
+      "point 2": "3",
+      "parent": "XOPQ",
+      "description": "General y opaque"
+    },
+    "YOUC": {
+      "direction": "y",
+      "glyph 1": "H",
+      "point 1": "10",
+      "glyph 2": "H",
+      "point 2": "3",
+      "parent": "YOPQ",
+      "description": "Y opaque uppercase"
+    },
+    "YOLC": {
+      "direction": "y",
+      "glyph 1": "f",
+      "point 1": "18",
+      "glyph 2": "f",
+      "point 2": "19",
+      "parent": "YOPQ",
+      "description": "y opaque lowercase"
+    },
+    "YOFI": {
+      "direction": "y",
+      "glyph 1": "zero",
+      "point 1": "11",
+      "glyph 2": "zero",
+      "point 2": "17",
+      "parent": "YOPQ",
+      "description": "y opaque figures"
+    },
+    "YTRA": {
+      "direction": "y",
+      "glyph 1": "p",
+      "point 1": "0",
+      "glyph 2": "H",
+      "point 2": "1",
+      "parent": "",
+      "description": "General y transparent"
+    },
+    "YTUC": {
+      "direction": "y",
+      "glyph 1": "H",
+      "point 1": "0",
+      "glyph 2": "H",
+      "point 2": "1",
+      "parent": "YTRA",
+      "description": "y transparent uppercase"
+    },
+    "YTLC": {
+      "direction": "y",
+      "glyph 1": "h",
+      "point 1": "0",
+      "glyph 2": "h",
+      "point 2": "6",
+      "parent": "YTRA",
+      "description": "y transparent lowercase"
+    },
+    "YTFI": {
+      "direction": "y",
+      "glyph 1": "five",
+      "point 1": "-1",
+      "glyph 2": "five",
+      "point 2": "18",
+      "parent": "YTRA",
+      "description": "y transparent figures"
+    },
+    "YTAS": {
+      "direction": "y",
+      "glyph 1": "h",
+      "point 1": "0",
+      "glyph 2": "h",
+      "point 2": "1",
+      "parent": "YTRA",
+      "description": "y transparent ascender "
+    },
+    "YTDE": {
+      "direction": "y",
+      "glyph 1": "n",
+      "point 1": "0",
+      "glyph 2": "p",
+      "point 2": "0",
+      "parent": "YTRA",
+      "description": "y transparent descender"
+    },
+    "YTOS": {
+      "direction": "y",
+      "glyph 1": "X",
+      "point 1": "8",
+      "glyph 2": "O",
+      "point 2": "4",
+      "parent": "",
+      "description": "General y overshoot"
+    },
+    "YTUO": {
+      "direction": "y",
+      "glyph 1": "X",
+      "point 1": "8",
+      "glyph 2": "O",
+      "point 2": "4",
+      "parent": "YTOS",
+      "description": "y uppercase overshoot"
+    },
+    "YTLO": {
+      "direction": "y",
+      "glyph 1": "x",
+      "point 1": "8",
+      "glyph 2": "o",
+      "point 2": "4",
+      "parent": "YTOS",
+      "description": "y lowercase overshoot"
+    },
+    "YTFO": {
+      "direction": "y",
+      "glyph 1": "zero",
+      "point 1": "-1",
+      "glyph 2": "zero",
+      "point 2": "11",
+      "parent": "YTOS",
+      "description": "y figures overshoot"
+    },
+    "YTDO": {
+      "direction": "y",
+      "glyph 1": "g",
+      "point 1": "28",
+      "glyph 2": "p",
+      "point 2": "0",
+      "parent": "YTOS",
+      "description": "y descender overshoot"
+    },
+    "YTAO": {
+      "direction": "y",
+      "glyph 1": "h",
+      "point 1": "1",
+      "glyph 2": "f",
+      "point 2": "4",
+      "parent": "YTOS",
+      "description": "y ascender overshoot"
+    },
+    "XOAC": {
+      "direction": "a",
+      "glyph 1": "grave",
+      "point 1": "1",
+      "glyph 2": "grave",
+      "point 2": "2",
+      "parent": "",
+      "description": "Accents main weight"
+    },
+    "YOAC": {
+      "direction": "a",
+      "glyph 1": "grave",
+      "point 1": "3",
+      "glyph 2": "grave",
+      "point 2": "0",
+      "parent": "XOAC",
+      "description": "Accents secondary weight"
+    },
+    "YTUA": {
+      "direction": "y",
+      "glyph 1": "",
+      "point 1": "",
+      "glyph 2": "",
+      "point 2": "",
+      "parent": "",
+      "description": "Uppercase accent base"
+    },
+    "YTLA": {
+      "direction": "y",
+      "glyph 1": "",
+      "point 1": "",
+      "glyph 2": "",
+      "point 2": "",
+      "parent": "",
+      "description": "Lowercase accent base"
+    },
+    "YUAT": {
+      "direction": "y",
+      "glyph 1": "",
+      "point 1": "",
+      "glyph 2": "",
+      "point 2": "",
+      "parent": "",
+      "description": "Uppercase accent height"
+    },
+    "YLAT": {
+      "direction": "y",
+      "glyph 1": "",
+      "point 1": "",
+      "glyph 2": "",
+      "point 2": "",
+      "parent": "",
+      "description": "Lowercase accent height"
+    },
+    "UDLN": {
+      "direction": "y",
+      "glyph 1": "underscore",
+      "point 1": "-1",
+      "glyph 2": "underscore",
+      "point 2": "1",
+      "parent": "",
+      "description": "underline top"
+    },
+    "YTTL": {
+      "direction": "a",
+      "glyph 1": "A",
+      "point 1": "12",
+      "glyph 2": "A",
+      "point 2": "9",
+      "parent": "",
+      "description": "trap length"
+    },
+    "XTTW": {
+      "direction": "a",
+      "glyph 1": "A",
+      "point 1": "8",
+      "glyph 2": "A",
+      "point 2": "9",
+      "parent": "",
+      "description": "trap width"
+    },
+    "XDOT": {
+      "direction": "x",
+      "glyph 1": "period",
+      "point 1": "0",
+      "glyph 2": "period",
+      "point 2": "6",
+      "parent": "",
+      "description": "dot width"
+    },
+    "YDOT": {
+      "direction": "y",
+      "glyph 1": "period",
+      "point 1": "9",
+      "glyph 2": "period",
+      "point 2": "3",
+      "parent": "XDOT",
+      "description": "dot height"
+    }
+  },
+  "glyphs": {
+    "exclam": {
+      "0 6": {
+        "direction": "x",
+        "name": "XDOT"
+      },
+      "3 9": {
+        "direction": "y",
+        "name": "YDOT"
+      }
+    },
+    "comma": {
+      "4 5": {
+        "name": "XOPQ",
+        "direction": "x"
+      },
+      "0 9": {
+        "name": "XOPQ",
+        "direction": "a"
+      }
+    },
+    "period": {
+      "0 6": {
+        "name": "XDOT",
+        "direction": "x"
+      },
+      "3 9": {
+        "name": "YDOT",
+        "direction": "y"
+      }
+    },
+    "zero": {
+      "0 14": {
+        "name": "XOFI",
+        "direction": "x"
+      },
+      "20 8": {
+        "name": "XOFI",
+        "direction": "x"
+      },
+      "14 20": {
+        "name": "XTFI",
+        "direction": "x"
+      },
+      "-1 99": {
+        "name": "XTAB",
+        "direction": "x"
+      },
+      "-1 0": {
+        "name": "XFIR",
+        "direction": "x"
+      },
+      "8 99": {
+        "name": "XFIR",
+        "direction": "x"
+      },
+      "11 17": {
+        "name": "YOFI",
+        "direction": "y"
+      },
+      "24 4": {
+        "name": "YOFI",
+        "direction": "y"
+      },
+      "C 4": {
+        "name": "YTFO",
+        "direction": "y"
+      },
+      "B 11": {
+        "name": "YTFO",
+        "direction": "y"
+      },
+      "11 4": {
+        "name": "YTFI",
+        "direction": "y"
+      }
+    },
+    "one": {
+      "-1 99": {
+        "name": "XTAB",
+        "direction": "x"
+      },
+      "0 4": {
+        "name": "YTFI",
+        "direction": "y"
+      },
+      "2 3": {
+        "name": "YOFI",
+        "direction": "y"
+      },
+      "0 6": {
+        "name": "XOFI",
+        "direction": "x"
+      }
+    },
+    "two": {
+      "13 12": {
+        "name": "XOFI",
+        "direction": "x"
+      },
+      "5 20": {
+        "name": "XOFI",
+        "direction": "x"
+      },
+      "-1 99": {
+        "name": "XTAB",
+        "direction": "x"
+      },
+      "-1 14": {
+        "name": "XFIR",
+        "direction": "x"
+      },
+      "20 99": {
+        "name": "XFIR",
+        "direction": "x"
+      },
+      "26 25": {
+        "name": "YOFI",
+        "direction": "y"
+      },
+      "8 17": {
+        "name": "YOFI",
+        "direction": "y"
+      },
+      "C 17": {
+        "name": "YTFO",
+        "direction": "y"
+      },
+      "0 17": {
+        "name": "YTFI",
+        "direction": "y"
+      }
+    },
+    "three": {
+      "1 2": {
+        "name": "XOFI",
+        "direction": "x"
+      },
+      "18 33": {
+        "name": "XOFI",
+        "direction": "x"
+      },
+      "26 25": {
+        "name": "XOFI",
+        "direction": "x"
+      },
+      "9 40": {
+        "name": "XOFI",
+        "direction": "x"
+      },
+      "-1 99": {
+        "name": "XTAB",
+        "direction": "x"
+      },
+      "-1 1": {
+        "name": "XFIR",
+        "direction": "x"
+      },
+      "40 99": {
+        "name": "XFIR",
+        "direction": "x"
+      },
+      "13 14": {
+        "name": "YOFI",
+        "direction": "y"
+      },
+      "21 30": {
+        "name": "YOFI",
+        "direction": "y"
+      },
+      "43 6": {
+        "name": "YOFI",
+        "direction": "y"
+      },
+      "B 43": {
+        "name": "YTFO",
+        "direction": "y"
+      },
+      "30 C": {
+        "name": "YTFO",
+        "direction": "y"
+      },
+      "43 30": {
+        "name": "YTFI",
+        "direction": "y"
+      }
+    },
+    "four": {
+      "0 14": {
+        "name": "XOFI",
+        "direction": "x"
+      },
+      "-1 99": {
+        "name": "XTAB",
+        "direction": "x"
+      },
+      "8 9": {
+        "name": "YOFI",
+        "direction": "y"
+      },
+      "0 12": {
+        "name": "YTFI",
+        "direction": "y"
+      }
+    },
+    "five": {
+      "1 2": {
+        "name": "XOFI",
+        "direction": "x"
+      },
+      "9 27": {
+        "name": "XOFI",
+        "direction": "x"
+      },
+      "-1 99": {
+        "name": "XTAB",
+        "direction": "x"
+      },
+      "-1 1": {
+        "name": "XFIR",
+        "direction": "x"
+      },
+      "27 99": {
+        "name": "XFIR",
+        "direction": "x"
+      },
+      "24 12": {
+        "name": "YOFI",
+        "direction": "y"
+      },
+      "19 18": {
+        "name": "YOFI",
+        "direction": "y"
+      },
+      "6 30": {
+        "name": "YOFI",
+        "direction": "y"
+      },
+      "30 B": {
+        "name": "YTFO",
+        "direction": "y"
+      },
+      "17 30": {
+        "name": "YTFI",
+        "direction": "y"
+      }
+    },
+    "six": {
+      "-1 0": {
+        "name": "XFIR",
+        "direction": "x"
+      },
+      "1 10": {
+        "name": "XOFI",
+        "direction": "x"
+      },
+      "33 14": {
+        "name": "YOFI",
+        "direction": "y"
+      },
+      "17 30": {
+        "name": "XOFI",
+        "direction": "x"
+      },
+      "20 27": {
+        "name": "YOFI",
+        "direction": "y"
+      },
+      "33 4": {
+        "name": "YTFI",
+        "direction": "y"
+      },
+      "6 5": {
+        "name": "YOFI",
+        "direction": "y"
+      },
+      "30 99": {
+        "name": "XFIR",
+        "direction": "x"
+      },
+      "-1 99": {
+        "name": "XTAB",
+        "direction": "x"
+      },
+      "B 33": {
+        "name": "YTFO",
+        "direction": "y"
+      }
+    },
+    "seven": {
+      "-1 99": {
+        "name": "XTAB",
+        "direction": "x"
+      },
+      "2 3": {
+        "name": "YOFI",
+        "direction": "y"
+      },
+      "0 3": {
+        "name": "YTFI",
+        "direction": "y"
+      }
+    },
+    "eight": {
+      "0 26": {
+        "name": "XOFI",
+        "direction": "x"
+      },
+      "44 13": {
+        "name": "XOFI",
+        "direction": "x"
+      },
+      "32 20": {
+        "name": "XOFI",
+        "direction": "x"
+      },
+      "7 38": {
+        "name": "XOFI",
+        "direction": "x"
+      },
+      "-1 99": {
+        "name": "XTAB",
+        "direction": "x"
+      },
+      "-1 0": {
+        "name": "XFIR",
+        "direction": "x"
+      },
+      "20 99": {
+        "name": "XFIR",
+        "direction": "x"
+      },
+      "47 10": {
+        "name": "YOFI",
+        "direction": "y"
+      },
+      "23 29": {
+        "name": "YOFI",
+        "direction": "y"
+      },
+      "35 41": {
+        "name": "YOFI",
+        "direction": "y"
+      },
+      "C 10": {
+        "name": "YTFO",
+        "direction": "y"
+      },
+      "B 23": {
+        "name": "YTFO",
+        "direction": "y"
+      },
+      "23 10": {
+        "name": "YTFI",
+        "direction": "y"
+      }
+    },
+    "nine": {
+      "-1 0": {
+        "name": "XFIR",
+        "direction": "x"
+      },
+      "0 23": {
+        "name": "XOFI",
+        "direction": "x"
+      },
+      "11 12": {
+        "name": "YOFI",
+        "direction": "y"
+      },
+      "33 26": {
+        "name": "YOFI",
+        "direction": "y"
+      },
+      "11 3": {
+        "name": "YTFI",
+        "direction": "y"
+      },
+      "20 3": {
+        "name": "YOFI",
+        "direction": "y"
+      },
+      "17 6": {
+        "name": "XOFI",
+        "direction": "x"
+      },
+      "7 99": {
+        "name": "XFIR",
+        "direction": "x"
+      },
+      "-1 99": {
+        "name": "XTAB",
+        "direction": "x"
+      },
+      "C 3": {
+        "name": "YTFO",
+        "direction": "y"
+      }
+    },
+    "colon": {
+      "0 6": {
+        "name": "XDOT",
+        "direction": "x"
+      },
+      "12 18": {
+        "name": "XDOT",
+        "direction": "x"
+      },
+      "15 21": {
+        "name": "YDOT",
+        "direction": "y"
+      },
+      "3 9": {
+        "name": "YDOT",
+        "direction": "y"
+      }
+    },
+    "semicolon": {
+      "4 5": {
+        "name": "XOPQ",
+        "direction": "x"
+      },
+      "10 16": {
+        "name": "XDOT",
+        "direction": "x"
+      },
+      "13 19": {
+        "name": "YDOT",
+        "direction": "y"
+      }
+    },
+    "question": {
+      "12 41": {
+        "name": "XOPQ",
+        "direction": "x"
+      },
+      "34 19": {
+        "name": "XOPQ",
+        "direction": "x"
+      },
+      "22 31": {
+        "name": "XOPQ",
+        "direction": "a"
+      },
+      "27 26": {
+        "name": "XOPQ",
+        "direction": "x"
+      },
+      "37 16": {
+        "name": "YOPQ",
+        "direction": "y"
+      },
+      "C 16": {
+        "name": "YTOS",
+        "direction": "y"
+      },
+      "0 6": {
+        "name": "XDOT",
+        "direction": "x"
+      },
+      "9 3": {
+        "name": "YDOT",
+        "direction": "y"
+      }
+    },
+    "A": {
+      "14 15": {
+        "name": "YOUC",
+        "direction": "y"
+      },
+      "1 13": {
+        "name": "YTUC",
+        "direction": "y"
+      },
+      "9 12": {
+        "name": "YTTL",
+        "direction": "a"
+      },
+      "5 8": {
+        "name": "YTTL",
+        "direction": "a"
+      },
+      "8 9": {
+        "name": "XTTW",
+        "direction": "x"
+      }
+    },
+    "B": {
+      "0 16": {
+        "name": "XOUC",
+        "direction": "x"
+      },
+      "12 20": {
+        "name": "XOUC",
+        "direction": "x"
+      },
+      "5 29": {
+        "name": "XOUC",
+        "direction": "x"
+      },
+      "20 24": {
+        "name": "XTUC",
+        "direction": "x"
+      },
+      "25 29": {
+        "name": "XTUC",
+        "direction": "x"
+      },
+      "0 -1": {
+        "name": "XUCS",
+        "direction": "x"
+      },
+      "99 12": {
+        "name": "XUCR",
+        "direction": "x"
+      },
+      "15 17": {
+        "name": "YOUC",
+        "direction": "y"
+      },
+      "2 32": {
+        "name": "YOUC",
+        "direction": "y"
+      },
+      "23 26": {
+        "name": "YOUC",
+        "direction": "y"
+      },
+      "0 1": {
+        "name": "YTUC",
+        "direction": "y"
+      }
+    },
+    "C": {
+      "0 -1": {
+        "name": "XUCR",
+        "direction": "x"
+      },
+      "1 16": {
+        "name": "XOUC",
+        "direction": "x"
+      },
+      "10 16": {
+        "name": "XTUC",
+        "direction": "x"
+      },
+      "17 24": {
+        "name": "XTUC",
+        "direction": "x"
+      },
+      "20 29": {
+        "name": "YOUC",
+        "direction": "y"
+      },
+      "24 25": {
+        "name": "XOUC",
+        "direction": "x"
+      },
+      "25 99": {
+        "name": "XUCR",
+        "direction": "x"
+      },
+      "4 13": {
+        "name": "YOUC",
+        "direction": "y"
+      },
+      "4 29": {
+        "name": "YTUC",
+        "direction": "y"
+      },
+      "8 9": {
+        "name": "XOUC",
+        "direction": "x"
+      },
+      "C 4": {
+        "name": "YOUC",
+        "direction": "y"
+      },
+      "B 29": {
+        "name": "YOUC",
+        "direction": "y"
+      }
+    },
+    "D": {
+      "0 10": {
+        "name": "XOUC",
+        "direction": "x"
+      },
+      "6 14": {
+        "name": "XOUC",
+        "direction": "x"
+      },
+      "10 14": {
+        "name": "XTUC",
+        "direction": "x"
+      },
+      "0 -1": {
+        "name": "XUCS",
+        "direction": "x"
+      },
+      "99 6": {
+        "name": "XUCR",
+        "direction": "x"
+      },
+      "2 18": {
+        "name": "YOUC",
+        "direction": "y"
+      },
+      "9 11": {
+        "name": "YOUC",
+        "direction": "y"
+      },
+      "0 2": {
+        "name": "YTUC",
+        "direction": "y"
+      }
+    },
+    "E": {
+      "0 9": {
+        "name": "XOUC",
+        "direction": "x"
+      },
+      "0 -1": {
+        "name": "XUCS",
+        "direction": "x"
+      },
+      "10 11": {
+        "name": "YOUC",
+        "direction": "y"
+      },
+      "2 3": {
+        "name": "YOUC",
+        "direction": "y"
+      },
+      "5 8": {
+        "name": "YOUC",
+        "direction": "y"
+      },
+      "0 1": {
+        "name": "YTUC",
+        "direction": "y"
+      }
+    },
+    "F": {
+      "0 9": {
+        "name": "XOUC",
+        "direction": "x"
+      },
+      "0 -1": {
+        "name": "XUCS",
+        "direction": "x"
+      },
+      "2 3": {
+        "name": "YOUC",
+        "direction": "y"
+      },
+      "5 8": {
+        "name": "YOUC",
+        "direction": "y"
+      },
+      "0 1": {
+        "name": "YTUC",
+        "direction": "y"
+      }
+    },
+    "G": {
+      "1 16": {
+        "name": "XOUC",
+        "direction": "x"
+      },
+      "8 9": {
+        "name": "XOUC",
+        "direction": "x"
+      },
+      "10 16": {
+        "name": "XTUC",
+        "direction": "x"
+      },
+      "0 -1": {
+        "name": "XUCR",
+        "direction": "x"
+      },
+      "20 31": {
+        "name": "YOUC",
+        "direction": "y"
+      },
+      "25 26": {
+        "name": "YOUC",
+        "direction": "y"
+      },
+      "4 13": {
+        "name": "YOUC",
+        "direction": "y"
+      },
+      "C 4": {
+        "name": "YTUO",
+        "direction": "y"
+      },
+      "B 31": {
+        "name": "YTUO",
+        "direction": "y"
+      },
+      "4 31": {
+        "name": "YTUC",
+        "direction": "y"
+      }
+    },
+    "H": {
+      "0 -1": {
+        "name": "XUCS",
+        "direction": "x"
+      },
+      "0 1": {
+        "name": "YTUC",
+        "direction": "y"
+      },
+      "0 11": {
+        "name": "XOUC",
+        "direction": "x"
+      },
+      "12 7": {
+        "name": "XUCS",
+        "direction": "x"
+      },
+      "3 10": {
+        "name": "YOUC",
+        "direction": "y"
+      },
+      "7 8": {
+        "name": "XOUC",
+        "direction": "x"
+      },
+      "8 11": {
+        "name": "XTUC",
+        "direction": "x"
+      }
+    },
+    "I": {
+      "0 -1": {
+        "direction": "x",
+        "name": "XUCS"
+      },
+      "0 1": {
+        "direction": "y",
+        "name": "YTUC"
+      },
+      "0 3": {
+        "direction": "x",
+        "name": "XOUC"
+      },
+      "99 3": {
+        "direction": "x",
+        "name": "XUCS"
+      }
+    },
+    "J": {
+      "1 2": {
+        "name": "XOUC",
+        "direction": "x"
+      },
+      "15 10": {
+        "name": "YTUC",
+        "direction": "y"
+      },
+      "3 9": {
+        "name": "XTUC",
+        "direction": "x"
+      },
+      "15 6": {
+        "name": "YOUC",
+        "direction": "y"
+      },
+      "9 12": {
+        "name": "XOUC",
+        "direction": "x"
+      },
+      "12 99": {
+        "name": "XUCS",
+        "direction": "x"
+      },
+      "B 15": {
+        "name": "YTUO",
+        "direction": "y"
+      }
+    },
+    "K": {
+      "0 7": {
+        "name": "XOUC",
+        "direction": "x"
+      },
+      "0 -1": {
+        "name": "XUCS",
+        "direction": "x"
+      },
+      "0 1": {
+        "name": "YTUC",
+        "direction": "y"
+      }
+    },
+    "L": {
+      "0 3": {
+        "name": "XOUC",
+        "direction": "x"
+      },
+      "0 -1": {
+        "name": "XUCS",
+        "direction": "x"
+      },
+      "4 5": {
+        "name": "YOUC",
+        "direction": "y"
+      },
+      "0 1": {
+        "name": "YTUC",
+        "direction": "y"
+      }
+    },
+    "M": {
+      "0 -1": {
+        "direction": "x",
+        "name": "XUCS"
+      },
+      "0 1": {
+        "direction": "y",
+        "name": "YTUC"
+      },
+      "0 33": {
+        "direction": "x",
+        "name": "XOUC"
+      },
+      "13 14": {
+        "direction": "x",
+        "name": "XOUC"
+      },
+      "99 13": {
+        "direction": "x",
+        "name": "XUCS"
+      }
+    },
+    "N": {
+      "0 -1": {
+        "direction": "x",
+        "name": "XUCS"
+      },
+      "0 1": {
+        "direction": "y",
+        "name": "YTUC"
+      },
+      "0 23": {
+        "direction": "x",
+        "name": "XOUC"
+      },
+      "11 12": {
+        "direction": "x",
+        "name": "XOUC"
+      },
+      "99 13": {
+        "direction": "x",
+        "name": "XUCS"
+      }
+    },
+    "O": {
+      "-1 0": {
+        "name": "XUCR",
+        "direction": "x"
+      },
+      "1 27": {
+        "name": "XOUC",
+        "direction": "x"
+      },
+      "11 17": {
+        "name": "YOUC",
+        "direction": "y"
+      },
+      "11 4": {
+        "name": "YTUC",
+        "direction": "y"
+      },
+      "27 21": {
+        "name": "XTUC",
+        "direction": "x"
+      },
+      "24 4": {
+        "name": "YOUC",
+        "direction": "y"
+      },
+      "21 7": {
+        "name": "XOUC",
+        "direction": "x"
+      },
+      "8 99": {
+        "name": "XUCR",
+        "direction": "x"
+      },
+      "C 4": {
+        "name": "YTUO",
+        "direction": "y"
+      },
+      "B 11": {
+        "name": "YTUO",
+        "direction": "y"
+      }
+    },
+    "P": {
+      "0 10": {
+        "name": "XOUC",
+        "direction": "x"
+      },
+      "15 5": {
+        "name": "XOUC",
+        "direction": "x"
+      },
+      "11 15": {
+        "name": "XTUC",
+        "direction": "x"
+      },
+      "-1 0": {
+        "name": "XUCS",
+        "direction": "x"
+      },
+      "18 2": {
+        "name": "YOUC",
+        "direction": "y"
+      },
+      "9 11": {
+        "name": "YOUC",
+        "direction": "y"
+      },
+      "0 1": {
+        "name": "YTUC",
+        "direction": "y"
+      }
+    },
+    "Q": {
+      "1 27": {
+        "name": "XOUC",
+        "direction": "x"
+      },
+      "21 7": {
+        "name": "XOUC",
+        "direction": "x"
+      },
+      "27 21": {
+        "name": "XTUC",
+        "direction": "x"
+      },
+      "-1 0": {
+        "name": "XUCR",
+        "direction": "x"
+      },
+      "8 99": {
+        "name": "XUCR",
+        "direction": "x"
+      },
+      "11 17": {
+        "name": "YOUC",
+        "direction": "y"
+      },
+      "24 4": {
+        "name": "YOUC",
+        "direction": "y"
+      },
+      "C 4": {
+        "name": "YTUO",
+        "direction": "y"
+      },
+      "B 11": {
+        "name": "YTUO",
+        "direction": "y"
+      },
+      "11 4": {
+        "name": "YTUC",
+        "direction": "y"
+      }
+    },
+    "R": {
+      "-1 0": {
+        "name": "XUCS",
+        "direction": "x"
+      },
+      "0 1": {
+        "name": "YTUC",
+        "direction": "y"
+      },
+      "0 10": {
+        "name": "XOUC",
+        "direction": "x"
+      },
+      "11 15": {
+        "name": "XTUC",
+        "direction": "x"
+      },
+      "18 2": {
+        "name": "YOUC",
+        "direction": "y"
+      },
+      "15 5": {
+        "name": "XOUC",
+        "direction": "x"
+      },
+      "9 11": {
+        "name": "YOUC",
+        "direction": "y"
+      }
+    },
+    "S": {
+      "1 2": {
+        "name": "XOUC",
+        "direction": "x"
+      },
+      "15 30": {
+        "name": "XOUC",
+        "direction": "x"
+      },
+      "27 18": {
+        "name": "YOUC",
+        "direction": "y"
+      },
+      "39 18": {
+        "name": "YTUC",
+        "direction": "y"
+      },
+      "23 22": {
+        "name": "XOUC",
+        "direction": "x"
+      },
+      "39 6": {
+        "name": "YOUC",
+        "direction": "y"
+      },
+      "9 36": {
+        "name": "XOUC",
+        "direction": "x"
+      },
+      "C 18": {
+        "name": "YTUO",
+        "direction": "y"
+      },
+      "B 39": {
+        "name": "YTUO",
+        "direction": "y"
+      }
+    },
+    "T": {
+      "6 1": {
+        "name": "YTUC",
+        "direction": "y"
+      },
+      "3 2": {
+        "name": "YOUC",
+        "direction": "y"
+      },
+      "7 4": {
+        "name": "XOUC",
+        "direction": "x"
+      }
+    },
+    "U": {
+      "-1 0": {
+        "name": "XUCS",
+        "direction": "x"
+      },
+      "0 3": {
+        "name": "XOUC",
+        "direction": "x"
+      },
+      "15 10": {
+        "name": "YTUC",
+        "direction": "y"
+      },
+      "3 9": {
+        "name": "XTUC",
+        "direction": "x"
+      },
+      "15 6": {
+        "name": "YOUC",
+        "direction": "y"
+      },
+      "9 12": {
+        "name": "XOUC",
+        "direction": "x"
+      },
+      "12 99": {
+        "name": "XUCS",
+        "direction": "x"
+      },
+      "B 15": {
+        "name": "YTUO",
+        "direction": "y"
+      }
+    },
+    "V": {
+      "13 10": {
+        "name": "YTUC",
+        "direction": "y"
+      },
+      "2 5": {
+        "name": "YTTL",
+        "direction": "a"
+      },
+      "6 9": {
+        "name": "YTTL",
+        "direction": "a"
+      },
+      "5 6": {
+        "name": "XTTW",
+        "direction": "x"
+      }
+    },
+    "W": {
+      "0 1": {
+        "name": "YTUC",
+        "direction": "y"
+      },
+      "3 6": {
+        "name": "YTTL",
+        "direction": "a"
+      },
+      "7 10": {
+        "name": "YTTL",
+        "direction": "a"
+      },
+      "6 7": {
+        "name": "XTTW",
+        "direction": "x"
+      },
+      "13 16": {
+        "name": "YTTL",
+        "direction": "a"
+      },
+      "17 20": {
+        "name": "YTTL",
+        "direction": "a"
+      },
+      "16 17": {
+        "name": "XTTW",
+        "direction": "x"
+      },
+      "29 32": {
+        "name": "YTTL",
+        "direction": "a"
+      },
+      "25 28": {
+        "name": "YTTL",
+        "direction": "a"
+      },
+      "29 28": {
+        "name": "XTTW",
+        "direction": "x"
+      }
+    },
+    "X": {
+      "0 8": {
+        "name": "YTUC",
+        "direction": "y"
+      }
+    },
+    "Y": {
+      "0 12": {
+        "name": "YTUC",
+        "direction": "y"
+      },
+      "1 14": {
+        "name": "XOUC",
+        "direction": "x"
+      },
+      "4 7": {
+        "name": "YTTL",
+        "direction": "a"
+      },
+      "8 11": {
+        "name": "YTTL",
+        "direction": "a"
+      },
+      "7 8": {
+        "name": "XTTW",
+        "direction": "x"
+      }
+    },
+    "Z": {
+      "0 4": {
+        "name": "YTUC",
+        "direction": "y"
+      },
+      "3 4": {
+        "name": "YOUC",
+        "direction": "y"
+      },
+      "9 8": {
+        "name": "YOUC",
+        "direction": "y"
+      }
+    },
+    "a": {
+      "0 35": {
+        "name": "XOLC",
+        "direction": "x"
+      },
+      "13 12": {
+        "name": "XOLC",
+        "direction": "x"
+      },
+      "41 21": {
+        "name": "XOLC",
+        "direction": "x"
+      },
+      "35 41": {
+        "name": "XTLC",
+        "direction": "x"
+      },
+      "21 46": {
+        "name": "XLCS",
+        "direction": "x"
+      },
+      "-1 0": {
+        "name": "XLCR",
+        "direction": "x"
+      },
+      "43 3": {
+        "name": "YOLC",
+        "direction": "y"
+      },
+      "32 38": {
+        "name": "YOLC",
+        "direction": "y"
+      },
+      "8 17": {
+        "name": "YOLC",
+        "direction": "y"
+      },
+      "32 17": {
+        "name": "YTLC",
+        "direction": "y"
+      },
+      "X 17": {
+        "name": "YTLO",
+        "direction": "y"
+      },
+      "32 B": {
+        "name": "YTLO",
+        "direction": "y"
+      }
+    },
+    "b": {
+      "0 19": {
+        "name": "XOLC",
+        "direction": "x"
+      },
+      "26 9": {
+        "name": "XOLC",
+        "direction": "x"
+      },
+      "19 26": {
+        "name": "XTLC",
+        "direction": "x"
+      },
+      "-1 0": {
+        "name": "XLCS",
+        "direction": "x"
+      },
+      "10 99": {
+        "name": "XLCR",
+        "direction": "x"
+      },
+      "13 22": {
+        "name": "YOLC",
+        "direction": "y"
+      },
+      "29 6": {
+        "name": "YOLC",
+        "direction": "y"
+      },
+      "13 6": {
+        "name": "YTLC",
+        "direction": "y"
+      },
+      "0 1": {
+        "name": "YTAS",
+        "direction": "y"
+      },
+      "X 6": {
+        "name": "YTLO",
+        "direction": "y"
+      },
+      "B 13": {
+        "name": "YTLO",
+        "direction": "y"
+      }
+    },
+    "c": {
+      "1 16": {
+        "name": "XOLC",
+        "direction": "x"
+      },
+      "23 26": {
+        "name": "XOLC",
+        "direction": "x"
+      },
+      "10 7": {
+        "name": "XOLC",
+        "direction": "x"
+      },
+      "16 10": {
+        "name": "XTLC",
+        "direction": "x"
+      },
+      "17 24": {
+        "name": "XTLC",
+        "direction": "x"
+      },
+      "-1 0": {
+        "name": "XLCR",
+        "direction": "x"
+      },
+      "25 99": {
+        "name": "XLCR",
+        "direction": "x"
+      },
+      "29 20": {
+        "name": "YOLC",
+        "direction": "y"
+      },
+      "13 4": {
+        "name": "YOLC",
+        "direction": "y"
+      },
+      "29 4": {
+        "name": "YTLC",
+        "direction": "y"
+      },
+      "B 29": {
+        "name": "YTLO",
+        "direction": "y"
+      },
+      "X 4": {
+        "name": "YTLO",
+        "direction": "y"
+      }
+    },
+    "d": {
+      "0 19": {
+        "name": "XOLC",
+        "direction": "x"
+      },
+      "25 10": {
+        "name": "XOLC",
+        "direction": "x"
+      },
+      "19 25": {
+        "name": "XTLC",
+        "direction": "x"
+      },
+      "10 99": {
+        "name": "XLCS",
+        "direction": "x"
+      },
+      "-1 0": {
+        "name": "XLCR",
+        "direction": "x"
+      },
+      "16 22": {
+        "name": "YOLC",
+        "direction": "y"
+      },
+      "29 4": {
+        "name": "YOLC",
+        "direction": "y"
+      },
+      "16 4": {
+        "name": "YTLC",
+        "direction": "y"
+      },
+      "10 9": {
+        "name": "YTAS",
+        "direction": "y"
+      },
+      "X 4": {
+        "name": "YTLO",
+        "direction": "y"
+      },
+      "B 16": {
+        "name": "YTLO",
+        "direction": "y"
+      }
+    },
+    "e": {
+      "1 18": {
+        "name": "XOLC",
+        "direction": "x"
+      },
+      "12 7": {
+        "name": "XOLC",
+        "direction": "x"
+      },
+      "18 12": {
+        "name": "XTLC",
+        "direction": "x"
+      },
+      "-1 0": {
+        "name": "XLCR",
+        "direction": "x"
+      },
+      "8 99": {
+        "name": "XLCR",
+        "direction": "x"
+      },
+      "29 22": {
+        "name": "YOLC",
+        "direction": "y"
+      },
+      "15 4": {
+        "name": "YOLC",
+        "direction": "y"
+      },
+      "9 10": {
+        "name": "YOLC",
+        "direction": "y"
+      },
+      "29 4": {
+        "name": "YTLC",
+        "direction": "y"
+      },
+      "X 4": {
+        "name": "YTLO",
+        "direction": "y"
+      },
+      "B 29": {
+        "name": "YTLO",
+        "direction": "y"
+      }
+    },
+    "f": {
+      "1 14": {
+        "name": "XOLC",
+        "direction": "x"
+      },
+      "18 19": {
+        "name": "YOLC",
+        "direction": "y"
+      },
+      "11 4": {
+        "name": "YOLC",
+        "direction": "y"
+      },
+      "0 4": {
+        "name": "YTAS",
+        "direction": "y"
+      },
+      "A 4": {
+        "name": "YTLO",
+        "direction": "y"
+      }
+    },
+    "g": {
+      "15 44": {
+        "name": "XOLC",
+        "direction": "x"
+      },
+      "37 25": {
+        "name": "XOLC",
+        "direction": "x"
+      },
+      "44 37": {
+        "name": "XTLC",
+        "direction": "x"
+      },
+      "25 99": {
+        "name": "XLCS",
+        "direction": "x"
+      },
+      "-1 14": {
+        "name": "XLCR",
+        "direction": "x"
+      },
+      "11 34": {
+        "name": "YOLC",
+        "direction": "y"
+      },
+      "41 18": {
+        "name": "YOLC",
+        "direction": "y"
+      },
+      "28 4": {
+        "name": "YOLC",
+        "direction": "y"
+      },
+      "11 18": {
+        "name": "YTLC",
+        "direction": "y"
+      },
+      "-1 28": {
+        "name": "YTDE",
+        "direction": "y"
+      },
+      "X 18": {
+        "name": "YTLO",
+        "direction": "y"
+      },
+      "B 11": {
+        "name": "YTLO",
+        "direction": "y"
+      },
+      "D 28": {
+        "name": "YTLO",
+        "direction": "y"
+      }
+    },
+    "h": {
+      "-1 0": {
+        "name": "XLCS",
+        "direction": "x"
+      },
+      "0 19": {
+        "name": "XOLC",
+        "direction": "x"
+      },
+      "19 11": {
+        "name": "XTLC",
+        "direction": "x"
+      },
+      "0 6": {
+        "name": "YTLC",
+        "direction": "y"
+      },
+      "15 6": {
+        "name": "YOLC",
+        "direction": "y"
+      },
+      "11 10": {
+        "name": "XOLC",
+        "direction": "x"
+      },
+      "10 99": {
+        "name": "XLCS",
+        "direction": "x"
+      },
+      "X 6": {
+        "name": "YTLO",
+        "direction": "y"
+      },
+      "0 1": {
+        "name": "YTAS",
+        "direction": "y"
+      }
+    },
+    "i": {
+      "0 3": {
+        "name": "XOLC",
+        "direction": "x"
+      },
+      "0 -1": {
+        "name": "XLCS",
+        "direction": "x"
+      },
+      "99 3": {
+        "name": "XLCS",
+        "direction": "x"
+      },
+      "0 1": {
+        "name": "YTLC",
+        "direction": "y"
+      },
+      "4 10": {
+        "name": "XDOT",
+        "direction": "x"
+      },
+      "7 13": {
+        "name": "YDOT",
+        "direction": "y"
+      }
+    },
+    "j": {
+      "7 10": {
+        "name": "XOLC",
+        "direction": "x"
+      },
+      "-1 7": {
+        "name": "XLCS",
+        "direction": "x"
+      },
+      "10 99": {
+        "name": "XLCS",
+        "direction": "x"
+      },
+      "13 4": {
+        "name": "YOLC",
+        "direction": "y"
+      },
+      "-1 13": {
+        "name": "YTDE",
+        "direction": "y"
+      },
+      "D 13": {
+        "name": "YTLO",
+        "direction": "y"
+      },
+      "16 22": {
+        "name": "XDOT",
+        "direction": "x"
+      },
+      "25 19": {
+        "name": "YDOT",
+        "direction": "y"
+      }
+    },
+    "k": {
+      "0 7": {
+        "name": "XOLC",
+        "direction": "x"
+      },
+      "-1 0": {
+        "name": "XLCS",
+        "direction": "x"
+      },
+      "-1 1": {
+        "name": "YTAS",
+        "direction": "y"
+      }
+    },
+    "l": {
+      "0 3": {
+        "name": "XOLC",
+        "direction": "x"
+      },
+      "-1 0": {
+        "name": "XLCS",
+        "direction": "x"
+      },
+      "3 99": {
+        "name": "XLCS",
+        "direction": "x"
+      },
+      "-1 1": {
+        "name": "YTAS",
+        "direction": "y"
+      }
+    },
+    "m": {
+      "0 36": {
+        "name": "XOLC",
+        "direction": "x"
+      },
+      "19 18": {
+        "name": "XOLC",
+        "direction": "x"
+      },
+      "28 27": {
+        "name": "XOLC",
+        "direction": "x"
+      },
+      "27 19": {
+        "name": "XTLC",
+        "direction": "x"
+      },
+      "36 28": {
+        "name": "XTLC",
+        "direction": "x"
+      },
+      "-1 0": {
+        "name": "XLCS",
+        "direction": "x"
+      },
+      "18 99": {
+        "name": "XLCS",
+        "direction": "x"
+      },
+      "23 14": {
+        "name": "YOLC",
+        "direction": "y"
+      },
+      "32 7": {
+        "name": "YOLC",
+        "direction": "y"
+      },
+      "X 7": {
+        "name": "YTLO",
+        "direction": "y"
+      },
+      "X 14": {
+        "name": "YTLO",
+        "direction": "y"
+      },
+      "0 7": {
+        "name": "YTLC",
+        "direction": "y"
+      }
+    },
+    "n": {
+      "0 20": {
+        "name": "XOLC",
+        "direction": "x"
+      },
+      "12 11": {
+        "name": "XOLC",
+        "direction": "x"
+      },
+      "19 13": {
+        "name": "XTLC",
+        "direction": "x"
+      },
+      "-1 0": {
+        "name": "XLCS",
+        "direction": "x"
+      },
+      "11 99": {
+        "name": "XLCS",
+        "direction": "x"
+      },
+      "16 7": {
+        "name": "YOLC",
+        "direction": "y"
+      },
+      "0 1": {
+        "name": "YTLC",
+        "direction": "y"
+      },
+      "X 7": {
+        "name": "YTLO",
+        "direction": "y"
+      }
+    },
+    "o": {
+      "1 14": {
+        "name": "XOLC",
+        "direction": "x"
+      },
+      "22 7": {
+        "name": "XOLC",
+        "direction": "x"
+      },
+      "14 22": {
+        "name": "XTLC",
+        "direction": "x"
+      },
+      "-1 0": {
+        "name": "XLCR",
+        "direction": "x"
+      },
+      "8 99": {
+        "name": "XLCR",
+        "direction": "x"
+      },
+      "11 18": {
+        "name": "YOLC",
+        "direction": "y"
+      },
+      "25 4": {
+        "name": "YOLC",
+        "direction": "y"
+      },
+      "X 4": {
+        "name": "YTLO",
+        "direction": "y"
+      },
+      "B 11": {
+        "name": "YTLO",
+        "direction": "y"
+      },
+      "11 4": {
+        "name": "YTLC",
+        "direction": "y"
+      }
+    },
+    "p": {
+      "0 18": {
+        "name": "XOLC",
+        "direction": "x"
+      },
+      "26 10": {
+        "name": "XOLC",
+        "direction": "x"
+      },
+      "19 26": {
+        "name": "XTLC",
+        "direction": "x"
+      },
+      "-1 1": {
+        "name": "XLCS",
+        "direction": "x"
+      },
+      "11 99": {
+        "name": "XLCR",
+        "direction": "x"
+      },
+      "14 22": {
+        "name": "YOLC",
+        "direction": "y"
+      },
+      "29 7": {
+        "name": "YOLC",
+        "direction": "y"
+      },
+      "14 7": {
+        "name": "YTLC",
+        "direction": "y"
+      },
+      "0 -1": {
+        "name": "YTDE",
+        "direction": "y"
+      },
+      "X 7": {
+        "name": "YTLO",
+        "direction": "y"
+      },
+      "B 14": {
+        "name": "YTLO",
+        "direction": "y"
+      }
+    },
+    "q": {
+      "1 33": {
+        "name": "XOLC",
+        "direction": "x"
+      },
+      "12 11": {
+        "name": "XOLC",
+        "direction": "x"
+      },
+      "33 27": {
+        "name": "XTLC",
+        "direction": "x"
+      },
+      "10 99": {
+        "name": "XLCS",
+        "direction": "x"
+      },
+      "-1 0": {
+        "name": "XLCR",
+        "direction": "x"
+      },
+      "17 23": {
+        "name": "YOLC",
+        "direction": "y"
+      },
+      "30 4": {
+        "name": "YOLC",
+        "direction": "y"
+      },
+      "17 4": {
+        "name": "YTLC",
+        "direction": "y"
+      },
+      "B 12": {
+        "name": "YTDE",
+        "direction": "y"
+      },
+      "B 17": {
+        "name": "YTLO",
+        "direction": "y"
+      },
+      "X 4": {
+        "name": "YTLO",
+        "direction": "y"
+      }
+    },
+    "r": {
+      "0 18": {
+        "name": "XOLC",
+        "direction": "x"
+      },
+      "-1 0": {
+        "name": "XLCS",
+        "direction": "x"
+      },
+      "14 7": {
+        "name": "YOLC",
+        "direction": "y"
+      },
+      "0 1": {
+        "name": "YTLC",
+        "direction": "y"
+      },
+      "X 7": {
+        "name": "YTLO",
+        "direction": "y"
+      }
+    },
+    "s": {
+      "0 1": {
+        "name": "XOLC",
+        "direction": "x"
+      },
+      "11 32": {
+        "name": "XOLC",
+        "direction": "a"
+      },
+      "14 29": {
+        "name": "XOLC",
+        "direction": "x"
+      },
+      "22 21": {
+        "name": "XOLC",
+        "direction": "x"
+      },
+      "8 35": {
+        "name": "XOLC",
+        "direction": "x"
+      },
+      "26 17": {
+        "name": "YOLC",
+        "direction": "y"
+      },
+      "38 5": {
+        "name": "YOLC",
+        "direction": "y"
+      },
+      "38 17": {
+        "name": "YTLC",
+        "direction": "y"
+      },
+      "X 17": {
+        "name": "YTLO",
+        "direction": "y"
+      },
+      "B 38": {
+        "name": "YTLO",
+        "direction": "y"
+      }
+    },
+    "t": {
+      "4 9": {
+        "name": "XOLC",
+        "direction": "x"
+      },
+      "0 1": {
+        "name": "YOLC",
+        "direction": "y"
+      },
+      "19 12": {
+        "name": "YOLC",
+        "direction": "y"
+      },
+      "19 2": {
+        "name": "YTLC",
+        "direction": "y"
+      },
+      "B 19": {
+        "name": "YTLO",
+        "direction": "y"
+      }
+    },
+    "u": {
+      "0 3": {
+        "name": "XOLC",
+        "direction": "x"
+      },
+      "10 11": {
+        "name": "XOLC",
+        "direction": "x"
+      },
+      "3 9": {
+        "name": "XTLC",
+        "direction": "x"
+      },
+      "-1 0": {
+        "name": "XLCS",
+        "direction": "x"
+      },
+      "12 99": {
+        "name": "XLCS",
+        "direction": "x"
+      },
+      "18 6": {
+        "name": "YOLC",
+        "direction": "y"
+      },
+      "13 10": {
+        "name": "YTLC",
+        "direction": "y"
+      },
+      "B 18": {
+        "name": "YTLO",
+        "direction": "y"
+      }
+    },
+    "v": {
+      "13 0": {
+        "name": "YTLC",
+        "direction": "y"
+      },
+      "2 5": {
+        "name": "YTTL",
+        "direction": "a"
+      },
+      "6 9": {
+        "name": "YTTL",
+        "direction": "a"
+      },
+      "5 6": {
+        "name": "XTTW",
+        "direction": "x"
+      }
+    },
+    "w": {
+      "33 0": {
+        "name": "YTLC",
+        "direction": "y"
+      },
+      "2 5": {
+        "name": "YTTL",
+        "direction": "a"
+      },
+      "6 9": {
+        "name": "YTTL",
+        "direction": "a"
+      },
+      "12 15": {
+        "name": "YTTL",
+        "direction": "a"
+      },
+      "16 19": {
+        "name": "YTTL",
+        "direction": "a"
+      },
+      "28 31": {
+        "name": "YTTL",
+        "direction": "a"
+      },
+      "24 27": {
+        "name": "YTTL",
+        "direction": "a"
+      },
+      "5 6": {
+        "name": "XTTW",
+        "direction": "x"
+      },
+      "15 16": {
+        "name": "XTTW",
+        "direction": "x"
+      },
+      "28 27": {
+        "name": "XTTW",
+        "direction": "x"
+      }
+    },
+    "x": {
+      "7 9": {
+        "name": "YTLC",
+        "direction": "y"
+      }
+    },
+    "y": {
+      "24 4": {
+        "name": "YOLC",
+        "direction": "y"
+      },
+      "B 9": {
+        "name": "YTLC",
+        "direction": "y"
+      },
+      "-1 24": {
+        "name": "YTDE",
+        "direction": "y"
+      },
+      "11 14": {
+        "name": "YTTL",
+        "direction": "a"
+      },
+      "15 18": {
+        "name": "YTTL",
+        "direction": "y"
+      },
+      "14 15": {
+        "name": "XTTW",
+        "direction": "x"
+      }
+    },
+    "z": {
+      "3 4": {
+        "name": "YOLC",
+        "direction": "y"
+      },
+      "9 8": {
+        "name": "YOLC",
+        "direction": "y"
+      },
+      "0 4": {
+        "name": "YTLC",
+        "direction": "y"
+      }
+    },
+    "periodcentered": {
+      "0 6": {
+        "name": "XDOT",
+        "direction": "x"
+      },
+      "3 9": {
+        "name": "YDOT",
+        "direction": "y"
+      }
+    },
+    "parenleft": {},
+    "grave": {
+      "1 2": {
+        "name": "XOAC",
+        "direction": "a"
+      },
+      "0 3": {
+        "name": "YOAC",
+        "direction": "a"
+      }
+    },
+    "underscore": {
+      "-1 1": {
+        "name": "UDLN",
+        "direction": ""
+      },
+      "0 1": {
+        "name": "YOPQ",
+        "direction": "y"
+      }
+    },
+    "dollar": {},
+    "bracketleft": {},
+    "backslash": {},
+    "bracketright": {},
+    "equal": {},
+    "section": {},
+    "acute": {
+      "1 2": {
+        "name": "XOAC",
+        "direction": "a"
+      },
+      "0 3": {
+        "name": "YOAC",
+        "direction": "a"
+      }
+    },
+    "breve": {
+      "4 11": {
+        "name": "XOAC",
+        "direction": "a"
+      },
+      "7 8": {
+        "name": "YOAC",
+        "direction": "a"
+      },
+      "0 1": {
+        "name": "YOAC",
+        "direction": "a"
+      }
+    },
+    "circumflex": {
+      "5 4": {
+        "name": "XOAC",
+        "direction": "x"
+      },
+      "2 1": {
+        "name": "XOAC",
+        "direction": "x"
+      },
+      "3 6": {
+        "name": "YOAC",
+        "direction": "a"
+      },
+      "0 3": {
+        "name": "YOAC",
+        "direction": "a"
+      }
+    },
+    "tilde": {},
+    "ogonek": {
+      "0 1": {
+        "name": "YOAC",
+        "direction": "a"
+      },
+      "17 4": {
+        "name": "XOAC",
+        "direction": "x"
+      }
+    },
+    "apostrophemod": {},
+    "ya": {},
+    "dieresis": {},
+    "ampersand": {
+      "0 35": {
+        "name": "XOPQ",
+        "direction": "x"
+      },
+      "7 28": {
+        "name": "XOPQ",
+        "direction": "x"
+      },
+      "22 13": {
+        "name": "XOPQ",
+        "direction": "x"
+      },
+      "10 25": {
+        "name": "YOPQ",
+        "direction": "y"
+      },
+      "45 38": {
+        "name": "YOPQ",
+        "direction": "y"
+      }
+    },
+    "quotesingle": {},
+    "parenright": {},
+    "quotedbl": {},
+    "questiondown": {
+      "0 6": {
+        "name": "XDOT",
+        "direction": "x"
+      },
+      "3 9": {
+        "name": "YDOT",
+        "direction": "y"
+      },
+      "19 34": {
+        "name": "XOPQ",
+        "direction": "x"
+      },
+      "12 41": {
+        "name": "XOPQ",
+        "direction": "x"
+      },
+      "16 37": {
+        "name": "YOPQ",
+        "direction": "y"
+      }
+    },
+    "asciicircum": {},
+    "greater": {},
+    "at": {
+      "33 20": {
+        "name": "XOPQ",
+        "direction": "x"
+      },
+      "14 39": {
+        "name": "XOPQ",
+        "direction": "x"
+      },
+      "0 51": {
+        "name": "XOPQ",
+        "direction": "x"
+      },
+      "8 57": {
+        "name": "XOPQ",
+        "direction": "a"
+      },
+      "17 36": {
+        "name": "YOPQ",
+        "direction": "y"
+      },
+      "30 23": {
+        "name": "YOPQ",
+        "direction": "y"
+      },
+      "61 3": {
+        "name": "YOPQ",
+        "direction": "y"
+      },
+      "48 54": {
+        "name": "YOPQ",
+        "direction": "y"
+      }
+    },
+    "braceright": {},
+    "bar": {},
+    "thorn": {
+      "26 9": {
+        "name": "XOLC",
+        "direction": "x"
+      },
+      "0 18": {
+        "name": "XOLC",
+        "direction": "x"
+      },
+      "19 25": {
+        "name": "XTLC",
+        "direction": "x"
+      },
+      "-1 1": {
+        "name": "XLCS",
+        "direction": "x"
+      },
+      "9 99": {
+        "name": "XLCR",
+        "direction": "x"
+      },
+      "29 6": {
+        "name": "YOLC",
+        "direction": "y"
+      },
+      "13 22": {
+        "name": "YOLC",
+        "direction": "y"
+      },
+      "13 6": {
+        "name": "YTLC",
+        "direction": "y"
+      },
+      "B 1": {
+        "name": "YTAS",
+        "direction": "y"
+      },
+      "X 6": {
+        "name": "YTLO",
+        "direction": "y"
+      },
+      "B 13": {
+        "name": "YTLO",
+        "direction": "y"
+      }
+    },
+    "divide": {
+      "24 25": {
+        "name": "YOPQ",
+        "direction": "y"
+      },
+      "0 6": {
+        "name": "XDOT",
+        "direction": "x"
+      },
+      "12 18": {
+        "name": "XDOT",
+        "direction": "x"
+      },
+      "3 9": {
+        "name": "YDOT",
+        "direction": "y"
+      },
+      "15 21": {
+        "name": "YDOT",
+        "direction": "y"
+      }
+    },
+    "hyphen": {},
+    "germandbls": {
+      "48 9": {
+        "name": "XOLC",
+        "direction": "x"
+      },
+      "3 0": {
+        "name": "XOLC",
+        "direction": "x"
+      },
+      "36 21": {
+        "name": "XOLC",
+        "direction": "x"
+      },
+      "42 15": {
+        "name": "XOLC",
+        "direction": "x"
+      },
+      "28 29": {
+        "name": "XOLC",
+        "direction": "x"
+      },
+      "1 36": {
+        "name": "XTLC",
+        "direction": "x"
+      },
+      "-1 2": {
+        "name": "XLCS",
+        "direction": "x"
+      },
+      "51 6": {
+        "name": "YOLC",
+        "direction": "y"
+      },
+      "24 33": {
+        "name": "YOLC",
+        "direction": "y"
+      },
+      "1 24": {
+        "name": "YTLO",
+        "direction": "y"
+      }
+    },
+    "twosuperior": {},
+    "plusminus": {}
+  }
+}

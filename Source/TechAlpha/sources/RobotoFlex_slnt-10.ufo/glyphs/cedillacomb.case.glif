@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="cedillacomb.case" format="2">
+  <advance width="1024"/>
+  <anchor x="512" y="0" name="_bottom"/>
+  <anchor x="512" y="-517" name="bottom"/>
+  <outline>
+    <contour>
+      <point x="305.5265396141693" y="20.0" type="line"/>
+      <point x="444.52653961416934" y="20.0" type="line"/>
+      <point x="394.4856670256112" y="-105.0" type="line"/>
+      <point x="471.0170892956927" y="-119.0"/>
+      <point x="578.7950070705139" y="-211.0"/>
+      <point x="565.2178295559621" y="-288.0" type="qcurve" smooth="yes"/>
+      <point x="547.0561505429902" y="-391.0"/>
+      <point x="300.8389509737236" y="-517.0"/>
+      <point x="98.83895097372363" y="-517.0" type="qcurve"/>
+      <point x="115.81942035007484" y="-381.0" type="line"/>
+      <point x="223.6430933693664" y="-382.0"/>
+      <point x="353.5198456169965" y="-343.0"/>
+      <point x="362.8651755945452" y="-290.0" type="qcurve" smooth="yes"/>
+      <point x="371.5051976492599" y="-241.0"/>
+      <point x="309.02929593547316" y="-204.0"/>
+      <point x="226.2635848004324" y="-197.0" type="qcurve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0,0.1,1,0.2</string>
+    </dict>
+  </lib>
+</glyph>

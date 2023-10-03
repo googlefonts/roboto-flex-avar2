@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="kadescender" format="2">
+	<unicode hex="049B"/>
+	<advance width="1028"/>
+	<outline>
+		<contour>
+			<point x="885" y="0" type="line"/>
+			<point x="413" y="510" type="line"/>
+			<point x="507" y="575" type="line"/>
+			<point x="1009" y="32" type="line"/>
+			<point x="1009" y="0" type="line"/>
+		</contour>
+		<contour>
+			<point x="222" y="580" type="line"/>
+			<point x="427" y="580" type="line"/>
+			<point x="846" y="1052" type="line"/>
+			<point x="989" y="1052" type="line"/>
+			<point x="486" y="490" type="line"/>
+			<point x="222" y="490" type="line"/>
+		</contour>
+		<contour>
+			<point x="286" y="1052" type="line"/>
+			<point x="286" y="0" type="line"/>
+			<point x="158" y="0" type="line"/>
+			<point x="158" y="1052" type="line"/>
+		</contour>
+		<contour>
+			<point x="885" y="90" type="line"/>
+			<point x="1067" y="90" type="line"/>
+			<point x="1067" y="-270" type="line"/>
+			<point x="945" y="-270" type="line"/>
+			<point x="945" y="0" type="line"/>
+			<point x="885" y="0" type="line"/>
+		</contour>
+	</outline>
+	<guideline x="241" y="553" angle="90" identifier="lmgRx0QBdK"/>
+	<guideline x="195" y="516" angle="90" identifier="N6l8k7KcDE"/>
+</glyph>
