@@ -68,9 +68,9 @@ Parametric axes
 Blended axes
 ------------
 
-- [ ] `wght` Weight
-- [ ] `wdth` Width
-- [ ] `opsz` Optical Size
+- [x] `wght` Weight
+- [x] `wdth` Width
+- [x] `opsz` Optical Size
 
 
 Documents
