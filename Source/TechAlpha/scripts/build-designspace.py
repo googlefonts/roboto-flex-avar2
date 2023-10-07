@@ -1,7 +1,7 @@
 # menuTitle: build Roboto Flex avar2 designspaces
 
 import os, glob
-from fontTools.designspaceLib import DesignSpaceDocument, AxisDescriptor, SourceDescriptor
+from fontTools.designspaceLib import DesignSpaceDocument, AxisDescriptor, SourceDescriptor, InstanceDescriptor
 from variableValues.measurements import FontMeasurements
 
 
@@ -127,8 +127,6 @@ class RobotoFlexDesignSpaceBuilder:
                     L = self.defaultLocation.copy()
                     value = int(os.path.splitext(os.path.split(ufo)[-1])[0].split('_')[-1][4:])
                     L[name] = value
-                    L['slnt'] = 0
-                    L['GRAD'] = 0
                     src.location = L
                     self.designspace.addSource(src)
 
@@ -187,14 +185,30 @@ class RobotoFlexDesignSpaceBuilder:
 
     def addInstances(self):
 
-        # i = InstanceDescriptor()
-        # i.name    = 'slnt'
-        # i.tag     = 'slnt'
-        # i.minimum = -10
-        # i.maximum = 0
-        # i.default = 0
-        # self.designspace.addInstance(a)
-        pass
+        # prepare for measurements
+        M = FontMeasurements()
+        M.read(self.measurementsPath)
+
+        for blendedAxisName in self.blendedAxes:
+            for ufoPath in self.sourcesExtrema:
+                if blendedAxisName in ufoPath:
+                    # get measurements
+                    f = OpenFont(ufoPath, showInterface=False)
+                    M.measure(f)
+                    # create instance location from default + parameters
+                    L = self.defaultLocation.copy()
+                    value = int(os.path.splitext(os.path.split(ufoPath)[-1])[0].split('_')[-1][4:])
+                    L[blendedAxisName] = value
+                    for measurementName in self.parametricAxes:
+                        L[measurementName] = int(M.values[measurementName])
+                    # make instance object
+                    I = InstanceDescriptor()
+                    I.path       = ufoPath
+                    I.familyName = self.familyName
+                    I.styleName = f.info.styleName.replace(' ', '')
+                    I.name      = f.info.styleName.replace(' ', '')
+                    I.designLocation = L
+                    self.designspace.addInstance(I)
 
 
     def build(self):
@@ -330,14 +344,14 @@ class RobotoFlexDesignSpaceBuilderC(RobotoFlexDesignSpaceBuilder):
 
 if __name__ == '__main__':
     
-    # D = RobotoFlexDesignSpaceBuilder()
-    # D.build()
-    # D.save()
+    D = RobotoFlexDesignSpaceBuilder()
+    D.build()
+    D.save()
     
-    D1 = RobotoFlexDesignSpaceBuilderA()
-    D1.build()
-    D1.save()
-    D1.injectBlendedAxes()
+    # D1 = RobotoFlexDesignSpaceBuilderA()
+    # D1.build()
+    # D1.save()
+    # D1.injectBlendedAxes()
 
     # D2 = RobotoFlexDesignSpaceBuilderB()
     # print(D2.designspacePath)

@@ -206,9 +206,10 @@
 					<string>Ytilde</string>
 					<string>IJacute</string>
 					<string>Jacute.loclNLD</string>
+					<string>Omacron</string>
 				</array>
 				<key>smartSetName</key>
-				<string>latin</string>
+				<string>uppercase latin</string>
 			</dict>
 			<dict>
 				<key>glyphNames</key>
@@ -249,7 +250,7 @@
 					<string>Kaisymbol</string>
 				</array>
 				<key>smartSetName</key>
-				<string>greek</string>
+				<string>uppercase greek</string>
 			</dict>
 			<dict>
 				<key>glyphNames</key>
@@ -344,7 +345,7 @@
 					<string>Yumacron</string>
 				</array>
 				<key>smartSetName</key>
-				<string>cyrillic</string>
+				<string>uppercase cyrillic</string>
 			</dict>
 			<dict>
 				<key>glyphNames</key>
@@ -394,7 +395,7 @@
 					<string>acutecombstack.case</string>
 				</array>
 				<key>smartSetName</key>
-				<string>_refs</string>
+				<string>uppercase refs</string>
 			</dict>
 		</array>
 		<key>smartSetName</key>
@@ -615,7 +616,7 @@
 					<string>f_ij</string>
 				</array>
 				<key>smartSetName</key>
-				<string>latin</string>
+				<string>lowercase latin</string>
 			</dict>
 			<dict>
 				<key>glyphNames</key>
@@ -659,7 +660,7 @@
 					<string>kaisymbol</string>
 				</array>
 				<key>smartSetName</key>
-				<string>greek</string>
+				<string>lowercase greek</string>
 			</dict>
 			<dict>
 				<key>glyphNames</key>
@@ -773,7 +774,7 @@
 					<string>yumacron</string>
 				</array>
 				<key>smartSetName</key>
-				<string>cyrillic</string>
+				<string>lowercase cyrillic</string>
 			</dict>
 			<dict>
 				<key>glyphNames</key>
@@ -831,7 +832,7 @@
 					<string>circumflexacutecomb</string>
 				</array>
 				<key>smartSetName</key>
-				<string>_refs</string>
+				<string>lowercase refs</string>
 			</dict>
 		</array>
 		<key>smartSetName</key>
@@ -855,7 +856,7 @@
 					<string>nine</string>
 				</array>
 				<key>smartSetName</key>
-				<string>tabular</string>
+				<string>figures tabular</string>
 			</dict>
 			<dict>
 				<key>glyphNames</key>
@@ -872,7 +873,7 @@
 					<string>nine.prop</string>
 				</array>
 				<key>smartSetName</key>
-				<string>proportional</string>
+				<string>figures proportional</string>
 			</dict>
 			<dict>
 				<key>glyphNames</key>
@@ -990,7 +991,7 @@
 					<string>circumflexcomb</string>
 				</array>
 				<key>smartSetName</key>
-				<string>_refs</string>
+				<string>ascenders refs</string>
 			</dict>
 		</array>
 		<key>smartSetName</key>
@@ -1096,7 +1097,7 @@
 					<string>caron</string>
 				</array>
 				<key>smartSetName</key>
-				<string>_refs</string>
+				<string>descenders refs</string>
 			</dict>
 		</array>
 		<key>smartSetName</key>
