@@ -3,17 +3,12 @@
   <advance width="1024"/>
   <unicode hex="02DD"/>
   <outline>
-    <contour>
-      <point x="265" y="1290" type="line"/>
-      <point x="506" y="1584" type="line"/>
-      <point x="649" y="1479" type="line"/>
-      <point x="350" y="1204" type="line"/>
-    </contour>
-    <contour>
-      <point x="575" y="1290" type="line"/>
-      <point x="816" y="1584" type="line"/>
-      <point x="959" y="1479" type="line"/>
-      <point x="660" y="1204" type="line"/>
-    </contour>
+    <component base="hungarumlautcomb" xOffset="512"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.884,0.8791,0.0317,1</string>
+    </dict>
+  </lib>
 </glyph>

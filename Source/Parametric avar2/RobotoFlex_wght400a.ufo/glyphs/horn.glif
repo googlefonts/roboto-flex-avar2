@@ -1,9 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<glyph name="caron" format="2">
-  <advance width="1024"/>
-  <unicode hex="02C7"/>
+<glyph name="horn" format="2">
+  <advance width="380"/>
+  <anchor x="70" y="1052" name="_topright"/>
+  <anchor x="70" y="1293" name="topright"/>
   <outline>
-    <component base="caroncomb" xOffset="512"/>
+    <component base="horncomb"/>
   </outline>
   <lib>
     <dict>

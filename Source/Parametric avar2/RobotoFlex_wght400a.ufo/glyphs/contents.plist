@@ -794,6 +794,8 @@
     <string>breve.cyr.glif</string>
     <key>breve.cyr.case</key>
     <string>breve.cyr.case.glif</string>
+    <key>brevebelow</key>
+    <string>brevebelow.glif</string>
     <key>brevebelowcomb</key>
     <string>brevebelowcomb.glif</string>
     <key>brevebelowcomb.case</key>
@@ -804,6 +806,8 @@
     <string>brevecomb.case.glif</string>
     <key>brevecombstack.case</key>
     <string>brevecombstack.case.glif</string>
+    <key>breveinverted</key>
+    <string>breveinverted.glif</string>
     <key>breveinvertedcomb</key>
     <string>breveinvertedcomb.glif</string>
     <key>breveinvertedcomb.case</key>
@@ -874,6 +878,8 @@
     <string>coloncurrency.rvrn.glif</string>
     <key>comma</key>
     <string>comma.glif</string>
+    <key>commaaccent</key>
+    <string>commaaccent.glif</string>
     <key>commaaccentcomb</key>
     <string>commaaccentcomb.glif</string>
     <key>commaaccentcomb.case</key>
@@ -894,6 +900,8 @@
     <string>dagger.glif</string>
     <key>daggerdbl</key>
     <string>daggerdbl.glif</string>
+    <key>dblgrave</key>
+    <string>dblgrave.glif</string>
     <key>dblgravecomb</key>
     <string>dblgravecomb.glif</string>
     <key>dblgravecomb.case</key>
@@ -926,6 +934,8 @@
     <string>diagonalbaro.rvrn.glif</string>
     <key>dieresis</key>
     <string>dieresis.glif</string>
+    <key>dieresisbelow</key>
+    <string>dieresisbelow.glif</string>
     <key>dieresisbelowcomb</key>
     <string>dieresisbelowcomb.glif</string>
     <key>dieresisbelowcomb.case</key>
@@ -960,6 +970,8 @@
     <string>dotaccentcomb.case.glif</string>
     <key>dotaccentcombstack.case</key>
     <string>dotaccentcombstack.case.glif</string>
+    <key>dotbelow</key>
+    <string>dotbelow.glif</string>
     <key>dotbelowcomb</key>
     <string>dotbelowcomb.glif</string>
     <key>dotbelowcomb.case</key>
@@ -1178,6 +1190,8 @@
     <string>hcircumflex.glif</string>
     <key>hook-stack.case</key>
     <string>hook-stack.case.glif</string>
+    <key>hookabove</key>
+    <string>hookabove.glif</string>
     <key>hookabove-stack</key>
     <string>hookabove-stack.glif</string>
     <key>hookabovecomb</key>
@@ -1192,6 +1206,8 @@
     <string>horizontalbarH_.glif</string>
     <key>horizontalbarlc</key>
     <string>horizontalbarlc.glif</string>
+    <key>horn</key>
+    <string>horn.glif</string>
     <key>horncomb</key>
     <string>horncomb.glif</string>
     <key>horncomb.case</key>
