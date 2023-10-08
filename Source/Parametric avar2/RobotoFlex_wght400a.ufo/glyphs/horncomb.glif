@@ -1,6 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="horncomb" format="2">
-  <advance width="1024"/>
   <unicode hex="031B"/>
   <anchor x="70" y="1052" name="_topright"/>
   <anchor x="70" y="1293" name="topright"/>
@@ -26,4 +25,10 @@
       <point x="0" y="941" type="qcurve"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.884,0.8791,0.0317,1</string>
+    </dict>
+  </lib>
 </glyph>
