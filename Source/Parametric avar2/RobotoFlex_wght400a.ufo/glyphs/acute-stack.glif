@@ -1,13 +1,15 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="acute-stack" format="2">
   <advance width="1024"/>
-  <anchor x="512" y="1052" name="_top"/>
+  <anchor x="512" y="1456" name="_top"/>
+  <anchor x="512" y="1998" name="top"/>
   <outline>
-    <contour>
-      <point x="414" y="1676" type="line"/>
-      <point x="655" y="1970" type="line"/>
-      <point x="808" y="1865" type="line"/>
-      <point x="509" y="1590" type="line"/>
-    </contour>
+    <component base="acutecomb-stack" xOffset="512"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.884,0.8791,0.0317,1</string>
+    </dict>
+  </lib>
 </glyph>

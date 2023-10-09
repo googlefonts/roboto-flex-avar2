@@ -1,13 +1,16 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="grave-stack" format="2">
   <advance width="1024"/>
-  <anchor x="512" y="1052" name="_top"/>
+  <anchor x="1024.0" y="1455" name="_top"/>
+  <anchor x="1024.0" y="1974" name="top"/>
+  <anchor x="1024.0" y="1052" name="_top"/>
   <outline>
-    <contour>
-      <point x="509" y="1590" type="line"/>
-      <point x="210" y="1865" type="line"/>
-      <point x="363" y="1970" type="line"/>
-      <point x="614" y="1669" type="line"/>
-    </contour>
+    <component base="gravecomb-stack" xOffset="512"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.884,0.8791,0.0317,1</string>
+    </dict>
+  </lib>
 </glyph>
