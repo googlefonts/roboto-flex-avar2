@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ieukran" format="2">
+  <advance width="1070"/>
+  <unicode hex="0454"/>
+  <guideline x="180" y="548" angle="90.0" identifier="n4jm0tBg3Y"/>
+  <outline>
+    <contour>
+      <point x="85" y="510" type="qcurve" smooth="yes"/>
+      <point x="85" y="542" type="line" smooth="yes"/>
+      <point x="85" y="789"/>
+      <point x="339" y="1082"/>
+      <point x="562" y="1082" type="qcurve" smooth="yes"/>
+      <point x="776" y="1082"/>
+      <point x="999" y="857"/>
+      <point x="999" y="717" type="qcurve" smooth="yes"/>
+      <point x="999" y="706" type="line"/>
+      <point x="906" y="706" type="line"/>
+      <point x="906" y="717" type="line" smooth="yes"/>
+      <point x="906" y="858"/>
+      <point x="743" y="994"/>
+      <point x="566" y="994" type="qcurve" smooth="yes"/>
+      <point x="371" y="994"/>
+      <point x="184" y="791"/>
+      <point x="184" y="553" type="qcurve" smooth="yes"/>
+      <point x="184" y="514" type="line" smooth="yes"/>
+      <point x="184" y="275"/>
+      <point x="371" y="58"/>
+      <point x="569" y="58" type="qcurve" smooth="yes"/>
+      <point x="747" y="58"/>
+      <point x="908" y="191"/>
+      <point x="908" y="334" type="qcurve" smooth="yes"/>
+      <point x="908" y="343" type="line"/>
+      <point x="1001" y="343" type="line"/>
+      <point x="1001" y="334" type="line" smooth="yes"/>
+      <point x="1001" y="194"/>
+      <point x="779" y="-30"/>
+      <point x="565" y="-30" type="qcurve" smooth="yes"/>
+      <point x="341" y="-30"/>
+      <point x="85" y="263"/>
+    </contour>
+    <contour>
+      <point x="135" y="581" type="line"/>
+      <point x="710" y="581" type="line"/>
+      <point x="710" y="494" type="line"/>
+      <point x="135" y="494" type="line"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="iotadieresis" format="2">
+  <advance width="509"/>
+  <unicode hex="03CA"/>
+  <outline>
+    <component base="iota" xOffset="-3"/>
+    <component base="dieresiscomb" xOffset="-316" yOffset="11"/>
+  </outline>
+</glyph>

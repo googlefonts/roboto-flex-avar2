@@ -24,4 +24,3 @@ P.build_variable_fonts(D, output_path=varFontPath, verbose=True)
 print('done!\n')
 
 print(varFontPath, os.path.exists(varFontPath))
-

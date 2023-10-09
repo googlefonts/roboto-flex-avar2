@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tilde" format="2">
+  <advance width="1024"/>
+  <unicode hex="02DC"/>
+  <outline>
+    <contour>
+      <point x="153" y="1329" type="line"/>
+      <point x="186" y="1392"/>
+      <point x="325" y="1491"/>
+      <point x="396" y="1491" type="qcurve" smooth="yes"/>
+      <point x="437" y="1491"/>
+      <point x="514" y="1464"/>
+      <point x="551" y="1440" type="qcurve" smooth="yes"/>
+      <point x="585" y="1417"/>
+      <point x="661" y="1376"/>
+      <point x="699" y="1376" type="qcurve" smooth="yes"/>
+      <point x="738" y="1376"/>
+      <point x="805" y="1428"/>
+      <point x="828" y="1464" type="qcurve"/>
+      <point x="913" y="1360" type="line"/>
+      <point x="874" y="1290"/>
+      <point x="742" y="1216"/>
+      <point x="683" y="1216" type="qcurve" smooth="yes"/>
+      <point x="633" y="1216"/>
+      <point x="541" y="1258"/>
+      <point x="509" y="1276" type="qcurve" smooth="yes"/>
+      <point x="475" y="1296"/>
+      <point x="405" y="1329"/>
+      <point x="376" y="1329" type="qcurve" smooth="yes"/>
+      <point x="330" y="1329"/>
+      <point x="251" y="1259"/>
+      <point x="233" y="1232" type="qcurve"/>
+    </contour>
+  </outline>
+</glyph>

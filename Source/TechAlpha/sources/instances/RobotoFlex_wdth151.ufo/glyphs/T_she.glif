@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Tshe" format="2">
+  <advance width="1669"/>
+  <unicode hex="040B"/>
+  <guideline x="568" y="683" angle="90.0" identifier="juO2xYoEN4"/>
+  <outline>
+    <contour>
+      <point x="1328" y="0" type="line"/>
+      <point x="1328" y="391" type="line" smooth="yes"/>
+      <point x="1328" y="569"/>
+      <point x="1160" y="689"/>
+      <point x="967" y="689" type="qcurve" smooth="yes"/>
+      <point x="886" y="689"/>
+      <point x="701" y="673"/>
+      <point x="575" y="647" type="qcurve"/>
+      <point x="575" y="809" type="line"/>
+      <point x="699" y="834"/>
+      <point x="894" y="851"/>
+      <point x="1000" y="851" type="qcurve" smooth="yes"/>
+      <point x="1294" y="851"/>
+      <point x="1529" y="627"/>
+      <point x="1529" y="391" type="qcurve" smooth="yes"/>
+      <point x="1529" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="24" y="1294" type="line"/>
+      <point x="24" y="1456" type="line"/>
+      <point x="1162" y="1456" type="line"/>
+      <point x="1162" y="1294" type="line"/>
+      <point x="674" y="1294" type="line"/>
+      <point x="674" y="0" type="line"/>
+      <point x="472" y="0" type="line"/>
+      <point x="472" y="1294" type="line"/>
+    </contour>
+  </outline>
+</glyph>

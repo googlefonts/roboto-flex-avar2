@@ -10,7 +10,10 @@ fea = '' # include(features/RobotoFlex.fea)
 
 for sourcePath in sources:
     f = OpenFont(sourcePath, showInterface=False)
-    print(sourcePath)
-    print('fea:', f.features.text) # = fea
-    # f.save()
+    if '../features' in f.features.text:
+        print(sourcePath)
+        print(f.features.text)
+        f.features.text = f.features.text.replace('../', '')
+        print(f.features.text)
+    f.save()
     print()

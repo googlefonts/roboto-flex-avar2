@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Che" format="2">
+  <advance width="1594"/>
+  <unicode hex="0427"/>
+  <guideline x="1123" y="741" angle="90.0" identifier="nfCxFSb4p1"/>
+  <outline>
+    <contour>
+      <point x="559" y="1133" type="line" smooth="yes"/>
+      <point x="559" y="990"/>
+      <point x="691" y="835"/>
+      <point x="772" y="835" type="qcurve" smooth="yes"/>
+      <point x="891" y="835"/>
+      <point x="994" y="855"/>
+      <point x="1095" y="876" type="qcurve"/>
+      <point x="1095" y="576" type="line"/>
+      <point x="928" y="554"/>
+      <point x="816" y="535"/>
+      <point x="659" y="535" type="qcurve" smooth="yes"/>
+      <point x="416" y="535"/>
+      <point x="139" y="789"/>
+      <point x="140" y="994" type="qcurve" smooth="yes"/>
+      <point x="140" y="1456" type="line"/>
+      <point x="559" y="1456" type="line"/>
+    </contour>
+    <contour>
+      <point x="1424" y="1456" type="line"/>
+      <point x="1424" y="0" type="line"/>
+      <point x="999" y="0" type="line"/>
+      <point x="999" y="1456" type="line"/>
+    </contour>
+  </outline>
+</glyph>

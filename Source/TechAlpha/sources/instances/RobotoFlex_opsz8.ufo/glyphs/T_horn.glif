@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Thorn" format="2">
+  <advance width="1229"/>
+  <unicode hex="00DE"/>
+  <guideline y="901" identifier="i9jYwjBDP4"/>
+  <guideline y="555" identifier="T8KKW8oxop"/>
+  <outline>
+    <contour>
+      <point x="170" y="1456" type="line"/>
+      <point x="368" y="1456" type="line"/>
+      <point x="368" y="1163" type="line"/>
+      <point x="692" y="1163" type="line" smooth="yes"/>
+      <point x="927" y="1163"/>
+      <point x="1179" y="935"/>
+      <point x="1179" y="738" type="qcurve" smooth="yes"/>
+      <point x="1179" y="541"/>
+      <point x="927" y="314"/>
+      <point x="692" y="314" type="qcurve" smooth="yes"/>
+      <point x="368" y="314" type="line"/>
+      <point x="368" y="0" type="line"/>
+      <point x="170" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="679" y="1000" type="qcurve" smooth="yes"/>
+      <point x="368" y="1000" type="line"/>
+      <point x="368" y="476" type="line"/>
+      <point x="679" y="476" type="line" smooth="yes"/>
+      <point x="839" y="476"/>
+      <point x="981" y="609"/>
+      <point x="981" y="735" type="qcurve" smooth="yes"/>
+      <point x="981" y="862"/>
+      <point x="839" y="1000"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.guideline.magnetic.T8KKW8oxop</key>
+      <integer>5</integer>
+      <key>com.typemytype.robofont.guideline.magnetic.i9jYwjBDP4</key>
+      <integer>5</integer>
+    </dict>
+  </lib>
+</glyph>

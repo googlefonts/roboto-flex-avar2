@@ -1,6 +1,7 @@
 # menuTitle: build Roboto Flex avar2 designspaces
 
 import os, glob
+import ufoProcessor
 from fontTools.designspaceLib import DesignSpaceDocument, AxisDescriptor, SourceDescriptor, InstanceDescriptor
 from variableValues.measurements import FontMeasurements
 
@@ -54,7 +55,7 @@ class RobotoFlexDesignSpaceBuilder:
 
     familyName = 'Roboto Flex'
 
-    parametricAxes = 'XOPQ XOUC XOLC XOFI XTRA XTUC XTLC XTFI YOPQ YTAS YTDE YTUC YTLC YTFI'.split()
+    parametricAxes = 'XOPQ XTRA YOPQ YTAS YTDE YTUC YTLC YTFI'.split() # XOUC XOLC XOFI XTUC XTLC XTFI 
     parametricAxesHidden = False
 
     blendedAxes = 'opsz wght wdth'.split()
@@ -198,18 +199,20 @@ class RobotoFlexDesignSpaceBuilder:
                     # create instance location from default + parameters
                     L = self.defaultLocation.copy()
                     value = int(os.path.splitext(os.path.split(ufoPath)[-1])[0].split('_')[-1][4:])
-                    L[blendedAxisName] = value
+                    valuePermill = permille(value, f.info.unitsPerEm)
+                    L[blendedAxisName] = valuePermill
                     for measurementName in self.parametricAxes:
-                        L[measurementName] = int(M.values[measurementName])
+                        valuePermill = permille(int(M.values[measurementName]), f.info.unitsPerEm)
+                        L[measurementName] = valuePermill                        
                     # make instance object
                     I = InstanceDescriptor()
-                    I.path       = ufoPath
+                    # I.path       = ufoPath
                     I.familyName = self.familyName
                     I.styleName = f.info.styleName.replace(' ', '')
                     I.name      = f.info.styleName.replace(' ', '')
                     I.designLocation = L
+                    I.filename = os.path.join('instances', os.path.split(ufoPath)[-1])
                     self.designspace.addInstance(I)
-
 
     def build(self):
         self.designspace = DesignSpaceDocument()
@@ -221,6 +224,8 @@ class RobotoFlexDesignSpaceBuilder:
         # save .designspace file
         self.designspace.write(self.designspacePath)
 
+    def buildInstances(self):
+        ufoProcessor.build(self.designspacePath)
 
 class RobotoFlexDesignSpaceBuilderA(RobotoFlexDesignSpaceBuilder):
 
@@ -347,6 +352,7 @@ if __name__ == '__main__':
     D = RobotoFlexDesignSpaceBuilder()
     D.build()
     D.save()
+    D.buildInstances()
     
     # D1 = RobotoFlexDesignSpaceBuilderA()
     # D1.build()

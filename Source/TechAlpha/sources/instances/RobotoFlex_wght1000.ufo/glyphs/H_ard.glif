@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Hard" format="2">
+  <advance width="1474"/>
+  <unicode hex="042A"/>
+  <outline>
+    <contour>
+      <point x="24" y="1162" type="line"/>
+      <point x="24" y="1456" type="line"/>
+      <point x="612" y="1456" type="line"/>
+      <point x="612" y="883" type="line"/>
+      <point x="837" y="883" type="line" smooth="yes"/>
+      <point x="1109" y="883"/>
+      <point x="1424" y="645"/>
+      <point x="1424" y="445" type="qcurve" smooth="yes"/>
+      <point x="1424" y="245"/>
+      <point x="1110" y="0"/>
+      <point x="839" y="0" type="qcurve" smooth="yes"/>
+      <point x="193" y="0" type="line"/>
+      <point x="193" y="1162" type="line"/>
+    </contour>
+    <contour>
+      <point x="612" y="574" type="line"/>
+      <point x="612" y="297" type="line"/>
+      <point x="764" y="297" type="line" smooth="yes"/>
+      <point x="892" y="297"/>
+      <point x="1007" y="378"/>
+      <point x="1007" y="437" type="qcurve" smooth="yes"/>
+      <point x="1007" y="494"/>
+      <point x="892" y="574"/>
+      <point x="764" y="574" type="qcurve" smooth="yes"/>
+    </contour>
+  </outline>
+</glyph>

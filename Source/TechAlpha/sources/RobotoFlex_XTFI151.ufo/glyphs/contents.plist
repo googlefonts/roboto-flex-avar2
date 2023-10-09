@@ -2,8 +2,12 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
   <dict>
+    <key>CR</key>
+    <string>C_R_.glif</string>
     <key>Euro</key>
     <string>E_uro.glif</string>
+    <key>Pi</key>
+    <string>P_i.glif</string>
     <key>cent</key>
     <string>cent.glif</string>
     <key>cent.rvrn</key>
@@ -28,6 +32,8 @@
     <string>five.glif</string>
     <key>five.prop</key>
     <string>five.prop.glif</string>
+    <key>florin</key>
+    <string>florin.glif</string>
     <key>four</key>
     <string>four.glif</string>
     <key>four.prop</key>
@@ -48,6 +54,8 @@
     <string>naira.glif</string>
     <key>naira.rvrn</key>
     <string>naira.rvrn.glif</string>
+    <key>nbspace</key>
+    <string>nbspace.glif</string>
     <key>nine</key>
     <string>nine.glif</string>
     <key>nine.prop</key>
@@ -70,6 +78,8 @@
     <string>six.glif</string>
     <key>six.prop</key>
     <string>six.prop.glif</string>
+    <key>space</key>
+    <string>space.glif</string>
     <key>sterling</key>
     <string>sterling.glif</string>
     <key>tenge</key>
