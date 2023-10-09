@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="chedescender-cy" format="2">
+  <advance width="1352"/>
+  <unicode hex="04B7"/>
+  <outline>
+    <contour>
+      <point x="555" y="852" type="line" smooth="yes"/>
+      <point x="555" y="721"/>
+      <point x="591" y="612"/>
+      <point x="671" y="612" type="qcurve" smooth="yes"/>
+      <point x="708" y="612"/>
+      <point x="804" y="629"/>
+      <point x="887" y="660" type="qcurve"/>
+      <point x="887" y="364" type="line"/>
+      <point x="770" y="346"/>
+      <point x="628" y="316"/>
+      <point x="517" y="316" type="qcurve" smooth="yes"/>
+      <point x="296" y="316"/>
+      <point x="125" y="485"/>
+      <point x="125" y="675" type="qcurve" smooth="yes"/>
+      <point x="125" y="1060" type="line"/>
+      <point x="555" y="1060" type="line"/>
+    </contour>
+    <contour>
+      <point x="938" y="-270" type="line"/>
+      <point x="938" y="0" type="line"/>
+      <point x="794" y="0" type="line"/>
+      <point x="794" y="1060" type="line"/>
+      <point x="1207" y="1060" type="line"/>
+      <point x="1207" y="281" type="line"/>
+      <point x="1332" y="281" type="line"/>
+      <point x="1332" y="-270" type="line"/>
+    </contour>
+  </outline>
+</glyph>

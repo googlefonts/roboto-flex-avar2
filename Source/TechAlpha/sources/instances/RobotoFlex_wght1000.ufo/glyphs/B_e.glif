@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Be" format="2">
+  <advance width="1411"/>
+  <unicode hex="0411"/>
+  <outline>
+    <contour>
+      <point x="170" y="0" type="line"/>
+      <point x="170" y="1456" type="line"/>
+      <point x="1034" y="1456" type="line"/>
+      <point x="1034" y="1145" type="line"/>
+      <point x="590" y="1145" type="line"/>
+      <point x="590" y="892" type="line"/>
+      <point x="896" y="892" type="line" smooth="yes"/>
+      <point x="1121" y="892"/>
+      <point x="1361" y="630"/>
+      <point x="1361" y="435" type="qcurve" smooth="yes"/>
+      <point x="1361" y="239"/>
+      <point x="1121" y="0"/>
+      <point x="896" y="0" type="qcurve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="590" y="583" type="line"/>
+      <point x="590" y="298" type="line"/>
+      <point x="763" y="298" type="line" smooth="yes"/>
+      <point x="865" y="298"/>
+      <point x="946" y="382"/>
+      <point x="946" y="442" type="qcurve" smooth="yes"/>
+      <point x="946" y="501"/>
+      <point x="865" y="583"/>
+      <point x="763" y="583" type="qcurve" smooth="yes"/>
+    </contour>
+  </outline>
+</glyph>

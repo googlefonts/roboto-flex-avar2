@@ -76,6 +76,8 @@
     <string>B_eta.glif</string>
     <key>C</key>
     <string>C_.glif</string>
+    <key>CR</key>
+    <string>C_R_.glif</string>
     <key>Cacute</key>
     <string>C_acute.glif</string>
     <key>Ccaron</key>
@@ -652,8 +654,16 @@
     <string>emacron.glif</string>
     <key>grave</key>
     <string>grave.glif</string>
+    <key>iebrevecyr</key>
+    <string>iebrevecyr.glif</string>
+    <key>ishort</key>
+    <string>ishort.glif</string>
+    <key>ishort.bgr</key>
+    <string>ishort.bgr.glif</string>
     <key>multiply</key>
     <string>multiply.glif</string>
+    <key>nbspace</key>
+    <string>nbspace.glif</string>
     <key>odieresismacron</key>
     <string>odieresismacron.glif</string>
     <key>odotaccentmacron</key>
@@ -662,17 +672,25 @@
     <string>ohm.glif</string>
     <key>otildemacron</key>
     <string>otildemacron.glif</string>
+    <key>perthousand</key>
+    <string>perthousand.glif</string>
     <key>scommaaccent</key>
     <string>scommaaccent.glif</string>
+    <key>space</key>
+    <string>space.glif</string>
     <key>tcommaaccent</key>
     <string>tcommaaccent.glif</string>
     <key>udblgrave</key>
     <string>udblgrave.glif</string>
     <key>uinvertedbreve</key>
     <string>uinvertedbreve.glif</string>
+    <key>ushort</key>
+    <string>ushort.glif</string>
     <key>yeru</key>
     <string>yeru.glif</string>
     <key>ymacron</key>
     <string>ymacron.glif</string>
+    <key>zhebrevecyr</key>
+    <string>zhebrevecyr.glif</string>
   </dict>
 </plist>

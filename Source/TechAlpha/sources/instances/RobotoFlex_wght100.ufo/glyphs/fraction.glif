@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="fraction" format="2">
+  <advance width="441"/>
+  <unicode hex="2044"/>
+  <guideline y="901" identifier="tcCoNUQTdD"/>
+  <guideline y="555" identifier="0lx51aIE0d"/>
+  <outline>
+    <contour>
+      <point x="770" y="1435" type="line"/>
+      <point x="-250" y="-23" type="line"/>
+      <point x="-323" y="28" type="line"/>
+      <point x="696" y="1486" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.guideline.magnetic.0lx51aIE0d</key>
+      <integer>5</integer>
+      <key>com.typemytype.robofont.guideline.magnetic.tcCoNUQTdD</key>
+      <integer>5</integer>
+    </dict>
+  </lib>
+</glyph>

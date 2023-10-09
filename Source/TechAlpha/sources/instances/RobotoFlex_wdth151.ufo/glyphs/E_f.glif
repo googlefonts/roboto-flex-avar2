@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Ef" format="2">
+  <advance width="1778"/>
+  <unicode hex="0424"/>
+  <outline>
+    <contour>
+      <point x="986" y="1476" type="line"/>
+      <point x="986" y="1283" type="line"/>
+      <point x="1017" y="1283" type="line" smooth="yes"/>
+      <point x="1338" y="1283"/>
+      <point x="1673" y="991"/>
+      <point x="1673" y="738" type="qcurve" smooth="yes"/>
+      <point x="1673" y="485"/>
+      <point x="1338" y="194"/>
+      <point x="1017" y="194" type="qcurve" smooth="yes"/>
+      <point x="986" y="194" type="line"/>
+      <point x="986" y="-20" type="line"/>
+      <point x="792" y="-20" type="line"/>
+      <point x="792" y="194" type="line"/>
+      <point x="761" y="194" type="line" smooth="yes"/>
+      <point x="440" y="194"/>
+      <point x="105" y="486"/>
+      <point x="105" y="739" type="qcurve" smooth="yes"/>
+      <point x="105" y="992"/>
+      <point x="440" y="1283"/>
+      <point x="761" y="1283" type="qcurve" smooth="yes"/>
+      <point x="792" y="1283" type="line"/>
+      <point x="792" y="1476" type="line"/>
+    </contour>
+    <contour>
+      <point x="1014" y="1128" type="qcurve" smooth="yes"/>
+      <point x="986" y="1128" type="line"/>
+      <point x="986" y="349" type="line"/>
+      <point x="1014" y="349" type="line" smooth="yes"/>
+      <point x="1265" y="349"/>
+      <point x="1476" y="546"/>
+      <point x="1476" y="736" type="qcurve" smooth="yes"/>
+      <point x="1476" y="924"/>
+      <point x="1265" y="1128"/>
+    </contour>
+    <contour>
+      <point x="764" y="1128" type="line" smooth="yes"/>
+      <point x="513" y="1128"/>
+      <point x="302" y="930"/>
+      <point x="302" y="741" type="qcurve" smooth="yes"/>
+      <point x="302" y="554"/>
+      <point x="513" y="349"/>
+      <point x="764" y="349" type="qcurve" smooth="yes"/>
+      <point x="792" y="349" type="line"/>
+      <point x="792" y="1128" type="line"/>
+    </contour>
+  </outline>
+</glyph>

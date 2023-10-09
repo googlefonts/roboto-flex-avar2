@@ -1,7 +1,8 @@
 # menuTitle: build Roboto Flex avar2 designspaces
 
 import os, glob
-from fontTools.designspaceLib import DesignSpaceDocument, AxisDescriptor, SourceDescriptor
+import ufoProcessor
+from fontTools.designspaceLib import DesignSpaceDocument, AxisDescriptor, SourceDescriptor, InstanceDescriptor
 from variableValues.measurements import FontMeasurements
 
 
@@ -54,7 +55,7 @@ class RobotoFlexDesignSpaceBuilder:
 
     familyName = 'Roboto Flex'
 
-    parametricAxes = 'XOPQ XOUC XOLC XOFI XTRA XTUC XTLC XTFI YOPQ YTAS YTDE YTUC YTLC YTFI'.split()
+    parametricAxes = 'XOPQ XTRA YOPQ YTAS YTDE YTUC YTLC YTFI'.split() # XOUC XOLC XOFI XTUC XTLC XTFI 
     parametricAxesHidden = False
 
     blendedAxes = 'opsz wght wdth'.split()
@@ -127,8 +128,6 @@ class RobotoFlexDesignSpaceBuilder:
                     L = self.defaultLocation.copy()
                     value = int(os.path.splitext(os.path.split(ufo)[-1])[0].split('_')[-1][4:])
                     L[name] = value
-                    L['slnt'] = 0
-                    L['GRAD'] = 0
                     src.location = L
                     self.designspace.addSource(src)
 
@@ -187,15 +186,33 @@ class RobotoFlexDesignSpaceBuilder:
 
     def addInstances(self):
 
-        # i = InstanceDescriptor()
-        # i.name    = 'slnt'
-        # i.tag     = 'slnt'
-        # i.minimum = -10
-        # i.maximum = 0
-        # i.default = 0
-        # self.designspace.addInstance(a)
-        pass
+        # prepare for measurements
+        M = FontMeasurements()
+        M.read(self.measurementsPath)
 
+        for blendedAxisName in self.blendedAxes:
+            for ufoPath in self.sourcesExtrema:
+                if blendedAxisName in ufoPath:
+                    # get measurements
+                    f = OpenFont(ufoPath, showInterface=False)
+                    M.measure(f)
+                    # create instance location from default + parameters
+                    L = self.defaultLocation.copy()
+                    value = int(os.path.splitext(os.path.split(ufoPath)[-1])[0].split('_')[-1][4:])
+                    valuePermill = permille(value, f.info.unitsPerEm)
+                    L[blendedAxisName] = valuePermill
+                    for measurementName in self.parametricAxes:
+                        valuePermill = permille(int(M.values[measurementName]), f.info.unitsPerEm)
+                        L[measurementName] = valuePermill                        
+                    # make instance object
+                    I = InstanceDescriptor()
+                    # I.path       = ufoPath
+                    I.familyName = self.familyName
+                    I.styleName = f.info.styleName.replace(' ', '')
+                    I.name      = f.info.styleName.replace(' ', '')
+                    I.designLocation = L
+                    I.filename = os.path.join('instances', os.path.split(ufoPath)[-1])
+                    self.designspace.addInstance(I)
 
     def build(self):
         self.designspace = DesignSpaceDocument()
@@ -207,6 +224,8 @@ class RobotoFlexDesignSpaceBuilder:
         # save .designspace file
         self.designspace.write(self.designspacePath)
 
+    def buildInstances(self):
+        ufoProcessor.build(self.designspacePath)
 
 class RobotoFlexDesignSpaceBuilderA(RobotoFlexDesignSpaceBuilder):
 
@@ -330,14 +349,15 @@ class RobotoFlexDesignSpaceBuilderC(RobotoFlexDesignSpaceBuilder):
 
 if __name__ == '__main__':
     
-    # D = RobotoFlexDesignSpaceBuilder()
-    # D.build()
-    # D.save()
+    D = RobotoFlexDesignSpaceBuilder()
+    D.build()
+    D.save()
+    D.buildInstances()
     
-    D1 = RobotoFlexDesignSpaceBuilderA()
-    D1.build()
-    D1.save()
-    D1.injectBlendedAxes()
+    # D1 = RobotoFlexDesignSpaceBuilderA()
+    # D1.build()
+    # D1.save()
+    # D1.injectBlendedAxes()
 
     # D2 = RobotoFlexDesignSpaceBuilderB()
     # print(D2.designspacePath)

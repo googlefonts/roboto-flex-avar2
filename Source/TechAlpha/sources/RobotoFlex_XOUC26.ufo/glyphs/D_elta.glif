@@ -24,4 +24,10 @@
       <point x="626" y="1210" type="qcurve" smooth="yes"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.4,0.8,0.9989,1</string>
+    </dict>
+  </lib>
 </glyph>

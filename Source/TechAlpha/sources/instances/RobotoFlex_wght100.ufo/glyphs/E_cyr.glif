@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Ecyr" format="2">
+  <advance width="1165"/>
+  <unicode hex="042D"/>
+  <guideline x="1147" y="753" angle="90.0" identifier="Ovo68woMtl"/>
+  <outline>
+    <contour>
+      <point x="1003" y="798" type="line"/>
+      <point x="1003" y="704" type="line"/>
+      <point x="308" y="704" type="line"/>
+      <point x="308" y="798" type="line"/>
+    </contour>
+    <contour>
+      <point x="954" y="674" type="qcurve" smooth="yes"/>
+      <point x="954" y="797" type="line" smooth="yes"/>
+      <point x="954" y="1126"/>
+      <point x="734" y="1386"/>
+      <point x="548" y="1386" type="qcurve" smooth="yes"/>
+      <point x="373" y="1386"/>
+      <point x="180" y="1206"/>
+      <point x="180" y="1035" type="qcurve" smooth="yes"/>
+      <point x="180" y="990" type="line"/>
+      <point x="84" y="990" type="line"/>
+      <point x="84" y="1003" type="line" smooth="yes"/>
+      <point x="84" y="1215"/>
+      <point x="331" y="1486"/>
+      <point x="550" y="1486" type="qcurve" smooth="yes"/>
+      <point x="777" y="1486"/>
+      <point x="1050" y="1117"/>
+      <point x="1050" y="795" type="qcurve" smooth="yes"/>
+      <point x="1050" y="707" type="line" smooth="yes"/>
+      <point x="1050" y="331"/>
+      <point x="768" y="-30"/>
+      <point x="546" y="-30" type="qcurve" smooth="yes"/>
+      <point x="330" y="-30"/>
+      <point x="84" y="259"/>
+      <point x="84" y="461" type="qcurve" smooth="yes"/>
+      <point x="84" y="466" type="line"/>
+      <point x="180" y="466" type="line"/>
+      <point x="180" y="429" type="line" smooth="yes"/>
+      <point x="180" y="263"/>
+      <point x="360" y="70"/>
+      <point x="543" y="70" type="qcurve" smooth="yes"/>
+      <point x="753" y="70"/>
+      <point x="954" y="367"/>
+    </contour>
+  </outline>
+</glyph>
