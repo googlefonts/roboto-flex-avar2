@@ -7,4 +7,10 @@
     <component base="gravecomb.case" xOffset="-100"/>
     <component base="gravecomb.case" xOffset="200"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>1,0,0,1</string>
+    </dict>
+  </lib>
 </glyph>

@@ -943,12 +943,6 @@
           <string>yi-dieresis</string>
           <string>Cy-descender.case</string>
           <string>cy-descender</string>
-          <string>breve-stack.case</string>
-          <string>circumflex-stack.case</string>
-          <string>acute-stack.case</string>
-          <string>grave-stack.case</string>
-          <string>hook-stack.case</string>
-          <string>tilde-stack.case</string>
           <string>hookabove</string>
           <string>breveinverted</string>
           <string>dblgrave</string>
@@ -958,7 +952,7 @@
           <string>commaaccent</string>
           <string>brevebelow</string>
           <string>macronbelow</string>
-          <string>commaaccentturned.</string>
+          <string>commaaccentturned</string>
           <string>Yi-dieresiscomb.case</string>
           <string>yi-dieresiscomb</string>
           <string>Cy-descendercomb.case</string>
@@ -986,11 +980,18 @@
           <string>dotaccent-stack</string>
           <string>dieresis-stack</string>
           <string>hookabove-stack</string>
-          <string>ringcomb-stack.copy_1</string>
-          <string>hungarumlautcomb.stack.copy_1</string>
-          <string>caroncomb.stack.copy_1</string>
-          <string>breveinvertedcomb.stack.copy_1</string>
-          <string>dblgravecomb.case.copy_1.copy_1</string>
+          <string>ring-stack</string>
+          <string>hungarumlaut-stack</string>
+          <string>caron-stack</string>
+          <string>breveinverted-stack</string>
+          <string>dblgrave-stack</string>
+          <string>grave-stack.case</string>
+          <string>acute-stack.case</string>
+          <string>circumflexcomb-stack.case</string>
+          <string>tildecomb-stack.case</string>
+          <string>macroncomb-stack.case</string>
+          <string>brevecomb-stack.case</string>
+          <string>hookcomb-stack.case</string>
         </array>
         <key>type</key>
         <string>glyphList</string>
@@ -2529,12 +2530,6 @@
       <string>yi-dieresis</string>
       <string>Cy-descender.case</string>
       <string>cy-descender</string>
-      <string>breve-stack.case</string>
-      <string>circumflex-stack.case</string>
-      <string>acute-stack.case</string>
-      <string>grave-stack.case</string>
-      <string>hook-stack.case</string>
-      <string>tilde-stack.case</string>
       <string>hookabove</string>
       <string>breveinverted</string>
       <string>dblgrave</string>
@@ -2544,7 +2539,7 @@
       <string>commaaccent</string>
       <string>brevebelow</string>
       <string>macronbelow</string>
-      <string>commaaccentturned.</string>
+      <string>commaaccentturned</string>
       <string>Yi-dieresiscomb.case</string>
       <string>yi-dieresiscomb</string>
       <string>Cy-descendercomb.case</string>
@@ -2577,6 +2572,20 @@
       <string>caron-stack</string>
       <string>breveinverted-stack</string>
       <string>dblgrave-stack</string>
+      <string>gravecomb-stack.case</string>
+      <string>acutecomb-stack.case</string>
+      <string>circumflexcomb-stack.case</string>
+      <string>tildecomb-stack.case</string>
+      <string>macroncomb-stack.case</string>
+      <string>brevecomb-stack.case</string>
+      <string>hookcomb-stack.case</string>
+      <string>dotaccentcomb-stack.case</string>
+      <string>dieresiscomb-stack.case</string>
+      <string>ringcomb-stack.case</string>
+      <string>hungarumlautcomb-stack.case</string>
+      <string>caroncomb-stack.case</string>
+      <string>breveinvertedcomb-stack.case</string>
+      <string>dblgravecomb-stack.case</string>
     </array>
     <key>public.postscriptNames</key>
     <dict/>
