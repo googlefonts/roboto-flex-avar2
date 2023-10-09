@@ -23,7 +23,7 @@ Parametric axes
 
 - [x] `slnt` slant
 - [x] `GRAD` Grade
-- [x] `SPAC` Spacing
+- [x] `XTSP` Proportional spacing
 - [x] `XOPQ` General x opaque
 - [ ] `XOUC` X stem uppercase
 - [ ] `XOLC` x stem lowercase

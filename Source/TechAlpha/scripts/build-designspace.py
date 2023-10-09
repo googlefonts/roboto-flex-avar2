@@ -1,6 +1,6 @@
 # menuTitle: build Roboto Flex avar2 designspaces
 
-import os, glob
+import os, glob, shutil
 import ufoProcessor
 from fontTools.designspaceLib import DesignSpaceDocument, AxisDescriptor, SourceDescriptor, InstanceDescriptor
 from variableValues.measurements import FontMeasurements
@@ -49,6 +49,7 @@ class RobotoFlexDesignSpaceBuilder:
     baseFolder       = os.path.dirname(os.getcwd())
     sourcesFolder    = os.path.join(baseFolder,    'sources')
     extremaFolder    = os.path.join(sourcesFolder, 'extrema')
+    instancesFolder  = os.path.join(sourcesFolder, 'instances')
     measurementsPath = os.path.join(sourcesFolder, 'measurements.json')
     defaultUFO       = os.path.join(sourcesFolder, 'RobotoFlex_wght400.ufo')
     designspacePath  = os.path.join(sourcesFolder, 'RobotoFlex.designspace')
@@ -65,7 +66,7 @@ class RobotoFlexDesignSpaceBuilder:
         self.sourcesParametric = glob.glob(f'{self.sourcesFolder}/*.ufo')
         self.sourcesExtrema    = glob.glob(f'{self.extremaFolder}/*.ufo')
 
-        # get default measurements
+        # get measurements for default source
         f = OpenFont(self.defaultUFO, showInterface=False)
         self.unitsPerEm = f.info.unitsPerEm
         self.measurementsDefault = FontMeasurements()
@@ -78,10 +79,11 @@ class RobotoFlexDesignSpaceBuilder:
         L = { name : permille(self.measurementsDefault.values[name], self.unitsPerEm) for name in self.parametricAxes }
         L['slnt'] = 0
         L['GRAD'] = 0
-        L['SPAC'] = 0
+        L['XTSP'] = 0
         return L
 
     def addSources(self):
+
         # add default source
         src = SourceDescriptor()
         src.path       = self.defaultUFO
@@ -108,12 +110,12 @@ class RobotoFlexDesignSpaceBuilder:
             src.location   = L
             self.designspace.addSource(src)
 
-        # add SPAC sources
+        # add XTSP sources
         for spacingValue in [-100, 100]:
             L = self.defaultLocation.copy()
-            L['SPAC'] = spacingValue
+            L['XTSP'] = spacingValue
             src = SourceDescriptor()
-            src.path       = os.path.join(self.sourcesFolder, f'RobotoFlex_SPAC{spacingValue}.ufo')
+            src.path       = os.path.join(self.sourcesFolder, f'RobotoFlex_XTSP{spacingValue}.ufo')
             src.familyName = self.familyName
             src.location   = L
             self.designspace.addSource(src)
@@ -133,8 +135,8 @@ class RobotoFlexDesignSpaceBuilder:
 
     def addParametricAxes(self):
         '''
-        slnt GRAD SPAC are added manually
-        parametric axes are added automatically
+        - slnt, GRAD, XTSP are added manually
+        - all parametric axes are added automatically
 
         '''
         # add slant axis
@@ -157,8 +159,8 @@ class RobotoFlexDesignSpaceBuilder:
 
         # add spacing axis
         a = AxisDescriptor()
-        a.name    = 'SPAC'
-        a.tag     = 'SPAC'
+        a.name    = 'XTSP'
+        a.tag     = 'XTSP'
         a.minimum = -100
         a.maximum = 100
         a.default = 0
@@ -186,7 +188,7 @@ class RobotoFlexDesignSpaceBuilder:
 
     def addInstances(self):
 
-        # prepare for measurements
+        # prepare to measure fonts
         M = FontMeasurements()
         M.read(self.measurementsPath)
 
@@ -196,7 +198,8 @@ class RobotoFlexDesignSpaceBuilder:
                     # get measurements
                     f = OpenFont(ufoPath, showInterface=False)
                     M.measure(f)
-                    # create instance location from default + parameters
+
+                    # create instance location from default + measurements
                     L = self.defaultLocation.copy()
                     value = int(os.path.splitext(os.path.split(ufoPath)[-1])[0].split('_')[-1][4:])
                     valuePermill = permille(value, f.info.unitsPerEm)
@@ -204,14 +207,14 @@ class RobotoFlexDesignSpaceBuilder:
                     for measurementName in self.parametricAxes:
                         valuePermill = permille(int(M.values[measurementName]), f.info.unitsPerEm)
                         L[measurementName] = valuePermill                        
-                    # make instance object
+
+                    # add instance to designspace
                     I = InstanceDescriptor()
-                    # I.path       = ufoPath
-                    I.familyName = self.familyName
-                    I.styleName = f.info.styleName.replace(' ', '')
-                    I.name      = f.info.styleName.replace(' ', '')
+                    I.familyName     = self.familyName
+                    I.styleName      = f.info.styleName.replace(' ', '')
+                    I.name           = f.info.styleName.replace(' ', '')
                     I.designLocation = L
-                    I.filename = os.path.join('instances', os.path.split(ufoPath)[-1])
+                    I.filename       = os.path.join('instances', os.path.split(ufoPath)[-1])
                     self.designspace.addInstance(I)
 
     def build(self):
@@ -224,8 +227,15 @@ class RobotoFlexDesignSpaceBuilder:
         # save .designspace file
         self.designspace.write(self.designspacePath)
 
-    def buildInstances(self):
+    def buildInstances(self, clear=True):
+        # delete existing instances
+        if clear:
+            instances = glob.glob(f'{self.instancesFolder}/*.ufo')
+            for instance in instances:
+                shutil.rmtree(instance)
+        # build instances from designspace
         ufoProcessor.build(self.designspacePath)
+
 
 class RobotoFlexDesignSpaceBuilderA(RobotoFlexDesignSpaceBuilder):
 
@@ -352,12 +362,12 @@ if __name__ == '__main__':
     D = RobotoFlexDesignSpaceBuilder()
     D.build()
     D.save()
-    D.buildInstances()
+    D.buildInstances(clear=True)
     
     # D1 = RobotoFlexDesignSpaceBuilderA()
     # D1.build()
     # D1.save()
-    # D1.injectBlendedAxes()
+    # D1.injectBlendedAxes()    
 
     # D2 = RobotoFlexDesignSpaceBuilderB()
     # print(D2.designspacePath)
