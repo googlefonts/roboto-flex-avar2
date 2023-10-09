@@ -704,6 +704,8 @@
     <string>acute-stack.case.glif</string>
     <key>acutecomb</key>
     <string>acutecomb.glif</string>
+    <key>acutecomb-stack</key>
+    <string>acutecomb-stack.glif</string>
     <key>acutecomb.case</key>
     <string>acutecomb.case.glif</string>
     <key>acutecombstack.case</key>
@@ -806,16 +808,22 @@
     <string>brevebelowcomb.case.glif</string>
     <key>brevecomb</key>
     <string>brevecomb.glif</string>
+    <key>brevecomb-stack</key>
+    <string>brevecomb-stack.glif</string>
     <key>brevecomb.case</key>
     <string>brevecomb.case.glif</string>
     <key>brevecombstack.case</key>
     <string>brevecombstack.case.glif</string>
     <key>breveinverted</key>
     <string>breveinverted.glif</string>
+    <key>breveinverted-stack</key>
+    <string>breveinverted-stack.glif</string>
     <key>breveinvertedcomb</key>
     <string>breveinvertedcomb.glif</string>
     <key>breveinvertedcomb.case</key>
     <string>breveinvertedcomb.case.glif</string>
+    <key>breveinvertedcomb.stack</key>
+    <string>breveinvertedcomb.stack.glif</string>
     <key>brokenbar</key>
     <string>brokenbar.glif</string>
     <key>bullet</key>
@@ -828,8 +836,12 @@
     <string>cacute.glif</string>
     <key>caron</key>
     <string>caron.glif</string>
+    <key>caron-stack</key>
+    <string>caron-stack.glif</string>
     <key>caroncomb</key>
     <string>caroncomb.glif</string>
+    <key>caroncomb-stack</key>
+    <string>caroncomb-stack.glif</string>
     <key>caroncomb.alt</key>
     <string>caroncomb.alt.glif</string>
     <key>caroncomb.case</key>
@@ -870,6 +882,8 @@
     <string>circumflex-stack.case.glif</string>
     <key>circumflexcomb</key>
     <string>circumflexcomb.glif</string>
+    <key>circumflexcomb-stack</key>
+    <string>circumflexcomb-stack.glif</string>
     <key>circumflexcomb.case</key>
     <string>circumflexcomb.case.glif</string>
     <key>circumflexcombstack.case</key>
@@ -910,8 +924,12 @@
     <string>daggerdbl.glif</string>
     <key>dblgrave</key>
     <string>dblgrave.glif</string>
+    <key>dblgrave-stack</key>
+    <string>dblgrave-stack.glif</string>
     <key>dblgravecomb</key>
     <string>dblgravecomb.glif</string>
+    <key>dblgravecomb-stack</key>
+    <string>dblgravecomb-stack.glif</string>
     <key>dblgravecomb.case</key>
     <string>dblgravecomb.case.glif</string>
     <key>dcaron</key>
@@ -942,6 +960,8 @@
     <string>diagonalbaro.rvrn.glif</string>
     <key>dieresis</key>
     <string>dieresis.glif</string>
+    <key>dieresis-stack</key>
+    <string>dieresis-stack.glif</string>
     <key>dieresisbelow</key>
     <string>dieresisbelow.glif</string>
     <key>dieresisbelowcomb</key>
@@ -950,6 +970,8 @@
     <string>dieresisbelowcomb.case.glif</string>
     <key>dieresiscomb</key>
     <string>dieresiscomb.glif</string>
+    <key>dieresiscomb-stack</key>
+    <string>dieresiscomb-stack.glif</string>
     <key>dieresiscomb.case</key>
     <string>dieresiscomb.case.glif</string>
     <key>dieresiscombstack.case</key>
@@ -972,8 +994,12 @@
     <string>dong.glif</string>
     <key>dotaccent</key>
     <string>dotaccent.glif</string>
+    <key>dotaccent-stack</key>
+    <string>dotaccent-stack.glif</string>
     <key>dotaccentcomb</key>
     <string>dotaccentcomb.glif</string>
+    <key>dotaccentcomb-stack</key>
+    <string>dotaccentcomb-stack.glif</string>
     <key>dotaccentcomb.case</key>
     <string>dotaccentcomb.case.glif</string>
     <key>dotaccentcombstack.case</key>
@@ -1164,6 +1190,8 @@
     <string>grave-stack.case.glif</string>
     <key>gravecomb</key>
     <string>gravecomb.glif</string>
+    <key>gravecomb-stack</key>
+    <string>gravecomb-stack.glif</string>
     <key>gravecomb.case</key>
     <string>gravecomb.case.glif</string>
     <key>gravecombstack.case</key>
@@ -1204,6 +1232,8 @@
     <string>hookabove-stack.glif</string>
     <key>hookabovecomb</key>
     <string>hookabovecomb.glif</string>
+    <key>hookabovecomb-stack</key>
+    <string>hookabovecomb-stack.glif</string>
     <key>hookabovecomb.case</key>
     <string>hookabovecomb.case.glif</string>
     <key>hookabovecombstack.case</key>
@@ -1226,8 +1256,12 @@
     <string>hryvnia.rvrn.glif</string>
     <key>hungarumlaut</key>
     <string>hungarumlaut.glif</string>
+    <key>hungarumlaut-stack</key>
+    <string>hungarumlaut-stack.glif</string>
     <key>hungarumlautcomb</key>
     <string>hungarumlautcomb.glif</string>
+    <key>hungarumlautcomb-stack</key>
+    <string>hungarumlautcomb-stack.glif</string>
     <key>hungarumlautcomb.case</key>
     <string>hungarumlautcomb.case.glif</string>
     <key>hyphen</key>
@@ -1370,6 +1404,8 @@
     <string>m.glif</string>
     <key>macron</key>
     <string>macron.glif</string>
+    <key>macron-stack</key>
+    <string>macron-stack.glif</string>
     <key>macronbelow</key>
     <string>macronbelow.glif</string>
     <key>macronbelowcomb</key>
@@ -1378,6 +1414,8 @@
     <string>macronbelowcomb.case.glif</string>
     <key>macroncomb</key>
     <string>macroncomb.glif</string>
+    <key>macroncomb-stack</key>
+    <string>macroncomb-stack.glif</string>
     <key>macroncomb.case</key>
     <string>macroncomb.case.glif</string>
     <key>macroncombstack.case</key>
@@ -1616,8 +1654,12 @@
     <string>rightanglebracket.glif</string>
     <key>ring</key>
     <string>ring.glif</string>
+    <key>ring-stack</key>
+    <string>ring-stack.glif</string>
     <key>ringcomb</key>
     <string>ringcomb.glif</string>
+    <key>ringcomb-stack</key>
+    <string>ringcomb-stack.glif</string>
     <key>ringcomb.case</key>
     <string>ringcomb.case.glif</string>
     <key>rinvertedbreve</key>
@@ -1724,6 +1766,8 @@
     <string>tilde-stack.case.glif</string>
     <key>tildecomb</key>
     <string>tildecomb.glif</string>
+    <key>tildecomb-stack</key>
+    <string>tildecomb-stack.glif</string>
     <key>tildecomb.case</key>
     <string>tildecomb.case.glif</string>
     <key>tildecombstack.case</key>
