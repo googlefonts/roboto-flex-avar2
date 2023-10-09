@@ -2472,16 +2472,16 @@
       <string>arrowright</string>
       <string>arrowdown</string>
       <string>replacementchar</string>
-      <string>commaaccentturned</string>
+      <string>commaaccentturnedcomb</string>
       <string>enspace</string>
       <string>thinspace</string>
       <string>zerowidthspace</string>
       <string>zerowidthnbspace</string>
       <string>hryvnia.rvrn</string>
-      <string>Yi-dieresis</string>
+      <string>Yi-dieresis.case</string>
       <string>yi-dieresis</string>
-      <string>Cy-descenderH</string>
-      <string>cy-descndeden</string>
+      <string>Cy-descender.case</string>
+      <string>cy-descender</string>
       <string>breve-stack</string>
       <string>circumflex-stack</string>
       <string>breve-stack.case</string>
@@ -2502,6 +2502,12 @@
       <string>dieresisbelow</string>
       <string>commaaccent</string>
       <string>brevebelow</string>
+      <string>macronbelow</string>
+      <string>commaaccentturned.</string>
+      <string>Yi-dieresiscomb.case</string>
+      <string>yi-dieresiscomb</string>
+      <string>Cy-descendercomb.case</string>
+      <string>cy-descendercomb</string>
     </array>
     <key>public.postscriptNames</key>
     <dict/>
