@@ -6,4 +6,10 @@
   <outline>
     <component base="dotaccentcomb.case" yOffset="-2021"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>1,0,0,1</string>
+    </dict>
+  </lib>
 </glyph>
