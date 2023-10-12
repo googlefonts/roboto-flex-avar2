@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="dieresiscomb-stack.case" format="2">
   <anchor x="0.0" y="1456" name="_top"/>
-  <anchor x="0.0" y="1901" name="top"/>
+  <anchor x="0.0" y="1831" name="top"/>
   <outline>
     <contour>
       <point x="-346" y="1717" type="qcurve" smooth="yes"/>
@@ -32,10 +32,4 @@
       <point x="114" y="1666"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>1,0,0,1</string>
-    </dict>
-  </lib>
 </glyph>

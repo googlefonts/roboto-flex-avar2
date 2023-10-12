@@ -1,6 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="brevecomb-stack.case" format="2">
   <anchor x="0.0" y="1456" name="_top"/>
+  <anchor x="0" y="1897" name="top"/>
   <outline>
     <contour>
       <point x="262" y="1897" type="qcurve"/>
@@ -19,10 +20,4 @@
       <point x="223" y="1839"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>1,0,0,1</string>
-    </dict>
-  </lib>
 </glyph>

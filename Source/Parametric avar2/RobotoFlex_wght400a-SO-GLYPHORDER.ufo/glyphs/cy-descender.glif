@@ -1,15 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="cy-descender" format="2">
-  <advance width="295"/>
-  <anchor x="4" y="0" name="_cy-descender"/>
+  <advance width="1024"/>
   <outline>
-    <contour>
-      <point x="107" y="-270" type="line"/>
-      <point x="107" y="0" type="line"/>
-      <point x="4" y="0" type="line"/>
-      <point x="4" y="145" type="line"/>
-      <point x="275" y="145" type="line"/>
-      <point x="275" y="-270" type="line"/>
-    </contour>
+    <component base="cy-descendercomb" xOffset="376"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.884,0.8791,0.0317,1</string>
+    </dict>
+  </lib>
 </glyph>

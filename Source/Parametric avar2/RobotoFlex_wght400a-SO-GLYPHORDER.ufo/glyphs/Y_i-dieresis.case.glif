@@ -1,8 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Yi-dieresis.case" format="2">
   <advance width="1024"/>
-  <anchor x="515" y="1456" name="_top"/>
   <outline>
-    <component base="Yi-dieresiscomb.case" xOffset="512"/>
+    <component base="Yi-dieresiscomb.case" xOffset="515"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.884,0.8791,0.0317,1</string>
+    </dict>
+  </lib>
 </glyph>
