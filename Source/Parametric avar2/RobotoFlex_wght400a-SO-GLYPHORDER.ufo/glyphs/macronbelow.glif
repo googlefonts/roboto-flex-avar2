@@ -1,8 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="macronbelow" format="2">
   <advance width="1024"/>
-  <anchor x="0.0" y="0" name="_bottom"/>
-  <anchor x="0.0" y="-259" name="bottom"/>
   <outline>
     <component base="macronbelowcomb" xOffset="512"/>
   </outline>

@@ -232,6 +232,16 @@
           <string>ogonek</string>
           <string>tilde</string>
           <string>hungarumlaut</string>
+          <string>hookabove</string>
+          <string>breveinverted</string>
+          <string>dblgrave</string>
+          <string>horn</string>
+          <string>dotbelow</string>
+          <string>dieresisbelow</string>
+          <string>commaaccent</string>
+          <string>brevebelow</string>
+          <string>macronbelow</string>
+          <string>commaaccentturned</string>
           <string>gravecomb</string>
           <string>acutecomb</string>
           <string>circumflexcomb</string>
@@ -255,63 +265,18 @@
           <string>brevebelowcomb</string>
           <string>macronbelowcomb</string>
           <string>commaaccentturnedcomb</string>
-          <string>gravecomb.case</string>
-          <string>acutecomb.case</string>
-          <string>circumflexcomb.case</string>
-          <string>tildecomb.case</string>
-          <string>macroncomb.case</string>
-          <string>brevecomb.case</string>
-          <string>dotaccentcomb.case</string>
-          <string>dieresiscomb.case</string>
-          <string>hookabovecomb.case</string>
-          <string>ringcomb.case</string>
-          <string>hungarumlautcomb.case</string>
-          <string>caroncomb.case</string>
-          <string>breveinvertedcomb.case</string>
-          <string>dblgravecomb.case</string>
-          <string>horncomb.case</string>
-          <string>dotbelowcomb.case</string>
-          <string>dieresisbelowcomb.case</string>
-          <string>commaaccentcomb.case</string>
-          <string>cedillacomb.case</string>
-          <string>ogonekcomb.case</string>
-          <string>brevebelowcomb.case</string>
-          <string>macronbelowcomb.case</string>
-          <string>acutecombstack.case</string>
-          <string>brevecombstack.case</string>
-          <string>circumflexcombstack.case</string>
-          <string>dieresiscombstack.case</string>
-          <string>dotaccentcombstack.case</string>
-          <string>gravecombstack.case</string>
-          <string>hookabovecombstack.case</string>
-          <string>macroncombstack.case</string>
-          <string>tildecombstack.case</string>
-          <string>hookabove</string>
-          <string>breveinverted</string>
-          <string>dblgrave</string>
-          <string>horn</string>
-          <string>dotbelow</string>
-          <string>dieresisbelow</string>
-          <string>commaaccent</string>
-          <string>brevebelow</string>
-          <string>macronbelow</string>
-          <string>commaaccentturned</string>
-          <string>Yi-dieresiscomb.case</string>
-          <string>yi-dieresiscomb</string>
-          <string>Cy-descendercomb.case</string>
-          <string>cy-descendercomb</string>
           <string>gravecomb-stack</string>
           <string>acutecomb-stack</string>
-          <string>circumflexcomb-stack</string>
-          <string>tildecomb-stack</string>
+          <string>dieresiscomb-stack</string>
           <string>macroncomb-stack</string>
+          <string>circumflexcomb-stack</string>
+          <string>caroncomb-stack</string>
           <string>brevecomb-stack</string>
           <string>dotaccentcomb-stack</string>
-          <string>dieresiscomb-stack</string>
-          <string>hookabovecomb-stack</string>
           <string>ringcomb-stack</string>
+          <string>tildecomb-stack</string>
           <string>hungarumlautcomb-stack</string>
-          <string>caroncomb-stack</string>
+          <string>hookabovecomb-stack</string>
           <string>breveinvertedcomb.stack</string>
           <string>dblgravecomb-stack</string>
           <string>grave-stack</string>
@@ -328,23 +293,87 @@
           <string>caron-stack</string>
           <string>breveinverted-stack</string>
           <string>dblgrave-stack</string>
+          <string>grave.case</string>
+          <string>acute.case</string>
+          <string>dieresis.case</string>
+          <string>macron.case</string>
+          <string>cedilla.case</string>
+          <string>circumflex.case</string>
+          <string>caron.case</string>
+          <string>breve.case</string>
+          <string>dotaccent.case</string>
+          <string>ring.case</string>
+          <string>ogonek.case</string>
+          <string>tilde.case</string>
+          <string>hungarumlaut.case</string>
+          <string>hookabove.case</string>
+          <string>breveinverted.case</string>
+          <string>dblgrave.case</string>
+          <string>horn.case</string>
+          <string>dotbelow.case</string>
+          <string>dieresisbelow.case</string>
+          <string>commaaccent.case</string>
+          <string>brevebelow.case</string>
+          <string>macronbelow.case</string>
+          <string>gravecomb.case</string>
+          <string>acutecomb.case</string>
+          <string>dieresiscomb.case</string>
+          <string>macroncomb.case</string>
+          <string>cedillacomb.case</string>
+          <string>circumflexcomb.case</string>
+          <string>caroncomb.case</string>
+          <string>brevecomb.case</string>
+          <string>dotaccentcomb.case</string>
+          <string>ringcomb.case</string>
+          <string>ogonekcomb.case</string>
+          <string>tildecomb.case</string>
+          <string>hungarumlautcomb.case</string>
+          <string>hookabovecomb.case</string>
+          <string>breveinvertedcomb.case</string>
+          <string>dblgravecomb.case</string>
+          <string>horncomb.case</string>
+          <string>dotbelowcomb.case</string>
+          <string>dieresisbelowcomb.case</string>
+          <string>commaaccentcomb.case</string>
+          <string>brevebelowcomb.case</string>
+          <string>macronbelowcomb.case</string>
+          <string>gravecombstack.case</string>
+          <string>acutecombstack.case</string>
+          <string>dieresiscombstack.case</string>
+          <string>macroncombstack.case</string>
+          <string>circumflexcombstack.case</string>
+          <string>brevecombstack.case</string>
+          <string>dotaccentcombstack.case</string>
+          <string>tildecombstack.case</string>
+          <string>hookabovecombstack.case</string>
+          <string>gravecomb-stack.case.copy_1</string>
+          <string>acutecomb-stack.case.copy_1</string>
+          <string>dieresiscomb-stack.case.copy_1</string>
+          <string>macroncomb-stack.case.copy_1</string>
+          <string>circumflexcomb-stack.case.copy_1</string>
+          <string>caroncomb-stack.case.copy_1</string>
+          <string>brevecomb-stack.case.copy_1</string>
+          <string>dotaccentcomb-stack.case.copy_1</string>
+          <string>ringcomb-stack.case.copy_1</string>
+          <string>tildecomb-stack.case.copy_1</string>
+          <string>hungarumlautcomb-stack.case.copy_1</string>
+          <string>hookcomb-stack.case.copy_1</string>
+          <string>breveinvertedcomb-stack.case.copy_1</string>
+          <string>dblgravecomb-stack.case.copy_1</string>
           <string>gravecomb-stack.case</string>
           <string>acutecomb-stack.case</string>
-          <string>circumflexcomb-stack.case</string>
-          <string>tildecomb-stack.case</string>
-          <string>macroncomb-stack.case</string>
-          <string>brevecomb-stack.case</string>
-          <string>hookcomb-stack.case</string>
-          <string>dotaccentcomb-stack.case</string>
           <string>dieresiscomb-stack.case</string>
-          <string>ringcomb-stack.case</string>
-          <string>hungarumlautcomb-stack.case</string>
+          <string>macroncomb-stack.case</string>
+          <string>circumflexcomb-stack.case</string>
           <string>caroncomb-stack.case</string>
+          <string>brevecomb-stack.case</string>
+          <string>dotaccentcomb-stack.case</string>
+          <string>ringcomb-stack.case</string>
+          <string>tildecomb-stack.case</string>
+          <string>hungarumlautcomb-stack.case</string>
+          <string>hookcomb-stack.case</string>
           <string>breveinvertedcomb-stack.case</string>
           <string>dblgravecomb-stack.case</string>
-          <string>caroncomb.alt</string>
-          <string>periodcentered.loclCAT</string>
-          <string>periodcentered.loclCAT.case</string>
           <string>Agrave</string>
           <string>Aacute</string>
           <string>Acircumflex</string>
@@ -696,6 +725,9 @@
           <string>wacute</string>
           <string>Wdieresis</string>
           <string>wdieresis</string>
+          <string>caroncomb.alt</string>
+          <string>periodcentered.loclCAT</string>
+          <string>periodcentered.loclCAT.case</string>
           <string>diagonalbarO</string>
           <string>diagonalbarl</string>
           <string>diagonalbaro</string>
@@ -983,12 +1015,18 @@
           <string>yamacron</string>
           <string>Yumacron</string>
           <string>yumacron</string>
-          <string>breve.cyr.case</string>
-          <string>breve.cyr</string>
+          <string>breve.cyrcomb.case.copy_1</string>
+          <string>breve.cyrcomb.copy_1</string>
           <string>Yi-dieresis.case</string>
           <string>yi-dieresis</string>
           <string>Cy-descender.case</string>
           <string>cy-descender</string>
+          <string>breve.cyrcomb.case</string>
+          <string>breve.cyrcomb</string>
+          <string>Yi-dieresiscomb.case</string>
+          <string>yi-dieresiscomb</string>
+          <string>Cy-descendercomb.case</string>
+          <string>cy-descendercomb</string>
           <string>arrowleft</string>
           <string>arrowup</string>
           <string>arrowright</string>
@@ -1005,7 +1043,7 @@
       </dict>
     </array>
     <key>com.typemytype.glyphBuilder.lastSavedFileName</key>
-    <string>RobotoFlex-Regular-Cyrillic</string>
+    <string>RobotoFlex-Regular</string>
     <key>com.typemytype.robofont.Roboto-Regular.layerShow</key>
     <false/>
     <key>com.typemytype.robofont.Roboto-Regular.layerStrokeColor</key>
@@ -1826,6 +1864,16 @@
       <string>ogonek</string>
       <string>tilde</string>
       <string>hungarumlaut</string>
+      <string>hookabove</string>
+      <string>breveinverted</string>
+      <string>dblgrave</string>
+      <string>horn</string>
+      <string>dotbelow</string>
+      <string>dieresisbelow</string>
+      <string>commaaccent</string>
+      <string>brevebelow</string>
+      <string>macronbelow</string>
+      <string>commaaccentturned</string>
       <string>gravecomb</string>
       <string>acutecomb</string>
       <string>circumflexcomb</string>
@@ -1849,63 +1897,18 @@
       <string>brevebelowcomb</string>
       <string>macronbelowcomb</string>
       <string>commaaccentturnedcomb</string>
-      <string>gravecomb.case</string>
-      <string>acutecomb.case</string>
-      <string>circumflexcomb.case</string>
-      <string>tildecomb.case</string>
-      <string>macroncomb.case</string>
-      <string>brevecomb.case</string>
-      <string>dotaccentcomb.case</string>
-      <string>dieresiscomb.case</string>
-      <string>hookabovecomb.case</string>
-      <string>ringcomb.case</string>
-      <string>hungarumlautcomb.case</string>
-      <string>caroncomb.case</string>
-      <string>breveinvertedcomb.case</string>
-      <string>dblgravecomb.case</string>
-      <string>horncomb.case</string>
-      <string>dotbelowcomb.case</string>
-      <string>dieresisbelowcomb.case</string>
-      <string>commaaccentcomb.case</string>
-      <string>cedillacomb.case</string>
-      <string>ogonekcomb.case</string>
-      <string>brevebelowcomb.case</string>
-      <string>macronbelowcomb.case</string>
-      <string>acutecombstack.case</string>
-      <string>brevecombstack.case</string>
-      <string>circumflexcombstack.case</string>
-      <string>dieresiscombstack.case</string>
-      <string>dotaccentcombstack.case</string>
-      <string>gravecombstack.case</string>
-      <string>hookabovecombstack.case</string>
-      <string>macroncombstack.case</string>
-      <string>tildecombstack.case</string>
-      <string>hookabove</string>
-      <string>breveinverted</string>
-      <string>dblgrave</string>
-      <string>horn</string>
-      <string>dotbelow</string>
-      <string>dieresisbelow</string>
-      <string>commaaccent</string>
-      <string>brevebelow</string>
-      <string>macronbelow</string>
-      <string>commaaccentturned</string>
-      <string>Yi-dieresiscomb.case</string>
-      <string>yi-dieresiscomb</string>
-      <string>Cy-descendercomb.case</string>
-      <string>cy-descendercomb</string>
       <string>gravecomb-stack</string>
       <string>acutecomb-stack</string>
-      <string>circumflexcomb-stack</string>
-      <string>tildecomb-stack</string>
+      <string>dieresiscomb-stack</string>
       <string>macroncomb-stack</string>
+      <string>circumflexcomb-stack</string>
+      <string>caroncomb-stack</string>
       <string>brevecomb-stack</string>
       <string>dotaccentcomb-stack</string>
-      <string>dieresiscomb-stack</string>
-      <string>hookabovecomb-stack</string>
       <string>ringcomb-stack</string>
+      <string>tildecomb-stack</string>
       <string>hungarumlautcomb-stack</string>
-      <string>caroncomb-stack</string>
+      <string>hookabovecomb-stack</string>
       <string>breveinvertedcomb.stack</string>
       <string>dblgravecomb-stack</string>
       <string>grave-stack</string>
@@ -1922,23 +1925,87 @@
       <string>caron-stack</string>
       <string>breveinverted-stack</string>
       <string>dblgrave-stack</string>
+      <string>grave.case</string>
+      <string>acute.case</string>
+      <string>dieresis.case</string>
+      <string>macron.case</string>
+      <string>cedilla.case</string>
+      <string>circumflex.case</string>
+      <string>caron.case</string>
+      <string>breve.case</string>
+      <string>dotaccent.case</string>
+      <string>ring.case</string>
+      <string>ogonek.case</string>
+      <string>tilde.case</string>
+      <string>hungarumlaut.case</string>
+      <string>hookabove.case</string>
+      <string>breveinverted.case</string>
+      <string>dblgrave.case</string>
+      <string>horn.case</string>
+      <string>dotbelow.case</string>
+      <string>dieresisbelow.case</string>
+      <string>commaaccent.case</string>
+      <string>brevebelow.case</string>
+      <string>macronbelow.case</string>
+      <string>gravecomb.case</string>
+      <string>acutecomb.case</string>
+      <string>dieresiscomb.case</string>
+      <string>macroncomb.case</string>
+      <string>cedillacomb.case</string>
+      <string>circumflexcomb.case</string>
+      <string>caroncomb.case</string>
+      <string>brevecomb.case</string>
+      <string>dotaccentcomb.case</string>
+      <string>ringcomb.case</string>
+      <string>ogonekcomb.case</string>
+      <string>tildecomb.case</string>
+      <string>hungarumlautcomb.case</string>
+      <string>hookabovecomb.case</string>
+      <string>breveinvertedcomb.case</string>
+      <string>dblgravecomb.case</string>
+      <string>horncomb.case</string>
+      <string>dotbelowcomb.case</string>
+      <string>dieresisbelowcomb.case</string>
+      <string>commaaccentcomb.case</string>
+      <string>brevebelowcomb.case</string>
+      <string>macronbelowcomb.case</string>
+      <string>gravecombstack.case</string>
+      <string>acutecombstack.case</string>
+      <string>dieresiscombstack.case</string>
+      <string>macroncombstack.case</string>
+      <string>circumflexcombstack.case</string>
+      <string>brevecombstack.case</string>
+      <string>dotaccentcombstack.case</string>
+      <string>tildecombstack.case</string>
+      <string>hookabovecombstack.case</string>
+      <string>grave-stack.case</string>
+      <string>acute-stack.case</string>
+      <string>dieresis-stack.case</string>
+      <string>macron-stack.case</string>
+      <string>circumflex-stack.case</string>
+      <string>caron-stack.case</string>
+      <string>breve-stack.case</string>
+      <string>dotaccent-stack.case</string>
+      <string>ring-stack.case</string>
+      <string>tilde-stack.case</string>
+      <string>hungarumlaut-stack.case</string>
+      <string>hook-stack.case</string>
+      <string>breveinverted-stack.case</string>
+      <string>dblgrave-stack.case</string>
       <string>gravecomb-stack.case</string>
       <string>acutecomb-stack.case</string>
-      <string>circumflexcomb-stack.case</string>
-      <string>tildecomb-stack.case</string>
-      <string>macroncomb-stack.case</string>
-      <string>brevecomb-stack.case</string>
-      <string>hookcomb-stack.case</string>
-      <string>dotaccentcomb-stack.case</string>
       <string>dieresiscomb-stack.case</string>
-      <string>ringcomb-stack.case</string>
-      <string>hungarumlautcomb-stack.case</string>
+      <string>macroncomb-stack.case</string>
+      <string>circumflexcomb-stack.case</string>
       <string>caroncomb-stack.case</string>
+      <string>brevecomb-stack.case</string>
+      <string>dotaccentcomb-stack.case</string>
+      <string>ringcomb-stack.case</string>
+      <string>tildecomb-stack.case</string>
+      <string>hungarumlautcomb-stack.case</string>
+      <string>hookcomb-stack.case</string>
       <string>breveinvertedcomb-stack.case</string>
       <string>dblgravecomb-stack.case</string>
-      <string>caroncomb.alt</string>
-      <string>periodcentered.loclCAT</string>
-      <string>periodcentered.loclCAT.case</string>
       <string>Agrave</string>
       <string>Aacute</string>
       <string>Acircumflex</string>
@@ -2290,6 +2357,9 @@
       <string>wacute</string>
       <string>Wdieresis</string>
       <string>wdieresis</string>
+      <string>caroncomb.alt</string>
+      <string>periodcentered.loclCAT</string>
+      <string>periodcentered.loclCAT.case</string>
       <string>diagonalbarO</string>
       <string>diagonalbarl</string>
       <string>diagonalbaro</string>
@@ -2577,12 +2647,18 @@
       <string>yamacron</string>
       <string>Yumacron</string>
       <string>yumacron</string>
-      <string>breve.cyr.case</string>
-      <string>breve.cyr</string>
+      <string>breve.cyrcomb.case.copy_1</string>
+      <string>breve.cyrcomb.copy_1</string>
       <string>Yi-dieresis.case</string>
       <string>yi-dieresis</string>
       <string>Cy-descender.case</string>
       <string>cy-descender</string>
+      <string>breve.cyrcomb.case</string>
+      <string>breve.cyrcomb</string>
+      <string>Yi-dieresiscomb.case</string>
+      <string>yi-dieresiscomb</string>
+      <string>Cy-descendercomb.case</string>
+      <string>cy-descendercomb</string>
       <string>arrowleft</string>
       <string>arrowup</string>
       <string>arrowright</string>

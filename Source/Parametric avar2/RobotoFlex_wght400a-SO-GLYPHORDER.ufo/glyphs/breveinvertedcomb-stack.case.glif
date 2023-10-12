@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="breveinvertedcomb-stack.case" format="2">
-  <anchor x="512" y="1456" name="_top"/>
-  <anchor x="512" y="1936" name="top"/>
+  <anchor x="0" y="1456" name="_top"/>
+  <anchor x="0" y="1906" name="top"/>
   <outline>
     <contour>
       <point x="-291" y="1589" type="qcurve"/>
@@ -20,10 +20,4 @@
       <point x="-248" y="1647"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>1,0,0,1</string>
-    </dict>
-  </lib>
 </glyph>
