@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Kadescender" format="2">
+  <advance width="1177"/>
+  <unicode hex="049A"/>
+  <outline>
+    <contour>
+      <point x="218" y="798" type="line"/>
+      <point x="385" y="798" type="line"/>
+      <point x="962" y="1456" type="line"/>
+      <point x="1115" y="1456" type="line"/>
+      <point x="463" y="704" type="line"/>
+      <point x="218" y="704" type="line"/>
+    </contour>
+    <contour>
+      <point x="1003" y="0" type="line"/>
+      <point x="375" y="740" type="line"/>
+      <point x="456" y="788" type="line"/>
+      <point x="1123" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="170" y="0" type="line"/>
+      <point x="170" y="1456" type="line"/>
+      <point x="267" y="1456" type="line"/>
+      <point x="267" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="1003" y="0" type="line"/>
+      <point x="1003" y="18" type="line"/>
+      <point x="1157" y="18" type="line"/>
+      <point x="1157" y="-290" type="line"/>
+      <point x="1068" y="-290" type="line"/>
+      <point x="1068" y="0" type="line"/>
+    </contour>
+  </outline>
+</glyph>

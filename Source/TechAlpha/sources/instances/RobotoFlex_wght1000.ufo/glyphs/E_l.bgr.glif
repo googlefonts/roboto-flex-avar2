@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="El.bgr" format="2">
+  <advance width="1104"/>
+  <outline>
+    <contour>
+      <point x="1104" y="0" type="line"/>
+      <point x="685" y="0" type="line"/>
+      <point x="522" y="852" type="line" smooth="yes"/>
+      <point x="521" y="868"/>
+      <point x="511" y="961"/>
+      <point x="502" y="991" type="qcurve"/>
+      <point x="493" y="991" type="line"/>
+      <point x="484" y="961"/>
+      <point x="474" y="856"/>
+      <point x="473" y="841" type="qcurve" smooth="yes"/>
+      <point x="308" y="0" type="line"/>
+      <point x="0" y="0" type="line"/>
+      <point x="353" y="1466" type="line"/>
+      <point x="751" y="1466" type="line"/>
+    </contour>
+  </outline>
+</glyph>

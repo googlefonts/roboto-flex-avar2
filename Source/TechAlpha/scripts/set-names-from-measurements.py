@@ -11,7 +11,9 @@ measurementsPath = os.path.join(sourcesFolder, 'measurements.json')
 
 allUFOs = glob.glob(f'{sourcesFolder}/*.ufo')
 
-ignoreTags = ['slnt', 'wght', 'GRAD']
+ignoreTags = ['slnt', 'wght', 'GRAD', 'SPAC']
+
+preflight = True
 
 for ufo in allUFOs:
     tag = os.path.splitext(os.path.split(ufo)[-1])[0].split('_')[-1][:4]
@@ -32,15 +34,18 @@ for ufo in allUFOs:
     newStyleName = f'{tag}{newValue1000}'
     if newStyleName != f.info.styleName:
         print(f'\tstyle name: {f.info.styleName} --> {newStyleName}' )
-        f.info.styleName = newStyleName
+        if not preflight:
+            f.info.styleName = newStyleName
 
     # rename file name
     newFileName = f'RobotoFlex_{newStyleName}.ufo'
     newFilePath = os.path.join(sourcesFolder, newFileName)
-    f.save()
+    if not preflight:
+        f.save()
     f.close()
     if ufo != newFilePath:
         print(f'\tfile name: {os.path.split(ufo)[-1]} --> {newFileName}' )
-        shutil.move(ufo, newFilePath)   
+        if not preflight:
+            shutil.move(ufo, newFilePath)   
 
     print()

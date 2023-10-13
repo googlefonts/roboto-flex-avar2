@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ring" format="2">
+	<unicode hex="02DA"/>
+	<advance width="1024"/>
+	<outline>
+		<contour>
+			<point x="275" y="1505" type="qcurve"/>
+			<point x="275" y="1599"/>
+			<point x="411" y="1734"/>
+			<point x="512" y="1734" type="qcurve" smooth="yes"/>
+			<point x="611" y="1734"/>
+			<point x="749" y="1599"/>
+			<point x="749" y="1505" type="qcurve" smooth="yes"/>
+			<point x="749" y="1409"/>
+			<point x="611" y="1280"/>
+			<point x="512" y="1280" type="qcurve" smooth="yes"/>
+			<point x="411" y="1280"/>
+			<point x="275" y="1409"/>
+		</contour>
+		<contour>
+			<point x="390" y="1505" type="qcurve"/>
+			<point x="390" y="1459"/>
+			<point x="458" y="1384"/>
+			<point x="512" y="1384" type="qcurve" smooth="yes"/>
+			<point x="566" y="1384"/>
+			<point x="634" y="1456"/>
+			<point x="634" y="1505" type="qcurve" smooth="yes"/>
+			<point x="634" y="1553"/>
+			<point x="566" y="1629"/>
+			<point x="512" y="1629" type="qcurve" smooth="yes"/>
+			<point x="458" y="1629"/>
+			<point x="390" y="1553"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>public.markColor</key>
+			<string>0.9908,1,0.037,1</string>
+		</dict>
+	</lib>
+</glyph>

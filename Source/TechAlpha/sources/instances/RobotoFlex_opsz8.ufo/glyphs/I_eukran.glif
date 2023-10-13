@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Ieukran" format="2">
+  <advance width="1382"/>
+  <unicode hex="0404"/>
+  <guideline x="211" y="787" angle="90.0" identifier="mFTeE97JTj"/>
+  <outline>
+    <contour>
+      <point x="224" y="836" type="line"/>
+      <point x="948" y="836" type="line"/>
+      <point x="948" y="666" type="line"/>
+      <point x="224" y="666" type="line"/>
+    </contour>
+    <contour>
+      <point x="115" y="682" type="qcurve" smooth="yes"/>
+      <point x="115" y="774" type="line" smooth="yes"/>
+      <point x="115" y="1110"/>
+      <point x="467" y="1486"/>
+      <point x="732" y="1486" type="qcurve" smooth="yes"/>
+      <point x="997" y="1486"/>
+      <point x="1298" y="1201"/>
+      <point x="1298" y="1000" type="qcurve" smooth="yes"/>
+      <point x="1298" y="990" type="line"/>
+      <point x="1095" y="990" type="line"/>
+      <point x="1095" y="1000" type="line" smooth="yes"/>
+      <point x="1093" y="1131"/>
+      <point x="915" y="1307"/>
+      <point x="732" y="1307" type="qcurve" smooth="yes"/>
+      <point x="553" y="1307"/>
+      <point x="321" y="1043"/>
+      <point x="321" y="797" type="qcurve" smooth="yes"/>
+      <point x="321" y="674" type="line" smooth="yes"/>
+      <point x="321" y="432"/>
+      <point x="552" y="149"/>
+      <point x="732" y="149" type="qcurve" smooth="yes"/>
+      <point x="904" y="149"/>
+      <point x="1078" y="326"/>
+      <point x="1094" y="456" type="qcurve" smooth="yes"/>
+      <point x="1095" y="466" type="line"/>
+      <point x="1298" y="466" type="line"/>
+      <point x="1297" y="455" type="line" smooth="yes"/>
+      <point x="1277" y="254"/>
+      <point x="996" y="-30"/>
+      <point x="732" y="-30" type="qcurve" smooth="yes"/>
+      <point x="468" y="-30"/>
+      <point x="115" y="344"/>
+    </contour>
+  </outline>
+</glyph>
