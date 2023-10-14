@@ -4,6 +4,12 @@
   <unicode hex="03AD"/>
   <outline>
     <component base="epsilon"/>
-    <component base="tonoscomb" xOffset="563"/>
+    <component base="tonoscomb" xOffset="573"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0,0.0199,0.9984,1</string>
+    </dict>
+  </lib>
 </glyph>

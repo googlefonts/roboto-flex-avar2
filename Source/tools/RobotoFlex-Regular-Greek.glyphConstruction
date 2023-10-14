@@ -1,0 +1,23 @@
+
+Alphatonos = A + tonoscomb.case@tonos | 0x0386
+Epsilontonos = E + tonoscomb.case@tonos ^ 50,E | 0x0388
+Etatonos = H + tonoscomb.case@tonos ^ 50,H | 0x0389
+Iotatonos = I + tonoscomb.case@tonos ^ 50,I | 0x038A
+Omicrontonos = O + tonoscomb.case@tonos ^ 50,O | 0x038C
+Upsilontonos = Y + tonoscomb.case@tonos ^ 50,Y | 0x038E
+Omegatonos = Omega + tonoscomb.case@tonos ^ 50,O | 0x038F
+
+Iotadieresis = I + dieresiscomb.case@top | 0x03AA
+Upsilondieresis = Y + dieresiscomb.case@top | 0x03AB
+
+alphatonos = alpha + tonoscomb@top | 0x03AC
+epsilontonos = epsilon + tonoscomb@top | 0x03AD
+etatonos = eta + tonoscomb@top | 0x03AE
+iotadieresistonos = iota + dieresistonoscomb@top | 0x0390
+iotatonos = iota + tonoscomb@top | 0x03AF
+iotadieresis = iota + dieresiscomb@top | 0x03CA
+omicrontonos = omicron + tonoscomb@top | 0x03CC
+upsilondieresistonos = upsilon + dieresistonoscomb@top | 0x03B0
+upsilontonos = upsilon + tonoscomb@top | 0x03CD
+upsilondieresis = upsilon + dieresiscomb@top | 0x03CB
+omegatonos = omega + tonoscomb@top | 0x03CE
