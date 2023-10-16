@@ -9,25 +9,22 @@ import ufoProcessor
 from fontTools.designspaceLib import DesignSpaceDocument, AxisDescriptor, SourceDescriptor, InstanceDescriptor, AxisMappingDescriptor
 from variableValues.measurements import FontMeasurements
 
-
 '''
+Objects to build designspace files for Roboto Flex avar2.
 
-The “TechAlpha” deliverables
-----------------------------
-
-A set of sources from the original Roboto Flex parametric axes, plus spacing and the slant source.
-
-Three designspace files including:
-
-1. default                          -> avar2
+0. default
    parametric axes
-   blended axes
+   9 instances for 5 axes extrema
 
-2. default                          -> avar1
+1. default
+   parametric axes
+   blended axes (avar2)
+
+2. default
    parametric axes
    9 sources for 5 axes extrema*
 
-3. default                          -> avar1
+3. default
    9 sources for 5 axes extrema*
 
 * axes extrema:               current values:
@@ -40,14 +37,7 @@ Three designspace files including:
   | Slnt |      |  -10 |      |      |  -10 | ✔
   | Grad |  -50 |   50 |  ->  | -200 |  150 | ✔
 
-One more designspace file is currently included:
-
-0. default                          -> avar1
-   parametric axes
-   9 instances for 5 axes extrema
-
 '''
-
 
 def permille(value, unitsPerEm):
     '''Convert an absolute value in font units to a relative value in permille units.'''
@@ -55,11 +45,6 @@ def permille(value, unitsPerEm):
 
 
 class RobotoFlexDesignSpaceBuilder:
-
-    '''
-    An object which builds the designspace file(s) for Roboto Flex avar2.
-
-    '''
 
     baseFolder           = os.path.dirname(os.getcwd())
     sourcesFolder        = os.path.join(baseFolder,    'sources')
@@ -263,13 +248,6 @@ class RobotoFlexDesignSpaceBuilder:
 
 class RobotoFlexDesignSpaceBuilder1(RobotoFlexDesignSpaceBuilder):
 
-    '''
-    A. default
-       parametric axes
-       blended axes (avar2 data)
-
-    '''
-
     designspacePath = os.path.join(RobotoFlexDesignSpaceBuilder.sourcesFolder, 'RobotoFlex1.designspace')
 
     # blended axes data
@@ -353,7 +331,6 @@ class RobotoFlexDesignSpaceBuilder2(RobotoFlexDesignSpaceBuilder1):
 
     @property
     def defaultLocation(self):
-        '''Return the location of the default source.'''
         L = { name: permille(self.measurementsDefault.values[name], self.unitsPerEm) for name in self.parametricAxes }
         L['Optical size'] = 14
         L['Weight'] = 400
@@ -403,11 +380,7 @@ class RobotoFlexDesignSpaceBuilder2(RobotoFlexDesignSpaceBuilder1):
                     # create instance location from default + measurements
                     L = self.defaultLocation.copy()
                     value = int(os.path.splitext(os.path.split(ufoPath)[-1])[0].split('_')[-1][4:])
-                    # valuePermill = valuepermille(value, f.info.unitsPerEm)
                     L[blendedAxisName] = value # valuePermill
-                    # for measurementName in self.parametricAxes:
-                    #     valuePermill = permille(int(M.values[measurementName]), f.info.unitsPerEm)
-                    #     L[measurementName] = valuePermill                        
 
                     # add instance to designspace
                     src = SourceDescriptor()
