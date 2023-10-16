@@ -1,9 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<designspace format="5.1">
+<designspace format="5.0">
   <axes>
-    <axis tag="Optical size" name="opsz" minimum="8" maximum="144" default="14"/>
-    <axis tag="Weight" name="wght" minimum="100" maximum="1000" default="400"/>
-    <axis tag="Width" name="wdth" minimum="25" maximum="151" default="100"/>
+    <axis tag="opsz" name="Optical size" minimum="8" maximum="144" default="14"/>
+    <axis tag="wght" name="Weight" minimum="100" maximum="1000" default="400"/>
+    <axis tag="wdth" name="Width" minimum="25" maximum="151" default="100"/>
     <axis tag="slnt" name="slnt" minimum="-10" maximum="0" default="0"/>
     <axis tag="GRAD" name="GRAD" minimum="-200" maximum="150" default="0"/>
     <axis tag="XTSP" name="XTSP" minimum="-100" maximum="100" default="0"/>
@@ -15,57 +15,121 @@
     <axis tag="YTUC" name="YTUC" minimum="528" maximum="760" default="711"/>
     <axis tag="YTLC" name="YTLC" minimum="426" maximum="580" default="523"/>
     <axis tag="YTFI" name="YTFI" minimum="532" maximum="760" default="711"/>
-    <mappings>
-      <mapping>
-        <input>
-          <dimension name="Optical size" xvalue="8"/>
-        </input>
-        <output>
-          <dimension name="XOPQ" xvalue="205"/>
-          <dimension name="XTRA" xvalue="778"/>
-          <dimension name="YOPQ" xvalue="172"/>
-          <dimension name="YTAS" xvalue="1536"/>
-          <dimension name="YTDE" xvalue="-416"/>
-          <dimension name="YTUC" xvalue="1456"/>
-          <dimension name="YTLC" xvalue="1109"/>
-          <dimension name="YTFI" xvalue="1456"/>
-        </output>
-      </mapping>
-      <mapping>
-        <input>
-          <dimension name="Weight" xvalue="1000"/>
-        </input>
-        <output>
-          <dimension name="XOPQ" xvalue="421"/>
-          <dimension name="XTRA" xvalue="439"/>
-          <dimension name="YOPQ" xvalue="312"/>
-          <dimension name="YTAS" xvalue="1526"/>
-          <dimension name="YTDE" xvalue="-416"/>
-          <dimension name="YTUC" xvalue="1456"/>
-          <dimension name="YTLC" xvalue="1080"/>
-          <dimension name="YTFI" xvalue="1456"/>
-        </output>
-      </mapping>
-      <mapping>
-        <input>
-          <dimension name="Width" xvalue="151"/>
-        </input>
-        <output>
-          <dimension name="XOPQ" xvalue="202"/>
-          <dimension name="XTRA" xvalue="873"/>
-          <dimension name="YOPQ" xvalue="162"/>
-          <dimension name="YTAS" xvalue="1536"/>
-          <dimension name="YTDE" xvalue="-416"/>
-          <dimension name="YTUC" xvalue="1456"/>
-          <dimension name="YTLC" xvalue="1072"/>
-          <dimension name="YTFI" xvalue="1456"/>
-        </output>
-      </mapping>
-    </mappings>
   </axes>
   <sources>
     <source filename="RobotoFlex_wght400.ufo" familyname="Roboto Flex">
       <location>
+        <dimension name="Optical size" xvalue="14"/>
+        <dimension name="Weight" xvalue="400"/>
+        <dimension name="Width" xvalue="100"/>
+        <dimension name="slnt" xvalue="0"/>
+        <dimension name="GRAD" xvalue="0"/>
+        <dimension name="XTSP" xvalue="0"/>
+        <dimension name="XOPQ" xvalue="94"/>
+        <dimension name="XTRA" xvalue="358"/>
+        <dimension name="YOPQ" xvalue="77"/>
+        <dimension name="YTAS" xvalue="750"/>
+        <dimension name="YTDE" xvalue="-203"/>
+        <dimension name="YTUC" xvalue="711"/>
+        <dimension name="YTLC" xvalue="523"/>
+        <dimension name="YTFI" xvalue="711"/>
+      </location>
+    </source>
+    <source filename="extrema/RobotoFlex_opsz144.ufo" familyname="Roboto Flex">
+      <location>
+        <dimension name="Optical size" xvalue="144"/>
+        <dimension name="Weight" xvalue="400"/>
+        <dimension name="Width" xvalue="100"/>
+        <dimension name="slnt" xvalue="0"/>
+        <dimension name="GRAD" xvalue="0"/>
+        <dimension name="XTSP" xvalue="0"/>
+        <dimension name="XOPQ" xvalue="94"/>
+        <dimension name="XTRA" xvalue="358"/>
+        <dimension name="YOPQ" xvalue="77"/>
+        <dimension name="YTAS" xvalue="750"/>
+        <dimension name="YTDE" xvalue="-203"/>
+        <dimension name="YTUC" xvalue="711"/>
+        <dimension name="YTLC" xvalue="523"/>
+        <dimension name="YTFI" xvalue="711"/>
+      </location>
+    </source>
+    <source filename="extrema/RobotoFlex_opsz8.ufo" familyname="Roboto Flex">
+      <location>
+        <dimension name="Optical size" xvalue="8"/>
+        <dimension name="Weight" xvalue="400"/>
+        <dimension name="Width" xvalue="100"/>
+        <dimension name="slnt" xvalue="0"/>
+        <dimension name="GRAD" xvalue="0"/>
+        <dimension name="XTSP" xvalue="0"/>
+        <dimension name="XOPQ" xvalue="94"/>
+        <dimension name="XTRA" xvalue="358"/>
+        <dimension name="YOPQ" xvalue="77"/>
+        <dimension name="YTAS" xvalue="750"/>
+        <dimension name="YTDE" xvalue="-203"/>
+        <dimension name="YTUC" xvalue="711"/>
+        <dimension name="YTLC" xvalue="523"/>
+        <dimension name="YTFI" xvalue="711"/>
+      </location>
+    </source>
+    <source filename="extrema/RobotoFlex_wght100.ufo" familyname="Roboto Flex">
+      <location>
+        <dimension name="Optical size" xvalue="14"/>
+        <dimension name="Weight" xvalue="100"/>
+        <dimension name="Width" xvalue="100"/>
+        <dimension name="slnt" xvalue="0"/>
+        <dimension name="GRAD" xvalue="0"/>
+        <dimension name="XTSP" xvalue="0"/>
+        <dimension name="XOPQ" xvalue="94"/>
+        <dimension name="XTRA" xvalue="358"/>
+        <dimension name="YOPQ" xvalue="77"/>
+        <dimension name="YTAS" xvalue="750"/>
+        <dimension name="YTDE" xvalue="-203"/>
+        <dimension name="YTUC" xvalue="711"/>
+        <dimension name="YTLC" xvalue="523"/>
+        <dimension name="YTFI" xvalue="711"/>
+      </location>
+    </source>
+    <source filename="extrema/RobotoFlex_wght1000.ufo" familyname="Roboto Flex">
+      <location>
+        <dimension name="Optical size" xvalue="14"/>
+        <dimension name="Weight" xvalue="1000"/>
+        <dimension name="Width" xvalue="100"/>
+        <dimension name="slnt" xvalue="0"/>
+        <dimension name="GRAD" xvalue="0"/>
+        <dimension name="XTSP" xvalue="0"/>
+        <dimension name="XOPQ" xvalue="94"/>
+        <dimension name="XTRA" xvalue="358"/>
+        <dimension name="YOPQ" xvalue="77"/>
+        <dimension name="YTAS" xvalue="750"/>
+        <dimension name="YTDE" xvalue="-203"/>
+        <dimension name="YTUC" xvalue="711"/>
+        <dimension name="YTLC" xvalue="523"/>
+        <dimension name="YTFI" xvalue="711"/>
+      </location>
+    </source>
+    <source filename="extrema/RobotoFlex_wdth25.ufo" familyname="Roboto Flex">
+      <location>
+        <dimension name="Optical size" xvalue="14"/>
+        <dimension name="Weight" xvalue="400"/>
+        <dimension name="Width" xvalue="25"/>
+        <dimension name="slnt" xvalue="0"/>
+        <dimension name="GRAD" xvalue="0"/>
+        <dimension name="XTSP" xvalue="0"/>
+        <dimension name="XOPQ" xvalue="94"/>
+        <dimension name="XTRA" xvalue="358"/>
+        <dimension name="YOPQ" xvalue="77"/>
+        <dimension name="YTAS" xvalue="750"/>
+        <dimension name="YTDE" xvalue="-203"/>
+        <dimension name="YTUC" xvalue="711"/>
+        <dimension name="YTLC" xvalue="523"/>
+        <dimension name="YTFI" xvalue="711"/>
+      </location>
+    </source>
+    <source filename="extrema/RobotoFlex_wdth151.ufo" familyname="Roboto Flex">
+      <location>
+        <dimension name="Optical size" xvalue="14"/>
+        <dimension name="Weight" xvalue="400"/>
+        <dimension name="Width" xvalue="151"/>
         <dimension name="slnt" xvalue="0"/>
         <dimension name="GRAD" xvalue="0"/>
         <dimension name="XTSP" xvalue="0"/>
@@ -81,6 +145,9 @@
     </source>
     <source filename="RobotoFlex_slnt-10.ufo" familyname="Roboto Flex">
       <location>
+        <dimension name="Optical size" xvalue="14"/>
+        <dimension name="Weight" xvalue="400"/>
+        <dimension name="Width" xvalue="100"/>
         <dimension name="slnt" xvalue="-10"/>
         <dimension name="GRAD" xvalue="0"/>
         <dimension name="XTSP" xvalue="0"/>
@@ -96,6 +163,9 @@
     </source>
     <source filename="RobotoFlex_GRAD-200.ufo" familyname="Roboto Flex">
       <location>
+        <dimension name="Optical size" xvalue="14"/>
+        <dimension name="Weight" xvalue="400"/>
+        <dimension name="Width" xvalue="100"/>
         <dimension name="slnt" xvalue="0"/>
         <dimension name="GRAD" xvalue="-200"/>
         <dimension name="XTSP" xvalue="0"/>
@@ -111,6 +181,9 @@
     </source>
     <source filename="RobotoFlex_GRAD150.ufo" familyname="Roboto Flex">
       <location>
+        <dimension name="Optical size" xvalue="14"/>
+        <dimension name="Weight" xvalue="400"/>
+        <dimension name="Width" xvalue="100"/>
         <dimension name="slnt" xvalue="0"/>
         <dimension name="GRAD" xvalue="150"/>
         <dimension name="XTSP" xvalue="0"/>
@@ -126,6 +199,9 @@
     </source>
     <source filename="RobotoFlex_XTSP-100.ufo" familyname="Roboto Flex">
       <location>
+        <dimension name="Optical size" xvalue="14"/>
+        <dimension name="Weight" xvalue="400"/>
+        <dimension name="Width" xvalue="100"/>
         <dimension name="slnt" xvalue="0"/>
         <dimension name="GRAD" xvalue="0"/>
         <dimension name="XTSP" xvalue="-100"/>
@@ -141,6 +217,9 @@
     </source>
     <source filename="RobotoFlex_XTSP100.ufo" familyname="Roboto Flex">
       <location>
+        <dimension name="Optical size" xvalue="14"/>
+        <dimension name="Weight" xvalue="400"/>
+        <dimension name="Width" xvalue="100"/>
         <dimension name="slnt" xvalue="0"/>
         <dimension name="GRAD" xvalue="0"/>
         <dimension name="XTSP" xvalue="100"/>
@@ -156,6 +235,9 @@
     </source>
     <source filename="RobotoFlex_XOPQ26.ufo" familyname="Roboto Flex">
       <location>
+        <dimension name="Optical size" xvalue="14"/>
+        <dimension name="Weight" xvalue="400"/>
+        <dimension name="Width" xvalue="100"/>
         <dimension name="slnt" xvalue="0"/>
         <dimension name="GRAD" xvalue="0"/>
         <dimension name="XTSP" xvalue="0"/>
@@ -171,6 +253,9 @@
     </source>
     <source filename="RobotoFlex_XOPQ171.ufo" familyname="Roboto Flex">
       <location>
+        <dimension name="Optical size" xvalue="14"/>
+        <dimension name="Weight" xvalue="400"/>
+        <dimension name="Width" xvalue="100"/>
         <dimension name="slnt" xvalue="0"/>
         <dimension name="GRAD" xvalue="0"/>
         <dimension name="XTSP" xvalue="0"/>
@@ -186,6 +271,9 @@
     </source>
     <source filename="RobotoFlex_XTRA222.ufo" familyname="Roboto Flex">
       <location>
+        <dimension name="Optical size" xvalue="14"/>
+        <dimension name="Weight" xvalue="400"/>
+        <dimension name="Width" xvalue="100"/>
         <dimension name="slnt" xvalue="0"/>
         <dimension name="GRAD" xvalue="0"/>
         <dimension name="XTSP" xvalue="0"/>
@@ -201,6 +289,9 @@
     </source>
     <source filename="RobotoFlex_XTRA495.ufo" familyname="Roboto Flex">
       <location>
+        <dimension name="Optical size" xvalue="14"/>
+        <dimension name="Weight" xvalue="400"/>
+        <dimension name="Width" xvalue="100"/>
         <dimension name="slnt" xvalue="0"/>
         <dimension name="GRAD" xvalue="0"/>
         <dimension name="XTSP" xvalue="0"/>
@@ -216,6 +307,9 @@
     </source>
     <source filename="RobotoFlex_YOPQ132.ufo" familyname="Roboto Flex">
       <location>
+        <dimension name="Optical size" xvalue="14"/>
+        <dimension name="Weight" xvalue="400"/>
+        <dimension name="Width" xvalue="100"/>
         <dimension name="slnt" xvalue="0"/>
         <dimension name="GRAD" xvalue="0"/>
         <dimension name="XTSP" xvalue="0"/>
@@ -231,6 +325,9 @@
     </source>
     <source filename="RobotoFlex_YOPQ24.ufo" familyname="Roboto Flex">
       <location>
+        <dimension name="Optical size" xvalue="14"/>
+        <dimension name="Weight" xvalue="400"/>
+        <dimension name="Width" xvalue="100"/>
         <dimension name="slnt" xvalue="0"/>
         <dimension name="GRAD" xvalue="0"/>
         <dimension name="XTSP" xvalue="0"/>
@@ -246,6 +343,9 @@
     </source>
     <source filename="RobotoFlex_YTAS649.ufo" familyname="Roboto Flex">
       <location>
+        <dimension name="Optical size" xvalue="14"/>
+        <dimension name="Weight" xvalue="400"/>
+        <dimension name="Width" xvalue="100"/>
         <dimension name="slnt" xvalue="0"/>
         <dimension name="GRAD" xvalue="0"/>
         <dimension name="XTSP" xvalue="0"/>
@@ -261,6 +361,9 @@
     </source>
     <source filename="RobotoFlex_YTAS854.ufo" familyname="Roboto Flex">
       <location>
+        <dimension name="Optical size" xvalue="14"/>
+        <dimension name="Weight" xvalue="400"/>
+        <dimension name="Width" xvalue="100"/>
         <dimension name="slnt" xvalue="0"/>
         <dimension name="GRAD" xvalue="0"/>
         <dimension name="XTSP" xvalue="0"/>
@@ -276,6 +379,9 @@
     </source>
     <source filename="RobotoFlex_YTDE-98.ufo" familyname="Roboto Flex">
       <location>
+        <dimension name="Optical size" xvalue="14"/>
+        <dimension name="Weight" xvalue="400"/>
+        <dimension name="Width" xvalue="100"/>
         <dimension name="slnt" xvalue="0"/>
         <dimension name="GRAD" xvalue="0"/>
         <dimension name="XTSP" xvalue="0"/>
@@ -291,6 +397,9 @@
     </source>
     <source filename="RobotoFlex_YTDE-303.ufo" familyname="Roboto Flex">
       <location>
+        <dimension name="Optical size" xvalue="14"/>
+        <dimension name="Weight" xvalue="400"/>
+        <dimension name="Width" xvalue="100"/>
         <dimension name="slnt" xvalue="0"/>
         <dimension name="GRAD" xvalue="0"/>
         <dimension name="XTSP" xvalue="0"/>
@@ -306,6 +415,9 @@
     </source>
     <source filename="RobotoFlex_YTUC760.ufo" familyname="Roboto Flex">
       <location>
+        <dimension name="Optical size" xvalue="14"/>
+        <dimension name="Weight" xvalue="400"/>
+        <dimension name="Width" xvalue="100"/>
         <dimension name="slnt" xvalue="0"/>
         <dimension name="GRAD" xvalue="0"/>
         <dimension name="XTSP" xvalue="0"/>
@@ -321,6 +433,9 @@
     </source>
     <source filename="RobotoFlex_YTUC528.ufo" familyname="Roboto Flex">
       <location>
+        <dimension name="Optical size" xvalue="14"/>
+        <dimension name="Weight" xvalue="400"/>
+        <dimension name="Width" xvalue="100"/>
         <dimension name="slnt" xvalue="0"/>
         <dimension name="GRAD" xvalue="0"/>
         <dimension name="XTSP" xvalue="0"/>
@@ -336,6 +451,9 @@
     </source>
     <source filename="RobotoFlex_YTLC426.ufo" familyname="Roboto Flex">
       <location>
+        <dimension name="Optical size" xvalue="14"/>
+        <dimension name="Weight" xvalue="400"/>
+        <dimension name="Width" xvalue="100"/>
         <dimension name="slnt" xvalue="0"/>
         <dimension name="GRAD" xvalue="0"/>
         <dimension name="XTSP" xvalue="0"/>
@@ -351,6 +469,9 @@
     </source>
     <source filename="RobotoFlex_YTLC580.ufo" familyname="Roboto Flex">
       <location>
+        <dimension name="Optical size" xvalue="14"/>
+        <dimension name="Weight" xvalue="400"/>
+        <dimension name="Width" xvalue="100"/>
         <dimension name="slnt" xvalue="0"/>
         <dimension name="GRAD" xvalue="0"/>
         <dimension name="XTSP" xvalue="0"/>
@@ -366,6 +487,9 @@
     </source>
     <source filename="RobotoFlex_YTFI760.ufo" familyname="Roboto Flex">
       <location>
+        <dimension name="Optical size" xvalue="14"/>
+        <dimension name="Weight" xvalue="400"/>
+        <dimension name="Width" xvalue="100"/>
         <dimension name="slnt" xvalue="0"/>
         <dimension name="GRAD" xvalue="0"/>
         <dimension name="XTSP" xvalue="0"/>
@@ -381,6 +505,9 @@
     </source>
     <source filename="RobotoFlex_YTFI532.ufo" familyname="Roboto Flex">
       <location>
+        <dimension name="Optical size" xvalue="14"/>
+        <dimension name="Weight" xvalue="400"/>
+        <dimension name="Width" xvalue="100"/>
         <dimension name="slnt" xvalue="0"/>
         <dimension name="GRAD" xvalue="0"/>
         <dimension name="XTSP" xvalue="0"/>
