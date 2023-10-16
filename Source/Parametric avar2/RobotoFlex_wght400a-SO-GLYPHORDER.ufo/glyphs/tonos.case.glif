@@ -1,7 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="tonos.case" format="2">
-  <advance width="888"/>
+  <advance width="1024"/>
   <outline>
-    <component base="tonos" yOffset="-130"/>
+    <component base="tonoscomb.case" xOffset="523"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.884,0.8791,0.0317,1</string>
+    </dict>
+  </lib>
 </glyph>

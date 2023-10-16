@@ -3,7 +3,13 @@
   <advance width="790"/>
   <unicode hex="038A"/>
   <outline>
-    <component base="Iota" xOffset="248"/>
-    <component base="tonos.case" xOffset="-365"/>
+    <component base="I" xOffset="248"/>
+    <component base="tonoscomb.case" xOffset="173"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0,0.0199,0.9984,1</string>
+    </dict>
+  </lib>
 </glyph>

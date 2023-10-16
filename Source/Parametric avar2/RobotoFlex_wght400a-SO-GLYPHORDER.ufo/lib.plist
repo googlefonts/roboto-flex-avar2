@@ -346,20 +346,20 @@
           <string>dotaccentcombstack.case</string>
           <string>tildecombstack.case</string>
           <string>hookabovecombstack.case</string>
-          <string>gravecomb-stack.case.copy_1</string>
-          <string>acutecomb-stack.case.copy_1</string>
-          <string>dieresiscomb-stack.case.copy_1</string>
-          <string>macroncomb-stack.case.copy_1</string>
-          <string>circumflexcomb-stack.case.copy_1</string>
-          <string>caroncomb-stack.case.copy_1</string>
-          <string>brevecomb-stack.case.copy_1</string>
-          <string>dotaccentcomb-stack.case.copy_1</string>
-          <string>ringcomb-stack.case.copy_1</string>
-          <string>tildecomb-stack.case.copy_1</string>
-          <string>hungarumlautcomb-stack.case.copy_1</string>
-          <string>hookcomb-stack.case.copy_1</string>
-          <string>breveinvertedcomb-stack.case.copy_1</string>
-          <string>dblgravecomb-stack.case.copy_1</string>
+          <string>grave-stack.case</string>
+          <string>acute-stack.case</string>
+          <string>dieresis-stack.case</string>
+          <string>macron-stack.case</string>
+          <string>circumflex-stack.case</string>
+          <string>caron-stack.case</string>
+          <string>breve-stack.case</string>
+          <string>dotaccent-stack.case</string>
+          <string>ring-stack.case</string>
+          <string>tilde-stack.case</string>
+          <string>hungarumlaut-stack.case</string>
+          <string>hook-stack.case</string>
+          <string>breveinverted-stack.case</string>
+          <string>dblgrave-stack.case</string>
           <string>gravecomb-stack.case</string>
           <string>acutecomb-stack.case</string>
           <string>dieresiscomb-stack.case</string>
@@ -814,10 +814,13 @@
           <string>gr:question</string>
           <string>anoteleia</string>
           <string>tonos</string>
-          <string>dieresistonos</string>
-          <string>tonos.case</string>
           <string>tonoscomb</string>
+          <string>tonos.case</string>
+          <string>tonoscomb.case</string>
+          <string>dieresistonos</string>
           <string>dieresistonoscomb</string>
+          <string>dieresistonos.case</string>
+          <string>dieresistonoscomb.case</string>
           <string>Dje</string>
           <string>Ieukran</string>
           <string>Dze</string>
@@ -1015,8 +1018,6 @@
           <string>yamacron</string>
           <string>Yumacron</string>
           <string>yumacron</string>
-          <string>breve.cyrcomb.case.copy_1</string>
-          <string>breve.cyrcomb.copy_1</string>
           <string>Yi-dieresis.case</string>
           <string>yi-dieresis</string>
           <string>Cy-descender.case</string>
@@ -1043,7 +1044,7 @@
       </dict>
     </array>
     <key>com.typemytype.glyphBuilder.lastSavedFileName</key>
-    <string>RobotoFlex-Regular</string>
+    <string>RobotoFlex-Regular-Greek</string>
     <key>com.typemytype.robofont.Roboto-Regular.layerShow</key>
     <false/>
     <key>com.typemytype.robofont.Roboto-Regular.layerStrokeColor</key>
@@ -2446,10 +2447,13 @@
       <string>gr:question</string>
       <string>anoteleia</string>
       <string>tonos</string>
-      <string>dieresistonos</string>
-      <string>tonos.case</string>
       <string>tonoscomb</string>
+      <string>tonos.case</string>
+      <string>tonoscomb.case</string>
+      <string>dieresistonos</string>
       <string>dieresistonoscomb</string>
+      <string>dieresistonos.case</string>
+      <string>dieresistonoscomb.case</string>
       <string>Dje</string>
       <string>Ieukran</string>
       <string>Dze</string>
@@ -2647,8 +2651,6 @@
       <string>yamacron</string>
       <string>Yumacron</string>
       <string>yumacron</string>
-      <string>breve.cyrcomb.case.copy_1</string>
-      <string>breve.cyrcomb.copy_1</string>
       <string>Yi-dieresis.case</string>
       <string>yi-dieresis</string>
       <string>Cy-descender.case</string>

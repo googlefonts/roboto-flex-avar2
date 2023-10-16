@@ -1,8 +1,19 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="igrave.bgr" format="2">
   <advance width="1138"/>
+  <anchor x="569" y="0" name="bottom"/>
+  <anchor x="980" y="0" name="ogonek"/>
+  <anchor x="569" y="1052" name="top"/>
+  <anchor x="903" y="1052" name="topright"/>
+  <anchor x="899" y="0" name="cy_descender"/>
   <outline>
     <component base="u"/>
     <component base="gravecomb" xOffset="18"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0,0,1,1</string>
+    </dict>
+  </lib>
 </glyph>
