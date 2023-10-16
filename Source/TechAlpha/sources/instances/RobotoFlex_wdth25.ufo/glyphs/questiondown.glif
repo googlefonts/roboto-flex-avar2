@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="questiondown" format="2">
+  <advance width="851"/>
+  <unicode hex="00BF"/>
+  <guideline y="-181" identifier="apukwP5ffL"/>
+  <guideline y="921" identifier="5ZPZZL8Rim"/>
+  <outline>
+    <contour>
+      <point x="597" y="1049" type="qcurve" smooth="yes"/>
+      <point x="597" y="1000"/>
+      <point x="533" y="930"/>
+      <point x="473" y="930" type="qcurve" smooth="yes"/>
+      <point x="413" y="930"/>
+      <point x="349" y="1000"/>
+      <point x="349" y="1049" type="qcurve" smooth="yes"/>
+      <point x="349" y="1098"/>
+      <point x="413" y="1168"/>
+      <point x="473" y="1168" type="qcurve" smooth="yes"/>
+      <point x="533" y="1168"/>
+      <point x="597" y="1098"/>
+    </contour>
+    <contour>
+      <point x="791" y="51" type="line"/>
+      <point x="791" y="31" type="line" smooth="yes"/>
+      <point x="791" y="-141"/>
+      <point x="603" y="-330"/>
+      <point x="440" y="-330" type="qcurve" smooth="yes"/>
+      <point x="277" y="-330"/>
+      <point x="94" y="-132"/>
+      <point x="94" y="44" type="qcurve" smooth="yes"/>
+      <point x="94" y="181"/>
+      <point x="226" y="388"/>
+      <point x="290" y="452" type="qcurve" smooth="yes"/>
+      <point x="358" y="522"/>
+      <point x="395" y="658"/>
+      <point x="395" y="727" type="qcurve" smooth="yes"/>
+      <point x="395" y="737" type="line"/>
+      <point x="569" y="737" type="line"/>
+      <point x="569" y="727" type="line" smooth="yes"/>
+      <point x="569" y="603"/>
+      <point x="511" y="459"/>
+      <point x="424" y="359" type="qcurve" smooth="yes"/>
+      <point x="355" y="281"/>
+      <point x="272" y="145"/>
+      <point x="272" y="44" type="qcurve" smooth="yes"/>
+      <point x="272" y="-61"/>
+      <point x="355" y="-172"/>
+      <point x="440" y="-172" type="qcurve" smooth="yes"/>
+      <point x="525" y="-172"/>
+      <point x="614" y="-71"/>
+      <point x="614" y="31" type="qcurve" smooth="yes"/>
+      <point x="614" y="51" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.guideline.magnetic.5ZPZZL8Rim</key>
+      <integer>5</integer>
+      <key>com.typemytype.robofont.guideline.magnetic.apukwP5ffL</key>
+      <integer>5</integer>
+    </dict>
+  </lib>
+</glyph>

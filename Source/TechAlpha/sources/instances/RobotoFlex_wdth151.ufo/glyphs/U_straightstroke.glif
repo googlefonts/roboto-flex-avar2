@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Ustraightstroke" format="2">
+  <advance width="1238"/>
+  <unicode hex="04B0"/>
+  <outline>
+    <contour>
+      <point x="198" y="545" type="line"/>
+      <point x="1040" y="545" type="line"/>
+      <point x="1040" y="377" type="line"/>
+      <point x="198" y="377" type="line"/>
+    </contour>
+    <contour>
+      <point x="518" y="0" type="line"/>
+      <point x="518" y="544" type="line"/>
+      <point x="15" y="1456" type="line"/>
+      <point x="241" y="1456" type="line"/>
+      <point x="569" y="841" type="line" smooth="yes"/>
+      <point x="584" y="812"/>
+      <point x="611" y="763"/>
+      <point x="621" y="737" type="qcurve"/>
+      <point x="627" y="737" type="line"/>
+      <point x="638" y="763"/>
+      <point x="664" y="812"/>
+      <point x="680" y="841" type="qcurve" smooth="yes"/>
+      <point x="1011" y="1456" type="line"/>
+      <point x="1223" y="1456" type="line"/>
+      <point x="720" y="544" type="line"/>
+      <point x="720" y="0" type="line"/>
+    </contour>
+  </outline>
+</glyph>

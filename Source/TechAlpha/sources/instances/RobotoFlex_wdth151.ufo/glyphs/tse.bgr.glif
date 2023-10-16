@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tse.bgr" format="2">
+  <advance width="1337"/>
+  <outline>
+    <contour>
+      <point x="138" y="421" type="qcurve" smooth="yes"/>
+      <point x="138" y="1052" type="line"/>
+      <point x="334" y="1052" type="line"/>
+      <point x="334" y="426" type="line" smooth="yes"/>
+      <point x="334" y="273"/>
+      <point x="483" y="140"/>
+      <point x="620" y="140" type="qcurve" smooth="yes"/>
+      <point x="737" y="140"/>
+      <point x="912" y="242"/>
+      <point x="966" y="328" type="qcurve"/>
+      <point x="966" y="1052" type="line"/>
+      <point x="1162" y="1052" type="line"/>
+      <point x="1162" y="149" type="line"/>
+      <point x="1317" y="149" type="line"/>
+      <point x="1317" y="-270" type="line"/>
+      <point x="1140" y="-270" type="line"/>
+      <point x="1140" y="0" type="line"/>
+      <point x="990" y="0" type="line"/>
+      <point x="980" y="150" type="line"/>
+      <point x="975" y="151" type="line"/>
+      <point x="906" y="78"/>
+      <point x="693" y="-20"/>
+      <point x="553" y="-20" type="qcurve" smooth="yes"/>
+      <point x="364" y="-20"/>
+      <point x="138" y="183"/>
+    </contour>
+  </outline>
+</glyph>

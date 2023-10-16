@@ -4,6 +4,8 @@
   <dict>
     <key>.notdef</key>
     <string>_notdef.glif</string>
+    <key>A</key>
+    <string>A_.glif</string>
     <key>AEacute</key>
     <string>A_E_acute.glif</string>
     <key>Abrevecyr</key>
@@ -16,10 +18,14 @@
     <string>A_lpha.glif</string>
     <key>Alphatonos</key>
     <string>A_lphatonos.glif</string>
+    <key>B</key>
+    <string>B_.glif</string>
     <key>Be</key>
     <string>B_e.glif</string>
     <key>Beta</key>
     <string>B_eta.glif</string>
+    <key>C</key>
+    <string>C_.glif</string>
     <key>CR</key>
     <string>C_R_.glif</string>
     <key>Che</key>
@@ -30,6 +36,8 @@
     <string>C_heverticalstroke-cy.glif</string>
     <key>Chi</key>
     <string>C_hi.glif</string>
+    <key>D</key>
+    <string>D_.glif</string>
     <key>De</key>
     <string>D_e.glif</string>
     <key>De.bgr</key>
@@ -42,6 +50,8 @@
     <string>D_ze.glif</string>
     <key>Dzhe</key>
     <string>D_zhe.glif</string>
+    <key>E</key>
+    <string>E_.glif</string>
     <key>Ebrevecyr</key>
     <string>E_brevecyr.glif</string>
     <key>Ecyr</key>
@@ -72,6 +82,10 @@
     <string>E_ta.glif</string>
     <key>Etatonos</key>
     <string>E_tatonos.glif</string>
+    <key>F</key>
+    <string>F_.glif</string>
+    <key>G</key>
+    <string>G_.glif</string>
     <key>Gamma</key>
     <string>G_amma.glif</string>
     <key>Ghe</key>
@@ -82,6 +96,8 @@
     <string>G_heup.glif</string>
     <key>Gje</key>
     <string>G_je.glif</string>
+    <key>H</key>
+    <string>H_.glif</string>
     <key>Ha</key>
     <string>H_a.glif</string>
     <key>Hadescender</key>
@@ -90,6 +106,8 @@
     <string>H_ard.glif</string>
     <key>Hastroke-cy</key>
     <string>H_astroke-cy.glif</string>
+    <key>I</key>
+    <string>I_.glif</string>
     <key>Icyr</key>
     <string>I_cyr.glif</string>
     <key>Ie</key>
@@ -112,8 +130,12 @@
     <string>I_short.glif</string>
     <key>Iukran</key>
     <string>I_ukran.glif</string>
+    <key>J</key>
+    <string>J_.glif</string>
     <key>Je</key>
     <string>J_e.glif</string>
+    <key>K</key>
+    <string>K_.glif</string>
     <key>Ka</key>
     <string>K_a.glif</string>
     <key>Ka.bgr</key>
@@ -130,16 +152,24 @@
     <string>K_averticalstrokecyr.glif</string>
     <key>Kje</key>
     <string>K_je.glif</string>
+    <key>L</key>
+    <string>L_.glif</string>
     <key>Lambda</key>
     <string>L_ambda.glif</string>
     <key>Lje</key>
     <string>L_je.glif</string>
+    <key>M</key>
+    <string>M_.glif</string>
     <key>Mu</key>
     <string>M_u.glif</string>
+    <key>N</key>
+    <string>N_.glif</string>
     <key>Nje</key>
     <string>N_je.glif</string>
     <key>Nu</key>
     <string>N_u.glif</string>
+    <key>O</key>
+    <string>O_.glif</string>
     <key>Obarcyr</key>
     <string>O_barcyr.glif</string>
     <key>Ocyr</key>
@@ -156,6 +186,8 @@
     <string>O_microntonos.glif</string>
     <key>Oslashacute</key>
     <string>O_slashacute.glif</string>
+    <key>P</key>
+    <string>P_.glif</string>
     <key>Palochka</key>
     <string>P_alochka.glif</string>
     <key>Pe</key>
@@ -166,8 +198,14 @@
     <string>P_i.glif</string>
     <key>Psi</key>
     <string>P_si.glif</string>
+    <key>Q</key>
+    <string>Q_.glif</string>
+    <key>R</key>
+    <string>R_.glif</string>
     <key>Rho</key>
     <string>R_ho.glif</string>
+    <key>S</key>
+    <string>S_.glif</string>
     <key>Schwacyr</key>
     <string>S_chwacyr.glif</string>
     <key>Sha</key>
@@ -180,6 +218,8 @@
     <string>S_igma.glif</string>
     <key>Soft</key>
     <string>S_oft.glif</string>
+    <key>T</key>
+    <string>T_.glif</string>
     <key>Tau</key>
     <string>T_au.glif</string>
     <key>Te</key>
@@ -192,6 +232,8 @@
     <string>T_se.glif</string>
     <key>Tshe</key>
     <string>T_she.glif</string>
+    <key>U</key>
+    <string>U_.glif</string>
     <key>Ucyr</key>
     <string>U_cyr.glif</string>
     <key>Udieresiscyr</key>
@@ -212,10 +254,18 @@
     <string>U_straight.glif</string>
     <key>Ustraightstroke</key>
     <string>U_straightstroke.glif</string>
+    <key>V</key>
+    <string>V_.glif</string>
     <key>Ve</key>
     <string>V_e.glif</string>
+    <key>W</key>
+    <string>W_.glif</string>
+    <key>X</key>
+    <string>X_.glif</string>
     <key>Xi</key>
     <string>X_i.glif</string>
+    <key>Y</key>
+    <string>Y_.glif</string>
     <key>Ya</key>
     <string>Y_a.glif</string>
     <key>Yeru</key>
@@ -224,6 +274,8 @@
     <string>Y_i.glif</string>
     <key>Yu</key>
     <string>Y_u.glif</string>
+    <key>Z</key>
+    <string>Z_.glif</string>
     <key>Ze</key>
     <string>Z_e.glif</string>
     <key>Zedescendercyr</key>

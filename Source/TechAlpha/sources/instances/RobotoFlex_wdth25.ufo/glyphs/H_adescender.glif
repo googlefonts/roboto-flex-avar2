@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Hadescender" format="2">
+  <advance width="1037"/>
+  <unicode hex="04B2"/>
+  <outline>
+    <contour>
+      <point x="822" y="154" type="line"/>
+      <point x="1087" y="154" type="line"/>
+      <point x="1087" y="-290" type="line"/>
+      <point x="920" y="-290" type="line"/>
+      <point x="920" y="0" type="line"/>
+      <point x="828" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="27" y="0" type="line"/>
+      <point x="466" y="804" type="line"/>
+      <point x="480" y="804" type="line"/>
+      <point x="801" y="1456" type="line"/>
+      <point x="1001" y="1456" type="line"/>
+      <point x="584" y="672" type="line"/>
+      <point x="569" y="672" type="line"/>
+      <point x="228" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="50" y="1456" type="line"/>
+      <point x="251" y="1456" type="line"/>
+      <point x="572" y="806" type="line"/>
+      <point x="581" y="806" type="line"/>
+      <point x="1024" y="0" type="line"/>
+      <point x="822" y="0" type="line"/>
+      <point x="479" y="670" type="line"/>
+      <point x="470" y="670" type="line"/>
+    </contour>
+  </outline>
+</glyph>

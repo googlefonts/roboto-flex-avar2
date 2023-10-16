@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="brevehookabovecomb" format="2">
+  <advance width="1024"/>
+  <outline>
+    <contour>
+      <point x="743" y="1541" type="qcurve"/>
+      <point x="854" y="1478" type="line"/>
+      <point x="813" y="1378"/>
+      <point x="636" y="1220"/>
+      <point x="512" y="1220" type="qcurve" smooth="yes"/>
+      <point x="399" y="1220"/>
+      <point x="216" y="1367"/>
+      <point x="171" y="1479" type="qcurve"/>
+      <point x="288" y="1542" type="line"/>
+      <point x="321" y="1482"/>
+      <point x="434" y="1385"/>
+      <point x="513" y="1385" type="qcurve" smooth="yes"/>
+      <point x="596" y="1385"/>
+      <point x="709" y="1478"/>
+    </contour>
+    <contour>
+      <point x="426" y="1590" type="line"/>
+      <point x="426" y="1634" type="line" smooth="yes"/>
+      <point x="425" y="1686"/>
+      <point x="485" y="1755"/>
+      <point x="559" y="1766" type="qcurve" smooth="yes"/>
+      <point x="615" y="1775"/>
+      <point x="655" y="1804"/>
+      <point x="655" y="1843" type="qcurve" smooth="yes"/>
+      <point x="655" y="1879"/>
+      <point x="596" y="1914"/>
+      <point x="543" y="1914" type="qcurve" smooth="yes"/>
+      <point x="480" y="1914"/>
+      <point x="370" y="1881"/>
+      <point x="360" y="1874" type="qcurve"/>
+      <point x="303" y="2004" type="line"/>
+      <point x="339" y="2023"/>
+      <point x="493" y="2064"/>
+      <point x="575" y="2064" type="qcurve" smooth="yes"/>
+      <point x="695" y="2064"/>
+      <point x="822" y="1949"/>
+      <point x="822" y="1852" type="qcurve" smooth="yes"/>
+      <point x="822" y="1751"/>
+      <point x="692" y="1632"/>
+      <point x="549" y="1621" type="qcurve"/>
+      <point x="549" y="1590" type="line"/>
+    </contour>
+  </outline>
+</glyph>

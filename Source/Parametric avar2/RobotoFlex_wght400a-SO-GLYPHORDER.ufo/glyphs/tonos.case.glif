@@ -2,7 +2,16 @@
 <glyph name="tonos.case" format="2">
   <advance width="1024"/>
   <outline>
+<<<<<<< HEAD
     <component base="tonoscomb.case" xOffset="523"/>
+=======
+    <contour>
+      <point x="538" y="1074" type="line"/>
+      <point x="415" y="1104" type="line"/>
+      <point x="488" y="1476" type="line"/>
+      <point x="673" y="1457" type="line"/>
+    </contour>
+>>>>>>> 51d011ebf8e85b596ccee80b6074b802078cb5aa
   </outline>
   <lib>
     <dict>

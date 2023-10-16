@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="exclam" format="2">
+  <advance width="783"/>
+  <unicode hex="0021"/>
+  <outline>
+    <contour>
+      <point x="266" y="98" type="qcurve" smooth="yes"/>
+      <point x="266" y="147"/>
+      <point x="330" y="217"/>
+      <point x="390" y="217" type="qcurve" smooth="yes"/>
+      <point x="450" y="217"/>
+      <point x="514" y="147"/>
+      <point x="514" y="98" type="qcurve" smooth="yes"/>
+      <point x="514" y="48"/>
+      <point x="450" y="-22"/>
+      <point x="390" y="-22" type="qcurve" smooth="yes"/>
+      <point x="330" y="-22"/>
+      <point x="266" y="48"/>
+    </contour>
+    <contour>
+      <point x="211" y="410" type="line"/>
+      <point x="174" y="1456" type="line"/>
+      <point x="609" y="1456" type="line"/>
+      <point x="572" y="410" type="line"/>
+    </contour>
+  </outline>
+</glyph>
