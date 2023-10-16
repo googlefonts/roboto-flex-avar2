@@ -1,0 +1,102 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<designspace format="5.0">
+  <axes>
+    <axis tag="opsz" name="Optical size" minimum="8" maximum="144" default="14"/>
+    <axis tag="wght" name="Weight" minimum="100" maximum="1000" default="400"/>
+    <axis tag="wdth" name="Width" minimum="25" maximum="151" default="100"/>
+    <axis tag="slnt" name="slnt" minimum="-10" maximum="0" default="0"/>
+    <axis tag="GRAD" name="GRAD" minimum="-200" maximum="150" default="0"/>
+  </axes>
+  <sources>
+    <source filename="RobotoFlex_wght400.ufo" familyname="Roboto Flex">
+      <location>
+        <dimension name="Optical size" xvalue="14"/>
+        <dimension name="Weight" xvalue="400"/>
+        <dimension name="Width" xvalue="100"/>
+        <dimension name="slnt" xvalue="0"/>
+        <dimension name="GRAD" xvalue="0"/>
+      </location>
+    </source>
+    <source filename="extrema/RobotoFlex_opsz144.ufo" familyname="Roboto Flex">
+      <location>
+        <dimension name="Optical size" xvalue="144"/>
+        <dimension name="Weight" xvalue="400"/>
+        <dimension name="Width" xvalue="100"/>
+        <dimension name="slnt" xvalue="0"/>
+        <dimension name="GRAD" xvalue="0"/>
+      </location>
+    </source>
+    <source filename="extrema/RobotoFlex_opsz8.ufo" familyname="Roboto Flex">
+      <location>
+        <dimension name="Optical size" xvalue="8"/>
+        <dimension name="Weight" xvalue="400"/>
+        <dimension name="Width" xvalue="100"/>
+        <dimension name="slnt" xvalue="0"/>
+        <dimension name="GRAD" xvalue="0"/>
+      </location>
+    </source>
+    <source filename="extrema/RobotoFlex_wght100.ufo" familyname="Roboto Flex">
+      <location>
+        <dimension name="Optical size" xvalue="14"/>
+        <dimension name="Weight" xvalue="100"/>
+        <dimension name="Width" xvalue="100"/>
+        <dimension name="slnt" xvalue="0"/>
+        <dimension name="GRAD" xvalue="0"/>
+      </location>
+    </source>
+    <source filename="extrema/RobotoFlex_wght1000.ufo" familyname="Roboto Flex">
+      <location>
+        <dimension name="Optical size" xvalue="14"/>
+        <dimension name="Weight" xvalue="1000"/>
+        <dimension name="Width" xvalue="100"/>
+        <dimension name="slnt" xvalue="0"/>
+        <dimension name="GRAD" xvalue="0"/>
+      </location>
+    </source>
+    <source filename="extrema/RobotoFlex_wdth25.ufo" familyname="Roboto Flex">
+      <location>
+        <dimension name="Optical size" xvalue="14"/>
+        <dimension name="Weight" xvalue="400"/>
+        <dimension name="Width" xvalue="25"/>
+        <dimension name="slnt" xvalue="0"/>
+        <dimension name="GRAD" xvalue="0"/>
+      </location>
+    </source>
+    <source filename="extrema/RobotoFlex_wdth151.ufo" familyname="Roboto Flex">
+      <location>
+        <dimension name="Optical size" xvalue="14"/>
+        <dimension name="Weight" xvalue="400"/>
+        <dimension name="Width" xvalue="151"/>
+        <dimension name="slnt" xvalue="0"/>
+        <dimension name="GRAD" xvalue="0"/>
+      </location>
+    </source>
+    <source filename="RobotoFlex_slnt-10.ufo" familyname="Roboto Flex">
+      <location>
+        <dimension name="Optical size" xvalue="14"/>
+        <dimension name="Weight" xvalue="400"/>
+        <dimension name="Width" xvalue="100"/>
+        <dimension name="slnt" xvalue="-10"/>
+        <dimension name="GRAD" xvalue="0"/>
+      </location>
+    </source>
+    <source filename="RobotoFlex_GRAD-200.ufo" familyname="Roboto Flex">
+      <location>
+        <dimension name="Optical size" xvalue="14"/>
+        <dimension name="Weight" xvalue="400"/>
+        <dimension name="Width" xvalue="100"/>
+        <dimension name="slnt" xvalue="0"/>
+        <dimension name="GRAD" xvalue="-200"/>
+      </location>
+    </source>
+    <source filename="RobotoFlex_GRAD150.ufo" familyname="Roboto Flex">
+      <location>
+        <dimension name="Optical size" xvalue="14"/>
+        <dimension name="Weight" xvalue="400"/>
+        <dimension name="Width" xvalue="100"/>
+        <dimension name="slnt" xvalue="0"/>
+        <dimension name="GRAD" xvalue="150"/>
+      </location>
+    </source>
+  </sources>
+</designspace>
