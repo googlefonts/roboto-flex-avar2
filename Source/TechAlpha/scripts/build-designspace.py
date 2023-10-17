@@ -9,25 +9,22 @@ import ufoProcessor
 from fontTools.designspaceLib import DesignSpaceDocument, AxisDescriptor, SourceDescriptor, InstanceDescriptor, AxisMappingDescriptor
 from variableValues.measurements import FontMeasurements
 
-
 '''
+Objects to build designspace files for Roboto Flex avar2.
 
-The “TechAlpha” deliverables
-----------------------------
-
-A set of sources from the original Roboto Flex parametric axes, plus spacing and the slant source.
-
-Three designspace files including:
-
-A. default
+0. default
    parametric axes
-   blended axes (avar2 data)
+   9 instances for 5 axes extrema
 
-B. default
+1. default
+   parametric axes
+   blended axes (avar2)
+
+2. default
    parametric axes
    9 sources for 5 axes extrema*
 
-C. default
+3. default
    9 sources for 5 axes extrema*
 
 * axes extrema:               current values:
@@ -40,9 +37,7 @@ C. default
   | Slnt |      |  -10 |      |      |  -10 | ✔
   | Grad |  -50 |   50 |  ->  | -200 |  150 | ✔
 
-
 '''
-
 
 def permille(value, unitsPerEm):
     '''Convert an absolute value in font units to a relative value in permille units.'''
@@ -51,18 +46,13 @@ def permille(value, unitsPerEm):
 
 class RobotoFlexDesignSpaceBuilder:
 
-    '''
-    An object which builds the designspace file(s) for Roboto Flex avar2.
-
-    '''
-
     baseFolder           = os.path.dirname(os.getcwd())
     sourcesFolder        = os.path.join(baseFolder,    'sources')
     extremaFolder        = os.path.join(sourcesFolder, 'extrema')
     instancesFolder      = os.path.join(sourcesFolder, 'instances')
     measurementsPath     = os.path.join(sourcesFolder, 'measurements.json')
     defaultUFO           = os.path.join(sourcesFolder, 'RobotoFlex_wght400.ufo')
-    designspacePath      = os.path.join(sourcesFolder, 'RobotoFlex.designspace')
+    designspacePath      = os.path.join(sourcesFolder, 'RobotoFlex0.designspace')
     familyName           = 'Roboto Flex'
     blendedAxes          = 'opsz wght wdth'.split()
     parametricAxes       = 'XOPQ XTRA YOPQ YTAS YTDE YTUC YTLC YTFI'.split() # XOUC XOLC XOFI XTUC XTLC XTFI 
@@ -144,13 +134,7 @@ class RobotoFlexDesignSpaceBuilder:
             a.hidden  = self.parametricAxesHidden
             self.designspace.addAxis(a)
 
-    def addSources(self):
-        '''
-        Add sources to the designspace.
-        Source locations are taken from file names. (File names are based on measurements.)
-
-        '''
-
+    def addDefaultSource(self):
         # add default source
         src = SourceDescriptor()
         src.path       = self.defaultUFO
@@ -158,6 +142,12 @@ class RobotoFlexDesignSpaceBuilder:
         src.location   = self.defaultLocation.copy()
         self.designspace.addSource(src)
 
+    def addParametricSources(self):
+        '''
+        Add sources to the designspace.
+        Source locations are taken from file names. (File names are based on measurements.)
+
+        '''
         # add slnt source
         L = self.defaultLocation.copy()
         L['slnt'] = -10
@@ -239,7 +229,8 @@ class RobotoFlexDesignSpaceBuilder:
         '''Build the designspace object.'''
         self.designspace = DesignSpaceDocument()
         self.addParametricAxes()
-        self.addSources()
+        self.addDefaultSource()
+        self.addParametricSources()
         self.addInstances()
 
     def save(self):
@@ -255,16 +246,9 @@ class RobotoFlexDesignSpaceBuilder:
         ufoProcessor.build(self.designspacePath)
 
 
-class RobotoFlexDesignSpaceBuilderA(RobotoFlexDesignSpaceBuilder):
+class RobotoFlexDesignSpaceBuilder1(RobotoFlexDesignSpaceBuilder):
 
-    '''
-    A. default
-       parametric axes
-       blended axes (avar2 data)
-
-    '''
-
-    designspacePath = os.path.join(RobotoFlexDesignSpaceBuilder.sourcesFolder, 'RobotoFlexA.designspace')
+    designspacePath = os.path.join(RobotoFlexDesignSpaceBuilder.sourcesFolder, 'RobotoFlex1.designspace')
 
     # blended axes data
     axesDefaults = {
@@ -284,11 +268,11 @@ class RobotoFlexDesignSpaceBuilderA(RobotoFlexDesignSpaceBuilder):
         M = FontMeasurements()
         M.read(self.measurementsPath)
 
-        for name in self.blendedAxes:
+        for tag in self.blendedAxes:
             # get min/max values from file names
             values = []
             for ufo in self.sourcesExtrema:
-                if name in ufo:
+                if tag in ufo:
                     value = int(os.path.splitext(os.path.split(ufo)[-1])[0].split('_')[-1][4:])
                     values.append(value)
             assert len(values)
@@ -296,14 +280,14 @@ class RobotoFlexDesignSpaceBuilderA(RobotoFlexDesignSpaceBuilder):
 
             # create axis
             a = AxisDescriptor()
-            a.name    = name
-            a.tag     = self.axesNames[name]
+            a.name    = self.axesNames[tag]
+            a.tag     = tag
             a.minimum = values[0]
             a.maximum = values[1]
-            a.default = self.axesDefaults[name]
+            a.default = self.axesDefaults[tag]
             self.designspace.addAxis(a)
 
-    def addMappings(self):
+    def addMappings_avar2(self):
 
         # load measurement definitions
         M = FontMeasurements()
@@ -332,25 +316,132 @@ class RobotoFlexDesignSpaceBuilderA(RobotoFlexDesignSpaceBuilder):
 
             self.designspace.addAxisMapping(m)
 
+    def build(self):
+        self.designspace = DesignSpaceDocument()
+        self.addBlendedAxes()
+        self.addParametricAxes()
+        self.addMappings_avar2()
+        self.addDefaultSource()
+        self.addParametricSources()
+        
+
+class RobotoFlexDesignSpaceBuilder2(RobotoFlexDesignSpaceBuilder1):
+
+    designspacePath = os.path.join(RobotoFlexDesignSpaceBuilder.sourcesFolder, 'RobotoFlex2.designspace')
+
+    @property
+    def defaultLocation(self):
+        L = { name: permille(self.measurementsDefault.values[name], self.unitsPerEm) for name in self.parametricAxes }
+        L['Optical size'] = 14
+        L['Weight'] = 400
+        L['Width'] = 100
+        L['slnt'] = 0
+        L['GRAD'] = 0
+        L['XTSP'] = 0
+        return L
+
+    def addBlendedAxes(self):
+
+        # load measurement definitions
+        M = FontMeasurements()
+        M.read(self.measurementsPath)
+
+        for tag in self.blendedAxes:
+            # get min/max values from file names
+            values = []
+            for ufo in self.sourcesExtrema:
+                if tag in ufo:
+                    value = int(os.path.splitext(os.path.split(ufo)[-1])[0].split('_')[-1][4:])
+                    values.append(value)
+            assert len(values)
+            values.sort()
+
+            # create axis
+            a = AxisDescriptor()
+            a.name    = self.axesNames[tag]
+            a.tag     = tag 
+            a.minimum = values[0]
+            a.maximum = values[1]
+            a.default = self.axesDefaults[tag]
+            self.designspace.addAxis(a)
+
+    def addBlendedSources(self):
+        M = FontMeasurements()
+        M.read(self.measurementsPath)
+
+        for blendedAxisTag in self.blendedAxes:
+            for ufoPath in self.sourcesExtrema:
+                if blendedAxisTag in ufoPath:
+                    blendedAxisName = self.axesNames[blendedAxisTag]
+                    # get measurements
+                    f = OpenFont(ufoPath, showInterface=False)
+                    M.measure(f)
+
+                    # create instance location from default + measurements
+                    L = self.defaultLocation.copy()
+                    value = int(os.path.splitext(os.path.split(ufoPath)[-1])[0].split('_')[-1][4:])
+                    L[blendedAxisName] = value # valuePermill
+
+                    # add instance to designspace
+                    src = SourceDescriptor()
+                    src.path       = ufoPath
+                    src.familyName = self.familyName
+                    src.location   = L
+                    self.designspace.addSource(src)
 
     def build(self):
         self.designspace = DesignSpaceDocument()
         self.addBlendedAxes()
         self.addParametricAxes()
-        self.addMappings()
-        self.addSources()
-        
-
-class RobotoFlexDesignSpaceBuilderB(RobotoFlexDesignSpaceBuilder):
-
-    designspacePath = os.path.join(RobotoFlexDesignSpaceBuilder.sourcesFolder, 'RobotoFlexB.designspace')
+        self.addDefaultSource()
+        self.addBlendedSources()
+        self.addParametricSources()
 
 
-class RobotoFlexDesignSpaceBuilderC(RobotoFlexDesignSpaceBuilder):
+class RobotoFlexDesignSpaceBuilder3(RobotoFlexDesignSpaceBuilder2):
 
-    designspacePath = os.path.join(RobotoFlexDesignSpaceBuilder.sourcesFolder, 'RobotoFlexC.designspace')
-    parametricAxesHidden = True
+    designspacePath = os.path.join(RobotoFlexDesignSpaceBuilder.sourcesFolder, 'RobotoFlex3.designspace')
 
+    def addParametricAxes(self):
+
+        # add slant axis
+        a = AxisDescriptor()
+        a.name    = 'slnt'
+        a.tag     = 'slnt'
+        a.minimum = -10
+        a.maximum = 0
+        a.default = 0
+        self.designspace.addAxis(a)
+
+        # add grades axis
+        a = AxisDescriptor()
+        a.name    = 'GRAD'
+        a.tag     = 'GRAD'
+        a.minimum = -200
+        a.maximum = 150
+        a.default = 0
+        self.designspace.addAxis(a)
+
+    def addParametricSources(self):
+
+        # add slnt source
+        L = self.defaultLocation.copy()
+        L['slnt'] = -10
+        src = SourceDescriptor()
+        src.path       = os.path.join(self.sourcesFolder, 'RobotoFlex_slnt-10.ufo')
+        src.familyName = self.familyName
+        src.location   = L
+        self.designspace.addSource(src)
+
+        # add GRAD sources
+        for gradeValue in [-200, 150]:
+            L = self.defaultLocation.copy()
+            L['GRAD'] = gradeValue
+            src = SourceDescriptor()
+            src.path       = os.path.join(self.sourcesFolder, f'RobotoFlex_GRAD{gradeValue}.ufo')
+            src.familyName = self.familyName
+            src.location   = L
+            self.designspace.addSource(src)
 
 # -----
 # build
@@ -363,16 +454,14 @@ if __name__ == '__main__':
     D.save()
     # D.buildInstances(clear=True)
     
-    D1 = RobotoFlexDesignSpaceBuilderA()
+    D1 = RobotoFlexDesignSpaceBuilder1()
     D1.build()
     D1.save()
 
-    # D2 = RobotoFlexDesignSpaceBuilderB()
-    # print(D2.designspacePath)
-    # D2.build()
-    # D2.save()
+    D2 = RobotoFlexDesignSpaceBuilder2()
+    D2.build()
+    D2.save()
 
-    # D3 = RobotoFlexDesignSpaceBuilderC()
-    # print(D3.designspacePath)
-    # D3.build()
-    # D3.save()
+    D3 = RobotoFlexDesignSpaceBuilder3()
+    D3.build()
+    D3.save()
