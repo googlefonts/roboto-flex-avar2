@@ -234,6 +234,8 @@
     <string>H_.glif</string>
     <key>Ha</key>
     <string>H_a.glif</string>
+    <key>Hacyr-stroke</key>
+    <string>H_acyr-stroke.glif</string>
     <key>Hadescender</key>
     <string>H_adescender.glif</string>
     <key>Hard</key>
@@ -378,6 +380,8 @@
     <string>O_acute.glif</string>
     <key>Obarcyr</key>
     <string>O_barcyr.glif</string>
+    <key>Obarcyr-stroke</key>
+    <string>O_barcyr-stroke.glif</string>
     <key>Obreve</key>
     <string>O_breve.glif</string>
     <key>Obrevecyr</key>
@@ -804,6 +808,10 @@
     <string>breve-stack.case.glif</string>
     <key>breve.case</key>
     <string>breve.case.glif</string>
+    <key>breve.cyr</key>
+    <string>breve.cyr.glif</string>
+    <key>breve.cyr.case</key>
+    <string>breve.cyr.case.glif</string>
     <key>breve.cyrcomb</key>
     <string>breve.cyrcomb.glif</string>
     <key>breve.cyrcomb.case</key>
@@ -1274,6 +1282,8 @@
     <string>h.glif</string>
     <key>ha</key>
     <string>ha.glif</string>
+    <key>hacyr-stroke</key>
+    <string>hacyr-stroke.glif</string>
     <key>hadescender</key>
     <string>hadescender.glif</string>
     <key>hard</key>
@@ -1556,6 +1566,8 @@
     <string>oacute.glif</string>
     <key>obarcyr</key>
     <string>obarcyr.glif</string>
+    <key>obarcyr-stroke</key>
+    <string>obarcyr-stroke.glif</string>
     <key>obreve</key>
     <string>obreve.glif</string>
     <key>obrevecyr</key>

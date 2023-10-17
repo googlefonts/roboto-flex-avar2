@@ -4,12 +4,13 @@
   <outline>
     <component base="f"/>
     <component base="f" xOffset="600"/>
-    <component base="ij" xOffset="1200"/>
+    <component base="i" xOffset="1200"/>
+    <component base="j" xOffset="1700"/>
   </outline>
   <lib>
     <dict>
       <key>public.markColor</key>
-      <string>0,0,1,1</string>
+      <string>0.0016,0,0.9984,1</string>
     </dict>
   </lib>
 </glyph>

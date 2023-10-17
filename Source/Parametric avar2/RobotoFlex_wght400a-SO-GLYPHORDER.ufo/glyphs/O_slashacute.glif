@@ -3,13 +3,14 @@
   <advance width="1460"/>
   <unicode hex="01FE"/>
   <outline>
-    <component base="Oslash"/>
+    <component base="O"/>
+    <component base="diagonalbarO" xOffset="417" yOffset="-6.5"/>
     <component base="acutecomb.case" xOffset="730"/>
   </outline>
   <lib>
     <dict>
       <key>public.markColor</key>
-      <string>0,0.0199,0.9984,1</string>
+      <string>0.0016,0,0.9984,1</string>
     </dict>
   </lib>
 </glyph>

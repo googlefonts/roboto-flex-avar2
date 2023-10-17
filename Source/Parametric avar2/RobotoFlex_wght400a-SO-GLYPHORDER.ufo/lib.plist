@@ -814,12 +814,12 @@
           <string>gr:question</string>
           <string>anoteleia</string>
           <string>tonos</string>
-          <string>tonoscomb</string>
           <string>tonos.case</string>
-          <string>tonoscomb.case</string>
           <string>dieresistonos</string>
-          <string>dieresistonoscomb</string>
           <string>dieresistonos.case</string>
+          <string>tonoscomb</string>
+          <string>tonoscomb.case</string>
+          <string>dieresistonoscomb</string>
           <string>dieresistonoscomb.case</string>
           <string>Dje</string>
           <string>Ieukran</string>
@@ -901,8 +901,6 @@
           <string>Zhe.bgr</string>
           <string>Ka.bgr</string>
           <string>El.bgr</string>
-          <string>i.bgr</string>
-          <string>igrave.bgr</string>
           <string>acyr</string>
           <string>abrevecyr</string>
           <string>adieresiscyr</string>
@@ -982,6 +980,8 @@
           <string>ve.bgr</string>
           <string>ghe.bgr</string>
           <string>de.bgr</string>
+          <string>i.bgr</string>
+          <string>igrave.bgr</string>
           <string>zhe.bgr</string>
           <string>ze.bgr</string>
           <string>ka.bgr</string>
@@ -1018,6 +1018,8 @@
           <string>yamacron</string>
           <string>Yumacron</string>
           <string>yumacron</string>
+          <string>breve.cyr.case</string>
+          <string>breve.cyr</string>
           <string>Yi-dieresis.case</string>
           <string>yi-dieresis</string>
           <string>Cy-descender.case</string>
@@ -1038,13 +1040,19 @@
           <string>thinspace</string>
           <string>zerowidthspace</string>
           <string>zerowidthnbspace</string>
+          <string>U-stroke</string>
+          <string>u-stroke</string>
+          <string>Obarcyr-stroke</string>
+          <string>Hacyr-stroke</string>
+          <string>obarcyr-stroke</string>
+          <string>hacyr-stroke</string>
         </array>
         <key>type</key>
         <string>glyphList</string>
       </dict>
     </array>
     <key>com.typemytype.glyphBuilder.lastSavedFileName</key>
-    <string>RobotoFlex-Regular-Greek</string>
+    <string>RobotoFlex-Regular-Cyrillic</string>
     <key>com.typemytype.robofont.Roboto-Regular.layerShow</key>
     <false/>
     <key>com.typemytype.robofont.Roboto-Regular.layerStrokeColor</key>
@@ -2447,12 +2455,12 @@
       <string>gr:question</string>
       <string>anoteleia</string>
       <string>tonos</string>
-      <string>tonoscomb</string>
       <string>tonos.case</string>
-      <string>tonoscomb.case</string>
       <string>dieresistonos</string>
-      <string>dieresistonoscomb</string>
       <string>dieresistonos.case</string>
+      <string>tonoscomb</string>
+      <string>tonoscomb.case</string>
+      <string>dieresistonoscomb</string>
       <string>dieresistonoscomb.case</string>
       <string>Dje</string>
       <string>Ieukran</string>
@@ -2534,8 +2542,6 @@
       <string>Zhe.bgr</string>
       <string>Ka.bgr</string>
       <string>El.bgr</string>
-      <string>i.bgr</string>
-      <string>igrave.bgr</string>
       <string>acyr</string>
       <string>abrevecyr</string>
       <string>adieresiscyr</string>
@@ -2615,6 +2621,8 @@
       <string>ve.bgr</string>
       <string>ghe.bgr</string>
       <string>de.bgr</string>
+      <string>i.bgr</string>
+      <string>igrave.bgr</string>
       <string>zhe.bgr</string>
       <string>ze.bgr</string>
       <string>ka.bgr</string>
@@ -2651,6 +2659,8 @@
       <string>yamacron</string>
       <string>Yumacron</string>
       <string>yumacron</string>
+      <string>breve.cyr.case</string>
+      <string>breve.cyr</string>
       <string>Yi-dieresis.case</string>
       <string>yi-dieresis</string>
       <string>Cy-descender.case</string>
@@ -2673,6 +2683,10 @@
       <string>zerowidthnbspace</string>
       <string>U-stroke</string>
       <string>u-stroke</string>
+      <string>Obarcyr-stroke</string>
+      <string>Hacyr-stroke</string>
+      <string>obarcyr-stroke</string>
+      <string>hacyr-stroke</string>
     </array>
     <key>public.postscriptNames</key>
     <dict/>

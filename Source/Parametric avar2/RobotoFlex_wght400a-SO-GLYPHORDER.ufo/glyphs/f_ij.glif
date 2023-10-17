@@ -3,12 +3,13 @@
   <advance width="1600"/>
   <outline>
     <component base="f"/>
-    <component base="ij" xOffset="600"/>
+    <component base="i" xOffset="600"/>
+    <component base="j" xOffset="1100"/>
   </outline>
   <lib>
     <dict>
       <key>public.markColor</key>
-      <string>0,0,1,1</string>
+      <string>0.0016,0,0.9984,1</string>
     </dict>
   </lib>
 </glyph>
