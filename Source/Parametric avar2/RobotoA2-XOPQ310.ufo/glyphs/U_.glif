@@ -2,14 +2,10 @@
 <glyph name="U" format="2">
   <advance width="1793"/>
   <unicode hex="0055"/>
-  <anchor x="682" y="0" name="bottom"/>
-  <anchor x="879" y="0" name="ogonek"/>
-  <anchor x="682" y="1456" name="top"/>
-  <anchor x="1117" y="1456" name="topright"/>
-  <anchor x="926" y="0" name="bottom"/>
-  <anchor x="1166" y="0" name="ogonek"/>
-  <anchor x="926" y="1456" name="top"/>
-  <anchor x="1598" y="1456" name="topright"/>
+  <anchor x="922" y="0" name="bottom"/>
+  <anchor x="1219" y="0" name="ogonek"/>
+  <anchor x="1065" y="1456" name="top"/>
+  <anchor x="1638" y="1456" name="topright"/>
   <outline>
     <contour>
       <point x="155" y="620" type="qcurve" smooth="yes"/>

@@ -2,9 +2,9 @@
 <glyph name="E" format="2">
   <advance width="1591"/>
   <unicode hex="0045"/>
-  <anchor x="630" y="0" name="bottom"/>
-  <anchor x="1094" y="0" name="ogonek"/>
-  <anchor x="645" y="1456" name="top"/>
+  <anchor x="856" y="0" name="bottom"/>
+  <anchor x="1469" y="0" name="ogonek"/>
+  <anchor x="876" y="1456" name="top"/>
   <anchor x="-75" y="1074" name="tonos"/>
   <outline>
     <contour>
@@ -18,8 +18,8 @@
       <point x="1523" y="0" type="line"/>
     </contour>
     <contour>
-      <point x="272" y="672" type="line"/>
-      <point x="272" y="830" type="line"/>
+      <point x="481" y="672" type="line"/>
+      <point x="481" y="830" type="line"/>
       <point x="1421" y="830" type="line"/>
       <point x="1421" y="672" type="line"/>
     </contour>

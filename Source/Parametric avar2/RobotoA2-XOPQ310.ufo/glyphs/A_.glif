@@ -3,9 +3,9 @@
   <advance width="1727"/>
   <unicode hex="0041"/>
   <anchor x="640" y="0" name="bottom"/>
-  <anchor x="1174" y="0" name="ogonek"/>
-  <anchor x="640" y="1456" name="top"/>
-  <anchor x="263" y="1074" name="tonos"/>
+  <anchor x="1574" y="0" name="ogonek"/>
+  <anchor x="840" y="1456" name="top"/>
+  <anchor x="163" y="1074" name="tonos"/>
   <outline>
     <contour>
       <point x="0" y="0" type="line"/>
@@ -26,8 +26,8 @@
     <contour>
       <point x="238" y="380" type="line"/>
       <point x="297" y="538" type="line"/>
-      <point x="981" y="538" type="line"/>
-      <point x="1039" y="380" type="line"/>
+      <point x="1202" y="538" type="line"/>
+      <point x="1260" y="380" type="line"/>
     </contour>
   </outline>
 </glyph>

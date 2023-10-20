@@ -2,8 +2,8 @@
 <glyph name="R" format="2">
   <advance width="2114"/>
   <unicode hex="0052"/>
-  <anchor x="605" y="0" name="bottom"/>
-  <anchor x="605" y="1456" name="top"/>
+  <anchor x="1105" y="0" name="bottom"/>
+  <anchor x="1105" y="1456" name="top"/>
   <outline>
     <contour>
       <point x="170" y="0" type="line"/>
@@ -15,8 +15,8 @@
       <point x="1992" y="817"/>
       <point x="1638" y="594"/>
       <point x="1314" y="594" type="qcurve" smooth="yes"/>
-      <point x="492" y="594" type="line"/>
-      <point x="492" y="750" type="line"/>
+      <point x="479" y="594" type="line"/>
+      <point x="479" y="750" type="line"/>
       <point x="1063" y="750" type="line" smooth="yes"/>
       <point x="1229" y="750"/>
       <point x="1363" y="912"/>

@@ -4,10 +4,10 @@
   <unicode hex="004F"/>
   <anchor x="1176" y="0" name="bottom"/>
   <anchor x="1176" y="728" name="center"/>
-  <anchor x="1374" y="0" name="ogonek"/>
+  <anchor x="1534" y="0" name="ogonek"/>
   <anchor x="1176" y="1456" name="top"/>
-  <anchor x="1369" y="1456" name="topright"/>
-  <anchor x="471" y="1074" name="tonos"/>
+  <anchor x="1529" y="1456" name="topright"/>
+  <anchor x="-4" y="1074" name="tonos"/>
   <outline>
     <contour>
       <point x="115" y="715" type="qcurve" smooth="yes"/>
