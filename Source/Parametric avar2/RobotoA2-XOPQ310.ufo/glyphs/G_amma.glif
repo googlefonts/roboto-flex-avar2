@@ -1,14 +1,17 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Gamma" format="2">
-  <advance width="1077"/>
+  <advance width="1501"/>
   <unicode hex="0393"/>
+  <anchor x="853" y="1456" name="top"/>
+  <anchor x="560" y="708" name="center"/>
   <outline>
-    <component base="Ghe"/>
+    <contour>
+      <point x="170" y="0" type="line"/>
+      <point x="170" y="1456" type="line"/>
+      <point x="1476" y="1456" type="line"/>
+      <point x="1476" y="1298" type="line"/>
+      <point x="791" y="1298" type="line"/>
+      <point x="791" y="0" type="line"/>
+    </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>0.0016,0,0.9984,1</string>
-    </dict>
-  </lib>
 </glyph>
