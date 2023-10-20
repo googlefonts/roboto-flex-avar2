@@ -1,0 +1,380 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+    <title>Roboto Flex avar2</title>
+    <style>
+      body {
+        color: white;
+        background-color: black;
+      }
+      @font-face {
+        font-family: "Roboto Flex avar2";
+        src: url('RobotoFlex1.ttf') format('truetype');
+        font-style: regular;
+        font-weight: regular;
+        font-display: auto;
+      }
+
+      @font-face {
+        font-family: "Roboto Flex avar1";
+        src: url('RobotoFlex2.ttf') format('truetype');
+        font-style: regular;
+        font-weight: regular;
+        font-display: auto;
+      }
+      .Roboto-Flex-avar1 {
+        font-family: "Roboto Flex avar1";
+      }
+      .Roboto-Flex-avar2 {
+        font-family: "Roboto Flex avar2";
+      }
+      .sample {
+        font-size: 18pt;
+        line-height: 1.2em;
+        -webkit-font-smoothing: antialiased;
+        -moz-osx-font-smoothing: grayscale;
+        font-optical-sizing: none;
+      }
+      #avar1_container {
+        background-color: black;
+      }
+      output.form-control {
+        font-size: 0.85em !important;
+      }
+    </style>
+    <script>
+      document.addEventListener("DOMContentLoaded", function() {
+
+        fontsize_slider   = document.getElementById("fontsize");
+        lineheight_slider = document.getElementById("lineheight");
+        opsz_slider       = document.getElementById("opsz");
+        XTSP_slider       = document.getElementById("XTSP");
+        link_fontsize     = document.getElementById("synchFontSize");
+        font_samples      = document.querySelectorAll(".sample");
+        axis_sliders      = document.querySelectorAll('.axis')
+        sample_1          = document.getElementById('sample_1')
+        sample_2          = document.getElementById('sample_2')
+
+        function axis_sliders_changed() {
+          variations = []
+          axis_sliders.forEach(function(slider) {
+            variations.push('"' + slider.id + '" ' + slider.value);
+            document.getElementById(slider.id + '_value').value = slider.value;
+          })
+          for (var i = 0; i < font_samples.length; i++) {
+            font_samples[i].style.fontVariationSettings = variations.join(", ")
+          }
+        }
+
+        function fontsize_slider_changed() {  
+          document.getElementById('fontsize_value').value = fontsize_slider.value;
+          for (var i = 0; i < font_samples.length; i++) {
+            font_samples[i].style.fontSize = fontsize_slider.value + "pt"
+            font_samples[i].style.lineHeight = (fontsize_slider.value * lineheight_slider.value) + "pt"
+            if (link_fontsize.checked) {
+              opsz_slider.value = fontsize_slider.value;
+              axis_sliders_changed();
+            }
+          }
+        }
+
+        function lineheight_slider_changed() {
+          document.getElementById('lineheight_value').value = lineheight_slider.value;
+          for (var i = 0; i < font_samples.length; i++) {
+            font_samples[i].style.lineHeight = (fontsize_slider.value * lineheight_slider.value) + "pt"
+          }
+        }
+
+        function opsz_slider_changed() {
+          if (link_fontsize.checked == true) {
+            fontsize_slider.value = opsz_slider.value;
+            fontsize_slider_changed();
+          }
+        }
+
+        function link_fontsize_changed (checkbox) {
+          fontsize_slider_changed()
+        }
+
+        fontsize_slider.addEventListener('input', fontsize_slider_changed)
+        lineheight_slider.addEventListener('input', lineheight_slider_changed)
+        opsz_slider.addEventListener('input', opsz_slider_changed)
+
+        link_fontsize.addEventListener('input', link_fontsize_changed)
+
+        axis_sliders.forEach(function(slider) {
+          slider.addEventListener('input', axis_sliders_changed)
+        })
+
+        sample_1.addEventListener("input", function() {
+            sample_2.innerHTML = sample_1.innerHTML;
+        }, false);
+
+      })
+    </script>
+  </head>
+  <body class='h-100 overflow-hidden'>
+    <div class='container-fluid p-3'>
+      <div class="row">
+        <div class="col-4 col-lg-3">
+
+          <h3 class='h6'>text properties</h3>
+
+          <div class="row">
+            <div class="col-4">
+              <label for="fontsize" class="form-label"><small>font size</small></label>
+            </div>
+            <div class="col-6">
+              <input type="range" class="form-range" min="8" max="144" value='18' id="fontsize">
+            </div>
+            <div class="col-2">
+              <output class="form-control text-light border-0 bg-transparent" id='fontsize_value'>18</output>
+            </div>
+          </div>
+
+          <div class="row">
+            <div class="col-4">
+              <label for="lineheight" class="form-label"><small>line height</small></label>
+            </div>
+            <div class="col-6">
+              <input type="range" class="form-range" min="1.00" max="1.60" value='1.20' step="0.05" id="lineheight">
+            </div>
+            <div class="col-2">
+              <output class="form-control text-light border-0 bg-transparent" id='lineheight_value'>1.20</output>
+            </div>
+          </div>
+
+          <div class="row">
+            <div class='col-12'>
+              <div class="form-check">
+                <input class="form-check-input" type="checkbox" value="" id="synchFontSize">
+                <label class="form-check-label" for="synchFontSize">
+                  <small>font size = optical size</small>
+                </label>
+              </div>
+            </div>
+          </div>
+
+          <hr/>
+
+          <h3 class='h6'>font variations</h3>
+
+          <div class="row">
+            <div class="col-4">
+              <label for="opsz" class="form-label"><small>optical size</small></label>
+            </div>
+            <div class="col-6">
+              <input type="range" class="form-range axis" min="8" max="144" value='18' id="opsz">
+            </div>
+            <div class="col-2">
+              <output class="form-control text-light border-0 bg-transparent" id='opsz_value'>18</output>
+            </div>
+          </div>
+
+          <div class="row">
+            <div class="col-4">
+              <label for="wght" class="form-label"><small>weight</small></label>
+            </div>
+            <div class="col-6">
+              <input type="range" class="form-range axis" min="100" max="1000" value='400' id="wght">
+            </div>
+            <div class="col-2">
+              <output class="form-control text-light border-0 bg-transparent" id='wght_value'>400</output>
+            </div>
+          </div>
+
+          <div class="row">
+            <div class="col-4">
+              <label for="wdth" class="form-label"><small>width</small></label>
+            </div>
+            <div class="col-6">
+              <input type="range" class="form-range axis" min="25" max="151" value='100' id="wdth">
+            </div>
+            <div class="col-2">
+              <output class="form-control text-light border-0 bg-transparent" id='wdth_value'>100</output>
+            </div>
+          </div>
+
+          <div class="row">
+            <div class="col-4">
+              <label for="slnt" class="form-label"><small>slant</small></label>
+            </div>
+            <div class="col-6">
+              <input type="range" class="form-range axis" min="-10" max="0" value='0' id="slnt">
+            </div>
+            <div class="col-2">
+              <output class="form-control text-light border-0 bg-transparent" id='slnt_value'>0</output>
+            </div>
+          </div>
+
+          <div class="row">
+            <div class="col-4">
+              <label for="GRAD" class="form-label"><small>grade</small></label>
+            </div>
+            <div class="col-6">
+              <input type="range" class="form-range axis" min="-200" max="150" value='0' id="GRAD">
+            </div>
+            <div class="col-2">
+              <output class="form-control text-light border-0 bg-transparent" id='GRAD_value'>0</output>
+            </div>
+          </div>
+
+          <div class="row">
+            <div class="col-4">
+              <label for="XTSP" class="form-label"><small>spacing</small></label>
+            </div>
+            <div class="col-6">
+              <input type="range" class="form-range axis" min="-100" max="100" value='0' id="XTSP">
+            </div>
+            <div class="col-2">
+              <output class="form-control text-light border-0 bg-transparent" id='XTSP_value'>0</output>
+            </div>
+          </div>
+
+          <hr/>
+
+          <h3 class='h6'>parametric axes</h3>
+
+          <div class="row">
+            <div class="col-4">
+              <label for="XOPQ" class="form-label"><small>XOPQ</small></label>
+            </div>
+            <div class="col-6">
+              <input type="range" class="form-range axis" min="26" max="171" value='94' id="XOPQ">
+            </div>
+            <div class="col-2">
+              <output class="form-control text-light border-0 bg-transparent" id='XOPQ_value'>94</output>
+            </div>
+          </div>
+
+          <div class="row">
+            <div class="col-4">
+              <label for="XTRA" class="form-label"><small>XTRA</small></label>
+            </div>
+            <div class="col-6">
+              <input type="range" class="form-range axis" min="222" max="495" value='358' id="XTRA">
+            </div>
+            <div class="col-2">
+              <output class="form-control text-light border-0 bg-transparent" id='XTRA_value'>358</output>
+            </div>
+          </div>
+
+          <div class="row">
+            <div class="col-4">
+              <label for="YOPQ" class="form-label"><small>YOPQ</small></label>
+            </div>
+            <div class="col-6">
+              <input type="range" class="form-range axis" min="24" max="132" value='77' id="YOPQ">
+            </div>
+            <div class="col-2">
+              <output class="form-control text-light border-0 bg-transparent" id='YOPQ_value'>77</output>
+            </div>
+          </div>
+
+          <div class="row">
+            <div class="col-4">
+              <label for="YTAS" class="form-label"><small>YTAS</small></label>
+            </div>
+            <div class="col-6">
+              <input type="range" class="form-range axis" min="649" max="854" value='750' id="YTAS">
+            </div>
+            <div class="col-2">
+              <output class="form-control text-light border-0 bg-transparent" id='YTAS_value'>750</output>
+            </div>
+          </div>
+
+          <div class="row">
+            <div class="col-4">
+              <label for="YTDE" class="form-label"><small>YTDE</small></label>
+            </div>
+            <div class="col-6">
+              <input type="range" class="form-range axis" min="-303" max="-98" value='-203' id="YTDE">
+            </div>
+            <div class="col-2">
+              <output class="form-control text-light border-0 bg-transparent" id='YTDE_value'>-203</output>
+            </div>
+          </div>
+
+          <div class="row">
+            <div class="col-4">
+              <label for="YTUC" class="form-label"><small>YTUC</small></label>
+            </div>
+            <div class="col-6">
+              <input type="range" class="form-range axis" min="528" max="760" value='711' id="YTUC">
+            </div>
+            <div class="col-2">
+              <output class="form-control text-light border-0 bg-transparent" id='YTUC_value'>711</output>
+            </div>
+          </div>
+
+          <div class="row">
+            <div class="col-4">
+              <label for="YTLC" class="form-label"><small>YTLC</small></label>
+            </div>
+            <div class="col-6">
+              <input type="range" class="form-range axis" min="426" max="580" value='523' id="YTLC">
+            </div>
+            <div class="col-2">
+              <output class="form-control text-light border-0 bg-transparent" id='YTLC_value'>523</output>
+            </div>
+          </div>
+
+          <div class="row">
+            <div class="col-4">
+              <label for="YTFI" class="form-label"><small>YTFI</small></label>
+            </div>
+            <div class="col-6">
+              <input type="range" class="form-range axis" min="532" max="760" value='711' id="YTFI">
+            </div>
+            <div class="col-2">
+              <output class="form-control text-light border-0 bg-transparent" id='YTFI_value'>711</output>
+            </div>
+          </div>
+
+
+          <!--
+          <div class="row">
+            <div class='col-12'>
+              <div class="form-check">
+                <input class="form-check-input" type="checkbox" value="" id="synchSpacTrac" checked>
+                <label class="form-check-label" for="synchSpacTrac">
+                  <small>tracking = spacing</small>
+                </label>
+              </div>
+            </div>
+          </div>
+          -->
+
+          <hr/>
+          <p><small>This is a test page comparing Roboto Flex avar2 (top) with Roboto Flex avar1 (bottom).</small></p>
+          <!--
+          <p><small>For more information and the source code, see the project’s <a href='http://github.com/gferreira/roboto-flex-spac'>repository</a> on GitHub.</small></p>
+          -->
+
+        </div>
+
+        <div class="col-8 col-lg-9 vh-100 position-relative">
+          <div class="w-100 pe-3 position-absolute top-0 start-0 vh-100 ms-3 overflow-hidden">
+            <span class="badge bg-primary float-end me-1">avar2</span>
+            <p id='sample_1' class='sample w-100 Roboto-Flex-avar2' contenteditable="true">
+              OpenType variable fonts are an adaptation of Apple's TrueType GX font variations to OpenType, with integration into key aspects of the OpenType format including OpenType Layout tables and both TrueType and CFF glyph outline formats. It also surpasses TrueType GX by providing better interoperability, both between different fonts, and between variable fonts and font-formatting specifications such as those found in Cascading Style Sheets. The technology allows software to access any design instance for a continuous range of designs defined within the font. When a specific design instance has been selected, the glyph outlines or other data values for that design instance are computed as font data is being processed during text layout and rasterization. The technology uses interpolation and extrapolation mechanisms that have been supported in font-development tools and used by font designers for many years. In that paradigm, the font designer creates a variable design, but then chooses specific instances to generate as static, non-variable fonts that get distributed to customers. With variable fonts, however, the font produced and distributed by the font designer can have built-in variability, and the interpolation mechanisms can now be built into operating systems and Web browsers or other applications, with specific design instances selected at time of use. One of the key benefits of the technology is that it can significantly reduce the combined size of font data whenever multiple styles are in use. On the Web, this may allow a site to use more font styles while at the same time reducing page load times. A further benefit is that it gives access to a continuous range of style variations, which can provide benefits for responsive design.
+            </p>
+          </div>
+          <div class="w-100 pe-3 position-absolute top-50 start-0 vh-50 pt-3 ms-3 border-top border-secondary overflow-hidden" id='avar1_container'> <!-- flex-fill  -->
+            <span class="badge bg-primary float-end me-2">avar1</span>
+            <p id='sample_2' class='sample w-100 Roboto-Flex-avar1'>
+              OpenType variable fonts are an adaptation of Apple's TrueType GX font variations to OpenType, with integration into key aspects of the OpenType format including OpenType Layout tables and both TrueType and CFF glyph outline formats. It also surpasses TrueType GX by providing better interoperability, both between different fonts, and between variable fonts and font-formatting specifications such as those found in Cascading Style Sheets. The technology allows software to access any design instance for a continuous range of designs defined within the font. When a specific design instance has been selected, the glyph outlines or other data values for that design instance are computed as font data is being processed during text layout and rasterization. The technology uses interpolation and extrapolation mechanisms that have been supported in font-development tools and used by font designers for many years. In that paradigm, the font designer creates a variable design, but then chooses specific instances to generate as static, non-variable fonts that get distributed to customers. With variable fonts, however, the font produced and distributed by the font designer can have built-in variability, and the interpolation mechanisms can now be built into operating systems and Web browsers or other applications, with specific design instances selected at time of use. One of the key benefits of the technology is that it can significantly reduce the combined size of font data whenever multiple styles are in use. On the Web, this may allow a site to use more font styles while at the same time reducing page load times. A further benefit is that it gives access to a continuous range of style variations, which can provide benefits for responsive design.
+            </p>
+          </div>
+
+        </div>
+
+      </div>
+
+    </div>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous"></script>
+  </body>
+</html>
