@@ -1,50 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="yu.bgr" format="2">
-  <advance width="2817"/>
+  <advance width="2857"/>
   <outline>
-    <contour>
-      <point x="156" y="0" type="line"/>
-      <point x="156" y="1536" type="line"/>
-      <point x="742" y="1536" type="line"/>
-      <point x="742" y="0" type="line"/>
-    </contour>
-    <contour>
-      <point x="950" y="510" type="qcurve" smooth="yes"/>
-      <point x="950" y="542" type="line" smooth="yes"/>
-      <point x="950" y="780"/>
-      <point x="1434" y="1082"/>
-      <point x="1841" y="1082" type="qcurve" smooth="yes"/>
-      <point x="2248" y="1082"/>
-      <point x="2732" y="780"/>
-      <point x="2732" y="542" type="qcurve" smooth="yes"/>
-      <point x="2732" y="510" type="line" smooth="yes"/>
-      <point x="2732" y="272"/>
-      <point x="2248" y="-30"/>
-      <point x="1841" y="-30" type="qcurve" smooth="yes"/>
-      <point x="1434" y="-30"/>
-      <point x="950" y="272"/>
-    </contour>
-    <contour>
-      <point x="1540" y="542" type="qcurve" smooth="yes"/>
-      <point x="1540" y="510" type="line" smooth="yes"/>
-      <point x="1540" y="347"/>
-      <point x="1688" y="122"/>
-      <point x="1836" y="122" type="qcurve" smooth="yes"/>
-      <point x="1984" y="122"/>
-      <point x="2132" y="347"/>
-      <point x="2132" y="510" type="qcurve" smooth="yes"/>
-      <point x="2132" y="542" type="line" smooth="yes"/>
-      <point x="2132" y="705"/>
-      <point x="1984" y="930"/>
-      <point x="1836" y="930" type="qcurve" smooth="yes"/>
-      <point x="1688" y="930"/>
-      <point x="1540" y="705"/>
-    </contour>
-    <contour>
-      <point x="462" y="465" type="line"/>
-      <point x="462" y="610" type="line"/>
-      <point x="1058" y="610" type="line"/>
-      <point x="1058" y="465" type="line"/>
-    </contour>
+    <component base="l"/>
+    <component base="o" xOffset="865"/>
+    <component base="yu-dash" xOffset="462"/>
   </outline>
 </glyph>
