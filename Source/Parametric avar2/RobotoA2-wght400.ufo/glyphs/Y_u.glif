@@ -1,13 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Yu" format="2">
-  <advance width="1985"/>
+  <advance width="1979"/>
   <unicode hex="042E"/>
-  <guideline x="732" y="785" angle="90" identifier="6nH5tb4DEh"/>
-  <anchor x="737" y="1456" name="top"/>
   <outline>
     <component base="I"/>
-    <component base="O" xOffset="525"/>
-    <component base="Yu-dash.case" xOffset="277"/>
+    <component base="Yu-dash.case" xOffset="271"/>
+    <component base="O" xOffset="519"/>
   </outline>
   <lib>
     <dict>
