@@ -3,8 +3,10 @@
   <advance width="1607"/>
   <unicode hex="F52D"/>
   <outline>
-    <component base="yu"/>
-    <component base="macroncomb" xOffset="645"/>
+    <component base="idotless"/>
+    <component base="yu-dash" xOffset="452" yOffset="6"/>
+    <component base="o" xOffset="970" yOffset="6"/>
+    <component base="macroncomb" xOffset="673" yOffset="6"/>
   </outline>
   <lib>
     <dict>
