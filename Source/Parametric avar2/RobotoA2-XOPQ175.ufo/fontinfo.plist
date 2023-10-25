@@ -12,12 +12,8 @@
     <integer>-416</integer>
     <key>familyName</key>
     <string>RobotoA2</string>
-    <key>guidelines</key>
-    <array/>
     <key>italicAngle</key>
     <integer>0</integer>
-    <key>macintoshFONDName</key>
-    <string>Roboto Regular</string>
     <key>note</key>
     <string>The style was refashioned in October of 2017 in preparation for its use as the default for a Variable font. Its glyphs were redefined in structure to facilitate being the single contours per glyh for all the future varitions, while the face was tuned for best results at 12 point.</string>
     <key>openTypeHeadCreated</key>
@@ -53,8 +49,6 @@
     <string>Google.com</string>
     <key>openTypeNameSampleText</key>
     <string></string>
-    <key>openTypeNameUniqueID</key>
-    <string>Google:Roboto Regular:2017</string>
     <key>openTypeOS2CodePageRanges</key>
     <array>
       <integer>0</integer>
@@ -68,19 +62,6 @@
     </array>
     <key>openTypeOS2FamilyClass</key>
     <array>
-      <integer>0</integer>
-      <integer>0</integer>
-    </array>
-    <key>openTypeOS2Panose</key>
-    <array>
-      <integer>2</integer>
-      <integer>0</integer>
-      <integer>0</integer>
-      <integer>0</integer>
-      <integer>0</integer>
-      <integer>0</integer>
-      <integer>0</integer>
-      <integer>0</integer>
       <integer>0</integer>
       <integer>0</integer>
     </array>
@@ -199,10 +180,6 @@
     <integer>-183</integer>
     <key>postscriptUnderlineThickness</key>
     <integer>166</integer>
-    <key>postscriptUniqueID</key>
-    <integer>-1</integer>
-    <key>styleMapStyleName</key>
-    <string>regular</string>
     <key>styleName</key>
     <string>XOPQ175</string>
     <key>trademark</key>
@@ -215,7 +192,5 @@
     <integer>0</integer>
     <key>xHeight</key>
     <integer>1052</integer>
-    <key>year</key>
-    <integer>2017</integer>
   </dict>
 </plist>

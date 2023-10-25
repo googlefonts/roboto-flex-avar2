@@ -1052,7 +1052,7 @@
       </dict>
     </array>
     <key>com.typemytype.glyphBuilder.lastSavedFileName</key>
-    <string>RobotoFlex-Regular-Cyrillic</string>
+    <string>RobotoFlex-Regular-Greek</string>
     <key>com.typemytype.robofont.Roboto-Regular.layerShow</key>
     <false/>
     <key>com.typemytype.robofont.Roboto-Regular.layerStrokeColor</key>
@@ -1639,6 +1639,13 @@
         <real>0.25</real>
       </array>
     </dict>
+    <key>designspace.location</key>
+    <array>
+      <array>
+        <string>weight</string>
+        <real>400.0</real>
+      </array>
+    </array>
     <key>org.unifiedfontobject.normalizer.modTimes</key>
     <string>version: 0.6.1
 1648323906.0 fontinfo.plist
@@ -2687,7 +2694,12 @@
       <string>Hacyr-stroke</string>
       <string>obarcyr-stroke</string>
       <string>hacyr-stroke</string>
+      <string>Yu-dash.case</string>
+      <string>yu-dash</string>
+      <string>idot</string>
     </array>
+    <key>public.skipExportGlyphs</key>
+    <array/>
     <key>tnCurvePalet</key>
     <dict>
       <key>sliderBottomMax</key>
