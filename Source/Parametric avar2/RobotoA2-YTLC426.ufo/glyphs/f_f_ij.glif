@@ -4,8 +4,10 @@
   <outline>
     <component base="f"/>
     <component base="f" xOffset="600"/>
-    <component base="i" xOffset="1200"/>
-    <component base="j" xOffset="1700"/>
+    <component base="idotless" xOffset="1200"/>
+    <component base="idot" xOffset="1450" yOffset="-200"/>
+    <component base="jdotless" xOffset="1700"/>
+    <component base="idot" xOffset="1950" yOffset="-200"/>
   </outline>
   <lib>
     <dict>

@@ -4,7 +4,8 @@
   <unicode hex="FB01"/>
   <outline>
     <component base="f"/>
-    <component base="i" xOffset="600"/>
+    <component base="idotless" xOffset="600"/>
+    <component base="idot" xOffset="850" yOffset="-200"/>
   </outline>
   <lib>
     <dict>

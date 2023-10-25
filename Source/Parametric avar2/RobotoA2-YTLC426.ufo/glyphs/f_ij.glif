@@ -3,8 +3,10 @@
   <advance width="1600"/>
   <outline>
     <component base="f"/>
-    <component base="i" xOffset="600"/>
-    <component base="j" xOffset="1100"/>
+    <component base="idotless" xOffset="600"/>
+    <component base="idot" xOffset="850" yOffset="-200"/>
+    <component base="jdotless" xOffset="1100"/>
+    <component base="idot" xOffset="1350" yOffset="-200"/>
   </outline>
   <lib>
     <dict>
