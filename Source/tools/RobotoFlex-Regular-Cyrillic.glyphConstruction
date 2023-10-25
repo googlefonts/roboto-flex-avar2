@@ -29,6 +29,7 @@ Ha = X | 0x425
 Shcha = Sha + cy-descendercomb.case@cy_descender | 0x429
 Yeru = Soft & I | 0x042B
 Yi = I + Yi-dieresiscomb.case@top | 0x407
+Yu= I + Yu-dash.case@yu_dash + O@yu_dash ^ I,O | 0x042E
 Ghestroke = Ghe + horizontalbar@center | 0x0492
 Zhedescender = Zhe + cy-descendercomb.case@cy_descender | 0x496
 Zedescendercyr = Ze + cedillacomb.case@bottom | 0x498
@@ -73,11 +74,12 @@ ha = x | 0x445
 shcha = sha + cy-descendercomb@cy_descender | 0x449
 yeru= soft & idotless | 0x044B
 yi = idotless + Yi-dieresiscomb.case@top | 0x457
-je = j | 0x458
+yu= idotless + yu-dash@yu_dash + o@yu_dash ^ idotless,o | 0x044E
+je = jdotless + idot@top | 0x458
 tshe = h + horizontalbarlc@center | 0x045B
 dje = h + horizontalbarlc@center + engtail@h:engtail | 0x0452
 dze = s | 0x455
-iukran = i | 0x456
+iukran = idotless + idot@top | 0x456
 ghestroke = ghe + horizontalbarlc@0,center | 0x493
 zhedescender = zhe + cy-descendercomb@cy_descender | 0x497
 zedescendercyr = ze + cedillacomb@bottom | 0x499
@@ -123,8 +125,8 @@ Ebrevecyr = Ecyr + breve.cyrcomb.case@top | 0xf524
 ebrevecyr = ecyr + breve.cyrcomb@top | 0xf525
 Yamacron = Ya + macroncomb.case@top | 0xf528
 yamacron = ya + macroncomb@top | 0xf529
-Yumacron = Yu + macroncomb.case@top | 0xf52c
-yumacron = yu + macroncomb@top | 0xf52d
+Yumacron = I + Yu-dash.case@yu_dash + O@yu_dash + macroncomb.case@I:110%, top ^ I,O | 0xf52c
+yumacron = idotless + yu-dash@yu_dash + o@yu_dash + macroncomb@idotless:102%, top  ^ idotless,o | 0xf52d
 
 
 

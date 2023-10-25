@@ -1,4 +1,7 @@
 
+i=idotless+idot@top | 0x0069
+j=jdotless+idot@top | 0x006A
+
 Agrave=A+gravecomb.case@top | 0xc0
 Aacute=A+acutecomb.case@top | 0xc1
 Acircumflex=A+circumflexcomb.case@top | 0xc2
@@ -103,10 +106,10 @@ imacron=idotless+macroncomb@top | 0x12b
 Ibreve=I+brevecomb.case@top | 0x12c
 ibreve=idotless+brevecomb@top | 0x12d
 Iogonek=I+ogonekcomb.case@ogonek | 0x12e
-iogonek=i+ogonekcomb@ogonek | 0x12f
+iogonek=idotless+idot@top+ogonekcomb@idotless:ogonek | 0x12f
 Idotaccent=I+dotaccentcomb.case@top | 0x130
 IJ=I&J | 0x132
-ij=i&j | 0x133
+ij=idotless+idot@top&jdotless+idot@top | 0x133
 Jcircumflex=J+circumflexcomb.case@top | 0x134
 jcircumflex=jdotless+circumflexcomb@top | 0x135
 Kcommaaccent=K+commaaccentcomb.case@bottom | 0x136
@@ -184,16 +187,16 @@ ohorn=o+horncomb@topright| 0x1a1
 Uhorn=U+horncomb.case@topright | 0x1af
 uhorn=u+horncomb@topright | 0x1b0
 
-DZcaron=D&\Z + caroncomb.case@top | 0x1c4
-Dzcaron=D&\z + caroncomb@top | 0x1c5
-dzcaron=d&\z + caroncomb@top | 0x1c6
+DZcaron=D&\Z+caroncomb.case@top | 0x1c4
+Dzcaron=D&\z+caroncomb@top | 0x1c5
+dzcaron=d&\z+caroncomb@top | 0x1c6
 
 LJ=L&J | 0x1c7
-Lj=L&j | 0x1c8
-lj=l&j | 0x1c9
+Lj=L&jdotless+idot@top | 0x1c8
+lj=l&jdotless+idot@top | 0x1c9
 NJ=N&J | 0x1ca
-Nj=N&j | 0x1cb
-nj=n&j | 0x1cc
+Nj=N&jdotless+idot@top | 0x1cb
+nj=n&jdotless+idot@top | 0x1cc
 
 Gcaron=G+caroncomb.case@top | 0x1e6
 gcaron=g+caroncomb@top | 0x1e7
@@ -292,7 +295,7 @@ ecircumflexdotbelow=ecircumflex+dotbelowcomb@e:bottom | 0x1ec7
 Ihookabove=I+hookabovecomb.case@top | 0x1ec8
 ihookabove=idotless+hookabovecomb@top | 0x1ec9
 Idotbelow=I+dotbelowcomb.case@bottom | 0x1eca
-idotbelow=i+dotbelowcomb@bottom | 0x1ecb
+idotbelow=idotless+idot@top+dotbelowcomb@idotless:bottom | 0x1ecb
 Odotbelow=O+dotbelowcomb.case@bottom | 0x1ecc
 odotbelow=o+dotbelowcomb@bottom | 0x1ecd
 Ohookabove=O+hookabovecomb.case@top | 0x1ece
@@ -341,23 +344,23 @@ Ytilde=Y+tildecomb.case@top | 0x1ef8
 ytilde=y+tildecomb@top | 0x1ef9
 IJacute=I&J+acutecomb.case@top|None
 idotaccent=idotless+dotaccentcomb@idotless:top|None
-ijacute=i&jdotless+acutecomb@jdotless:top|None
+ijacute=idotless+idot@top&jdotless+acutecomb@jdotless:top|None
 Jacute.loclNLD=J+acutecomb.case@top|None
 jacute.loclNLD=jdotless+acutecomb@top|None
 #Iacute_J.loclNLD=Iacute+Jacute.loclNLD|None
 #iacute_j.loclNLD=iacute+jacute.loclNLD|None
 
-f_f= f&f | FB00
-fi=f&i | FB01
+f_f=f&f | FB00
+fi=f&idotless+idot@top | FB01
 fl=f&l | FB02
-f_f_i=f&f&i | FB03
+f_f_i=f&f&idotless+idot@top | FB03
 f_f_l=f&f&l | FB04
-f_f_ij=f&f&i&j | None
-f_ij=f&i&j | None
+f_f_ij=f&f&idotless+idot@top&jdotless+idot@top | None
+f_ij=f&idotless+idot@top&jdotless+idot@top | None
 
 softhyphen=hyphen | 0xooAD
 hyphentwo=hyphen | 0x2010
 ellipsis=period&period&period | 0x2026
-periodcentered.loclCAT = periodcentered
-periodcentered.loclCAT.case = periodcentered
-increment = Delta | 0x2206
+periodcentered.loclCAT=periodcentered
+periodcentered.loclCAT.case=periodcentered
+increment=Delta | 0x2206

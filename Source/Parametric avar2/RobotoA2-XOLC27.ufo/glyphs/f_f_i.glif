@@ -5,7 +5,8 @@
   <outline>
     <component base="f"/>
     <component base="f" xOffset="600"/>
-    <component base="i" xOffset="1200"/>
+    <component base="idotless" xOffset="1200"/>
+    <component base="idot" xOffset="1450"/>
   </outline>
   <lib>
     <dict>
