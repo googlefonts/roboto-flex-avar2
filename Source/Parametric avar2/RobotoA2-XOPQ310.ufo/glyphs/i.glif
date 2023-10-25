@@ -1,13 +1,15 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="i" format="2">
-  <advance width="903"/>
+  <advance width="900"/>
   <unicode hex="0069"/>
-  <anchor x="450" y="0" name="bottom"/>
-  <anchor x="450" y="1052" name="top"/>
-  <anchor x="539" y="0" name="ogonek"/>
   <outline>
     <component base="idotless"/>
-    <component base="idotless"/>
-    <component base="idot" xOffset="451"/>
+    <component base="idot" xOffset="459"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.0016,0,0.9984,1</string>
+    </dict>
+  </lib>
 </glyph>
