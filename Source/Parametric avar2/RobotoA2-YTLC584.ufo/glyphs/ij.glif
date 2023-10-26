@@ -4,9 +4,9 @@
   <unicode hex="0133"/>
   <outline>
     <component base="idotless"/>
-    <component base="idot" xOffset="250"/>
+    <component base="idot" xOffset="250" yOffset="116"/>
     <component base="jdotless" xOffset="500"/>
-    <component base="idot" xOffset="750"/>
+    <component base="idot" xOffset="750" yOffset="116"/>
   </outline>
   <lib>
     <dict>

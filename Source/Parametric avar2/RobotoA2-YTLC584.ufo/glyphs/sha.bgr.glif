@@ -4,16 +4,16 @@
   <anchor x="1530" y="0" name="cy_descender"/>
   <outline>
     <contour>
-      <point x="1616" y="1052" type="line"/>
+      <point x="1616" y="1168" type="line"/>
       <point x="1616" y="0" type="line"/>
       <point x="1448" y="0" type="line"/>
       <point x="1430" y="295" type="line"/>
-      <point x="1430" y="1052" type="line"/>
+      <point x="1430" y="1168" type="line"/>
     </contour>
     <contour>
       <point x="784" y="371" type="qcurve" smooth="yes"/>
-      <point x="784" y="1052" type="line"/>
-      <point x="970" y="1052" type="line"/>
+      <point x="784" y="1168" type="line"/>
+      <point x="970" y="1168" type="line"/>
       <point x="970" y="371" type="line" smooth="yes"/>
       <point x="970" y="245"/>
       <point x="1078" y="136"/>
@@ -36,8 +36,8 @@
       <point x="322" y="-20"/>
       <point x="138" y="161"/>
       <point x="138" y="373" type="qcurve" smooth="yes"/>
-      <point x="138" y="1052" type="line"/>
-      <point x="324" y="1052" type="line"/>
+      <point x="138" y="1168" type="line"/>
+      <point x="324" y="1168" type="line"/>
       <point x="324" y="371" type="line" smooth="yes"/>
       <point x="324" y="245"/>
       <point x="432" y="136"/>
