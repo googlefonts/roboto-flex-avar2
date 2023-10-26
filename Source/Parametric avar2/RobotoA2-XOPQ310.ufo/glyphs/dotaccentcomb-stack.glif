@@ -4,18 +4,18 @@
   <anchor x="0.0" y="1435" name="top"/>
   <outline>
     <contour>
-      <point x="-116" y="1324" type="qcurve" smooth="yes"/>
-      <point x="-116" y="1371"/>
-      <point x="-56" y="1435"/>
-      <point x="0" y="1435" type="qcurve" smooth="yes"/>
-      <point x="56" y="1435"/>
-      <point x="116" y="1371"/>
-      <point x="116" y="1324" type="qcurve" smooth="yes"/>
-      <point x="116" y="1277"/>
-      <point x="56" y="1213"/>
+      <point x="-162" y="1368" type="qcurve" smooth="yes"/>
+      <point x="-162" y="1434"/>
+      <point x="-78" y="1523"/>
+      <point x="0" y="1523" type="qcurve" smooth="yes"/>
+      <point x="78" y="1523"/>
+      <point x="162" y="1434"/>
+      <point x="162" y="1368" type="qcurve" smooth="yes"/>
+      <point x="162" y="1302"/>
+      <point x="78" y="1213"/>
       <point x="0" y="1213" type="qcurve" smooth="yes"/>
-      <point x="-56" y="1213"/>
-      <point x="-116" y="1277"/>
+      <point x="-78" y="1213"/>
+      <point x="-162" y="1302"/>
     </contour>
   </outline>
 </glyph>
