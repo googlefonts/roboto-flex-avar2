@@ -5,13 +5,36 @@
     <key>ascender</key>
     <integer>1536</integer>
     <key>capHeight</key>
-    <integer>1456</integer>
+    <integer>1082</integer>
     <key>copyright</key>
     <string>Copyright 2017 The Roboto Flex Project Authors (https://github.com/TypeNetwork/Roboto-Flex)</string>
     <key>descender</key>
     <integer>-416</integer>
     <key>familyName</key>
     <string>RobotoA2</string>
+    <key>guidelines</key>
+    <array>
+      <dict>
+        <key>angle</key>
+        <integer>0</integer>
+        <key>identifier</key>
+        <string>eaLjKiVTg7</string>
+        <key>x</key>
+        <integer>-51</integer>
+        <key>y</key>
+        <integer>1112</integer>
+      </dict>
+      <dict>
+        <key>angle</key>
+        <integer>0</integer>
+        <key>identifier</key>
+        <string>uTX6oMoaOq</string>
+        <key>x</key>
+        <integer>-53</integer>
+        <key>y</key>
+        <integer>-30</integer>
+      </dict>
+    </array>
     <key>italicAngle</key>
     <integer>0</integer>
     <key>note</key>
