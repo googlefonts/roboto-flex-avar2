@@ -1104,6 +1104,14 @@
       <real>0.6924212208</real>
       <real>0.3</real>
     </array>
+    <key>com.typemytype.robofont.guideline.magnetic.eaLjKiVTg7</key>
+    <real>5.0</real>
+    <key>com.typemytype.robofont.guideline.magnetic.uTX6oMoaOq</key>
+    <real>5.0</real>
+    <key>com.typemytype.robofont.guideline.showMeasurements.eaLjKiVTg7</key>
+    <false/>
+    <key>com.typemytype.robofont.guideline.showMeasurements.uTX6oMoaOq</key>
+    <false/>
     <key>com.typemytype.robofont.italicSlantOffset</key>
     <integer>0</integer>
     <key>com.typemytype.robofont.segmentType</key>
@@ -2698,8 +2706,6 @@
       <string>yu-dash</string>
       <string>idot</string>
     </array>
-    <key>public.skipExportGlyphs</key>
-    <array/>
     <key>tnCurvePalet</key>
     <dict>
       <key>sliderBottomMax</key>
