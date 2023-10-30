@@ -13,29 +13,30 @@ from variableValues.measurements import FontMeasurements
 Objects to build designspace files for Roboto Flex avar2.
 
 0. default
-   parametric axes
-   9 instances for 5 axes extrema
+   parametric axes + slnt GRAD
+   6 instances for 3 axes extrema
 
 1. default
-   parametric axes
+   parametric axes + slnt GRAD
    blended axes (avar2)
 
 2. default
-   parametric axes
-   9 sources for 5 axes extrema*
+   parametric axes + slnt GRAD
+   6 sources for 3 axes extrema
 
 3. default
-   9 sources for 5 axes extrema*
+   6 sources for 3 axes extrema
 
 * axes extrema:               current values:
 
   | axis |  min |  max |      |  min |  max |
   |------|------|------|      |------|------|
-  | Opsz |    6 |  144 |  ->  |    8 |  144 |
-  | Wght |  200 |  700 |  ->  |  100 | 1000 |
-  | Wdth |   75 |  125 |  ->  |   25 |  151 |
-  | Slnt |      |  -10 |      |      |  -10 | ✔
-  | Grad |  -50 |   50 |  ->  | -200 |  150 | ✔
+  | opsz |    6 |  144 |  ->  |    8 |  144 |
+  | wght |  200 |  700 |  ->  |  100 | 1000 |
+  | wdth |   75 |  125 |  ->  |   25 |  151 |
+  |------|------|------|      |------|------|
+  | slnt |      |  -10 |      |      |  -10 | ✔
+  | GRAD |  -50 |   50 |  ->  | -200 |  150 | ✔
 
 '''
 
@@ -442,6 +443,7 @@ class RobotoFlexDesignSpaceBuilder3(RobotoFlexDesignSpaceBuilder2):
             src.familyName = self.familyName
             src.location   = L
             self.designspace.addSource(src)
+
 
 # -----
 # build
