@@ -1,10 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<glyph name="dcroat" format="2">
-  <advance width="1170"/>
-  <unicode hex="0111"/>
+<glyph name="Eth" format="2">
+  <advance width="1370"/>
+  <unicode hex="00D0"/>
   <outline>
-    <component base="d"/>
-    <component base="horizontalbarlc" xOffset="477.5" yOffset="464"/>
+    <component base="D"/>
+    <component base="horizontalbar" xOffset="1" yOffset="20"/>
   </outline>
   <lib>
     <dict>
