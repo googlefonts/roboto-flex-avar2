@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="H" format="2">
-  <advance width="1458"/>
+  <advance width="828"/>
   <unicode hex="0048"/>
   <anchor x="729" y="0" name="bottom"/>
   <anchor x="729" y="1100" name="center"/>
@@ -17,14 +17,14 @@
     <contour>
       <point x="272" y="672" type="line"/>
       <point x="272" y="830" type="line"/>
-      <point x="1196" y="830" type="line"/>
-      <point x="1196" y="672" type="line"/>
+      <point x="566" y="830" type="line"/>
+      <point x="566" y="672" type="line"/>
     </contour>
     <contour>
-      <point x="1096" y="0" type="line"/>
-      <point x="1096" y="1456" type="line"/>
-      <point x="1288" y="1456" type="line"/>
-      <point x="1288" y="0" type="line"/>
+      <point x="466" y="0" type="line"/>
+      <point x="466" y="1456" type="line"/>
+      <point x="658" y="1456" type="line"/>
+      <point x="658" y="0" type="line"/>
     </contour>
   </outline>
 </glyph>
