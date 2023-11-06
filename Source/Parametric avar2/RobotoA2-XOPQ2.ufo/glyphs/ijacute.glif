@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="ijacute" format="2">
-  <advance width="1000"/>
+  <advance width="636"/>
   <outline>
     <component base="idotless"/>
-    <component base="idot" xOffset="250"/>
-    <component base="jdotless" xOffset="500"/>
-    <component base="acutecomb" xOffset="750"/>
+    <component base="idot" xOffset="159"/>
+    <component base="jdotless" xOffset="318"/>
+    <component base="acutecomb" xOffset="477"/>
   </outline>
   <lib>
     <dict>

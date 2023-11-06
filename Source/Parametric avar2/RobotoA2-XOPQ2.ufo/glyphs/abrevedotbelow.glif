@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="abrevedotbelow" format="2">
-  <advance width="1106"/>
+  <advance width="742"/>
   <unicode hex="1EB7"/>
   <outline>
     <component base="a"/>
-    <component base="brevecomb" xOffset="553"/>
-    <component base="dotbelowcomb" xOffset="553"/>
+    <component base="brevecomb" xOffset="375"/>
+    <component base="dotbelowcomb" xOffset="315"/>
   </outline>
   <lib>
     <dict>
