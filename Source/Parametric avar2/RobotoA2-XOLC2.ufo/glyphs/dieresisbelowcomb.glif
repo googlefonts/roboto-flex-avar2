@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dieresisbelowcomb" format="2">
+  <unicode hex="0324"/>
+  <anchor x="0" y="0" name="_bottom"/>
+  <anchor x="0" y="-421" name="bottom"/>
+  <outline>
+    <contour>
+      <point x="-253" y="-217" type="qcurve" smooth="yes"/>
+      <point x="-253" y="-206"/>
+      <point x="-241" y="-194"/>
+      <point x="-230" y="-194" type="qcurve" smooth="yes"/>
+      <point x="-219" y="-194"/>
+      <point x="-207" y="-207"/>
+      <point x="-207" y="-217" type="qcurve" smooth="yes"/>
+      <point x="-207" y="-228"/>
+      <point x="-219" y="-239"/>
+      <point x="-230" y="-239" type="qcurve" smooth="yes"/>
+      <point x="-241" y="-239"/>
+      <point x="-253" y="-227"/>
+    </contour>
+    <contour>
+      <point x="207" y="-217" type="qcurve" smooth="yes"/>
+      <point x="207" y="-206"/>
+      <point x="219" y="-194"/>
+      <point x="230" y="-194" type="qcurve" smooth="yes"/>
+      <point x="241" y="-194"/>
+      <point x="253" y="-207"/>
+      <point x="253" y="-217" type="qcurve" smooth="yes"/>
+      <point x="253" y="-228"/>
+      <point x="241" y="-239"/>
+      <point x="230" y="-239" type="qcurve" smooth="yes"/>
+      <point x="219" y="-239"/>
+      <point x="207" y="-227"/>
+    </contour>
+  </outline>
+</glyph>

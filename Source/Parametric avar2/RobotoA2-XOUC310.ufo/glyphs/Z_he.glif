@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Zhe" format="2">
+  <advance width="2972"/>
+  <unicode hex="0416"/>
+  <anchor x="1471" y="1456" name="top"/>
+  <anchor x="2653" y="1" name="cy_descender"/>
+  <outline>
+    <contour>
+      <point x="1186" y="0" type="line"/>
+      <point x="1186" y="1456" type="line"/>
+      <point x="1786" y="1456" type="line"/>
+      <point x="1786" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="2319" y="0" type="line"/>
+      <point x="1810" y="685" type="line"/>
+      <point x="2245" y="956" type="line"/>
+      <point x="2962" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="1486" y="824" type="line"/>
+      <point x="1964" y="824" type="line"/>
+      <point x="2481" y="1456" type="line"/>
+      <point x="2698" y="1456" type="line"/>
+      <point x="2038" y="676" type="line"/>
+      <point x="1486" y="676" type="line"/>
+    </contour>
+    <contour>
+      <point x="7" y="0" type="line"/>
+      <point x="719" y="961" type="line"/>
+      <point x="1157" y="683" type="line"/>
+      <point x="655" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="1486" y="824" type="line"/>
+      <point x="1486" y="676" type="line"/>
+      <point x="893" y="676" type="line"/>
+      <point x="262" y="1456" type="line"/>
+      <point x="481" y="1456" type="line"/>
+      <point x="980" y="824" type="line"/>
+    </contour>
+  </outline>
+</glyph>
