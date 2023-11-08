@@ -263,6 +263,14 @@ class RobotoFlexDesignSpaceBuilder1(RobotoFlexDesignSpaceBuilder):
         'wdth' : 'Width',            
     }
 
+    @property
+    def defaultLocationBlendedInstance(self):
+        L = { }
+        for axis, value in self.axesDefaults.items():
+            axisName = self.axesNames[axis]
+            L[axisName] = value
+        return L
+
     def addBlendedAxes(self):
 
         # load measurement definitions
@@ -317,6 +325,26 @@ class RobotoFlexDesignSpaceBuilder1(RobotoFlexDesignSpaceBuilder):
 
             self.designspace.addAxisMapping(m)
 
+    def addInstances(self):
+
+        for ufoPath in self.sourcesExtrema:
+            axis  = os.path.splitext(os.path.split(ufoPath)[-1])[0].split('_')[-1][:4]
+            value = int(os.path.splitext(os.path.split(ufoPath)[-1])[0].split('_')[-1][4:])
+
+            axisName  = self.axesNames[axis]
+            styleName = f'{axis}{value}'
+
+            L = self.defaultLocationBlendedInstance.copy()
+            L[axisName] = value
+
+            # add instance to designspace
+            I = InstanceDescriptor()
+            I.familyName     = self.familyName
+            I.styleName      = styleName
+            I.name           = styleName
+            I.designLocation = L
+            self.designspace.addInstance(I)
+
     def build(self):
         self.designspace = DesignSpaceDocument()
         self.addBlendedAxes()
@@ -324,6 +352,7 @@ class RobotoFlexDesignSpaceBuilder1(RobotoFlexDesignSpaceBuilder):
         self.addMappings_avar2()
         self.addDefaultSource()
         self.addParametricSources()
+        self.addInstances()
         
 
 class RobotoFlexDesignSpaceBuilder2(RobotoFlexDesignSpaceBuilder1):
