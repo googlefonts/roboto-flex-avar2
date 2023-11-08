@@ -106,10 +106,12 @@ en.bgr = en
 pe.bgr = n
 te.bgr = m
 che.bgr = che
+yu.bgr= l + yu-dash@yu_dash + o@yu_dash ^ l,o
 ghe.locl = ghe
 de.locl = de
 pe.locl = pe
 te.locl = te
+
 
 Amacroncyr = A + macroncomb.case@top | 0xf50e
 amacroncyr = a + macroncomb@top | 0xf50f

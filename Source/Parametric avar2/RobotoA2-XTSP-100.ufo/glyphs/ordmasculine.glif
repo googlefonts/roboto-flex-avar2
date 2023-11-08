@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ordmasculine" format="2">
+  <advance width="704"/>
+  <unicode hex="00BA"/>
+  <guideline x="0" y="1975" angle="0" identifier="Jnt0R9CyOf"/>
+  <outline>
+    <contour>
+      <point x="10" y="1043" type="qcurve"/>
+      <point x="10" y="1124" type="line"/>
+      <point x="10" y="1278"/>
+      <point x="195" y="1477"/>
+      <point x="352" y="1477" type="qcurve" smooth="yes"/>
+      <point x="510" y="1477"/>
+      <point x="694" y="1278"/>
+      <point x="694" y="1124" type="qcurve"/>
+      <point x="694" y="1043" type="line"/>
+      <point x="694" y="889"/>
+      <point x="511" y="691"/>
+      <point x="354" y="691" type="qcurve" smooth="yes"/>
+      <point x="196" y="691"/>
+      <point x="10" y="889"/>
+    </contour>
+    <contour>
+      <point x="173" y="1124" type="qcurve"/>
+      <point x="173" y="1043" type="line"/>
+      <point x="173" y="952"/>
+      <point x="262" y="830"/>
+      <point x="354" y="830" type="qcurve" smooth="yes"/>
+      <point x="443" y="830"/>
+      <point x="532" y="952"/>
+      <point x="532" y="1043" type="qcurve"/>
+      <point x="532" y="1124" type="line"/>
+      <point x="532" y="1213"/>
+      <point x="442" y="1336"/>
+      <point x="352" y="1336" type="qcurve" smooth="yes"/>
+      <point x="262" y="1336"/>
+      <point x="173" y="1213"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.guideline.magnetic.Jnt0R9CyOf</key>
+      <integer>5</integer>
+    </dict>
+  </lib>
+</glyph>
