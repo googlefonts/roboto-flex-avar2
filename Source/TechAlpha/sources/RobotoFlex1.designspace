@@ -395,4 +395,48 @@
       </location>
     </source>
   </sources>
+  <instances>
+    <instance name="wdth25" familyname="Roboto Flex" stylename="wdth25">
+      <location>
+        <dimension name="Optical size" xvalue="14"/>
+        <dimension name="Weight" xvalue="400"/>
+        <dimension name="Width" xvalue="25"/>
+      </location>
+    </instance>
+    <instance name="opsz144" familyname="Roboto Flex" stylename="opsz144">
+      <location>
+        <dimension name="Optical size" xvalue="144"/>
+        <dimension name="Weight" xvalue="400"/>
+        <dimension name="Width" xvalue="100"/>
+      </location>
+    </instance>
+    <instance name="wdth151" familyname="Roboto Flex" stylename="wdth151">
+      <location>
+        <dimension name="Optical size" xvalue="14"/>
+        <dimension name="Weight" xvalue="400"/>
+        <dimension name="Width" xvalue="151"/>
+      </location>
+    </instance>
+    <instance name="wght100" familyname="Roboto Flex" stylename="wght100">
+      <location>
+        <dimension name="Optical size" xvalue="14"/>
+        <dimension name="Weight" xvalue="100"/>
+        <dimension name="Width" xvalue="100"/>
+      </location>
+    </instance>
+    <instance name="wght1000" familyname="Roboto Flex" stylename="wght1000">
+      <location>
+        <dimension name="Optical size" xvalue="14"/>
+        <dimension name="Weight" xvalue="1000"/>
+        <dimension name="Width" xvalue="100"/>
+      </location>
+    </instance>
+    <instance name="opsz8" familyname="Roboto Flex" stylename="opsz8">
+      <location>
+        <dimension name="Optical size" xvalue="8"/>
+        <dimension name="Weight" xvalue="400"/>
+        <dimension name="Width" xvalue="100"/>
+      </location>
+    </instance>
+  </instances>
 </designspace>

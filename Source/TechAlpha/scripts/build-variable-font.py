@@ -1,13 +1,14 @@
+# menuTitle: build Roboto Flex avar2 variable fonts
+
 import os
 from defcon import Font
 from fontTools.designspaceLib import DesignSpaceDocument
-from fontmake.font_project import FontProject
 from ufo2ft import compileVariableTTF
 
-baseFolder      = os.path.dirname(os.getcwd())
-sourcesFolder   = os.path.join(baseFolder, 'sources')
-designspacePath = os.path.join(sourcesFolder, 'RobotoFlex3.designspace')
-fontsFolder     = os.path.join(baseFolder, 'fonts')
+baseFolder      = os.path.dirname(os.path.dirname(os.path.dirname(os.getcwd())))
+sourcesFolder   = os.path.join(baseFolder, 'Source', 'TechAlpha', 'sources')
+designspacePath = os.path.join(sourcesFolder, 'RobotoFlex1.designspace')
+fontsFolder     = os.path.join(baseFolder, 'fonts', 'Tech Alpha TTFs')
 varFontPath     = designspacePath.replace(sourcesFolder, fontsFolder).replace('.designspace', '.ttf')
 
 assert os.path.exists(designspacePath)
@@ -22,11 +23,7 @@ for src in D.sources:
 
 print('\tbuilding variable font...')
 
-### build variable font with fontmake
-# P = FontProject()
-# P.build_variable_fonts(D, output_path=varFontPath, verbose=True)
-
-### build variable font with ufo2ft
+# build variable font with ufo2ft
 f = compileVariableTTF(D)
 f.save(varFontPath)
 
