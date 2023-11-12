@@ -15,6 +15,7 @@
     <axis tag="YTDE" name="YTDE" minimum="-310" maximum="-100" default="-208"/>
     <axis tag="YTFI" name="YTFI" minimum="560" maximum="788" default="600"/>
     <axis tag="YTLC" name="YTLC" minimum="426" maximum="584" default="526"/>
+    <axis tag="YTOS" name="YTOS" minimum="0" maximum="50" default="30"/>
     <axis tag="YTUC" name="YTUC" minimum="528" maximum="778" default="728"/>
   </axes>
   <sources>
@@ -34,6 +35,7 @@
         <dimension name="YTDE" xvalue="-208"/>
         <dimension name="YTFI" xvalue="600"/>
         <dimension name="YTLC" xvalue="526"/>
+        <dimension name="YTOS" xvalue="30"/>
         <dimension name="YTUC" xvalue="728"/>
       </location>
     </source>
@@ -53,6 +55,7 @@
         <dimension name="YTDE" xvalue="-208"/>
         <dimension name="YTFI" xvalue="600"/>
         <dimension name="YTLC" xvalue="526"/>
+        <dimension name="YTOS" xvalue="30"/>
         <dimension name="YTUC" xvalue="728"/>
       </location>
     </source>
@@ -72,6 +75,7 @@
         <dimension name="YTDE" xvalue="-208"/>
         <dimension name="YTFI" xvalue="600"/>
         <dimension name="YTLC" xvalue="526"/>
+        <dimension name="YTOS" xvalue="30"/>
         <dimension name="YTUC" xvalue="728"/>
       </location>
     </source>
@@ -91,6 +95,7 @@
         <dimension name="YTDE" xvalue="-208"/>
         <dimension name="YTFI" xvalue="600"/>
         <dimension name="YTLC" xvalue="526"/>
+        <dimension name="YTOS" xvalue="30"/>
         <dimension name="YTUC" xvalue="728"/>
       </location>
     </source>
@@ -110,6 +115,7 @@
         <dimension name="YTDE" xvalue="-208"/>
         <dimension name="YTFI" xvalue="600"/>
         <dimension name="YTLC" xvalue="526"/>
+        <dimension name="YTOS" xvalue="30"/>
         <dimension name="YTUC" xvalue="728"/>
       </location>
     </source>
@@ -129,6 +135,7 @@
         <dimension name="YTDE" xvalue="-208"/>
         <dimension name="YTFI" xvalue="600"/>
         <dimension name="YTLC" xvalue="526"/>
+        <dimension name="YTOS" xvalue="30"/>
         <dimension name="YTUC" xvalue="728"/>
       </location>
     </source>
@@ -148,6 +155,7 @@
         <dimension name="YTDE" xvalue="-208"/>
         <dimension name="YTFI" xvalue="600"/>
         <dimension name="YTLC" xvalue="526"/>
+        <dimension name="YTOS" xvalue="30"/>
         <dimension name="YTUC" xvalue="728"/>
       </location>
     </source>
@@ -167,6 +175,7 @@
         <dimension name="YTDE" xvalue="-208"/>
         <dimension name="YTFI" xvalue="600"/>
         <dimension name="YTLC" xvalue="526"/>
+        <dimension name="YTOS" xvalue="30"/>
         <dimension name="YTUC" xvalue="728"/>
       </location>
     </source>
@@ -186,6 +195,7 @@
         <dimension name="YTDE" xvalue="-208"/>
         <dimension name="YTFI" xvalue="600"/>
         <dimension name="YTLC" xvalue="526"/>
+        <dimension name="YTOS" xvalue="30"/>
         <dimension name="YTUC" xvalue="728"/>
       </location>
     </source>
@@ -205,6 +215,7 @@
         <dimension name="YTDE" xvalue="-208"/>
         <dimension name="YTFI" xvalue="600"/>
         <dimension name="YTLC" xvalue="526"/>
+        <dimension name="YTOS" xvalue="30"/>
         <dimension name="YTUC" xvalue="728"/>
       </location>
     </source>
@@ -224,6 +235,7 @@
         <dimension name="YTDE" xvalue="-208"/>
         <dimension name="YTFI" xvalue="600"/>
         <dimension name="YTLC" xvalue="526"/>
+        <dimension name="YTOS" xvalue="30"/>
         <dimension name="YTUC" xvalue="728"/>
       </location>
     </source>
@@ -243,6 +255,7 @@
         <dimension name="YTDE" xvalue="-208"/>
         <dimension name="YTFI" xvalue="600"/>
         <dimension name="YTLC" xvalue="526"/>
+        <dimension name="YTOS" xvalue="30"/>
         <dimension name="YTUC" xvalue="728"/>
       </location>
     </source>
@@ -262,6 +275,7 @@
         <dimension name="YTDE" xvalue="-208"/>
         <dimension name="YTFI" xvalue="600"/>
         <dimension name="YTLC" xvalue="526"/>
+        <dimension name="YTOS" xvalue="30"/>
         <dimension name="YTUC" xvalue="728"/>
       </location>
     </source>
@@ -281,6 +295,7 @@
         <dimension name="YTDE" xvalue="-208"/>
         <dimension name="YTFI" xvalue="600"/>
         <dimension name="YTLC" xvalue="526"/>
+        <dimension name="YTOS" xvalue="30"/>
         <dimension name="YTUC" xvalue="728"/>
       </location>
     </source>
@@ -300,6 +315,7 @@
         <dimension name="YTDE" xvalue="-208"/>
         <dimension name="YTFI" xvalue="600"/>
         <dimension name="YTLC" xvalue="526"/>
+        <dimension name="YTOS" xvalue="30"/>
         <dimension name="YTUC" xvalue="728"/>
       </location>
     </source>
@@ -320,6 +336,7 @@
         <dimension name="YTDE" xvalue="-208"/>
         <dimension name="YTFI" xvalue="600"/>
         <dimension name="YTLC" xvalue="526"/>
+        <dimension name="YTOS" xvalue="30"/>
         <dimension name="YTUC" xvalue="728"/>
       </location>
     </source>
@@ -339,6 +356,7 @@
         <dimension name="YTDE" xvalue="-208"/>
         <dimension name="YTFI" xvalue="600"/>
         <dimension name="YTLC" xvalue="526"/>
+        <dimension name="YTOS" xvalue="30"/>
         <dimension name="YTUC" xvalue="728"/>
       </location>
     </source>
@@ -359,6 +377,7 @@
         <dimension name="YTDE" xvalue="-208"/>
         <dimension name="YTFI" xvalue="600"/>
         <dimension name="YTLC" xvalue="526"/>
+        <dimension name="YTOS" xvalue="30"/>
         <dimension name="YTUC" xvalue="728"/>
       </location>
     </source>
@@ -378,6 +397,7 @@
         <dimension name="YTDE" xvalue="-208"/>
         <dimension name="YTFI" xvalue="600"/>
         <dimension name="YTLC" xvalue="526"/>
+        <dimension name="YTOS" xvalue="30"/>
         <dimension name="YTUC" xvalue="728"/>
       </location>
     </source>
@@ -397,6 +417,7 @@
         <dimension name="YTDE" xvalue="-208"/>
         <dimension name="YTFI" xvalue="600"/>
         <dimension name="YTLC" xvalue="526"/>
+        <dimension name="YTOS" xvalue="30"/>
         <dimension name="YTUC" xvalue="728"/>
       </location>
     </source>
@@ -416,6 +437,7 @@
         <dimension name="YTDE" xvalue="-208"/>
         <dimension name="YTFI" xvalue="600"/>
         <dimension name="YTLC" xvalue="526"/>
+        <dimension name="YTOS" xvalue="30"/>
         <dimension name="YTUC" xvalue="728"/>
       </location>
     </source>
@@ -435,6 +457,7 @@
         <dimension name="YTDE" xvalue="-208"/>
         <dimension name="YTFI" xvalue="600"/>
         <dimension name="YTLC" xvalue="526"/>
+        <dimension name="YTOS" xvalue="30"/>
         <dimension name="YTUC" xvalue="728"/>
       </location>
     </source>
@@ -454,6 +477,7 @@
         <dimension name="YTDE" xvalue="-208"/>
         <dimension name="YTFI" xvalue="600"/>
         <dimension name="YTLC" xvalue="526"/>
+        <dimension name="YTOS" xvalue="30"/>
         <dimension name="YTUC" xvalue="728"/>
       </location>
     </source>
@@ -473,6 +497,7 @@
         <dimension name="YTDE" xvalue="-100"/>
         <dimension name="YTFI" xvalue="600"/>
         <dimension name="YTLC" xvalue="526"/>
+        <dimension name="YTOS" xvalue="30"/>
         <dimension name="YTUC" xvalue="728"/>
       </location>
     </source>
@@ -492,6 +517,7 @@
         <dimension name="YTDE" xvalue="-310"/>
         <dimension name="YTFI" xvalue="600"/>
         <dimension name="YTLC" xvalue="526"/>
+        <dimension name="YTOS" xvalue="30"/>
         <dimension name="YTUC" xvalue="728"/>
       </location>
     </source>
@@ -511,6 +537,7 @@
         <dimension name="YTDE" xvalue="-208"/>
         <dimension name="YTFI" xvalue="560"/>
         <dimension name="YTLC" xvalue="526"/>
+        <dimension name="YTOS" xvalue="30"/>
         <dimension name="YTUC" xvalue="728"/>
       </location>
     </source>
@@ -530,6 +557,7 @@
         <dimension name="YTDE" xvalue="-208"/>
         <dimension name="YTFI" xvalue="788"/>
         <dimension name="YTLC" xvalue="526"/>
+        <dimension name="YTOS" xvalue="30"/>
         <dimension name="YTUC" xvalue="728"/>
       </location>
     </source>
@@ -549,6 +577,7 @@
         <dimension name="YTDE" xvalue="-208"/>
         <dimension name="YTFI" xvalue="600"/>
         <dimension name="YTLC" xvalue="426"/>
+        <dimension name="YTOS" xvalue="30"/>
         <dimension name="YTUC" xvalue="728"/>
       </location>
     </source>
@@ -568,9 +597,52 @@
         <dimension name="YTDE" xvalue="-208"/>
         <dimension name="YTFI" xvalue="600"/>
         <dimension name="YTLC" xvalue="584"/>
+        <dimension name="YTOS" xvalue="30"/>
         <dimension name="YTUC" xvalue="728"/>
       </location>
     </source>
+    
+    <source filename="RobotoAvar2-YTOS0.ufo" familyname="RobotoAvar2" stylename="YTOS0">
+      <location>
+        <dimension name="XOFI" xvalue="97"/>
+        <dimension name="XOLC" xvalue="93"/>
+        <dimension name="XOPQ" xvalue="96"/>
+        <dimension name="XOUC" xvalue="96"/>
+        <dimension name="XTFI" xvalue="371"/>
+        <dimension name="XTLC" xvalue="333"/>
+        <dimension name="XTRA" xvalue="463"/>
+        <dimension name="XTSP" xvalue="0"/>
+        <dimension name="XTUC" xvalue="463"/>
+        <dimension name="YOPQ" xvalue="79"/>
+        <dimension name="YTAS" xvalue="768"/>
+        <dimension name="YTDE" xvalue="-208"/>
+        <dimension name="YTFI" xvalue="600"/>
+        <dimension name="YTLC" xvalue="526"/>
+        <dimension name="YTOS" xvalue="0"/>
+        <dimension name="YTUC" xvalue="728"/>
+      </location>
+    </source>
+    <source filename="RobotoAvar2-YTOS50.ufo" familyname="RobotoAvar2" stylename="YTOS50">
+      <location>
+        <dimension name="XOFI" xvalue="97"/>
+        <dimension name="XOLC" xvalue="93"/>
+        <dimension name="XOPQ" xvalue="96"/>
+        <dimension name="XOUC" xvalue="96"/>
+        <dimension name="XTFI" xvalue="371"/>
+        <dimension name="XTLC" xvalue="333"/>
+        <dimension name="XTRA" xvalue="463"/>
+        <dimension name="XTSP" xvalue="0"/>
+        <dimension name="XTUC" xvalue="463"/>
+        <dimension name="YOPQ" xvalue="79"/>
+        <dimension name="YTAS" xvalue="768"/>
+        <dimension name="YTDE" xvalue="-208"/>
+        <dimension name="YTFI" xvalue="600"/>
+        <dimension name="YTLC" xvalue="526"/>
+        <dimension name="YTOS" xvalue="50"/>
+        <dimension name="YTUC" xvalue="728"/>
+      </location>
+    </source>
+    
     <source filename="RobotoAvar2-YTUC528.ufo" familyname="RobotoAvar2" stylename="YTUC528">
       <location>
         <dimension name="XOFI" xvalue="97"/>
@@ -587,6 +659,7 @@
         <dimension name="YTDE" xvalue="-208"/>
         <dimension name="YTFI" xvalue="600"/>
         <dimension name="YTLC" xvalue="526"/>
+        <dimension name="YTOS" xvalue="30"/>
         <dimension name="YTUC" xvalue="528"/>
       </location>
     </source>
@@ -606,6 +679,7 @@
         <dimension name="YTDE" xvalue="-208"/>
         <dimension name="YTFI" xvalue="600"/>
         <dimension name="YTLC" xvalue="526"/>
+        <dimension name="YTOS" xvalue="30"/>
         <dimension name="YTUC" xvalue="778"/>
       </location>
     </source>
