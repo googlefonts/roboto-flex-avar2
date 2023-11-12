@@ -3,7 +3,8 @@
   <advance width="721"/>
   <unicode hex="1EC7"/>
   <outline>
-    <component base="ecircumflex"/>
+    <component base="e"/>
+    <component base="circumflexcomb" xOffset="374"/>
     <component base="dotbelowcomb" xOffset="389"/>
   </outline>
   <lib>
