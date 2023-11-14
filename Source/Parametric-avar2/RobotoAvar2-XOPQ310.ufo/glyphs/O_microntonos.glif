@@ -1,10 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Omicrontonos" format="2">
-  <advance width="2529"/>
+  <advance width="2556"/>
   <unicode hex="038C"/>
   <outline>
-    <component base="O" xOffset="177"/>
-    <component base="tonoscomb.case" xOffset="137" yOffset="22"/>
+    <component base="O" xOffset="204"/>
+    <component base="tonoscomb.case" xOffset="164" yOffset="22"/>
   </outline>
   <lib>
     <dict>
