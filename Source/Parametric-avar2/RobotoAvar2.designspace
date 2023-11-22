@@ -17,6 +17,8 @@
     <axis tag="YTLC" name="YTLC" minimum="426" maximum="584" default="526"/>
     <axis tag="YTOS" name="YTOS" minimum="0" maximum="50" default="30"/>
     <axis tag="YTUC" name="YTUC" minimum="528" maximum="778" default="728"/>
+    <axis tag="YTTL" name="YTTL" minimum="0" maximum="50" default="25"/>
+    <axis tag="XTTW" name="XTTW" minimum="0" maximum="30" default="5"/>
   </axes>
   <sources>
     <source filename="RobotoAvar2-wght400.ufo" familyname="RobotoAvar2" stylename="Regular">
@@ -37,6 +39,8 @@
         <dimension name="YTLC" xvalue="526"/>
         <dimension name="YTOS" xvalue="30"/>
         <dimension name="YTUC" xvalue="728"/>
+        <dimension name="YTTL" xvalue="25"/>
+        <dimension name="XTTW" xvalue="5"/>
       </location>
     </source>
     <source filename="RobotoAvar2-XOFI2.ufo" familyname="RobotoAvar2" stylename="XOFI2">
@@ -57,6 +61,8 @@
         <dimension name="YTLC" xvalue="526"/>
         <dimension name="YTOS" xvalue="30"/>
         <dimension name="YTUC" xvalue="728"/>
+        <dimension name="YTTL" xvalue="25"/>
+        <dimension name="XTTW" xvalue="5"/>
       </location>
     </source>
     <source filename="RobotoAvar2-XOFI300.ufo" familyname="RobotoAvar2" stylename="XOFI300">
@@ -77,6 +83,8 @@
         <dimension name="YTLC" xvalue="526"/>
         <dimension name="YTOS" xvalue="30"/>
         <dimension name="YTUC" xvalue="728"/>
+        <dimension name="YTTL" xvalue="25"/>
+        <dimension name="XTTW" xvalue="5"/>
       </location>
     </source>
     <source filename="RobotoAvar2-XOLC2.ufo" familyname="RobotoAvar2" stylename="XOLC2">
@@ -97,6 +105,8 @@
         <dimension name="YTLC" xvalue="526"/>
         <dimension name="YTOS" xvalue="30"/>
         <dimension name="YTUC" xvalue="728"/>
+        <dimension name="YTTL" xvalue="25"/>
+        <dimension name="XTTW" xvalue="5"/>
       </location>
     </source>
     <source filename="RobotoAvar2-XOLC294.ufo" familyname="RobotoAvar2" stylename="XOLC294">
@@ -117,6 +127,8 @@
         <dimension name="YTLC" xvalue="526"/>
         <dimension name="YTOS" xvalue="30"/>
         <dimension name="YTUC" xvalue="728"/>
+        <dimension name="YTTL" xvalue="25"/>
+        <dimension name="XTTW" xvalue="5"/>
       </location>
     </source>
     <source filename="RobotoAvar2-XOPQ2.ufo" familyname="RobotoAvar2" stylename="XOPQ2">
@@ -137,6 +149,8 @@
         <dimension name="YTLC" xvalue="526"/>
         <dimension name="YTOS" xvalue="30"/>
         <dimension name="YTUC" xvalue="728"/>
+        <dimension name="YTTL" xvalue="25"/>
+        <dimension name="XTTW" xvalue="5"/>
       </location>
     </source>
     <source filename="RobotoAvar2-XOPQ310.ufo" familyname="RobotoAvar2" stylename="XOPQ310">
@@ -157,6 +171,8 @@
         <dimension name="YTLC" xvalue="526"/>
         <dimension name="YTOS" xvalue="30"/>
         <dimension name="YTUC" xvalue="728"/>
+        <dimension name="YTTL" xvalue="25"/>
+        <dimension name="XTTW" xvalue="5"/>
       </location>
     </source>
     <source filename="RobotoAvar2-XOUC2.ufo" familyname="RobotoAvar2" stylename="XOUC2">
@@ -177,6 +193,8 @@
         <dimension name="YTLC" xvalue="526"/>
         <dimension name="YTOS" xvalue="30"/>
         <dimension name="YTUC" xvalue="728"/>
+        <dimension name="YTTL" xvalue="25"/>
+        <dimension name="XTTW" xvalue="5"/>
       </location>
     </source>
     <source filename="RobotoAvar2-XOUC310.ufo" familyname="RobotoAvar2" stylename="XOUC310">
@@ -197,6 +215,8 @@
         <dimension name="YTLC" xvalue="526"/>
         <dimension name="YTOS" xvalue="30"/>
         <dimension name="YTUC" xvalue="728"/>
+        <dimension name="YTTL" xvalue="25"/>
+        <dimension name="XTTW" xvalue="5"/>
       </location>
     </source>
     <source filename="RobotoAvar2-XTFI252.ufo" familyname="RobotoAvar2" stylename="XTFI252">
@@ -217,6 +237,8 @@
         <dimension name="YTLC" xvalue="526"/>
         <dimension name="YTOS" xvalue="30"/>
         <dimension name="YTUC" xvalue="728"/>
+        <dimension name="YTTL" xvalue="25"/>
+        <dimension name="XTTW" xvalue="5"/>
       </location>
     </source>
     <source filename="RobotoAvar2-XTFI488.ufo" familyname="RobotoAvar2" stylename="XTFI488">
@@ -237,6 +259,8 @@
         <dimension name="YTLC" xvalue="526"/>
         <dimension name="YTOS" xvalue="30"/>
         <dimension name="YTUC" xvalue="728"/>
+        <dimension name="YTTL" xvalue="25"/>
+        <dimension name="XTTW" xvalue="5"/>
       </location>
     </source>
     <source filename="RobotoAvar2-XTLC222.ufo" familyname="RobotoAvar2" stylename="XTLC222">
@@ -257,6 +281,8 @@
         <dimension name="YTLC" xvalue="526"/>
         <dimension name="YTOS" xvalue="30"/>
         <dimension name="YTUC" xvalue="728"/>
+        <dimension name="YTTL" xvalue="25"/>
+        <dimension name="XTTW" xvalue="5"/>
       </location>
     </source>
     <source filename="RobotoAvar2-XTLC486.ufo" familyname="RobotoAvar2" stylename="XTLC486">
@@ -277,6 +303,8 @@
         <dimension name="YTLC" xvalue="526"/>
         <dimension name="YTOS" xvalue="30"/>
         <dimension name="YTUC" xvalue="728"/>
+        <dimension name="YTTL" xvalue="25"/>
+        <dimension name="XTTW" xvalue="5"/>
       </location>
     </source>
     <source filename="RobotoAvar2-XTRA244.ufo" familyname="RobotoAvar2" stylename="XTRA244">
@@ -297,6 +325,8 @@
         <dimension name="YTLC" xvalue="526"/>
         <dimension name="YTOS" xvalue="30"/>
         <dimension name="YTUC" xvalue="728"/>
+        <dimension name="YTTL" xvalue="25"/>
+        <dimension name="XTTW" xvalue="5"/>
       </location>
     </source>
     <source filename="RobotoAvar2-XTRA605.ufo" familyname="RobotoAvar2" stylename="XTRA605">
@@ -317,9 +347,10 @@
         <dimension name="YTLC" xvalue="526"/>
         <dimension name="YTOS" xvalue="30"/>
         <dimension name="YTUC" xvalue="728"/>
+        <dimension name="YTTL" xvalue="25"/>
+        <dimension name="XTTW" xvalue="5"/>
       </location>
     </source>
-    
     <source filename="RobotoAvar2-XTSP-100.ufo" familyname="RobotoAvar2" stylename="XTSP-100">
       <location>
         <dimension name="XOFI" xvalue="97"/>
@@ -338,6 +369,8 @@
         <dimension name="YTLC" xvalue="526"/>
         <dimension name="YTOS" xvalue="30"/>
         <dimension name="YTUC" xvalue="728"/>
+        <dimension name="YTTL" xvalue="25"/>
+        <dimension name="XTTW" xvalue="5"/>
       </location>
     </source>
     <source filename="RobotoAvar2-XTSP100.ufo" familyname="RobotoAvar2" stylename="XTSP100">
@@ -358,9 +391,10 @@
         <dimension name="YTLC" xvalue="526"/>
         <dimension name="YTOS" xvalue="30"/>
         <dimension name="YTUC" xvalue="728"/>
+        <dimension name="YTTL" xvalue="25"/>
+        <dimension name="XTTW" xvalue="5"/>
       </location>
     </source>
-    
     <source filename="RobotoAvar2-XTUC323.ufo" familyname="RobotoAvar2" stylename="XTUC323">
       <location>
         <dimension name="XOFI" xvalue="97"/>
@@ -379,6 +413,8 @@
         <dimension name="YTLC" xvalue="526"/>
         <dimension name="YTOS" xvalue="30"/>
         <dimension name="YTUC" xvalue="728"/>
+        <dimension name="YTTL" xvalue="25"/>
+        <dimension name="XTTW" xvalue="5"/>
       </location>
     </source>
     <source filename="RobotoAvar2-XTUC603.ufo" familyname="RobotoAvar2" stylename="XTUC603">
@@ -399,6 +435,8 @@
         <dimension name="YTLC" xvalue="526"/>
         <dimension name="YTOS" xvalue="30"/>
         <dimension name="YTUC" xvalue="728"/>
+        <dimension name="YTTL" xvalue="25"/>
+        <dimension name="XTTW" xvalue="5"/>
       </location>
     </source>
     <source filename="RobotoAvar2-YOPQ2.ufo" familyname="RobotoAvar2" stylename="YOPQ2">
@@ -419,6 +457,8 @@
         <dimension name="YTLC" xvalue="526"/>
         <dimension name="YTOS" xvalue="30"/>
         <dimension name="YTUC" xvalue="728"/>
+        <dimension name="YTTL" xvalue="25"/>
+        <dimension name="XTTW" xvalue="5"/>
       </location>
     </source>
     <source filename="RobotoAvar2-YOPQ280.ufo" familyname="RobotoAvar2" stylename="YOPQ280">
@@ -439,6 +479,8 @@
         <dimension name="YTLC" xvalue="526"/>
         <dimension name="YTOS" xvalue="30"/>
         <dimension name="YTUC" xvalue="728"/>
+        <dimension name="YTTL" xvalue="25"/>
+        <dimension name="XTTW" xvalue="5"/>
       </location>
     </source>
     <source filename="RobotoAvar2-YTAS665.ufo" familyname="RobotoAvar2" stylename="YTAS665">
@@ -459,6 +501,8 @@
         <dimension name="YTLC" xvalue="526"/>
         <dimension name="YTOS" xvalue="30"/>
         <dimension name="YTUC" xvalue="728"/>
+        <dimension name="YTTL" xvalue="25"/>
+        <dimension name="XTTW" xvalue="5"/>
       </location>
     </source>
     <source filename="RobotoAvar2-YTAS875.ufo" familyname="RobotoAvar2" stylename="YTAS875">
@@ -479,6 +523,8 @@
         <dimension name="YTLC" xvalue="526"/>
         <dimension name="YTOS" xvalue="30"/>
         <dimension name="YTUC" xvalue="728"/>
+        <dimension name="YTTL" xvalue="25"/>
+        <dimension name="XTTW" xvalue="5"/>
       </location>
     </source>
     <source filename="RobotoAvar2-YTDE-100.ufo" familyname="RobotoAvar2" stylename="YTDE-100">
@@ -499,6 +545,8 @@
         <dimension name="YTLC" xvalue="526"/>
         <dimension name="YTOS" xvalue="30"/>
         <dimension name="YTUC" xvalue="728"/>
+        <dimension name="YTTL" xvalue="25"/>
+        <dimension name="XTTW" xvalue="5"/>
       </location>
     </source>
     <source filename="RobotoAvar2-YTDE-310.ufo" familyname="RobotoAvar2" stylename="YTDE-310">
@@ -519,6 +567,8 @@
         <dimension name="YTLC" xvalue="526"/>
         <dimension name="YTOS" xvalue="30"/>
         <dimension name="YTUC" xvalue="728"/>
+        <dimension name="YTTL" xvalue="25"/>
+        <dimension name="XTTW" xvalue="5"/>
       </location>
     </source>
     <source filename="RobotoAvar2-YTFI270.ufo" familyname="RobotoAvar2" stylename="YTFI270">
@@ -539,6 +589,8 @@
         <dimension name="YTLC" xvalue="526"/>
         <dimension name="YTOS" xvalue="30"/>
         <dimension name="YTUC" xvalue="728"/>
+        <dimension name="YTTL" xvalue="25"/>
+        <dimension name="XTTW" xvalue="5"/>
       </location>
     </source>
     <source filename="RobotoAvar2-YTFI793.ufo" familyname="RobotoAvar2" stylename="YTFI793">
@@ -559,6 +611,8 @@
         <dimension name="YTLC" xvalue="526"/>
         <dimension name="YTOS" xvalue="30"/>
         <dimension name="YTUC" xvalue="728"/>
+        <dimension name="YTTL" xvalue="25"/>
+        <dimension name="XTTW" xvalue="5"/>
       </location>
     </source>
     <source filename="RobotoAvar2-YTLC426.ufo" familyname="RobotoAvar2" stylename="YTLC426">
@@ -579,6 +633,8 @@
         <dimension name="YTLC" xvalue="426"/>
         <dimension name="YTOS" xvalue="30"/>
         <dimension name="YTUC" xvalue="728"/>
+        <dimension name="YTTL" xvalue="25"/>
+        <dimension name="XTTW" xvalue="5"/>
       </location>
     </source>
     <source filename="RobotoAvar2-YTLC584.ufo" familyname="RobotoAvar2" stylename="YTLC584">
@@ -599,6 +655,8 @@
         <dimension name="YTLC" xvalue="584"/>
         <dimension name="YTOS" xvalue="30"/>
         <dimension name="YTUC" xvalue="728"/>
+        <dimension name="YTTL" xvalue="25"/>
+        <dimension name="XTTW" xvalue="5"/>
       </location>
     </source>
     <source filename="RobotoAvar2-YTOS0.ufo" familyname="RobotoAvar2" stylename="YTOS0">
@@ -619,6 +677,8 @@
         <dimension name="YTLC" xvalue="526"/>
         <dimension name="YTOS" xvalue="0"/>
         <dimension name="YTUC" xvalue="728"/>
+        <dimension name="YTTL" xvalue="25"/>
+        <dimension name="XTTW" xvalue="5"/>
       </location>
     </source>
     <source filename="RobotoAvar2-YTOS50.ufo" familyname="RobotoAvar2" stylename="YTOS50">
@@ -639,6 +699,8 @@
         <dimension name="YTLC" xvalue="526"/>
         <dimension name="YTOS" xvalue="50"/>
         <dimension name="YTUC" xvalue="728"/>
+        <dimension name="YTTL" xvalue="25"/>
+        <dimension name="XTTW" xvalue="5"/>
       </location>
     </source>
     <source filename="RobotoAvar2-YTUC528.ufo" familyname="RobotoAvar2" stylename="YTUC528">
@@ -659,6 +721,8 @@
         <dimension name="YTLC" xvalue="526"/>
         <dimension name="YTOS" xvalue="30"/>
         <dimension name="YTUC" xvalue="528"/>
+        <dimension name="YTTL" xvalue="25"/>
+        <dimension name="XTTW" xvalue="5"/>
       </location>
     </source>
     <source filename="RobotoAvar2-YTUC778.ufo" familyname="RobotoAvar2" stylename="YTUC778">
@@ -679,6 +743,96 @@
         <dimension name="YTLC" xvalue="526"/>
         <dimension name="YTOS" xvalue="30"/>
         <dimension name="YTUC" xvalue="778"/>
+        <dimension name="YTTL" xvalue="25"/>
+        <dimension name="XTTW" xvalue="5"/>
+      </location>
+    </source>
+    <source filename="RobotoAvar2-YTTL50.ufo" familyname="RobotoAvar2" stylename="YTTL50">
+      <location>
+        <dimension name="XOFI" xvalue="97"/>
+        <dimension name="XOLC" xvalue="93"/>
+        <dimension name="XOPQ" xvalue="96"/>
+        <dimension name="XOUC" xvalue="96"/>
+        <dimension name="XTFI" xvalue="371"/>
+        <dimension name="XTLC" xvalue="333"/>
+        <dimension name="XTRA" xvalue="463"/>
+        <dimension name="XTSP" xvalue="0"/>
+        <dimension name="XTUC" xvalue="463"/>
+        <dimension name="YOPQ" xvalue="79"/>
+        <dimension name="YTAS" xvalue="768"/>
+        <dimension name="YTDE" xvalue="-208"/>
+        <dimension name="YTFI" xvalue="743"/>
+        <dimension name="YTLC" xvalue="526"/>
+        <dimension name="YTOS" xvalue="30"/>
+        <dimension name="YTUC" xvalue="728"/>
+        <dimension name="YTTL" xvalue="50"/>
+        <dimension name="XTTW" xvalue="5"/>
+      </location>
+    </source>
+    <source filename="RobotoAvar2-YTTL0.ufo" familyname="RobotoAvar2" stylename="YTTL0">
+      <location>
+        <dimension name="XOFI" xvalue="97"/>
+        <dimension name="XOLC" xvalue="93"/>
+        <dimension name="XOPQ" xvalue="96"/>
+        <dimension name="XOUC" xvalue="96"/>
+        <dimension name="XTFI" xvalue="371"/>
+        <dimension name="XTLC" xvalue="333"/>
+        <dimension name="XTRA" xvalue="463"/>
+        <dimension name="XTSP" xvalue="0"/>
+        <dimension name="XTUC" xvalue="463"/>
+        <dimension name="YOPQ" xvalue="79"/>
+        <dimension name="YTAS" xvalue="768"/>
+        <dimension name="YTDE" xvalue="-208"/>
+        <dimension name="YTFI" xvalue="743"/>
+        <dimension name="YTLC" xvalue="526"/>
+        <dimension name="YTOS" xvalue="30"/>
+        <dimension name="YTUC" xvalue="728"/>
+        <dimension name="YTTL" xvalue="0"/>
+        <dimension name="XTTW" xvalue="5"/>
+      </location>
+    </source>
+    <source filename="RobotoAvar2-XTTW30.ufo" familyname="RobotoAvar2" stylename="XTTW30">
+      <location>
+        <dimension name="XOFI" xvalue="97"/>
+        <dimension name="XOLC" xvalue="93"/>
+        <dimension name="XOPQ" xvalue="96"/>
+        <dimension name="XOUC" xvalue="96"/>
+        <dimension name="XTFI" xvalue="371"/>
+        <dimension name="XTLC" xvalue="333"/>
+        <dimension name="XTRA" xvalue="463"/>
+        <dimension name="XTSP" xvalue="0"/>
+        <dimension name="XTUC" xvalue="463"/>
+        <dimension name="YOPQ" xvalue="79"/>
+        <dimension name="YTAS" xvalue="768"/>
+        <dimension name="YTDE" xvalue="-208"/>
+        <dimension name="YTFI" xvalue="743"/>
+        <dimension name="YTLC" xvalue="526"/>
+        <dimension name="YTOS" xvalue="30"/>
+        <dimension name="YTUC" xvalue="728"/>
+        <dimension name="YTTL" xvalue="25"/>
+        <dimension name="XTTW" xvalue="30"/>
+      </location>
+    </source>
+    <source filename="RobotoAvar2-XTTW0.ufo" familyname="RobotoAvar2" stylename="XTTW0">
+      <location>
+        <dimension name="XOFI" xvalue="97"/>
+        <dimension name="XOLC" xvalue="93"/>
+        <dimension name="XOPQ" xvalue="96"/>
+        <dimension name="XOUC" xvalue="96"/>
+        <dimension name="XTFI" xvalue="371"/>
+        <dimension name="XTLC" xvalue="333"/>
+        <dimension name="XTRA" xvalue="463"/>
+        <dimension name="XTSP" xvalue="0"/>
+        <dimension name="XTUC" xvalue="463"/>
+        <dimension name="YOPQ" xvalue="79"/>
+        <dimension name="YTAS" xvalue="768"/>
+        <dimension name="YTDE" xvalue="-208"/>
+        <dimension name="YTFI" xvalue="743"/>
+        <dimension name="YTLC" xvalue="526"/>
+        <dimension name="YTOS" xvalue="30"/>
+        <dimension name="YTUC" xvalue="728"/>
+        <dimension name="YTTL" xvalue="25"/>
+        <dimension name="XTTW" xvalue="0"/>
       </location>
     </source>
   </sources>
