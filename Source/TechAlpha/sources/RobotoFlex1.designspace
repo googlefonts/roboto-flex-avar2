@@ -21,14 +21,15 @@
           <dimension name="Optical size" xvalue="8"/>
         </input>
         <output>
-          <dimension name="XOPQ" xvalue="205"/>
-          <dimension name="XTRA" xvalue="778"/>
-          <dimension name="YOPQ" xvalue="172"/>
-          <dimension name="YTAS" xvalue="1536"/>
-          <dimension name="YTDE" xvalue="-416"/>
-          <dimension name="YTUC" xvalue="1456"/>
-          <dimension name="YTLC" xvalue="1109"/>
-          <dimension name="YTFI" xvalue="1456"/>
+          <dimension name="opsz" xvalue="8"/>
+        </output>
+      </mapping>
+      <mapping>
+        <input>
+          <dimension name="Weight" xvalue="100"/>
+        </input>
+        <output>
+          <dimension name="wght" xvalue="100"/>
         </output>
       </mapping>
       <mapping>
@@ -36,14 +37,15 @@
           <dimension name="Weight" xvalue="1000"/>
         </input>
         <output>
-          <dimension name="XOPQ" xvalue="421"/>
-          <dimension name="XTRA" xvalue="439"/>
-          <dimension name="YOPQ" xvalue="312"/>
-          <dimension name="YTAS" xvalue="1526"/>
-          <dimension name="YTDE" xvalue="-416"/>
-          <dimension name="YTUC" xvalue="1456"/>
-          <dimension name="YTLC" xvalue="1080"/>
-          <dimension name="YTFI" xvalue="1456"/>
+          <dimension name="wght" xvalue="1000"/>
+        </output>
+      </mapping>
+      <mapping>
+        <input>
+          <dimension name="Width" xvalue="25"/>
+        </input>
+        <output>
+          <dimension name="wdth" xvalue="25"/>
         </output>
       </mapping>
       <mapping>
@@ -51,14 +53,17 @@
           <dimension name="Width" xvalue="151"/>
         </input>
         <output>
-          <dimension name="XOPQ" xvalue="202"/>
-          <dimension name="XTRA" xvalue="873"/>
-          <dimension name="YOPQ" xvalue="162"/>
-          <dimension name="YTAS" xvalue="1536"/>
-          <dimension name="YTDE" xvalue="-416"/>
-          <dimension name="YTUC" xvalue="1456"/>
-          <dimension name="YTLC" xvalue="1072"/>
-          <dimension name="YTFI" xvalue="1456"/>
+          <dimension name="wdth" xvalue="151"/>
+        </output>
+      </mapping>
+      <mapping>
+        <input>
+          <dimension name="Weight" xvalue="100"/>
+          <dimension name="Grade" xvalue="-200"/>
+        </input>
+        <output>
+          <dimension name="wght" xvalue="100"/>
+          <dimension name="GRAD" xvalue="-200"/>
         </output>
       </mapping>
     </mappings>
