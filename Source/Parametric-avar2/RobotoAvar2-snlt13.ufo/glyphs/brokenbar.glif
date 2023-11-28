@@ -2,20 +2,20 @@
 <glyph name="brokenbar" format="2">
   <advance width="592"/>
   <unicode hex="00A6"/>
-  <guideline x="0" y="901" angle="0" identifier="jmguX8NWKI"/>
-  <guideline x="0" y="555" angle="0" identifier="Z0RZpP7MTi"/>
+  <guideline x="40.012240204132354" y="901" angle="0" identifier="jmguX8NWKI"/>
+  <guideline x="-39.86815392531247" y="555" angle="0" identifier="Z0RZpP7MTi"/>
   <outline>
     <contour>
-      <point x="387" y="-416" type="line"/>
-      <point x="205" y="-416" type="line"/>
-      <point x="205" y="359" type="line"/>
-      <point x="387" y="359" type="line"/>
+      <point x="122.95883249176575" y="-416.0" type="line"/>
+      <point x="-59.04116750823425" y="-416.0" type="line"/>
+      <point x="119.88168061407714" y="359.0" type="line"/>
+      <point x="301.88168061407714" y="359.0" type="line"/>
     </contour>
     <contour>
-      <point x="387" y="1536" type="line"/>
-      <point x="387" y="761" type="line"/>
-      <point x="205" y="761" type="line"/>
-      <point x="205" y="1536" type="line"/>
+      <point x="573.613541568865" y="1536.0" type="line"/>
+      <point x="394.6906934465535" y="761.0" type="line"/>
+      <point x="212.6906934465535" y="761.0" type="line"/>
+      <point x="391.613541568865" y="1536.0" type="line"/>
     </contour>
   </outline>
   <lib>

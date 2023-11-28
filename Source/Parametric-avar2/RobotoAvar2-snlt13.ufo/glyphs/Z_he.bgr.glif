@@ -3,34 +3,40 @@
   <advance width="1935"/>
   <outline>
     <contour>
-      <point x="-20" y="0" type="line"/>
-      <point x="656" y="890" type="line"/>
-      <point x="775" y="756" type="line"/>
-      <point x="211" y="0" type="line"/>
+      <point x="-188.0" y="0.0" type="line"/>
+      <point x="693.4726901017511" y="890.0" type="line"/>
+      <point x="781.5363524909258" y="756.0" type="line"/>
+      <point x="43.0" y="0.0" type="line"/>
     </contour>
     <contour>
-      <point x="869" y="0" type="line"/>
-      <point x="869" y="1456" type="line"/>
-      <point x="1061" y="1456" type="line"/>
-      <point x="1061" y="0" type="line"/>
+      <point x="701.0" y="0.0" type="line"/>
+      <point x="1037.14408627882" y="1456.0" type="line"/>
+      <point x="1229.14408627882" y="1456.0" type="line"/>
+      <point x="893.0" y="0.0" type="line"/>
     </contour>
     <contour>
-      <point x="1719" y="0" type="line"/>
-      <point x="1155" y="756" type="line"/>
-      <point x="1279" y="890" type="line"/>
-      <point x="1955" y="0" type="line"/>
+      <point x="1561" y="0" type="line"/>
+      <point x="1171" y="756" type="line"/>
+      <point x="1316.4726901017511" y="890.0" type="line"/>
+      <point x="1787.0" y="0.0" type="line"/>
     </contour>
     <contour>
-      <point x="16" y="1456" type="line"/>
-      <point x="251" y="1456" type="line"/>
-      <point x="954" y="641" type="line"/>
-      <point x="954" y="399" type="line"/>
+      <point x="184.14408627881988" y="1456.0" type="line"/>
+      <point x="410" y="1456" type="line"/>
+      <point x="924" y="641" type="line"/>
+      <point x="878.1164082590997" y="399.0" type="line"/>
     </contour>
     <contour>
-      <point x="1679" y="1456" type="line"/>
-      <point x="1911" y="1456" type="line"/>
-      <point x="972" y="399" type="line"/>
-      <point x="972" y="636" type="line"/>
+      <point x="1847.14408627882" y="1456.0" type="line"/>
+      <point x="2079.14408627882" y="1456.0" type="line"/>
+      <point x="896.1164082590997" y="399.0" type="line"/>
+      <point x="950.8321695558582" y="636.0" type="line"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0,0.1,1,0.2</string>
+    </dict>
+  </lib>
 </glyph>

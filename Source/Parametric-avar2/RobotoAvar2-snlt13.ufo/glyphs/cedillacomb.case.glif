@@ -1,25 +1,31 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="cedillacomb.case" format="2">
-  <anchor x="0" y="0" name="_bottom"/>
-  <anchor x="0" y="-517" name="bottom"/>
+  <anchor x="-168.0" y="0" name="_bottom"/>
+  <anchor x="-287.3588548119161" y="-517" name="bottom"/>
   <outline>
     <contour>
-      <point x="-82" y="20" type="line"/>
-      <point x="57" y="20" type="line"/>
-      <point x="29" y="-105" type="line"/>
-      <point x="108" y="-119"/>
-      <point x="232" y="-211"/>
-      <point x="232" y="-288" type="qcurve" smooth="yes"/>
-      <point x="232" y="-391"/>
-      <point x="8" y="-517"/>
-      <point x="-194" y="-517" type="qcurve"/>
-      <point x="-201" y="-381" type="line"/>
-      <point x="-93" y="-382"/>
-      <point x="30" y="-343"/>
-      <point x="30" y="-290" type="qcurve" smooth="yes"/>
-      <point x="30" y="-241"/>
-      <point x="-39" y="-204"/>
-      <point x="-123" y="-197" type="qcurve"/>
+      <point x="-245.38263617748873" y="20.0" type="line"/>
+      <point x="-106.38263617748873" y="20.0" type="line"/>
+      <point x="-163.24116006818412" y="-105.0" type="line"/>
+      <point x="-87.47331474394201" y="-119.0"/>
+      <point x="15.28681167250619" y="-211.0"/>
+      <point x="-2.490039044162188" y="-288.0" type="qcurve" smooth="yes"/>
+      <point x="-26.2694627300952" y="-391.0"/>
+      <point x="-279.3588548119161" y="-517.0"/>
+      <point x="-481.3588548119161" y="-517.0" type="qcurve"/>
+      <point x="-456.96078081883957" y="-381.0" type="line"/>
+      <point x="-349.1916490099651" y="-382.0"/>
+      <point x="-217.18778955606814" y="-343.0"/>
+      <point x="-204.9517754264133" y="-290.0" type="qcurve" smooth="yes"/>
+      <point x="-193.6392340612607" y="-241.0"/>
+      <point x="-254.09711098961486" y="-204.0"/>
+      <point x="-336.48103365173597" y="-197.0" type="qcurve"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0,0.1,1,0.2</string>
+    </dict>
+  </lib>
 </glyph>

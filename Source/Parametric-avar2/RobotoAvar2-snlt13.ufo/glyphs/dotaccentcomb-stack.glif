@@ -1,21 +1,27 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="dotaccentcomb-stack" format="2">
-  <anchor x="0.0" y="1052" name="_top"/>
-  <anchor x="0.0" y="1435" name="top"/>
+  <anchor x="74.8733370640924" y="1052" name="_top"/>
+  <anchor x="163.2958542651831" y="1435" name="top"/>
   <outline>
     <contour>
-      <point x="-116" y="1324" type="qcurve" smooth="yes"/>
-      <point x="-116" y="1371"/>
-      <point x="-56" y="1435"/>
-      <point x="0" y="1435" type="qcurve" smooth="yes"/>
+      <point x="-4" y="1324" type="qcurve" smooth="yes"/>
+      <point x="-4" y="1371"/>
       <point x="56" y="1435"/>
-      <point x="116" y="1371"/>
-      <point x="116" y="1324" type="qcurve" smooth="yes"/>
-      <point x="116" y="1277"/>
+      <point x="112" y="1435" type="qcurve" smooth="yes"/>
+      <point x="168" y="1435"/>
+      <point x="228" y="1371"/>
+      <point x="228" y="1324" type="qcurve" smooth="yes"/>
+      <point x="228" y="1277"/>
+      <point x="168" y="1213"/>
+      <point x="112" y="1213" type="qcurve" smooth="yes"/>
       <point x="56" y="1213"/>
-      <point x="0" y="1213" type="qcurve" smooth="yes"/>
-      <point x="-56" y="1213"/>
-      <point x="-116" y="1277"/>
+      <point x="-4" y="1277"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0,0.1,1,0.2</string>
+    </dict>
+  </lib>
 </glyph>

@@ -1,19 +1,25 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="dblgravecomb-stack" format="2">
-  <anchor x="0" y="1052" name="_top"/>
-  <anchor x="0" y="1543" name="top"/>
+  <anchor x="74.8733370640924" y="1052" name="_top"/>
+  <anchor x="188.2296189067439" y="1543" name="top"/>
   <outline>
     <contour>
-      <point x="151" y="1215" type="line"/>
-      <point x="-49" y="1430" type="line"/>
-      <point x="88" y="1543" type="line"/>
-      <point x="256" y="1294" type="line"/>
+      <point x="264" y="1215" type="line"/>
+      <point x="64" y="1430" type="line"/>
+      <point x="201" y="1543" type="line"/>
+      <point x="369" y="1294" type="line"/>
     </contour>
     <contour>
-      <point x="-187" y="1215" type="line"/>
-      <point x="-387" y="1430" type="line"/>
-      <point x="-250" y="1543" type="line"/>
-      <point x="-82" y="1294" type="line"/>
+      <point x="-74" y="1215" type="line"/>
+      <point x="-274" y="1430" type="line"/>
+      <point x="-137" y="1543" type="line"/>
+      <point x="31" y="1294" type="line"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0,0.1,1,0.2</string>
+    </dict>
+  </lib>
 </glyph>

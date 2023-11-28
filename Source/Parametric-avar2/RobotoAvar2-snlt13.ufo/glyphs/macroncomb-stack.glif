@@ -1,13 +1,19 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="macroncomb-stack" format="2">
-  <anchor x="0" y="1052" name="_top"/>
-  <anchor x="0" y="1381" name="top"/>
+  <anchor x="74.8733370640924" y="1052" name="_top"/>
+  <anchor x="150.82897194440267" y="1381" name="top"/>
   <outline>
     <contour>
-      <point x="-296" y="1225" type="line"/>
-      <point x="-296" y="1381" type="line"/>
-      <point x="296" y="1381" type="line"/>
-      <point x="296" y="1225" type="line"/>
+      <point x="-181.1864658711852" y="1225.0" type="line"/>
+      <point x="-145.17102805559733" y="1381.0" type="line"/>
+      <point x="446.8289719444026" y="1381.0" type="line"/>
+      <point x="410.8135341288148" y="1225.0" type="line"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0,0.1,1,0.2</string>
+    </dict>
+  </lib>
 </glyph>

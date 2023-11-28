@@ -2,51 +2,57 @@
 <glyph name="omega" format="2">
   <advance width="1570"/>
   <unicode hex="03C9"/>
-  <anchor x="786" y="1052" name="top"/>
+  <anchor x="860.8733370640923" y="1052" name="top"/>
   <outline>
     <contour>
-      <point x="482" y="-30" type="qcurve" smooth="yes"/>
-      <point x="299" y="-30"/>
-      <point x="95" y="219"/>
-      <point x="95" y="473" type="qcurve"/>
-      <point x="95" y="668"/>
-      <point x="205" y="964"/>
-      <point x="294" y="1052" type="qcurve"/>
-      <point x="483" y="1052" type="line"/>
-      <point x="379" y="939"/>
-      <point x="285" y="635"/>
-      <point x="285" y="471" type="qcurve"/>
-      <point x="285" y="289"/>
-      <point x="383" y="126"/>
-      <point x="480" y="126" type="qcurve"/>
-      <point x="592" y="126"/>
-      <point x="692" y="296"/>
-      <point x="692" y="408" type="qcurve" smooth="yes"/>
-      <point x="692" y="722" type="line"/>
-      <point x="878" y="722" type="line"/>
-      <point x="878" y="408" type="line" smooth="yes"/>
-      <point x="878" y="296"/>
-      <point x="977" y="126"/>
-      <point x="1090" y="126" type="qcurve"/>
-      <point x="1187" y="126"/>
-      <point x="1285" y="289"/>
-      <point x="1285" y="471" type="qcurve"/>
-      <point x="1285" y="635"/>
-      <point x="1190" y="939"/>
-      <point x="1086" y="1052" type="qcurve"/>
-      <point x="1276" y="1052" type="line"/>
-      <point x="1365" y="964"/>
-      <point x="1475" y="668"/>
-      <point x="1475" y="473" type="qcurve"/>
-      <point x="1475" y="219"/>
-      <point x="1271" y="-30"/>
-      <point x="1088" y="-30" type="qcurve" smooth="yes"/>
-      <point x="978" y="-30"/>
-      <point x="817" y="84"/>
-      <point x="776" y="212" type="qcurve"/>
-      <point x="794" y="212" type="line"/>
-      <point x="753" y="84"/>
-      <point x="592" y="-30"/>
+      <point x="327" y="-30" type="qcurve" smooth="yes"/>
+      <point x="144" y="-30"/>
+      <point x="-22.43986614350166" y="219.0"/>
+      <point x="36.200654402391365" y="473.0" type="qcurve"/>
+      <point x="81.21995167187617" y="668.0"/>
+      <point x="259.55693624504283" y="964.0"/>
+      <point x="368.8733370640924" y="1052.0" type="qcurve"/>
+      <point x="557.8733370640924" y="1052.0" type="line"/>
+      <point x="427.7852314669037" y="939.0"/>
+      <point x="263.6013013647326" y="635.0"/>
+      <point x="225.7389180201402" y="471.0" type="qcurve"/>
+      <point x="183.72090723528777" y="289.0"/>
+      <point x="244.08939208182096" y="126.0"/>
+      <point x="341.08939208182096" y="126.0" type="qcurve"/>
+      <point x="453.08939208182096" y="126.0"/>
+      <point x="592.3369845731667" y="296.0"/>
+      <point x="618.1942219792297" y="408.0" type="qcurve" smooth="yes"/>
+      <point x="690.6868339926566" y="722.0" type="line"/>
+      <point x="876.6868339926566" y="722.0" type="line"/>
+      <point x="804.1942219792297" y="408.0" type="line" smooth="yes"/>
+      <point x="778.3369845731667" y="296.0"/>
+      <point x="838.089392081821" y="126.0"/>
+      <point x="951.089392081821" y="126.0" type="qcurve"/>
+      <point x="1048.089392081821" y="126.0"/>
+      <point x="1183.7209072352878" y="289.0"/>
+      <point x="1225.7389180201403" y="471.0" type="qcurve"/>
+      <point x="1263.6013013647325" y="635.0"/>
+      <point x="1238.7852314669037" y="939.0"/>
+      <point x="1160.8733370640923" y="1052.0" type="qcurve"/>
+      <point x="1350.8733370640923" y="1052.0" type="line"/>
+      <point x="1419.5569362450428" y="964.0"/>
+      <point x="1461.219951671876" y="668.0"/>
+      <point x="1416.2006544023914" y="473.0" type="qcurve"/>
+      <point x="1357.5601338564984" y="219.0"/>
+      <point x="1116" y="-30"/>
+      <point x="933" y="-30" type="qcurve" smooth="yes"/>
+      <point x="823" y="-30"/>
+      <point x="668.3929280545473" y="84.0"/>
+      <point x="656.9440565186194" y="212.0" type="qcurve"/>
+      <point x="674.9440565186194" y="212.0" type="line"/>
+      <point x="604.3929280545473" y="84.0"/>
+      <point x="437" y="-30"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0,0.1,1,0.2</string>
+    </dict>
+  </lib>
 </glyph>

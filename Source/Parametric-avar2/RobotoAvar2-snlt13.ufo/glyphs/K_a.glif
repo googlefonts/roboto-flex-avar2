@@ -2,29 +2,35 @@
 <glyph name="Ka" format="2">
   <advance width="1266"/>
   <unicode hex="041A"/>
-  <guideline x="480" y="796" angle="90" identifier="LxfLwWU0sJ"/>
-  <anchor x="657" y="1456" name="top"/>
-  <anchor x="1053" y="0" name="cy_descender"/>
+  <guideline x="495.7710801359483" y="796" angle="103.0" identifier="LxfLwWU0sJ"/>
+  <anchor x="825.1440862788199" y="1456" name="top"/>
+  <anchor x="885.0" y="0" name="cy_descender"/>
   <outline>
     <contour>
-      <point x="1050" y="0" type="line"/>
-      <point x="422" y="740" type="line"/>
-      <point x="582" y="823" type="line"/>
-      <point x="1286" y="0" type="line"/>
+      <point x="892" y="0" type="line"/>
+      <point x="434" y="740" type="line"/>
+      <point x="604.0045212963385" y="823.0" type="line"/>
+      <point x="1118.0" y="0.0" type="line"/>
     </contour>
     <contour>
-      <point x="266" y="830" type="line"/>
-      <point x="480" y="830" type="line"/>
-      <point x="1025" y="1456" type="line"/>
-      <point x="1242" y="1456" type="line"/>
-      <point x="558" y="672" type="line"/>
-      <point x="266" y="672" type="line"/>
+      <point x="289.62059863421734" y="830.0" type="line"/>
+      <point x="503.62059863421734" y="830.0" type="line"/>
+      <point x="1193.14408627882" y="1456.0" type="line"/>
+      <point x="1410.14408627882" y="1456.0" type="line"/>
+      <point x="545.1434244363784" y="672.0" type="line"/>
+      <point x="253.14342443637838" y="672.0" type="line"/>
     </contour>
     <contour>
-      <point x="170" y="0" type="line"/>
-      <point x="170" y="1456" type="line"/>
-      <point x="362" y="1456" type="line"/>
-      <point x="362" y="0" type="line"/>
+      <point x="2.0" y="0.0" type="line"/>
+      <point x="338.1440862788199" y="1456.0" type="line"/>
+      <point x="530.1440862788199" y="1456.0" type="line"/>
+      <point x="194.0" y="0.0" type="line"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0,0.1,1,0.2</string>
+    </dict>
+  </lib>
 </glyph>
