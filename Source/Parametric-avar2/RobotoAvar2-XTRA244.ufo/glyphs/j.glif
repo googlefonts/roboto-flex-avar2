@@ -1,10 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="j" format="2">
-  <advance width="500"/>
+  <advance width="438"/>
   <unicode hex="006A"/>
   <outline>
-    <component base="jdotless"/>
-    <component base="idot" xOffset="250"/>
+    <component base="jdotless" xOffset="-62"/>
+    <component base="idot" xOffset="188"/>
   </outline>
   <lib>
     <dict>
