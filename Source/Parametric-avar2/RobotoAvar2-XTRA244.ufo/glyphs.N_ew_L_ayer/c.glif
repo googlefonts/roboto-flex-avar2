@@ -1,13 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<glyph name="o" format="2">
-  <advance width="654"/>
-  <unicode hex="006F"/>
-  <anchor x="581" y="0" name="bottom"/>
-  <anchor x="581" y="526" name="center"/>
-  <anchor x="762" y="0" name="ogonek"/>
-  <anchor x="581" y="1052" name="top"/>
-  <anchor x="760" y="1052" name="topright"/>
-  <anchor x="178" y="536" name="yu_dash"/>
+<glyph name="c" format="2">
+  <advance width="500"/>
+  <unicode hex="0063"/>
   <outline>
     <contour>
       <point x="85" y="327" type="qcurve" smooth="yes"/>
