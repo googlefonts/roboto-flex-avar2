@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="cy-descendercomb" format="2">
+  <anchor x="38.0" y="0" name="_cy-descender"/>
+  <outline>
+    <contour>
+      <point x="155.15010040642127" y="-270.0" type="line"/>
+      <point x="141.0" y="0.0" type="line"/>
+      <point x="38.0" y="0.0" type="line"/>
+      <point x="30.400872003958945" y="145.0" type="line"/>
+      <point x="301.40087200395897" y="145.0" type="line"/>
+      <point x="323.15010040642125" y="-270.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0,0.1,1,0.2</string>
+    </dict>
+  </lib>
+</glyph>
