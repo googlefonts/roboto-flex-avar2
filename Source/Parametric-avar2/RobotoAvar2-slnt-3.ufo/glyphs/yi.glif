@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="yi" format="2">
+  <advance width="500"/>
+  <unicode hex="0457"/>
+  <outline>
+    <component base="idotless"/>
+    <component base="Yi-dieresiscomb.case" xOffset="250" yOffset="-404"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0,0,1,0.5</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Zhe.bgr" format="2">
+  <advance width="1935"/>
+  <outline>
+    <contour>
+      <point x="18.0" y="0.0" type="line"/>
+      <point x="647.3570764380928" y="890.0" type="line"/>
+      <point x="773.3797188620205" y="756.0" type="line"/>
+      <point x="249.0" y="0.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="907.0" y="0.0" type="line"/>
+      <point x="830.6942733638912" y="1456.0" type="line"/>
+      <point x="1022.6942733638912" y="1456.0" type="line"/>
+      <point x="1099.0" y="0.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="1757.0" y="0.0" type="line"/>
+      <point x="1153.3797188620204" y="756.0" type="line"/>
+      <point x="1270.357076438093" y="890.0" type="line"/>
+      <point x="1993.0" y="0.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="-22.305726636108773" y="1456.0" type="line"/>
+      <point x="212.69427336389123" y="1456.0" type="line"/>
+      <point x="958.4066134795703" y="641.0" type="line"/>
+      <point x="971.0892960660664" y="399.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="1640.6942733638912" y="1456.0" type="line"/>
+      <point x="1872.6942733638912" y="1456.0" type="line"/>
+      <point x="989.0892960660664" y="399.0" type="line"/>
+      <point x="976.6686523759854" y="636.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0,0.1,1,0.2</string>
+    </dict>
+  </lib>
+</glyph>

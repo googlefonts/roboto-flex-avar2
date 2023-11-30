@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="gheup" format="2">
+  <advance width="864"/>
+  <unicode hex="0491"/>
+  <outline>
+    <contour>
+      <point x="130.86701619424008" y="1052.0" type="line"/>
+      <point x="648.8670161942401" y="1052.0" type="line"/>
+      <point x="634.7169157878188" y="1322.0" type="line"/>
+      <point x="802.7169157878188" y="1322.0" type="line"/>
+      <point x="824.4661441902812" y="907.0" type="line"/>
+      <point x="324.4661441902811" y="907.0" type="line"/>
+      <point x="372.0" y="0.0" type="line"/>
+      <point x="186.0" y="0.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0,0.1,1,0.2</string>
+    </dict>
+  </lib>
+</glyph>

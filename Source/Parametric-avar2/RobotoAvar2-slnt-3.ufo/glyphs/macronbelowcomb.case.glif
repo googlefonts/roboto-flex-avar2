@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="macronbelowcomb.case" format="2">
+  <anchor x="38.0" y="0" name="_bottom"/>
+  <anchor x="53.40788710921427" y="-294" name="bottom"/>
+  <outline>
+    <contour>
+      <point x="-242.59211289078576" y="-294.0" type="line"/>
+      <point x="-250.76772645894022" y="-138.0" type="line"/>
+      <point x="341.2322735410598" y="-138.0" type="line"/>
+      <point x="349.40788710921424" y="-294.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0,0.1,1,0.2</string>
+    </dict>
+  </lib>
+</glyph>

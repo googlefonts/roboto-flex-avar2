@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="commaaccentcomb.case" format="2">
+  <anchor x="38.0" y="0" name="_bottom"/>
+  <anchor x="69.44466756982504" y="-600" name="bottom"/>
+  <outline>
+    <contour>
+      <point x="-109.71255576802409" y="-597.0" type="line"/>
+      <point x="-33.30456083263728" y="-185.0" type="line"/>
+      <point x="180.59062360879665" y="-183.0" type="line"/>
+      <point x="65.44466756982504" y="-600.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0,0.1,1,0.2</string>
+    </dict>
+  </lib>
+</glyph>
