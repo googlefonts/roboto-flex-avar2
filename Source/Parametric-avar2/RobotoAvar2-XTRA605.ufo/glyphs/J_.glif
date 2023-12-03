@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="J" format="2">
-  <advance width="1100"/>
+  <advance width="1307"/>
   <unicode hex="004A"/>
   <anchor x="550" y="0" name="bottom"/>
   <anchor x="854" y="1456" name="top"/>
@@ -11,18 +11,18 @@
       <point x="217" y="410" type="line"/>
       <point x="217" y="400" type="line" smooth="yes"/>
       <point x="217" y="270"/>
-      <point x="360" y="134"/>
-      <point x="485" y="134" type="qcurve" smooth="yes"/>
-      <point x="610" y="134"/>
-      <point x="753" y="285"/>
-      <point x="753" y="425" type="qcurve" smooth="yes"/>
-      <point x="753" y="1456" type="line"/>
-      <point x="945" y="1456" type="line"/>
-      <point x="945" y="425" type="line" smooth="yes"/>
-      <point x="945" y="215"/>
-      <point x="690" y="-30"/>
-      <point x="485" y="-30" type="qcurve" smooth="yes"/>
-      <point x="280" y="-30"/>
+      <point x="415" y="134"/>
+      <point x="588" y="134" type="qcurve" smooth="yes"/>
+      <point x="762" y="134"/>
+      <point x="960" y="285"/>
+      <point x="960" y="425" type="qcurve" smooth="yes"/>
+      <point x="960" y="1456" type="line"/>
+      <point x="1152" y="1456" type="line"/>
+      <point x="1152" y="425" type="line" smooth="yes"/>
+      <point x="1152" y="215"/>
+      <point x="840" y="-30"/>
+      <point x="589" y="-30" type="qcurve" smooth="yes"/>
+      <point x="337" y="-30"/>
       <point x="25" y="200"/>
     </contour>
   </outline>
