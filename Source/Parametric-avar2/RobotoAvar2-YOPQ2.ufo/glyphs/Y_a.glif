@@ -6,21 +6,21 @@
   <outline>
     <contour>
       <point x="40" y="0" type="line"/>
-      <point x="404" y="672" type="line"/>
-      <point x="605" y="672" type="line"/>
+      <point x="387" y="642" type="line"/>
+      <point x="566" y="598" type="line"/>
       <point x="248" y="0" type="line"/>
     </contour>
     <contour>
       <point x="888" y="0" type="line"/>
-      <point x="888" y="1300" type="line"/>
-      <point x="606" y="1300" type="line" smooth="yes"/>
-      <point x="440" y="1300"/>
-      <point x="310" y="1144"/>
+      <point x="888" y="1449" type="line"/>
+      <point x="606" y="1449" type="line" smooth="yes"/>
+      <point x="463" y="1449"/>
+      <point x="310" y="1231"/>
       <point x="310" y="1028" type="qcurve" smooth="yes"/>
-      <point x="310" y="912"/>
-      <point x="440" y="750"/>
-      <point x="606" y="750" type="qcurve" smooth="yes"/>
-      <point x="978" y="750" type="line"/>
+      <point x="310" y="822"/>
+      <point x="463" y="601"/>
+      <point x="606" y="601" type="qcurve" smooth="yes"/>
+      <point x="978" y="601" type="line"/>
       <point x="978" y="594" type="line"/>
       <point x="547" y="594" type="line"/>
       <point x="502" y="604" type="line"/>
