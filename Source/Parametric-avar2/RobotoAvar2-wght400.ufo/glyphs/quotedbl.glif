@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="quotedbl" format="2">
-  <advance width="610"/>
+  <advance width="760"/>
   <unicode hex="0022"/>
   <outline>
     <contour>
@@ -12,12 +12,12 @@
       <point x="265" y="966" type="line"/>
     </contour>
     <contour>
-      <point x="345" y="966" type="line"/>
-      <point x="330" y="1320" type="line"/>
-      <point x="330" y="1456" type="line"/>
-      <point x="510" y="1456" type="line"/>
-      <point x="510" y="1320" type="line"/>
       <point x="495" y="966" type="line"/>
+      <point x="480" y="1320" type="line"/>
+      <point x="480" y="1456" type="line"/>
+      <point x="660" y="1456" type="line"/>
+      <point x="660" y="1320" type="line"/>
+      <point x="645" y="966" type="line"/>
     </contour>
   </outline>
 </glyph>
