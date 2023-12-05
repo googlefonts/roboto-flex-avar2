@@ -1,33 +1,33 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="A" format="2">
-  <advance width="1240"/>
+  <advance width="1030"/>
   <unicode hex="0041"/>
-  <anchor x="640" y="0" name="bottom"/>
-  <anchor x="1236" y="0" name="ogonek"/>
-  <anchor x="640" y="1456" name="top"/>
-  <anchor x="263" y="1074" name="tonos"/>
+  <anchor x="441" y="0" name="bottom"/>
+  <anchor x="1037" y="0" name="ogonek"/>
+  <anchor x="441" y="1456" name="top"/>
+  <anchor x="64" y="1074" name="tonos"/>
   <outline>
     <contour>
       <point x="0" y="0" type="line"/>
-      <point x="554" y="1466" type="line"/>
-      <point x="686" y="1466" type="line"/>
-      <point x="1240" y="0" type="line"/>
-      <point x="1236" y="0" type="line"/>
-      <point x="747" y="1293" type="line" smooth="yes"/>
-      <point x="735" y="1326"/>
-      <point x="719" y="1369"/>
-      <point x="708" y="1400" type="qcurve"/>
-      <point x="700" y="1400" type="line"/>
-      <point x="692" y="1369"/>
-      <point x="678" y="1324"/>
-      <point x="666" y="1291" type="qcurve" smooth="yes"/>
-      <point x="192" y="0" type="line"/>
+      <point x="503" y="1464" type="line"/>
+      <point x="511" y="1464" type="line"/>
+      <point x="1030" y="0" type="line"/>
+      <point x="1023" y="0" type="line"/>
+      <point x="544" y="1350" type="line" smooth="yes"/>
+      <point x="532" y="1383"/>
+      <point x="514" y="1437"/>
+      <point x="511" y="1457" type="qcurve"/>
+      <point x="503" y="1457" type="line"/>
+      <point x="498" y="1436"/>
+      <point x="481" y="1381"/>
+      <point x="470" y="1348" type="qcurve" smooth="yes"/>
+      <point x="7" y="0" type="line"/>
     </contour>
     <contour>
-      <point x="238" y="380" type="line"/>
-      <point x="297" y="538" type="line"/>
-      <point x="1034" y="538" type="line"/>
-      <point x="1094" y="380" type="line"/>
+      <point x="134" y="380" type="line"/>
+      <point x="188" y="538" type="line"/>
+      <point x="836" y="538" type="line"/>
+      <point x="892" y="380" type="line"/>
     </contour>
   </outline>
 </glyph>
