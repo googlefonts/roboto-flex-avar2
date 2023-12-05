@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="v" format="2">
-  <advance width="1372"/>
+  <advance width="1772"/>
   <unicode hex="0076"/>
   <anchor x="901" y="0" name="bottom"/>
   <anchor x="901" y="1052" name="top"/>
@@ -17,8 +17,8 @@
       <point x="930" y="310"/>
       <point x="944" y="350" type="qcurve" smooth="yes"/>
       <point x="1196" y="1052" type="line"/>
-      <point x="1372" y="1052" type="line"/>
-      <point x="972" y="0" type="line"/>
+      <point x="1772" y="1052" type="line"/>
+      <point x="1372" y="0" type="line"/>
       <point x="400" y="0" type="line"/>
     </contour>
   </outline>
