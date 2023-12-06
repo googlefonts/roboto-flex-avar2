@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Uhorngrave" format="2">
-  <advance width="1176"/>
+  <advance width="994"/>
   <unicode hex="1EEA"/>
   <outline>
     <component base="U"/>
-    <component base="horncomb.case" xOffset="929"/>
-    <component base="gravecomb.case" xOffset="494" yOffset="1"/>
+    <component base="horncomb.case" xOffset="835"/>
+    <component base="gravecomb.case" xOffset="497" yOffset="1"/>
   </outline>
   <lib>
     <dict>

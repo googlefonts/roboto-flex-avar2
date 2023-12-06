@@ -27,9 +27,9 @@ def makeGlyphs(src_font, dst_font, glyphs):
 
 
 
-#makeGlyphs('RobotoA2-XOPQ2.ufo', 'RobotoA2-XOFI27.ufo', XOFI)
-#makeGlyphs('RobotoA2-XOPQ310.ufo', 'RobotoA2-XOFI180.ufo', XOFI)
-#makeGlyphs('RobotoA2-XOPQ2.ufo', 'RobotoA2-XOLC27.ufo', XOLC)
-#makeGlyphs('RobotoA2-XOPQ310.ufo', 'RobotoA2-XOLC170.ufo', XOLC)
-#makeGlyphs('RobotoA2-XOPQ2.ufo', 'RobotoA2-XOUC27.ufo', XOUC)
-#makeGlyphs('RobotoA2-XOPQ310.ufo', 'RobotoA2-XOUC175.ufo', XOUC)
+makeGlyphs('RobotoAvar2-XOPQ2.ufo', 'RobotoAvar2-XOFI2.ufo', XOFI)
+makeGlyphs('RobotoAvar2-XOPQ310.ufo', 'RobotoAvar2-XOFI300.ufo', XOFI)
+makeGlyphs('RobotoAvar2-XOPQ2.ufo', 'RobotoAvar2-XOLC2.ufo', XOLC)
+makeGlyphs('RobotoAvar2-XOPQ310.ufo', 'RobotoAvar2-XOLC294.ufo', XOLC)
+makeGlyphs('RobotoAvar2-XOPQ2.ufo', 'RobotoAvar2-XOUC2.ufo', XOUC)
+makeGlyphs('RobotoAvar2-XOPQ310.ufo', 'RobotoAvar2-XOUC310.ufo', XOUC)

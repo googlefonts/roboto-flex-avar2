@@ -1,10 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Iotadieresis" format="2">
-  <advance width="354"/>
+  <advance width="357"/>
   <unicode hex="03AA"/>
   <outline>
     <component base="I"/>
-    <component base="dieresiscomb.case" xOffset="177"/>
+    <component base="dieresiscomb.case" xOffset="179"/>
   </outline>
   <lib>
     <dict>

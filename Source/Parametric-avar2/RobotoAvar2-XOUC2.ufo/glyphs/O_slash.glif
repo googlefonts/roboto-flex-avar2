@@ -1,10 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Oslash" format="2">
-  <advance width="1080"/>
+  <advance width="1086"/>
   <unicode hex="00D8"/>
   <outline>
     <component base="O"/>
-    <component base="diagonalbarO" xOffset="225" yOffset="-6.5"/>
+    <component base="diagonalbarO" xOffset="230" yOffset="-6.5"/>
   </outline>
   <lib>
     <dict>
