@@ -1,13 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="engtail" format="2">
   <advance width="629"/>
-  <anchor x="429" y="0" name="_engtail"/>
+  <anchor x="430" y="0" name="_engtail"/>
   <outline>
     <contour>
       <point x="427" y="190" type="line"/>
-      <point x="431" y="190" type="line"/>
-      <point x="431" y="-195" type="line" smooth="yes"/>
-      <point x="431" y="-337"/>
+      <point x="434" y="190" type="line"/>
+      <point x="434" y="-195" type="line" smooth="yes"/>
+      <point x="434" y="-337"/>
       <point x="348" y="-443"/>
       <point x="269" y="-443" type="qcurve" smooth="yes"/>
       <point x="197" y="-443"/>

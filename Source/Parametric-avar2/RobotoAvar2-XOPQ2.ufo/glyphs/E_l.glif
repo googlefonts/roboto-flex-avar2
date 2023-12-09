@@ -1,12 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="El" format="2">
-  <advance width="1084"/>
+  <advance width="1087"/>
   <unicode hex="041B"/>
   <outline>
     <contour>
-      <point x="339" y="1456" type="line"/>
-      <point x="914" y="1456" type="line"/>
-      <point x="914" y="0" type="line"/>
+      <point x="336" y="1456" type="line"/>
+      <point x="917" y="1456" type="line"/>
+      <point x="917" y="0" type="line"/>
       <point x="910" y="0" type="line"/>
       <point x="910" y="1298" type="line"/>
       <point x="334" y="1298" type="line"/>
@@ -22,8 +22,8 @@
       <point x="74" y="138"/>
       <point x="95" y="138" type="qcurve" smooth="yes"/>
       <point x="197" y="138"/>
-      <point x="276" y="336"/>
-      <point x="289" y="562" type="qcurve" smooth="yes"/>
+      <point x="273" y="336"/>
+      <point x="286" y="562" type="qcurve" smooth="yes"/>
     </contour>
   </outline>
 </glyph>

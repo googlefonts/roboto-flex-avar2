@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="el" format="2">
-  <advance width="776"/>
+  <advance width="779"/>
   <unicode hex="043B"/>
   <outline>
     <contour>
@@ -17,11 +17,11 @@
       <point x="64" y="139"/>
       <point x="86" y="139" type="qcurve" smooth="yes"/>
       <point x="165" y="139"/>
-      <point x="216" y="301"/>
-      <point x="226" y="516" type="qcurve" smooth="yes"/>
-      <point x="249" y="1052" type="line"/>
-      <point x="628" y="1052" type="line"/>
-      <point x="628" y="0" type="line"/>
+      <point x="213" y="301"/>
+      <point x="223" y="516" type="qcurve" smooth="yes"/>
+      <point x="246" y="1052" type="line"/>
+      <point x="631" y="1052" type="line"/>
+      <point x="631" y="0" type="line"/>
       <point x="624" y="0" type="line"/>
       <point x="624" y="907" type="line"/>
     </contour>

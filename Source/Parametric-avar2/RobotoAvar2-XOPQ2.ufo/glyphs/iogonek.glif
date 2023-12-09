@@ -1,10 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="iogonek" format="2">
-  <advance width="318"/>
+  <advance width="321"/>
   <unicode hex="012F"/>
   <outline>
     <component base="idotless"/>
-    <component base="idot" xOffset="159"/>
+    <component base="idot" xOffset="160"/>
     <component base="ogonekcomb" xOffset="73"/>
   </outline>
   <lib>
