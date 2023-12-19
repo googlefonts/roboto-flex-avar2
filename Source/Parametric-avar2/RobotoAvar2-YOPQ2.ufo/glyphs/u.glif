@@ -9,26 +9,26 @@
   <anchor x="899" y="0" name="cy_descender"/>
   <outline>
     <contour>
-      <point x="508" y="-20" type="qcurve" smooth="yes"/>
+      <point x="486" y="-20" type="qcurve" smooth="yes"/>
       <point x="327" y="-20"/>
       <point x="138" y="161"/>
       <point x="138" y="373" type="qcurve" smooth="yes"/>
       <point x="138" y="1052" type="line"/>
       <point x="324" y="1052" type="line"/>
-      <point x="324" y="221" type="line" smooth="yes"/>
-      <point x="324" y="95"/>
-      <point x="437" y="-14"/>
-      <point x="519" y="-14" type="qcurve" smooth="yes"/>
-      <point x="598" y="-14"/>
-      <point x="799" y="106"/>
-      <point x="896" y="279" type="qcurve"/>
-      <point x="900" y="270" type="line"/>
-      <point x="796" y="89"/>
-      <point x="586" y="-20"/>
+      <point x="324" y="371" type="line" smooth="yes"/>
+      <point x="324" y="118"/>
+      <point x="411" y="-13"/>
+      <point x="506" y="-12" type="qcurve"/>
+      <point x="618" y="-13"/>
+      <point x="802" y="111"/>
+      <point x="897" y="325" type="qcurve"/>
+      <point x="897" y="306" type="line"/>
+      <point x="826" y="120"/>
+      <point x="605" y="-20"/>
     </contour>
     <contour>
       <point x="822" y="0" type="line"/>
-      <point x="804" y="133" type="line"/>
+      <point x="804" y="143" type="line"/>
       <point x="804" y="1052" type="line"/>
       <point x="990" y="1052" type="line"/>
       <point x="990" y="0" type="line"/>
