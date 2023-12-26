@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="yi-dieresiscomb" format="2">
+  <anchor x="74.8733370640924" y="1052" name="_top"/>
+  <outline>
+    <contour>
+      <point x="-107" y="1370" type="qcurve" smooth="yes"/>
+      <point x="-107" y="1417"/>
+      <point x="-53" y="1481"/>
+      <point x="-2" y="1481" type="qcurve" smooth="yes"/>
+      <point x="50" y="1481"/>
+      <point x="104" y="1417"/>
+      <point x="104" y="1370" type="qcurve" smooth="yes"/>
+      <point x="104" y="1323"/>
+      <point x="50" y="1259"/>
+      <point x="-2" y="1259" type="qcurve" smooth="yes"/>
+      <point x="-53" y="1259"/>
+      <point x="-107" y="1323"/>
+    </contour>
+    <contour>
+      <point x="142" y="1370" type="qcurve" smooth="yes"/>
+      <point x="142" y="1417"/>
+      <point x="196" y="1481"/>
+      <point x="247" y="1481" type="qcurve" smooth="yes"/>
+      <point x="299" y="1481"/>
+      <point x="353" y="1417"/>
+      <point x="353" y="1370" type="qcurve" smooth="yes"/>
+      <point x="353" y="1323"/>
+      <point x="299" y="1259"/>
+      <point x="247" y="1259" type="qcurve" smooth="yes"/>
+      <point x="196" y="1259"/>
+      <point x="142" y="1323"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0,0.1,1,0.2</string>
+    </dict>
+  </lib>
+</glyph>

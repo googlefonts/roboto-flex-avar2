@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="diagonalbarO.rvrn" format="2">
+  <advance width="623"/>
+  <outline>
+    <contour>
+      <point x="-190.16463283268638" y="-109.0" type="line"/>
+      <point x="-91.14533556320157" y="86.0" type="line"/>
+      <point x="-74.29967651882939" y="81.0" type="line"/>
+      <point x="-42.60192600692342" y="136.0" type="line"/>
+      <point x="49.6990369965383" y="68.0" type="line"/>
+      <point x="40.4668823207804" y="54.0" type="line"/>
+      <point x="59.543409556278164" y="50.0" type="line"/>
+      <point x="-20.16463283268638" y="-109.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="657.5447332411611" y="1618.0" type="line"/>
+      <point x="828.5447332411611" y="1618.0" type="line"/>
+      <point x="730.7563041628018" y="1424.0" type="line"/>
+      <point x="710.6797769273041" y="1428.0" type="line"/>
+      <point x="672.4411898283847" y="1349.0" type="line"/>
+      <point x="580.1402268249229" y="1417.0" type="line"/>
+      <point x="596.9132180876943" y="1455.0" type="line"/>
+      <point x="578.0675590433221" y="1460.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0,0.1,1,0.2</string>
+    </dict>
+  </lib>
+</glyph>

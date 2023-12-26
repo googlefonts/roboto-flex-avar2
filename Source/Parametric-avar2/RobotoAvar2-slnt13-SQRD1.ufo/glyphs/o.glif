@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="o" format="2">
+  <advance width="1162"/>
+  <unicode hex="006F"/>
+  <anchor x="413.0" y="0" name="bottom"/>
+  <anchor x="534.4366685320462" y="526" name="center"/>
+  <anchor x="594.0" y="0" name="ogonek"/>
+  <anchor x="655.8733370640924" y="1052" name="top"/>
+  <anchor x="834.8733370640924" y="1052" name="topright"/>
+  <anchor x="133.74535044330185" y="536" name="yu_dash"/>
+  <outline>
+    <contour>
+      <point x="34.74277747403718" y="510.0" type="qcurve" smooth="yes"/>
+      <point x="42.13055959005521" y="542.0" type="line" smooth="yes"/>
+      <point x="102.13055959005521" y="802.0"/>
+      <point x="414" y="1082"/>
+      <point x="643" y="1082" type="qcurve" smooth="yes"/>
+      <point x="869" y="1082"/>
+      <point x="1089.0771890779392" y="780.0"/>
+      <point x="1034.1305595900553" y="542.0" type="qcurve" smooth="yes"/>
+      <point x="1026.7427774740372" y="510.0" type="line" smooth="yes"/>
+      <point x="966.7427774740372" y="250.0"/>
+      <point x="655" y="-30"/>
+      <point x="426" y="-30" type="qcurve" smooth="yes"/>
+      <point x="200" y="-30"/>
+      <point x="-20.20385201384684" y="272.0"/>
+    </contour>
+    <contour>
+      <point x="232.1305595900552" y="542.0" type="qcurve" smooth="yes"/>
+      <point x="224.7427774740372" y="510.0" type="line" smooth="yes"/>
+      <point x="187.1112623205704" y="347.0"/>
+      <point x="289.1659193173187" y="122.0"/>
+      <point x="441.16591931731875" y="122.0" type="qcurve" smooth="yes"/>
+      <point x="588.1659193173188" y="122.0"/>
+      <point x="793.7427774740372" y="323.0"/>
+      <point x="836.7427774740372" y="510.0" type="qcurve" smooth="yes"/>
+      <point x="844.1305595900552" y="542.0" type="line" smooth="yes"/>
+      <point x="881.7620747435219" y="705.0"/>
+      <point x="779.7074177467737" y="930.0"/>
+      <point x="627.7074177467737" y="930.0" type="qcurve" smooth="yes"/>
+      <point x="480.7074177467737" y="930.0"/>
+      <point x="275.1305595900552" y="729.0"/>
+    </contour>
+  </outline>
+</glyph>

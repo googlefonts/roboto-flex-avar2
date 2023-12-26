@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="brevecomb-stack.case" format="2">
+  <anchor x="168.14408627881988" y="1456" name="_top"/>
+  <anchor x="254.0270533775294" y="1828" name="top"/>
+  <outline>
+    <contour>
+      <point x="531.9569585651932" y="1897.0" type="qcurve"/>
+      <point x="619.7196579509061" y="1831.0" type="line"/>
+      <point x="562.6341253229821" y="1744.0"/>
+      <point x="357" y="1597"/>
+      <point x="220" y="1597" type="qcurve" smooth="yes"/>
+      <point x="98" y="1597"/>
+      <point x="-86.13629297052466" y="1732.0"/>
+      <point x="-109.0494738579684" y="1832.0" type="qcurve"/>
+      <point x="15.956958565193247" y="1897.0" type="line"/>
+      <point x="42.49007624441282" y="1843.0"/>
+      <point x="152.4045436164888" y="1756.0"/>
+      <point x="237.4045436164888" y="1756.0" type="qcurve" smooth="yes"/>
+      <point x="329.4045436164888" y="1756.0"/>
+      <point x="479.56660347991055" y="1839.0"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0,0.1,1,0.2</string>
+    </dict>
+  </lib>
+</glyph>

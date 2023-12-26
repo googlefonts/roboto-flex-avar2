@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="upsilon" format="2">
+  <advance width="1128"/>
+  <unicode hex="03C5"/>
+  <anchor x="639.8733370640924" y="1052" name="top"/>
+  <outline>
+    <contour>
+      <point x="411" y="-20" type="qcurve" smooth="yes"/>
+      <point x="184" y="-20"/>
+      <point x="16.404506416238178" y="201.0"/>
+      <point x="63.039881023601936" y="403.0" type="qcurve" smooth="yes"/>
+      <point x="212.87333706409242" y="1052.0" type="line"/>
+      <point x="398.8733370640924" y="1052.0" type="line"/>
+      <point x="248.57814464135083" y="401.0" type="line" smooth="yes"/>
+      <point x="219.48875255952987" y="275.0"/>
+      <point x="303.3980739930766" y="136.0"/>
+      <point x="427.39807399307654" y="136.0" type="qcurve" smooth="yes"/>
+      <point x="551.3980739930765" y="136.0"/>
+      <point x="701.4887525595299" y="275.0"/>
+      <point x="728.5781446413508" y="401.0" type="qcurve" smooth="yes"/>
+      <point x="878.8733370640923" y="1052.0" type="line"/>
+      <point x="1064.8733370640923" y="1052.0" type="line"/>
+      <point x="915.039881023602" y="403.0" type="line" smooth="yes"/>
+      <point x="868.4045064162383" y="201.0"/>
+      <point x="638" y="-20"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0,0.1,1,0.2</string>
+    </dict>
+  </lib>
+</glyph>

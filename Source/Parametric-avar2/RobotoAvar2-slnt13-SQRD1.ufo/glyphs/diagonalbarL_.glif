@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="diagonalbarL" format="2">
+  <advance width="741"/>
+  <outline>
+    <contour>
+      <point x="14.96721324200115" y="446.0" type="line"/>
+      <point x="-33.17297638267115" y="584.0" type="line"/>
+      <point x="725.7138501699353" y="995.0" type="line"/>
+      <point x="775.5466443679843" y="860.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0,0.1,1,0.2</string>
+    </dict>
+  </lib>
+</glyph>
