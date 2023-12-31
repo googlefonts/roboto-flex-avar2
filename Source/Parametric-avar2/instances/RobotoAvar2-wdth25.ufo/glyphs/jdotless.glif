@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="jdotless" format="2">
+  <advance width="492.3829787234043"/>
+  <anchor x="250.0" y="-436.0" name="bottom"/>
+  <anchor x="246.12765957446808" y="1052.0" name="top"/>
+  <outline>
+    <contour>
+      <point x="-79.68036529680366" y="-410.0" type="qcurve"/>
+      <point x="-80.12785388127854" y="-261.85714285714283" type="line"/>
+      <point x="-61.1946272905177" y="-267.8961038961039"/>
+      <point x="8.71304038427326" y="-281.93506493506493"/>
+      <point x="37.05592124770207" y="-281.93506493506493" type="qcurve" smooth="yes"/>
+      <point x="94.04101135433109" y="-281.93506493506493"/>
+      <point x="157.0" y="-210.75628626692458"/>
+      <point x="157.0" y="-130.0" type="qcurve" smooth="yes"/>
+      <point x="157.0" y="1052.0" type="line"/>
+      <point x="335.3829787234043" y="1052.0" type="line"/>
+      <point x="335.3829787234043" y="-90.0" type="line" smooth="yes"/>
+      <point x="335.3829787234043" y="-271.4468085106383"/>
+      <point x="204.3046730787914" y="-436.0"/>
+      <point x="76.77955892354026" y="-436.0" type="qcurve" smooth="yes"/>
+      <point x="38.84542893228408" y="-436.0"/>
+      <point x="-55.35159817351598" y="-419.0"/>
+    </contour>
+  </outline>
+</glyph>

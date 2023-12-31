@@ -6,7 +6,7 @@
     <axis tag="XOPQ" name="XOPQ" minimum="2" maximum="310" default="96"/>
     <axis tag="XTRA" name="XTRA" minimum="244" maximum="605" default="463"/>
     <axis tag="XTSP" name="XTSP" minimum="-100" maximum="100" default="0"/>
-    <axis tag="YOPQ" name="YOPQ" minimum="2" maximum="135" default="79"/>
+    <axis tag="YOPQ" name="YOPQ" minimum="2" maximum="280" default="79"/>
     <axis tag="YTAS" name="YTAS" minimum="665" maximum="875" default="768"/>
     <axis tag="YTDE" name="YTDE" minimum="-310" maximum="-100" default="-208"/>
     <axis tag="YTFI" name="YTFI" minimum="270" maximum="768" default="743"/>
@@ -665,7 +665,7 @@
         <dimension name="XTTW" xvalue="5"/>
       </location>
     </instance>
-    <instance familyname="RobotoAvar2" stylename="wght100">
+    <instance familyname="RobotoAvar2" stylename="wght200" filename="instances/RobotoAvar2-wght200.ufo">
       <location>
         <dimension name="slnt" xvalue="0"/>
         <dimension name="SQRD" xvalue="0"/>
@@ -683,14 +683,14 @@
         <dimension name="XTTW" xvalue="5"/>
       </location>
     </instance>
-    <instance familyname="RobotoAvar2" stylename="wght1000">
+    <instance familyname="RobotoAvar2" stylename="wght800" filename="instances/RobotoAvar2-wght800.ufo">
       <location>
         <dimension name="slnt" xvalue="0"/>
         <dimension name="SQRD" xvalue="0"/>
         <dimension name="XOPQ" xvalue="210"/>
         <dimension name="XTRA" xvalue="360"/>
         <dimension name="XTSP" xvalue="0"/>
-        <dimension name="YOPQ" xvalue="100"/>
+        <dimension name="YOPQ" xvalue="156"/>
         <dimension name="YTAS" xvalue="768"/>
         <dimension name="YTDE" xvalue="-208"/>
         <dimension name="YTFI" xvalue="743"/>
@@ -701,7 +701,7 @@
         <dimension name="XTTW" xvalue="5"/>
       </location>
     </instance>
-    <instance familyname="RobotoAvar2" stylename="wdth25">
+    <instance familyname="RobotoAvar2" stylename="wdth25" filename="instances/RobotoAvar2-wdth25.ufo">
       <location>
         <dimension name="slnt" xvalue="0"/>
         <dimension name="SQRD" xvalue="0"/>
@@ -719,7 +719,7 @@
         <dimension name="XTTW" xvalue="5"/>
       </location>
     </instance>
-    <instance familyname="RobotoAvar2" stylename="wdth151">
+    <instance familyname="RobotoAvar2" stylename="wdth151" filename="instances/RobotoAvar2-wdth151.ufo">
       <location>
         <dimension name="slnt" xvalue="0"/>
         <dimension name="SQRD" xvalue="0"/>

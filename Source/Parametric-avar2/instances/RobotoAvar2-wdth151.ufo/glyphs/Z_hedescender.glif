@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Zhedescender" format="2">
+  <advance width="1812.0934579439252"/>
+  <unicode hex="0496"/>
+  <outline>
+    <component base="Zhe"/>
+    <component base="cy-descendercomb" xOffset="1607.7196261682243" yOffset="0.018691588785046728"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0,0,1,0.5</string>
+    </dict>
+  </lib>
+</glyph>

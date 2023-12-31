@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dieresistonoscomb" format="2">
+  <anchor x="0.0" y="1052.0" name="_top"/>
+  <outline>
+    <contour>
+      <point x="-242.0" y="1207.0" type="qcurve" smooth="yes"/>
+      <point x="-295.0" y="1207.0"/>
+      <point x="-351.0" y="1268.0"/>
+      <point x="-351.0" y="1311.0" type="qcurve" smooth="yes"/>
+      <point x="-351.0" y="1356.0"/>
+      <point x="-295.0" y="1418.0"/>
+      <point x="-242.0" y="1418.0" type="qcurve" smooth="yes"/>
+      <point x="-188.0" y="1418.0"/>
+      <point x="-132.0" y="1356.0"/>
+      <point x="-132.0" y="1311.0" type="qcurve" smooth="yes"/>
+      <point x="-132.0" y="1268.0"/>
+      <point x="-188.0" y="1207.0"/>
+    </contour>
+    <contour>
+      <point x="48.252555954683615" y="1204.2221608179057" type="line"/>
+      <point x="-61.56590218292346" y="1211.8333793865709" type="line"/>
+      <point x="-41.0" y="1599.0" type="line"/>
+      <point x="145.0" y="1599.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="279.0" y="1205.0" type="qcurve" smooth="yes"/>
+      <point x="225.0" y="1205.0"/>
+      <point x="170.0" y="1266.0"/>
+      <point x="170.0" y="1309.0" type="qcurve" smooth="yes"/>
+      <point x="170.0" y="1354.0"/>
+      <point x="225.0" y="1416.0"/>
+      <point x="279.0" y="1416.0" type="qcurve" smooth="yes"/>
+      <point x="332.0" y="1416.0"/>
+      <point x="389.0" y="1354.0"/>
+      <point x="389.0" y="1309.0" type="qcurve" smooth="yes"/>
+      <point x="389.0" y="1266.0"/>
+      <point x="332.0" y="1205.0"/>
+    </contour>
+  </outline>
+</glyph>

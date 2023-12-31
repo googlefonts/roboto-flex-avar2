@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="engtail" format="2">
+  <advance width="629.0"/>
+  <anchor x="429.0425531914894" y="0.0" name="_engtail"/>
+  <outline>
+    <contour>
+      <point x="400.1914893617021" y="190.0" type="line"/>
+      <point x="518.2553191489362" y="190.0" type="line"/>
+      <point x="518.2553191489362" y="-195.0" type="line" smooth="yes"/>
+      <point x="518.2553191489362" y="-296.78723404255317"/>
+      <point x="398.74468085106383" y="-443.0"/>
+      <point x="269.0" y="-443.0" type="qcurve" smooth="yes"/>
+      <point x="197.0" y="-443.0"/>
+      <point x="67.0" y="-381.0"/>
+      <point x="27.0" y="-329.0" type="qcurve"/>
+      <point x="89.24675324675324" y="-254.92207792207793" type="line"/>
+      <point x="131.23376623376623" y="-296.05194805194805"/>
+      <point x="187.0" y="-326.3636363636364"/>
+      <point x="228.0" y="-326.3636363636364" type="qcurve" smooth="yes"/>
+      <point x="274.3166620613429" y="-326.3636363636364"/>
+      <point x="339.8723404255319" y="-264.38491295938104"/>
+      <point x="339.8723404255319" y="-165.0" type="qcurve"/>
+      <point x="339.8723404255319" y="-60.0"/>
+      <point x="339.8723404255319" y="45.0"/>
+      <point x="339.8723404255319" y="150.0" type="qcurve"/>
+    </contour>
+  </outline>
+</glyph>

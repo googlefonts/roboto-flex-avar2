@@ -1,0 +1,88 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="coloncurrency" format="2">
+  <advance width="1168.03738317757"/>
+  <unicode hex="20A1"/>
+  <guideline y="1570.0" identifier="0DwZ2nfhdf"/>
+  <outline>
+    <contour>
+      <point x="85.0" y="612.0" type="qcurve" smooth="yes"/>
+      <point x="85.0" y="844.018691588785" type="line" smooth="yes"/>
+      <point x="85.0" y="1154.018691588785"/>
+      <point x="390.66355140186914" y="1486.0"/>
+      <point x="628.4953271028037" y="1486.0" type="qcurve" smooth="yes"/>
+      <point x="867.3084112149533" y="1486.0"/>
+      <point x="1137.03738317757" y="1233.0"/>
+      <point x="1137.03738317757" y="1040.0" type="qcurve" smooth="yes"/>
+      <point x="1137.03738317757" y="990.0" type="line"/>
+      <point x="948.4953271028037" y="990.0" type="line"/>
+      <point x="948.4953271028037" y="1041.0" type="line" smooth="yes"/>
+      <point x="948.4953271028037" y="1161.0"/>
+      <point x="791.4953271028037" y="1332.0"/>
+      <point x="628.4953271028037" y="1332.0" type="qcurve" smooth="yes"/>
+      <point x="466.49532710280374" y="1332.0"/>
+      <point x="278.49532710280374" y="1085.0"/>
+      <point x="278.49532710280374" y="844.0" type="qcurve" smooth="yes"/>
+      <point x="278.49532710280374" y="592.0" type="line" smooth="yes"/>
+      <point x="278.49532710280374" y="369.0"/>
+      <point x="476.49532710280374" y="114.0"/>
+      <point x="638.4953271028037" y="114.0" type="qcurve" smooth="yes"/>
+      <point x="801.4953271028037" y="114.0"/>
+      <point x="953.5514018691589" y="291.01869158878503"/>
+      <point x="953.5140186915888" y="412.0" type="qcurve" smooth="yes"/>
+      <point x="953.5140186915888" y="466.0" type="line"/>
+      <point x="1147.03738317757" y="466.0" type="line"/>
+      <point x="1147.03738317757" y="426.0" type="line" smooth="yes"/>
+      <point x="1147.03738317757" y="241.0"/>
+      <point x="878.2616822429907" y="-30.0"/>
+      <point x="638.4953271028037" y="-30.0" type="qcurve" smooth="yes"/>
+      <point x="394.803738317757" y="-30.0"/>
+      <point x="85.0" y="308.0"/>
+    </contour>
+    <contour>
+      <point x="565.5327102803739" y="720.1682242990654" type="line"/>
+      <point x="469.49532710280374" y="45.0" type="line"/>
+      <point x="475.49532710280374" y="18.0" type="line"/>
+      <point x="455.49532710280374" y="-125.0" type="line"/>
+      <point x="296.49532710280374" y="-125.0" type="line"/>
+      <point x="328.49532710280374" y="101.0" type="line"/>
+      <point x="342.49532710280374" y="127.0" type="line"/>
+      <point x="430.5327102803738" y="741.2429906542056" type="line"/>
+    </contour>
+    <contour>
+      <point x="697.4953271028037" y="1570.0" type="line"/>
+      <point x="676.4953271028037" y="1426.0" type="line"/>
+      <point x="663.4953271028037" y="1405.0" type="line"/>
+      <point x="565.5327102803739" y="720.1682242990654" type="line"/>
+      <point x="430.5327102803738" y="741.2429906542056" type="line"/>
+      <point x="525.4953271028037" y="1407.0" type="line"/>
+      <point x="518.4953271028037" y="1430.0" type="line"/>
+      <point x="539.4953271028037" y="1570.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="830.4579439252336" y="673.7943925233645" type="line"/>
+      <point x="741.4953271028037" y="40.0" type="line"/>
+      <point x="747.4953271028037" y="15.0" type="line"/>
+      <point x="727.4953271028037" y="-125.0" type="line"/>
+      <point x="568.4953271028037" y="-125.0" type="line"/>
+      <point x="587.4953271028037" y="12.0" type="line"/>
+      <point x="601.4953271028037" y="38.0" type="line"/>
+      <point x="695.4766355140187" y="695.9065420560747" type="line"/>
+    </contour>
+    <contour>
+      <point x="969.4953271028037" y="1570.0" type="line"/>
+      <point x="937.4953271028037" y="1374.0" type="line"/>
+      <point x="924.4953271028037" y="1351.0" type="line"/>
+      <point x="830.4579439252336" y="673.7943925233645" type="line"/>
+      <point x="695.4766355140187" y="695.9065420560747" type="line"/>
+      <point x="797.4953271028037" y="1411.0" type="line"/>
+      <point x="790.4953271028037" y="1431.0" type="line"/>
+      <point x="811.4953271028037" y="1570.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.guideline.magnetic.0DwZ2nfhdf</key>
+      <integer>5</integer>
+    </dict>
+  </lib>
+</glyph>

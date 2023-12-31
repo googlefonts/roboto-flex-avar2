@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Yumacron" format="2">
+  <advance width="1784.563829787234"/>
+  <unicode hex="F52C"/>
+  <outline>
+    <component base="I"/>
+    <component base="Yu-dash.case" xOffset="223.04255319148936"/>
+    <component base="O" xOffset="519.5212765957447"/>
+    <component base="macroncomb.case" xOffset="635.3202127658947"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0,0,1,0.5</string>
+    </dict>
+  </lib>
+</glyph>

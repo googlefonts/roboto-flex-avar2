@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ordmasculine" format="2">
+  <advance width="946.9906542056075"/>
+  <unicode hex="00BA"/>
+  <guideline y="1975.0" identifier="Jnt0R9CyOf"/>
+  <outline>
+    <contour>
+      <point x="124.2803738317757" y="1043.5981308411215" type="qcurve"/>
+      <point x="124.2803738317757" y="1123.4018691588785" type="line"/>
+      <point x="124.2803738317757" y="1277.6635514018692"/>
+      <point x="313.2429906542056" y="1477.0"/>
+      <point x="473.6261682242991" y="1477.0" type="qcurve" smooth="yes"/>
+      <point x="635.0280373831775" y="1477.0"/>
+      <point x="822.9906542056075" y="1277.6635514018692"/>
+      <point x="822.9906542056075" y="1123.4018691588785" type="qcurve"/>
+      <point x="822.9906542056075" y="1043.5981308411215" type="line"/>
+      <point x="822.9906542056075" y="889.3364485981308"/>
+      <point x="636.0654205607476" y="691.0"/>
+      <point x="475.66355140186914" y="691.0" type="qcurve" smooth="yes"/>
+      <point x="314.2803738317757" y="691.0"/>
+      <point x="124.2803738317757" y="889.3364485981308"/>
+    </contour>
+    <contour>
+      <point x="294.6261682242991" y="1124.0" type="qcurve"/>
+      <point x="294.6261682242991" y="1043.0" type="line"/>
+      <point x="294.6261682242991" y="952.0"/>
+      <point x="383.6261682242991" y="830.0"/>
+      <point x="475.6261682242991" y="830.0" type="qcurve" smooth="yes"/>
+      <point x="564.626168224299" y="830.0"/>
+      <point x="653.626168224299" y="952.0"/>
+      <point x="653.626168224299" y="1043.0" type="qcurve"/>
+      <point x="653.626168224299" y="1124.0" type="line"/>
+      <point x="653.626168224299" y="1213.0"/>
+      <point x="563.626168224299" y="1336.0"/>
+      <point x="473.6261682242991" y="1336.0" type="qcurve" smooth="yes"/>
+      <point x="383.6261682242991" y="1336.0"/>
+      <point x="294.6261682242991" y="1213.0"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.guideline.magnetic.Jnt0R9CyOf</key>
+      <integer>5</integer>
+    </dict>
+  </lib>
+</glyph>

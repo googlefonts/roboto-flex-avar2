@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Gamma" format="2">
+  <advance width="1302.8691588785045"/>
+  <unicode hex="0393"/>
+  <anchor x="749.7289719626168" y="1456.0" name="top"/>
+  <anchor x="448.31775700934577" y="708.0" name="center"/>
+  <outline>
+    <contour>
+      <point x="170.0" y="0.0" type="line"/>
+      <point x="170.0" y="1456.0" type="line"/>
+      <point x="1277.8691588785045" y="1456.0" type="line"/>
+      <point x="1277.8691588785045" y="1298.0" type="line"/>
+      <point x="590.5327102803737" y="1298.0" type="line"/>
+      <point x="590.5327102803737" y="0.0" type="line"/>
+    </contour>
+  </outline>
+</glyph>

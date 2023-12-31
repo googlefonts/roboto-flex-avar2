@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Ldot" format="2">
+  <advance width="1345.1869158878503"/>
+  <unicode hex="013F"/>
+  <outline>
+    <component base="L"/>
+    <component base="dotaccentcomb.case" xOffset="1030.467289719626" yOffset="-1016.9766355140187"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0,0,1,0.5</string>
+    </dict>
+  </lib>
+</glyph>
