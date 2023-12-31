@@ -35,7 +35,6 @@
         <dimension name="XTTW" xvalue="5"/>
       </location>
     </source>
-    
     <source filename="RobotoAvar2-wght400-SQRD1.ufo" familyname="RobotoAvar2" stylename="wght400-SQRD1">
       <location>
         <dimension name="slnt" xvalue="0"/>
@@ -144,7 +143,7 @@
         <dimension name="XTTW" xvalue="5"/>
       </location>
     </source>
-    <source filename="RobotoAvar2-slnt-3-SQRD1-XTRA244.ufo" familyname="RobotoAvar2" stylename="slnt-3-SQRD1-XTRA244">
+    <source filename="RobotoAvar2-slnt-3-SQRD1-XTRA244.ufo" familyname="RobotoAvar2" stylename="slnt-3-SQRD1-XTRA244" layer="public.default">
       <location>
         <dimension name="slnt" xvalue="-3"/>
         <dimension name="SQRD" xvalue="1"/>
@@ -162,7 +161,7 @@
         <dimension name="XTTW" xvalue="5"/>
       </location>
     </source>
-    <source filename="RobotoAvar2-slnt-3-SQRD1-XTRA244.ufo" familyname="RobotoAvar2" stylename="slnt-3-SQRD0-XTRA244">
+    <source filename="RobotoAvar2-slnt-3-SQRD1-XTRA244.ufo" familyname="RobotoAvar2" stylename="slnt-3-SQRD0-XTRA244" layer="public.default">
       <location>
         <dimension name="slnt" xvalue="-3"/>
         <dimension name="SQRD" xvalue="0"/>
@@ -180,7 +179,6 @@
         <dimension name="XTTW" xvalue="5"/>
       </location>
     </source>
-    
     <source filename="RobotoAvar2-slnt-3.ufo" familyname="RobotoAvar2" stylename="slnt-3">
       <location>
         <dimension name="slnt" xvalue="-3"/>
@@ -648,4 +646,158 @@
       </location>
     </source>
   </sources>
+  <instances>
+    <instance familyname="RobotoAvar2" stylename="Regular">
+      <location>
+        <dimension name="slnt" xvalue="0"/>
+        <dimension name="SQRD" xvalue="0"/>
+        <dimension name="XOPQ" xvalue="96"/>
+        <dimension name="XTRA" xvalue="463"/>
+        <dimension name="XTSP" xvalue="0"/>
+        <dimension name="YOPQ" xvalue="79"/>
+        <dimension name="YTAS" xvalue="768"/>
+        <dimension name="YTDE" xvalue="-208"/>
+        <dimension name="YTFI" xvalue="743"/>
+        <dimension name="YTLC" xvalue="526"/>
+        <dimension name="YTOS" xvalue="30"/>
+        <dimension name="YTUC" xvalue="728"/>
+        <dimension name="YTTL" xvalue="25"/>
+        <dimension name="XTTW" xvalue="5"/>
+      </location>
+    </instance>
+    <instance familyname="RobotoAvar2" stylename="wght100">
+      <location>
+        <dimension name="slnt" xvalue="0"/>
+        <dimension name="SQRD" xvalue="0"/>
+        <dimension name="XOPQ" xvalue="47"/>
+        <dimension name="XTRA" xvalue="534"/>
+        <dimension name="XTSP" xvalue="0"/>
+        <dimension name="YOPQ" xvalue="44"/>
+        <dimension name="YTAS" xvalue="768"/>
+        <dimension name="YTDE" xvalue="-208"/>
+        <dimension name="YTFI" xvalue="743"/>
+        <dimension name="YTLC" xvalue="526"/>
+        <dimension name="YTOS" xvalue="30"/>
+        <dimension name="YTUC" xvalue="728"/>
+        <dimension name="YTTL" xvalue="25"/>
+        <dimension name="XTTW" xvalue="5"/>
+      </location>
+    </instance>
+    <instance familyname="RobotoAvar2" stylename="wght1000">
+      <location>
+        <dimension name="slnt" xvalue="0"/>
+        <dimension name="SQRD" xvalue="0"/>
+        <dimension name="XOPQ" xvalue="210"/>
+        <dimension name="XTRA" xvalue="360"/>
+        <dimension name="XTSP" xvalue="0"/>
+        <dimension name="YOPQ" xvalue="100"/>
+        <dimension name="YTAS" xvalue="768"/>
+        <dimension name="YTDE" xvalue="-208"/>
+        <dimension name="YTFI" xvalue="743"/>
+        <dimension name="YTLC" xvalue="526"/>
+        <dimension name="YTOS" xvalue="30"/>
+        <dimension name="YTUC" xvalue="728"/>
+        <dimension name="YTTL" xvalue="25"/>
+        <dimension name="XTTW" xvalue="5"/>
+      </location>
+    </instance>
+    <instance familyname="RobotoAvar2" stylename="wdth25">
+      <location>
+        <dimension name="slnt" xvalue="0"/>
+        <dimension name="SQRD" xvalue="0"/>
+        <dimension name="XOPQ" xvalue="92"/>
+        <dimension name="XTRA" xvalue="414"/>
+        <dimension name="XTSP" xvalue="0"/>
+        <dimension name="YOPQ" xvalue="78"/>
+        <dimension name="YTAS" xvalue="768"/>
+        <dimension name="YTDE" xvalue="-208"/>
+        <dimension name="YTFI" xvalue="743"/>
+        <dimension name="YTLC" xvalue="526"/>
+        <dimension name="YTOS" xvalue="30"/>
+        <dimension name="YTUC" xvalue="728"/>
+        <dimension name="YTTL" xvalue="25"/>
+        <dimension name="XTTW" xvalue="5"/>
+      </location>
+    </instance>
+    <instance familyname="RobotoAvar2" stylename="wdth151">
+      <location>
+        <dimension name="slnt" xvalue="0"/>
+        <dimension name="SQRD" xvalue="0"/>
+        <dimension name="XOPQ" xvalue="100"/>
+        <dimension name="XTRA" xvalue="534"/>
+        <dimension name="XTSP" xvalue="0"/>
+        <dimension name="YOPQ" xvalue="80"/>
+        <dimension name="YTAS" xvalue="768"/>
+        <dimension name="YTDE" xvalue="-208"/>
+        <dimension name="YTFI" xvalue="743"/>
+        <dimension name="YTLC" xvalue="526"/>
+        <dimension name="YTOS" xvalue="30"/>
+        <dimension name="YTUC" xvalue="728"/>
+        <dimension name="YTTL" xvalue="25"/>
+        <dimension name="XTTW" xvalue="5"/>
+      </location>
+    </instance>
+  </instances>
+  <lib>
+    <dict>
+      <key>com.letterror.mathModelPref</key>
+      <string>previewVarLib</string>
+      <key>com.letterror.skateboard.interactionSources</key>
+      <dict>
+        <key>horizontal</key>
+        <array>
+          <string>XOPQ</string>
+        </array>
+        <key>ignore</key>
+        <array>
+          <string>slnt</string>
+          <string>SQRD</string>
+          <string>XTRA</string>
+          <string>XTSP</string>
+          <string>YOPQ</string>
+          <string>YTAS</string>
+          <string>YTDE</string>
+          <string>YTFI</string>
+          <string>YTLC</string>
+          <string>YTOS</string>
+          <string>YTUC</string>
+          <string>YTTL</string>
+          <string>XTTW</string>
+        </array>
+      </dict>
+      <key>com.letterror.skateboard.previewLocation</key>
+      <dict>
+        <key>SQRD</key>
+        <real>0.0</real>
+        <key>XOPQ</key>
+        <real>96.0</real>
+        <key>XTRA</key>
+        <real>463.0</real>
+        <key>XTSP</key>
+        <real>0.0</real>
+        <key>XTTW</key>
+        <real>5.0</real>
+        <key>YOPQ</key>
+        <real>79.0</real>
+        <key>YTAS</key>
+        <real>768.0</real>
+        <key>YTDE</key>
+        <real>-208.0</real>
+        <key>YTFI</key>
+        <real>743.0</real>
+        <key>YTLC</key>
+        <real>526.0</real>
+        <key>YTOS</key>
+        <real>30.0</real>
+        <key>YTTL</key>
+        <real>25.0</real>
+        <key>YTUC</key>
+        <real>728.0</real>
+        <key>slnt</key>
+        <real>0.0</real>
+      </dict>
+      <key>com.letterror.skateboard.previewText</key>
+      <string>SKATEBOARD</string>
+    </dict>
+  </lib>
 </designspace>
