@@ -156,7 +156,7 @@
     <key>P</key>
     <dict>
       <key>X</key>
-      <integer>-31</integer>
+      <real>-30.999999999999996</real>
       <key>ampersand</key>
       <integer>-20</integer>
       <key>asterisk</key>
@@ -292,7 +292,7 @@
       <key>public.kern2.emdash</key>
       <integer>-50</integer>
       <key>public.kern2.gamma</key>
-      <integer>-31</integer>
+      <real>-30.999999999999996</real>
       <key>public.kern2.o_LC</key>
       <integer>-21</integer>
       <key>public.kern2.u_LC</key>
@@ -695,7 +695,7 @@
       <key>public.kern2.z_LC</key>
       <integer>12</integer>
       <key>question</key>
-      <integer>-61</integer>
+      <real>-60.99999999999999</real>
       <key>slash</key>
       <integer>120</integer>
     </dict>
@@ -803,7 +803,7 @@
       <key>backslash</key>
       <integer>120</integer>
       <key>public.kern2.CG_UC</key>
-      <integer>-31</integer>
+      <real>-30.999999999999996</real>
       <key>public.kern2.alpha</key>
       <integer>-26</integer>
       <key>public.kern2.comma</key>
@@ -932,7 +932,7 @@
       <key>public.kern2.emdash</key>
       <integer>-190</integer>
       <key>public.kern2.gamma</key>
-      <integer>-122</integer>
+      <real>-121.99999999999999</real>
       <key>public.kern2.guillemotleft</key>
       <integer>-328</integer>
       <key>public.kern2.guillemotright</key>
@@ -973,7 +973,7 @@
       <key>public.kern2.a_LC</key>
       <integer>-33</integer>
       <key>public.kern2.alpha</key>
-      <integer>-31</integer>
+      <real>-30.999999999999996</real>
       <key>public.kern2.colon</key>
       <integer>-40</integer>
       <key>public.kern2.comma</key>
@@ -985,7 +985,7 @@
       <key>public.kern2.mnpr_LC</key>
       <integer>-21</integer>
       <key>public.kern2.o_LC</key>
-      <integer>-31</integer>
+      <real>-30.999999999999996</real>
       <key>public.kern2.parens</key>
       <integer>12</integer>
       <key>public.kern2.u_LC</key>
@@ -1212,7 +1212,7 @@
       <key>public.kern2.u_LC</key>
       <integer>-30</integer>
       <key>public.kern2.w_LC</key>
-      <integer>-124</integer>
+      <real>-123.99999999999999</real>
       <key>x</key>
       <integer>30</integer>
     </dict>
@@ -1524,7 +1524,7 @@
       <key>asterisk</key>
       <integer>60</integer>
       <key>public.kern2.comma</key>
-      <integer>-124</integer>
+      <real>-123.99999999999999</real>
       <key>public.kern2.emdash</key>
       <integer>20</integer>
       <key>public.kern2.minute</key>

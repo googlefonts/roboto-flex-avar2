@@ -1,26 +1,26 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="horncomb.case" format="2">
   <anchor x="0.0" y="1456.0" name="_topright"/>
-  <anchor x="0.0" y="1694.5607476635514" name="topright"/>
+  <anchor x="0.0" y="1694.5607476635516" name="topright"/>
   <outline>
     <contour>
       <point x="0.0" y="1456.0" type="line"/>
       <point x="84.0" y="1456.0" type="line" smooth="yes"/>
       <point x="132.0" y="1456.0"/>
-      <point x="203.4392523364486" y="1490.0"/>
-      <point x="203.4392523364486" y="1542.0" type="qcurve" smooth="yes"/>
-      <point x="203.4392523364486" y="1588.0"/>
+      <point x="203.43925233644862" y="1490.0000000000002"/>
+      <point x="203.43925233644862" y="1542.0000000000002" type="qcurve" smooth="yes"/>
+      <point x="203.43925233644862" y="1588.0"/>
       <point x="190.02803738317758" y="1658.5981308411215"/>
-      <point x="179.9158878504673" y="1694.5607476635514" type="qcurve"/>
-      <point x="328.86915887850466" y="1694.5607476635514" type="line"/>
-      <point x="348.86915887850466" y="1661.5607476635514"/>
-      <point x="382.2429906542056" y="1561.0"/>
-      <point x="382.2429906542056" y="1497.0" type="qcurve" smooth="yes"/>
-      <point x="382.2429906542056" y="1409.0"/>
+      <point x="179.91588785046733" y="1694.5607476635516" type="qcurve"/>
+      <point x="328.86915887850466" y="1694.5607476635516" type="line"/>
+      <point x="348.86915887850466" y="1661.5607476635516"/>
+      <point x="382.24299065420564" y="1561.0"/>
+      <point x="382.24299065420564" y="1497.0000000000002" type="qcurve" smooth="yes"/>
+      <point x="382.24299065420564" y="1409.0000000000002"/>
       <point x="241.9626168224299" y="1324.0"/>
-      <point x="145.4018691588785" y="1324.0" type="qcurve" smooth="yes"/>
+      <point x="145.40186915887853" y="1324.0" type="qcurve" smooth="yes"/>
       <point x="98.0" y="1324.0"/>
-      <point x="26.0" y="1336.0"/>
+      <point x="26.000000000000004" y="1336.0"/>
       <point x="0.0" y="1345.0" type="qcurve"/>
     </contour>
   </outline>

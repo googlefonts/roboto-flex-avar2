@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Zhe" format="2">
-  <advance width="1685.7446808510638"/>
+  <advance width="1685.7446808510635"/>
   <unicode hex="0416"/>
   <anchor x="842.0" y="1456.0" name="top"/>
   <anchor x="1487.0425531914893" y="0.0" name="cy_descender"/>
@@ -8,27 +8,27 @@
     <contour>
       <point x="794.9574468085107" y="0.0" type="line"/>
       <point x="794.9574468085107" y="1456.0" type="line"/>
-      <point x="888.6063829787234" y="1456.0" type="line"/>
-      <point x="888.6063829787234" y="0.0" type="line"/>
+      <point x="888.6063829787233" y="1456.0" type="line"/>
+      <point x="888.6063829787233" y="0.0" type="line"/>
     </contour>
     <contour>
       <point x="1485.0425531914893" y="0.0" type="line"/>
-      <point x="919.3152804642166" y="777.7272727272727" type="line"/>
-      <point x="1027.723404255319" y="780.7765957446809" type="line"/>
-      <point x="1597.840425531915" y="0.0" type="line"/>
+      <point x="919.3152804642166" y="777.7272727272726" type="line"/>
+      <point x="1027.723404255319" y="780.7765957446808" type="line"/>
+      <point x="1597.8404255319147" y="0.0" type="line"/>
     </contour>
     <contour>
       <point x="841.0" y="830.0" type="line"/>
       <point x="1045.9516441005803" y="830.0" type="line"/>
       <point x="1509.3152804642166" y="1456.0" type="line"/>
       <point x="1630.860735009671" y="1456.0" type="line"/>
-      <point x="1092.678916827853" y="741.1818181818181" type="line"/>
+      <point x="1092.6789168278528" y="741.1818181818181" type="line"/>
       <point x="841.0" y="741.1818181818181" type="line"/>
     </contour>
     <contour>
-      <point x="89.46808510638299" y="0.0" type="line"/>
-      <point x="660.1063829787234" y="780.7765957446809" type="line"/>
-      <point x="764.2301740812379" y="777.7272727272727" type="line"/>
+      <point x="89.46808510638297" y="0.0" type="line"/>
+      <point x="660.1063829787233" y="780.7765957446808" type="line"/>
+      <point x="764.2301740812378" y="777.7272727272726" type="line"/>
       <point x="198.95744680851064" y="0.0" type="line"/>
     </contour>
     <contour>
@@ -36,7 +36,7 @@
       <point x="841.0" y="741.1818181818181" type="line"/>
       <point x="592.2301740812379" y="741.1818181818181" type="line"/>
       <point x="54.59381044487427" y="1456.0" type="line"/>
-      <point x="177.23017408123792" y="1456.0" type="line"/>
+      <point x="177.2301740812379" y="1456.0" type="line"/>
       <point x="640.5938104448743" y="830.0" type="line"/>
     </contour>
   </outline>

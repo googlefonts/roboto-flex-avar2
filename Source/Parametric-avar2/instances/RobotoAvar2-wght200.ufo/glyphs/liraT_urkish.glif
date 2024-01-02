@@ -1,12 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="liraTurkish" format="2">
-  <advance width="839.468085106383"/>
+  <advance width="839.4680851063829"/>
   <unicode hex="20BA"/>
   <outline>
     <contour>
       <point x="6.0" y="371.27272727272725" type="line"/>
-      <point x="6.0" y="466.0909090909091" type="line"/>
-      <point x="741.3191489361702" y="791.3452611218569" type="line"/>
+      <point x="6.0" y="466.090909090909" type="line"/>
+      <point x="741.3191489361702" y="791.3452611218568" type="line"/>
       <point x="735.3191489361702" y="695.7088974854933" type="line"/>
     </contour>
     <contour>
@@ -16,19 +16,19 @@
       <point x="270.77659574468083" y="86.63636363636364" type="line"/>
       <point x="346.2127659574468" y="86.63636363636364" type="line" smooth="yes"/>
       <point x="554.2127659574468" y="86.63636363636364"/>
-      <point x="744.1276595744681" y="363.52127659574467"/>
+      <point x="744.127659574468" y="363.52127659574467"/>
       <point x="742.2127659574468" y="521.0" type="qcurve" smooth="yes"/>
       <point x="742.2127659574468" y="558.0" type="line"/>
-      <point x="830.468085106383" y="558.0" type="line"/>
-      <point x="830.468085106383" y="523.0" type="line" smooth="yes"/>
-      <point x="830.468085106383" y="271.93617021276594"/>
+      <point x="830.4680851063829" y="558.0" type="line"/>
+      <point x="830.4680851063829" y="523.0" type="line" smooth="yes"/>
+      <point x="830.4680851063829" y="271.93617021276594"/>
       <point x="589.3829787234042" y="0.0"/>
-      <point x="350.3936170212766" y="0.0" type="qcurve" smooth="yes"/>
+      <point x="350.39361702127655" y="0.0" type="qcurve" smooth="yes"/>
     </contour>
     <contour>
       <point x="6.0" y="731.2727272727273" type="line"/>
-      <point x="6.0" y="826.0909090909091" type="line"/>
-      <point x="741.3191489361702" y="1151.345261121857" type="line"/>
+      <point x="6.0" y="826.090909090909" type="line"/>
+      <point x="741.3191489361702" y="1151.3452611218568" type="line"/>
       <point x="735.3191489361702" y="1055.7088974854933" type="line"/>
     </contour>
   </outline>

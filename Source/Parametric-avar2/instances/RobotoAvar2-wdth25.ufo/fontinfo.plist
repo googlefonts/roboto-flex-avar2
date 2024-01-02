@@ -3,13 +3,13 @@
 <plist version="1.0">
   <dict>
     <key>ascender</key>
-    <integer>1536</integer>
+    <real>1536.0000000000002</real>
     <key>capHeight</key>
-    <integer>1456</integer>
+    <real>1456.0000000000002</real>
     <key>copyright</key>
     <string>Copyright 2017 The Roboto Flex Project Authors (https://github.com/TypeNetwork/Roboto-Flex)</string>
     <key>descender</key>
-    <integer>-416</integer>
+    <real>-416.00000000000006</real>
     <key>familyName</key>
     <string>RobotoAvar2</string>
     <key>italicAngle</key>
@@ -139,19 +139,19 @@
     <key>postscriptBlueFuzz</key>
     <integer>1</integer>
     <key>postscriptBlueScale</key>
-    <real>0.039625</real>
+    <real>0.03962500000000001</real>
     <key>postscriptBlueShift</key>
-    <integer>7</integer>
+    <real>7.000000000000002</real>
     <key>postscriptBlueValues</key>
     <array>
       <integer>-30</integer>
       <integer>0</integer>
-      <integer>1052</integer>
-      <integer>1082</integer>
-      <integer>1456</integer>
+      <real>1052.0000000000002</real>
+      <real>1082.0000000000002</real>
+      <real>1456.0000000000002</real>
       <integer>1486</integer>
-      <integer>1536</integer>
-      <integer>1566</integer>
+      <real>1536.0000000000002</real>
+      <real>1566.0000000000002</real>
     </array>
     <key>postscriptDefaultCharacter</key>
     <string>space</string>
@@ -165,21 +165,21 @@
     <false/>
     <key>postscriptOtherBlues</key>
     <array>
-      <integer>-446</integer>
-      <integer>-416</integer>
+      <real>-446.0000000000001</real>
+      <real>-416.00000000000006</real>
     </array>
     <key>postscriptStemSnapH</key>
     <array>
-      <integer>154</integer>
+      <real>154.00000000000003</real>
     </array>
     <key>postscriptStemSnapV</key>
     <array>
       <integer>196</integer>
     </array>
     <key>postscriptUnderlinePosition</key>
-    <integer>-183</integer>
+    <real>-183.00000000000003</real>
     <key>postscriptUnderlineThickness</key>
-    <integer>166</integer>
+    <real>166.00000000000003</real>
     <key>postscriptWeightName</key>
     <string>Normal</string>
     <key>styleName</key>
@@ -193,6 +193,6 @@
     <key>versionMinor</key>
     <integer>0</integer>
     <key>xHeight</key>
-    <integer>1052</integer>
+    <real>1052.0000000000002</real>
   </dict>
 </plist>

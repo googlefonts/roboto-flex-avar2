@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Ocircumflextilde" format="2">
-  <advance width="1444.0851063829787"/>
+  <advance width="1423.0851063829787"/>
   <unicode hex="1ED6"/>
   <outline>
     <component base="O"/>
-    <component base="circumflexcomb-stack.case" xOffset="722.0425531914893"/>
-    <component base="tildecomb-stack.case" xOffset="722.0425531914893" yOffset="406.0"/>
+    <component base="circumflexcomb-stack.case" xOffset="711.5425531914893"/>
+    <component base="tildecomb-stack.case" xOffset="711.5425531914893" yOffset="406.00000000000006"/>
   </outline>
   <lib>
     <dict>

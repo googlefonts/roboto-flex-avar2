@@ -1,17 +1,17 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="circumflexcomb-stack" format="2">
-  <anchor x="0.0" y="1461.0" name="top"/>
-  <anchor x="0.0" y="1053.0" name="_top"/>
-  <anchor x="382.0" y="1220.0" name="topright"/>
+  <anchor x="0.0" y="1461.0000000000002" name="top"/>
+  <anchor x="0.0" y="1053.0000000000002" name="_top"/>
+  <anchor x="382.00000000000006" y="1220.0000000000002" name="topright"/>
   <outline>
     <contour>
-      <point x="64.31914893617021" y="1510.0" type="line"/>
-      <point x="332.0" y="1220.0" type="line"/>
-      <point x="167.0" y="1220.0" type="line"/>
-      <point x="0.0" y="1363.340425531915" type="line"/>
-      <point x="-167.0" y="1220.0" type="line"/>
-      <point x="-334.0" y="1220.0" type="line"/>
-      <point x="-73.93617021276596" y="1510.0" type="line"/>
+      <point x="64.31914893617022" y="1510.0" type="line"/>
+      <point x="332.00000000000006" y="1220.0000000000002" type="line"/>
+      <point x="167.0" y="1220.0000000000002" type="line"/>
+      <point x="0.0" y="1363.3404255319151" type="line"/>
+      <point x="-167.0" y="1220.0000000000002" type="line"/>
+      <point x="-334.0" y="1220.0000000000002" type="line"/>
+      <point x="-73.93617021276597" y="1510.0" type="line"/>
     </contour>
   </outline>
 </glyph>

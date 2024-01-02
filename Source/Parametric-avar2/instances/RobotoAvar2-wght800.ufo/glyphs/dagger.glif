@@ -1,27 +1,27 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="dagger" format="2">
-  <advance width="1221.6168224299065"/>
+  <advance width="1195.6168224299065"/>
   <unicode hex="2020"/>
   <outline>
     <contour>
-      <point x="75.0" y="852.0" type="line"/>
-      <point x="75.0" y="1025.0" type="line"/>
-      <point x="1146.0841121495328" y="1025.0" type="line"/>
-      <point x="1146.0841121495328" y="852.0" type="line"/>
+      <point x="62.0" y="852.0" type="line"/>
+      <point x="62.0" y="1025.0" type="line"/>
+      <point x="1133.0841121495328" y="1025.0" type="line"/>
+      <point x="1133.0841121495328" y="852.0" type="line"/>
     </contour>
     <contour>
-      <point x="404.0" y="8.0" type="line"/>
-      <point x="425.0" y="748.0" type="line"/>
-      <point x="425.0" y="905.0" type="line"/>
-      <point x="408.0" y="1508.0" type="line"/>
-      <point x="812.0841121495328" y="1508.0" type="line"/>
-      <point x="795.0841121495328" y="905.0" type="line"/>
-      <point x="795.0841121495328" y="748.0" type="line"/>
-      <point x="816.0841121495328" y="8.0" type="line"/>
-      <point x="812.0841121495328" y="-156.80373831775702" type="line"/>
-      <point x="633.607476635514" y="-411.803738317757"/>
-      <point x="570.4299065420561" y="-412.2710280373832"/>
-      <point x="408.0" y="-156.80373831775702" type="qcurve"/>
+      <point x="391.0" y="8.0" type="line"/>
+      <point x="412.0" y="748.0" type="line"/>
+      <point x="412.0" y="905.0" type="line"/>
+      <point x="395.0" y="1508.0000000000002" type="line"/>
+      <point x="799.0841121495326" y="1508.0000000000002" type="line"/>
+      <point x="782.0841121495328" y="905.0" type="line"/>
+      <point x="782.0841121495328" y="748.0" type="line"/>
+      <point x="803.0841121495328" y="8.0" type="line"/>
+      <point x="799.0841121495326" y="-156.80373831775702" type="line"/>
+      <point x="620.607476635514" y="-411.80373831775705"/>
+      <point x="557.429906542056" y="-412.2710280373832"/>
+      <point x="395.0" y="-156.80373831775702" type="qcurve"/>
     </contour>
   </outline>
 </glyph>

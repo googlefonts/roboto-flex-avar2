@@ -1,17 +1,17 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Gamma" format="2">
-  <advance width="1069.127659574468"/>
+  <advance width="1051.6276595744685"/>
   <unicode hex="0393"/>
-  <anchor x="627.4893617021277" y="1456.0" name="top"/>
-  <anchor x="314.74468085106383" y="708.0" name="center"/>
+  <anchor x="611.4893617021278" y="1456.0000000000002" name="top"/>
+  <anchor x="298.7446808510639" y="708.0" name="center"/>
   <outline>
     <contour>
-      <point x="170.0" y="0.0" type="line"/>
-      <point x="170.0" y="1456.0" type="line"/>
-      <point x="1044.127659574468" y="1456.0" type="line"/>
-      <point x="1044.127659574468" y="1299.9610389610389" type="line"/>
-      <point x="354.1276595744681" y="1299.9610389610389" type="line"/>
-      <point x="354.1276595744681" y="0.0" type="line"/>
+      <point x="154.00000000000003" y="0.0" type="line"/>
+      <point x="154.00000000000003" y="1456.0000000000002" type="line"/>
+      <point x="1028.1276595744682" y="1456.0000000000002" type="line"/>
+      <point x="1028.1276595744682" y="1299.9610389610389" type="line"/>
+      <point x="338.1276595744681" y="1299.9610389610389" type="line"/>
+      <point x="338.1276595744681" y="0.0" type="line"/>
     </contour>
   </outline>
 </glyph>

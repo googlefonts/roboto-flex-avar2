@@ -1,27 +1,27 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="k" format="2">
-  <advance width="921.6513164286409"/>
+  <advance width="910.4513164286411"/>
   <unicode hex="006B"/>
-  <anchor x="511.1489361702128" y="0.0" name="bottom"/>
-  <anchor x="511.1489361702128" y="1536.0" name="top"/>
+  <anchor x="497.3489361702129" y="0.0" name="bottom"/>
+  <anchor x="497.3489361702129" y="1536.0000000000002" name="top"/>
   <outline>
     <contour>
-      <point x="148.0" y="0.0" type="line"/>
-      <point x="148.0" y="1536.0" type="line"/>
-      <point x="326.3829787234043" y="1536.0" type="line"/>
-      <point x="326.3829787234043" y="0.0" type="line"/>
+      <point x="134.20000000000002" y="0.0" type="line"/>
+      <point x="134.20000000000002" y="1536.0000000000002" type="line"/>
+      <point x="312.58297872340427" y="1536.0000000000002" type="line"/>
+      <point x="312.58297872340427" y="0.0" type="line"/>
     </contour>
     <contour>
-      <point x="728.5449334499174" y="0.0" type="line"/>
-      <point x="377.1487734067157" y="548.9917104172423" type="line"/>
-      <point x="488.43835616438355" y="671.6891406465875" type="line"/>
-      <point x="937.6513164286407" y="0.0" type="line"/>
+      <point x="714.7449334499174" y="0.0" type="line"/>
+      <point x="363.34877340671574" y="548.9917104172424" type="line"/>
+      <point x="474.63835616438365" y="671.6891406465876" type="line"/>
+      <point x="923.851316428641" y="0.0" type="line"/>
     </contour>
     <contour>
-      <point x="237.25531914893617" y="265.74081237911025" type="line"/>
-      <point x="237.25531914893617" y="481.0265266648246" type="line"/>
-      <point x="687.8702232383374" y="1052.0" type="line"/>
-      <point x="896.2468466149609" y="1052.0" type="line"/>
+      <point x="223.4553191489362" y="265.74081237911025" type="line"/>
+      <point x="223.4553191489362" y="481.0265266648246" type="line"/>
+      <point x="674.0702232383377" y="1052.0000000000002" type="line"/>
+      <point x="882.4468466149609" y="1052.0000000000002" type="line"/>
     </contour>
   </outline>
 </glyph>
