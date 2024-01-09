@@ -1,6 +1,8 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <designspace format="5.0">
   <axes>
+    <axis tag="wght" name="Weight" minimum="200" maximum="800" default="400"/>
+    <axis tag="wdth" name="Width" minimum="25" maximum="151" default="100"/>
     <axis tag="slnt" name="slnt" minimum="-3" maximum="13" default="0"/>
     <axis tag="SQRD" name="SQRD" minimum="0" maximum="1" default="0"/>
     <axis tag="XOPQ" name="XOPQ" minimum="2" maximum="310" default="96"/>
@@ -35,6 +37,84 @@
         <dimension name="XTTW" xvalue="5"/>
       </location>
     </source>
+    
+    <source filename="instances/RobotoAvar2-wght200.ufo" familyname="RobotoAvar2" stylename="wght200">
+      <location>
+        <dimension name="Weight" xvalue="200"/>
+        <dimension name="slnt" xvalue="0"/>
+        <dimension name="SQRD" xvalue="0"/>
+        <dimension name="XOPQ" xvalue="96"/>
+        <dimension name="XTRA" xvalue="463"/>
+        <dimension name="XTSP" xvalue="0"/>
+        <dimension name="YOPQ" xvalue="79"/>
+        <dimension name="YTAS" xvalue="768"/>
+        <dimension name="YTDE" xvalue="-208"/>
+        <dimension name="YTFI" xvalue="743"/>
+        <dimension name="YTLC" xvalue="526"/>
+        <dimension name="YTOS" xvalue="30"/>
+        <dimension name="YTUC" xvalue="728"/>
+        <dimension name="YTTL" xvalue="25"/>
+        <dimension name="XTTW" xvalue="5"/>
+      </location>
+    </source>
+    <source filename="instances/RobotoAvar2-wght800.ufo" familyname="RobotoAvar2" stylename="wght800">
+      <location>
+        <dimension name="Weight" xvalue="800"/>
+        <dimension name="slnt" xvalue="0"/>
+        <dimension name="SQRD" xvalue="0"/>
+        <dimension name="XOPQ" xvalue="96"/>
+        <dimension name="XTRA" xvalue="463"/>
+        <dimension name="XTSP" xvalue="0"/>
+        <dimension name="YOPQ" xvalue="79"/>
+        <dimension name="YTAS" xvalue="768"/>
+        <dimension name="YTDE" xvalue="-208"/>
+        <dimension name="YTFI" xvalue="743"/>
+        <dimension name="YTLC" xvalue="526"/>
+        <dimension name="YTOS" xvalue="30"/>
+        <dimension name="YTUC" xvalue="728"/>
+        <dimension name="YTTL" xvalue="25"/>
+        <dimension name="XTTW" xvalue="5"/>
+      </location>
+    </source>
+    <source filename="instances/RobotoAvar2-wdth25.ufo" familyname="RobotoAvar2" stylename="wdth25">
+      <location>
+        <dimension name="Width" xvalue="25"/>
+        <dimension name="slnt" xvalue="0"/>
+        <dimension name="SQRD" xvalue="0"/>
+        <dimension name="XOPQ" xvalue="96"/>
+        <dimension name="XTRA" xvalue="463"/>
+        <dimension name="XTSP" xvalue="0"/>
+        <dimension name="YOPQ" xvalue="79"/>
+        <dimension name="YTAS" xvalue="768"/>
+        <dimension name="YTDE" xvalue="-208"/>
+        <dimension name="YTFI" xvalue="743"/>
+        <dimension name="YTLC" xvalue="526"/>
+        <dimension name="YTOS" xvalue="30"/>
+        <dimension name="YTUC" xvalue="728"/>
+        <dimension name="YTTL" xvalue="25"/>
+        <dimension name="XTTW" xvalue="5"/>
+      </location>
+    </source>
+    <source filename="instances/RobotoAvar2-wdth151.ufo" familyname="RobotoAvar2" stylename="wdth151">
+      <location>
+        <dimension name="Width" xvalue="151"/>
+        <dimension name="slnt" xvalue="0"/>
+        <dimension name="SQRD" xvalue="0"/>
+        <dimension name="XOPQ" xvalue="96"/>
+        <dimension name="XTRA" xvalue="463"/>
+        <dimension name="XTSP" xvalue="0"/>
+        <dimension name="YOPQ" xvalue="79"/>
+        <dimension name="YTAS" xvalue="768"/>
+        <dimension name="YTDE" xvalue="-208"/>
+        <dimension name="YTFI" xvalue="743"/>
+        <dimension name="YTLC" xvalue="526"/>
+        <dimension name="YTOS" xvalue="30"/>
+        <dimension name="YTUC" xvalue="728"/>
+        <dimension name="YTTL" xvalue="25"/>
+        <dimension name="XTTW" xvalue="5"/>
+      </location>
+    </source>
+    
     <source filename="RobotoAvar2-wght400-SQRD1.ufo" familyname="RobotoAvar2" stylename="wght400-SQRD1">
       <location>
         <dimension name="slnt" xvalue="0"/>
