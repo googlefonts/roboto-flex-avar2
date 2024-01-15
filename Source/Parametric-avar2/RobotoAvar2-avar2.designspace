@@ -1,6 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <designspace format="5.1">
   <axes>
+    <axis tag="opsz" name="Optical size" minimum="8" maximum="144" default="14"/>
     <axis tag="slnt" name="Slant" minimum="0" maximum="13" default="0"/>
     <axis tag="wght" name="Weight" minimum="200" maximum="800" default="400"/>
     <axis tag="wdth" name="Width" minimum="25" maximum="151" default="100"/>
@@ -20,6 +21,50 @@
     <axis tag="YTTL" name="YTTL" minimum="0" maximum="50" default="25"/>
     <axis tag="XTTW" name="XTTW" minimum="0" maximum="30" default="5"/>
     <mappings>
+      <mapping>
+        <input>
+          <dimension name="Optical size" xvalue="8"/>
+        </input>
+        <output>
+	        <dimension name="VANG" xvalue="0"/>
+	        <dimension name="VROT" xvalue="0"/>
+	        <dimension name="SQRD" xvalue="0"/>
+	        <dimension name="XOPQ" xvalue="103"/>
+	        <dimension name="XTRA" xvalue="484"/>
+	        <dimension name="XTSP" xvalue="0"/>
+	        <dimension name="YOPQ" xvalue="86"/>
+	        <dimension name="YTAS" xvalue="768"/>
+	        <dimension name="YTDE" xvalue="-208"/>
+	        <dimension name="YTFI" xvalue="743"/>
+	        <dimension name="YTLC" xvalue="526"/>
+	        <dimension name="YTOS" xvalue="30"/>
+	        <dimension name="YTUC" xvalue="728"/>
+	        <dimension name="YTTL" xvalue="25"/>
+	        <dimension name="XTTW" xvalue="5"/>
+        </output>
+      </mapping>
+      <mapping>
+        <input>
+          <dimension name="Optical size" xvalue="144"/>
+        </input>
+        <output>
+	        <dimension name="VANG" xvalue="0"/>
+	        <dimension name="VROT" xvalue="0"/>
+	        <dimension name="SQRD" xvalue="0"/>
+	        <dimension name="XOPQ" xvalue="55"/>
+	        <dimension name="XTRA" xvalue="447"/>
+	        <dimension name="XTSP" xvalue="-10"/>
+	        <dimension name="YOPQ" xvalue="49"/>
+	        <dimension name="YTAS" xvalue="768"/>
+	        <dimension name="YTDE" xvalue="-208"/>
+	        <dimension name="YTFI" xvalue="743"/>
+	        <dimension name="YTLC" xvalue="458"/>
+	        <dimension name="YTOS" xvalue="30"/>
+	        <dimension name="YTUC" xvalue="728"/>
+	        <dimension name="YTTL" xvalue="25"/>
+	        <dimension name="XTTW" xvalue="5"/>
+        </output>
+      </mapping>
       <mapping>
         <input>
           <dimension name="Slant" xvalue="13"/>
@@ -911,5 +956,44 @@
         <dimension name="XTTW" xvalue="5"/>
       </location>
     </instance>
+    <instance familyname="RobotoAvar2" stylename="opsz144" filename="instances/RobotoAvar2-opsz144.ufo">
+      <location>
+        <dimension name="VANG" xvalue="0"/>
+        <dimension name="VROT" xvalue="0"/>
+        <dimension name="SQRD" xvalue="0"/>
+        <dimension name="XOPQ" xvalue="55"/>
+        <dimension name="XTRA" xvalue="447"/>
+        <dimension name="XTSP" xvalue="-10"/>
+        <dimension name="YOPQ" xvalue="49"/>
+        <dimension name="YTAS" xvalue="768"/>
+        <dimension name="YTDE" xvalue="-208"/>
+        <dimension name="YTFI" xvalue="743"/>
+        <dimension name="YTLC" xvalue="458"/>
+        <dimension name="YTOS" xvalue="30"/>
+        <dimension name="YTUC" xvalue="728"/>
+        <dimension name="YTTL" xvalue="25"/>
+        <dimension name="XTTW" xvalue="5"/>
+      </location>
+    </instance>
+    <instance familyname="RobotoAvar2" stylename="opsz8" filename="instances/RobotoAvar2-opsz8.ufo">
+      <location>
+        <dimension name="VANG" xvalue="0"/>
+        <dimension name="VROT" xvalue="0"/>
+        <dimension name="SQRD" xvalue="0"/>
+        <dimension name="XOPQ" xvalue="103"/>
+        <dimension name="XTRA" xvalue="484"/>
+        <dimension name="XTSP" xvalue="0"/>
+        <dimension name="YOPQ" xvalue="86"/>
+        <dimension name="YTAS" xvalue="768"/>
+        <dimension name="YTDE" xvalue="-208"/>
+        <dimension name="YTFI" xvalue="743"/>
+        <dimension name="YTLC" xvalue="526"/>
+        <dimension name="YTOS" xvalue="30"/>
+        <dimension name="YTUC" xvalue="728"/>
+        <dimension name="YTTL" xvalue="25"/>
+        <dimension name="XTTW" xvalue="5"/>
+      </location>
+    </instance>
+
   </instances>
 </designspace>

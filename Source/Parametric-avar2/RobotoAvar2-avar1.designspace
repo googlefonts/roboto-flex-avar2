@@ -1,6 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <designspace format="5.0">
   <axes>
+    <axis tag="opsz" name="Optical size" minimum="8" maximum="144" default="14"/>
     <axis tag="wght" name="Weight" minimum="200" maximum="800" default="400"/>
     <axis tag="wdth" name="Width" minimum="25" maximum="151" default="100"/>
     <axis tag="slnt" name="slnt" minimum="-3" maximum="13" default="0"/>
@@ -21,6 +22,7 @@
   <sources>
     <source filename="RobotoAvar2-wght400.ufo" familyname="RobotoAvar2" stylename="Regular">
       <location>
+        <dimension name="Optical size" xvalue="14"/>
         <dimension name="slnt" xvalue="0"/>
         <dimension name="SQRD" xvalue="0"/>
         <dimension name="XOPQ" xvalue="96"/>
@@ -31,6 +33,45 @@
         <dimension name="YTDE" xvalue="-208"/>
         <dimension name="YTFI" xvalue="743"/>
         <dimension name="YTLC" xvalue="526"/>
+        <dimension name="YTOS" xvalue="30"/>
+        <dimension name="YTUC" xvalue="728"/>
+        <dimension name="YTTL" xvalue="25"/>
+        <dimension name="XTTW" xvalue="5"/>
+      </location>
+    </source>
+    
+    <source filename="instances/RobotoAvar2-opsz8.ufo" familyname="RobotoAvar2" stylename="opsz8">
+      <location>
+        <dimension name="Optical size" xvalue="8"/>
+        <dimension name="slnt" xvalue="0"/>
+        <dimension name="SQRD" xvalue="0"/>
+        <dimension name="XOPQ" xvalue="103"/>
+        <dimension name="XTRA" xvalue="484"/>
+        <dimension name="XTSP" xvalue="0"/>
+        <dimension name="YOPQ" xvalue="86"/>
+        <dimension name="YTAS" xvalue="768"/>
+        <dimension name="YTDE" xvalue="-208"/>
+        <dimension name="YTFI" xvalue="743"/>
+        <dimension name="YTLC" xvalue="526"/>
+        <dimension name="YTOS" xvalue="30"/>
+        <dimension name="YTUC" xvalue="728"/>
+        <dimension name="YTTL" xvalue="25"/>
+        <dimension name="XTTW" xvalue="5"/>
+      </location>
+    </source>
+    <source filename="instances/RobotoAvar2-opsz144.ufo" familyname="RobotoAvar2" stylename="opsz144">
+      <location>
+        <dimension name="Optical size" xvalue="144"/>
+        <dimension name="slnt" xvalue="0"/>
+        <dimension name="SQRD" xvalue="0"/>
+        <dimension name="XOPQ" xvalue="55"/>
+        <dimension name="XTRA" xvalue="447"/>
+        <dimension name="XTSP" xvalue="-10"/>
+        <dimension name="YOPQ" xvalue="49"/>
+        <dimension name="YTAS" xvalue="768"/>
+        <dimension name="YTDE" xvalue="-208"/>
+        <dimension name="YTFI" xvalue="743"/>
+        <dimension name="YTLC" xvalue="458"/>
         <dimension name="YTOS" xvalue="30"/>
         <dimension name="YTUC" xvalue="728"/>
         <dimension name="YTTL" xvalue="25"/>
@@ -133,7 +174,7 @@
         <dimension name="XTTW" xvalue="5"/>
       </location>
     </source>
-    <source filename="RobotoAvar2-slnt13-SQRD1.ufo" familyname="RobotoAvar2" stylename="slnt13-SQRD1">
+    <source filename="RobotoAvar2-VANG13-SQRD1.ufo" familyname="RobotoAvar2" stylename="VANG13-SQRD1">
       <location>
         <dimension name="slnt" xvalue="13"/>
         <dimension name="SQRD" xvalue="1"/>
@@ -169,7 +210,7 @@
         <dimension name="XTTW" xvalue="5"/>
       </location>
     </source>
-    <source filename="RobotoAvar2-slnt13-SQRD1-XTRA244.ufo" familyname="RobotoAvar2" stylename="slnt13-SQRD1-XTRA244" layer="public.default">
+    <source filename="RobotoAvar2-VANG13-SQRD1-XTRA244.ufo" familyname="RobotoAvar2" stylename="VANG13-SQRD1-XTRA244" layer="public.default">
       <location>
         <dimension name="slnt" xvalue="13"/>
         <dimension name="SQRD" xvalue="1"/>
@@ -187,7 +228,7 @@
         <dimension name="XTTW" xvalue="5"/>
       </location>
     </source>
-    <source filename="RobotoAvar2-slnt13-SQRD1-XTRA244.ufo" familyname="RobotoAvar2" stylename="slnt13-SQRD0-XTRA244" layer="public.default">
+    <source filename="RobotoAvar2-VANG13-SQRD1-XTRA244.ufo" familyname="RobotoAvar2" stylename="VANG13-SQRD0-XTRA244" layer="public.default">
       <location>
         <dimension name="slnt" xvalue="13"/>
         <dimension name="SQRD" xvalue="0"/>
@@ -205,7 +246,7 @@
         <dimension name="XTTW" xvalue="5"/>
       </location>
     </source>
-    <source filename="RobotoAvar2-slnt-3-SQRD1.ufo" familyname="RobotoAvar2" stylename="slnt-3-SQRD1">
+    <source filename="RobotoAvar2-VANG-3-SQRD1.ufo" familyname="RobotoAvar2" stylename="VANG-3-SQRD1">
       <location>
         <dimension name="slnt" xvalue="-3"/>
         <dimension name="SQRD" xvalue="1"/>
@@ -223,7 +264,7 @@
         <dimension name="XTTW" xvalue="5"/>
       </location>
     </source>
-    <source filename="RobotoAvar2-slnt-3-SQRD1-XTRA244.ufo" familyname="RobotoAvar2" stylename="slnt-3-SQRD1-XTRA244" layer="public.default">
+    <source filename="RobotoAvar2-VANG-3-SQRD1-XTRA244.ufo" familyname="RobotoAvar2" stylename="VANG-3-SQRD1-XTRA244" layer="public.default">
       <location>
         <dimension name="slnt" xvalue="-3"/>
         <dimension name="SQRD" xvalue="1"/>
@@ -241,7 +282,7 @@
         <dimension name="XTTW" xvalue="5"/>
       </location>
     </source>
-    <source filename="RobotoAvar2-slnt-3-SQRD1-XTRA244.ufo" familyname="RobotoAvar2" stylename="slnt-3-SQRD0-XTRA244" layer="public.default">
+    <source filename="RobotoAvar2-VANG-3-SQRD1-XTRA244.ufo" familyname="RobotoAvar2" stylename="VANG-3-SQRD0-XTRA244" layer="public.default">
       <location>
         <dimension name="slnt" xvalue="-3"/>
         <dimension name="SQRD" xvalue="0"/>
@@ -259,7 +300,7 @@
         <dimension name="XTTW" xvalue="5"/>
       </location>
     </source>
-    <source filename="RobotoAvar2-slnt-3.ufo" familyname="RobotoAvar2" stylename="slnt-3">
+    <source filename="RobotoAvar2-VANG-3.ufo" familyname="RobotoAvar2" stylename="VANG-3">
       <location>
         <dimension name="slnt" xvalue="-3"/>
         <dimension name="XOPQ" xvalue="96"/>
@@ -276,7 +317,7 @@
         <dimension name="XTTW" xvalue="5"/>
       </location>
     </source>
-    <source filename="RobotoAvar2-snlt13.ufo" familyname="RobotoAvar2" stylename="snlt13">
+    <source filename="RobotoAvar2-VANG13.ufo" familyname="RobotoAvar2" stylename="VANG13">
       <location>
         <dimension name="slnt" xvalue="13"/>
         <dimension name="XOPQ" xvalue="96"/>
@@ -726,6 +767,7 @@
       </location>
     </source>
   </sources>
+<!--
   <instances>
     <instance familyname="RobotoAvar2" stylename="Regular">
       <location>
@@ -817,67 +859,42 @@
         <dimension name="XTTW" xvalue="5"/>
       </location>
     </instance>
+    <instance familyname="RobotoAvar2" stylename="opsz144" filename="instances/RobotoAvar2-opsz144.ufo">
+      <location>
+        <dimension name="slnt" xvalue="0"/>
+        <dimension name="SQRD" xvalue="0"/>
+        <dimension name="XOPQ" xvalue="55"/>
+        <dimension name="XTRA" xvalue="447"/>
+        <dimension name="XTSP" xvalue="-10"/>
+        <dimension name="YOPQ" xvalue="49"/>
+        <dimension name="YTAS" xvalue="768"/>
+        <dimension name="YTDE" xvalue="-208"/>
+        <dimension name="YTFI" xvalue="743"/>
+        <dimension name="YTLC" xvalue="458"/>
+        <dimension name="YTOS" xvalue="30"/>
+        <dimension name="YTUC" xvalue="728"/>
+        <dimension name="YTTL" xvalue="25"/>
+        <dimension name="XTTW" xvalue="5"/>
+      </location>
+    </instance>
+    <instance familyname="RobotoAvar2" stylename="opsz8" filename="instances/RobotoAvar2-opsz8.ufo">
+      <location>
+        <dimension name="slnt" xvalue="0"/>
+        <dimension name="SQRD" xvalue="0"/>
+        <dimension name="XOPQ" xvalue="103"/>
+        <dimension name="XTRA" xvalue="484"/>
+        <dimension name="XTSP" xvalue="0"/>
+        <dimension name="YOPQ" xvalue="86"/>
+        <dimension name="YTAS" xvalue="768"/>
+        <dimension name="YTDE" xvalue="-208"/>
+        <dimension name="YTFI" xvalue="743"/>
+        <dimension name="YTLC" xvalue="526"/>
+        <dimension name="YTOS" xvalue="30"/>
+        <dimension name="YTUC" xvalue="728"/>
+        <dimension name="YTTL" xvalue="25"/>
+        <dimension name="XTTW" xvalue="5"/>
+      </location>
+    </instance>
   </instances>
-  <lib>
-    <dict>
-      <key>com.letterror.mathModelPref</key>
-      <string>previewVarLib</string>
-      <key>com.letterror.skateboard.interactionSources</key>
-      <dict>
-        <key>horizontal</key>
-        <array>
-          <string>XOPQ</string>
-        </array>
-        <key>ignore</key>
-        <array>
-          <string>slnt</string>
-          <string>SQRD</string>
-          <string>XTRA</string>
-          <string>XTSP</string>
-          <string>YOPQ</string>
-          <string>YTAS</string>
-          <string>YTDE</string>
-          <string>YTFI</string>
-          <string>YTLC</string>
-          <string>YTOS</string>
-          <string>YTUC</string>
-          <string>YTTL</string>
-          <string>XTTW</string>
-        </array>
-      </dict>
-      <key>com.letterror.skateboard.previewLocation</key>
-      <dict>
-        <key>SQRD</key>
-        <real>0.0</real>
-        <key>XOPQ</key>
-        <real>96.0</real>
-        <key>XTRA</key>
-        <real>463.0</real>
-        <key>XTSP</key>
-        <real>0.0</real>
-        <key>XTTW</key>
-        <real>5.0</real>
-        <key>YOPQ</key>
-        <real>79.0</real>
-        <key>YTAS</key>
-        <real>768.0</real>
-        <key>YTDE</key>
-        <real>-208.0</real>
-        <key>YTFI</key>
-        <real>743.0</real>
-        <key>YTLC</key>
-        <real>526.0</real>
-        <key>YTOS</key>
-        <real>30.0</real>
-        <key>YTTL</key>
-        <real>25.0</real>
-        <key>YTUC</key>
-        <real>728.0</real>
-        <key>slnt</key>
-        <real>0.0</real>
-      </dict>
-      <key>com.letterror.skateboard.previewText</key>
-      <string>SKATEBOARD</string>
-    </dict>
-  </lib>
+-->
 </designspace>

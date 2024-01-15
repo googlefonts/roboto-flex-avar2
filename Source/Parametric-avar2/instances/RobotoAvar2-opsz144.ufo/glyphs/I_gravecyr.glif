@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Igravecyr" format="2">
+  <advance width="1280.2553191489365"/>
+  <unicode hex="040D"/>
+  <outline>
+    <component base="Icyr"/>
+    <component base="gravecomb.case" xOffset="648.8510638297873" yOffset="1.0"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0,0,1,0.5</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ordmasculine" format="2">
+  <advance width="773.5510638297873"/>
+  <unicode hex="00BA"/>
+  <guideline y="1975.0" identifier="Jnt0R9CyOf"/>
+  <outline>
+    <contour>
+      <point x="112.60000000000001" y="1043.0" type="qcurve"/>
+      <point x="112.60000000000001" y="1124.0" type="line"/>
+      <point x="112.60000000000001" y="1278.0"/>
+      <point x="261.3978723404255" y="1477.0"/>
+      <point x="386.55744680851063" y="1477.0" type="qcurve" smooth="yes"/>
+      <point x="512.7170212765957" y="1477.0"/>
+      <point x="660.9510638297874" y="1278.0"/>
+      <point x="660.9510638297874" y="1124.0" type="qcurve"/>
+      <point x="660.9510638297874" y="1043.0" type="line"/>
+      <point x="660.9510638297874" y="889.0"/>
+      <point x="513.7170212765958" y="691.0"/>
+      <point x="388.55744680851063" y="691.0" type="qcurve" smooth="yes"/>
+      <point x="262.3978723404255" y="691.0"/>
+      <point x="112.60000000000001" y="889.0"/>
+    </contour>
+    <contour>
+      <point x="207.5574468085107" y="1124.0" type="qcurve"/>
+      <point x="207.5574468085107" y="1043.0" type="line"/>
+      <point x="207.5574468085107" y="928.6233766233767"/>
+      <point x="301.6223818734457" y="778.5714285714287"/>
+      <point x="388.55744680851063" y="778.5714285714287" type="qcurve" smooth="yes"/>
+      <point x="473.27173252279636" y="778.5714285714287"/>
+      <point x="566.5574468085106" y="928.6233766233767"/>
+      <point x="566.5574468085106" y="1043.0" type="qcurve"/>
+      <point x="566.5574468085106" y="1124.0" type="line"/>
+      <point x="566.5574468085106" y="1237.155844155844"/>
+      <point x="472.2717325227964" y="1388.2077922077922"/>
+      <point x="386.55744680851063" y="1388.2077922077922" type="qcurve" smooth="yes"/>
+      <point x="301.23277148383534" y="1388.2077922077922"/>
+      <point x="207.5574468085107" y="1237.155844155844"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.guideline.magnetic.Jnt0R9CyOf</key>
+      <integer>5</integer>
+    </dict>
+  </lib>
+</glyph>

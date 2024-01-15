@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Ohornhookabove" format="2">
+  <advance width="1275.872340425532"/>
+  <unicode hex="1EDE"/>
+  <outline>
+    <component base="O"/>
+    <component base="horncomb.case" xOffset="806.5106382978724"/>
+    <component base="hookabovecomb.case" xOffset="637.936170212766"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0,0,1,0.5</string>
+    </dict>
+  </lib>
+</glyph>

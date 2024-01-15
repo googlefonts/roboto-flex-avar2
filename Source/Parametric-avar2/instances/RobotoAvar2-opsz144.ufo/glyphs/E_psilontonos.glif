@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Epsilontonos" format="2">
+  <advance width="1296.4659574468087"/>
+  <unicode hex="0388"/>
+  <outline>
+    <component base="E" xOffset="236.95744680851067"/>
+    <component base="tonoscomb.case" xOffset="111.2659574468085" yOffset="22.0"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0,0,1,0.5</string>
+    </dict>
+  </lib>
+</glyph>
