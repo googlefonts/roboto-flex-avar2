@@ -51,5 +51,25 @@
       <point x="275" y="702"/>
       <point x="275" y="542" type="qcurve" smooth="yes"/>
     </contour>
+    <contour>
+      <point x="281.3414686692545" y="-436.0" type="qcurve" smooth="yes"/>
+      <point x="151.34146866925448" y="-436.0"/>
+      <point x="-48.80386689394709" y="-350.0"/>
+      <point x="-109.56656627965992" y="-284.0" type="qcurve"/>
+      <point x="39.754980477918906" y="-144.0" type="line"/>
+      <point x="71.98070273051519" y="-195.0"/>
+      <point x="213.7421156315957" y="-274.0"/>
+      <point x="313.7421156315957" y="-274.0" type="qcurve" smooth="yes"/>
+      <point x="448.74211563159565" y="-274.0"/>
+      <point x="640.2958170649324" y="-120.0"/>
+      <point x="672.6173638225113" y="20.0" type="qcurve" smooth="yes"/>
+      <point x="879.2443948798903" y="915.0" type="line"/>
+      <point x="889.2443948798903" y="915.0" type="line"/>
+      <point x="928.8733370640923" y="1052.0" type="line"/>
+      <point x="1096.8733370640923" y="1052.0" type="line"/>
+      <point x="858.6173638225112" y="20.0" type="line" smooth="yes"/>
+      <point x="807.8263617748873" y="-200.0"/>
+      <point x="491.3414686692545" y="-436.0"/>
+    </contour>
   </outline>
 </glyph>
