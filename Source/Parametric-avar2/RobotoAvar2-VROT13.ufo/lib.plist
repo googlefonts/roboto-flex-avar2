@@ -9,8 +9,9 @@
         <array>
           <string>B</string>
           <string>C</string>
-          <string>D</string>
           <string>G</string>
+          <string>H</string>
+          <string>J</string>
           <string>O</string>
           <string>P</string>
           <string>Q</string>
@@ -23,24 +24,30 @@
           <string>d</string>
           <string>e</string>
           <string>g</string>
+          <string>h</string>
+          <string>m</string>
+          <string>n</string>
           <string>o</string>
           <string>p</string>
           <string>q</string>
           <string>s</string>
-          <string>u</string>
           <string>dollar</string>
           <string>dollar.rvrn</string>
           <string>cent.rvrn</string>
           <string>zero</string>
+          <string>one</string>
           <string>two</string>
           <string>three</string>
+          <string>four</string>
           <string>five</string>
           <string>six</string>
           <string>eight</string>
           <string>nine</string>
           <string>zero.prop</string>
+          <string>one.prop</string>
           <string>two.prop</string>
           <string>three.prop</string>
+          <string>four.prop</string>
           <string>five.prop</string>
           <string>six.prop</string>
           <string>eight.prop</string>
@@ -50,26 +57,15 @@
           <string>cent</string>
           <string>ordfeminine</string>
           <string>ordmasculine</string>
-          <string>quotesingle</string>
-          <string>quotedbl</string>
           <string>questiondown</string>
           <string>question</string>
           <string>slash</string>
           <string>asterisk</string>
-          <string>quoteleft</string>
-          <string>quoteright</string>
-          <string>quotesinglbase</string>
-          <string>quotedblleft</string>
-          <string>quotedblright</string>
-          <string>quotedblbase</string>
           <string>zerosuperior</string>
           <string>onesuperior</string>
           <string>twosuperior</string>
           <string>threesuperior</string>
           <string>foursuperior</string>
-          <string>onequarter</string>
-          <string>onehalf</string>
-          <string>threequarters</string>
           <string>fraction</string>
         </array>
         <key>type</key>
@@ -681,10 +677,15 @@
 1648323906.0 metainfo.plist</string>
     <key>public.glyphOrder</key>
     <array>
+      <string>B</string>
       <string>C</string>
       <string>G</string>
+      <string>H</string>
+      <string>J</string>
       <string>O</string>
+      <string>P</string>
       <string>Q</string>
+      <string>R</string>
       <string>S</string>
       <string>U</string>
       <string>a</string>
@@ -693,6 +694,9 @@
       <string>d</string>
       <string>e</string>
       <string>g</string>
+      <string>h</string>
+      <string>m</string>
+      <string>n</string>
       <string>o</string>
       <string>p</string>
       <string>q</string>
@@ -701,15 +705,19 @@
       <string>dollar.rvrn</string>
       <string>cent.rvrn</string>
       <string>zero</string>
+      <string>one</string>
       <string>two</string>
       <string>three</string>
+      <string>four</string>
       <string>five</string>
       <string>six</string>
       <string>eight</string>
       <string>nine</string>
       <string>zero.prop</string>
+      <string>one.prop</string>
       <string>two.prop</string>
       <string>three.prop</string>
+      <string>four.prop</string>
       <string>five.prop</string>
       <string>six.prop</string>
       <string>eight.prop</string>
@@ -719,26 +727,15 @@
       <string>cent</string>
       <string>ordfeminine</string>
       <string>ordmasculine</string>
-      <string>quotesingle</string>
-      <string>quotedbl</string>
       <string>questiondown</string>
       <string>question</string>
       <string>slash</string>
       <string>asterisk</string>
-      <string>quoteleft</string>
-      <string>quoteright</string>
-      <string>quotesinglbase</string>
-      <string>quotedblleft</string>
-      <string>quotedblright</string>
-      <string>quotedblbase</string>
       <string>zerosuperior</string>
       <string>onesuperior</string>
       <string>twosuperior</string>
       <string>threesuperior</string>
       <string>foursuperior</string>
-      <string>onequarter</string>
-      <string>onehalf</string>
-      <string>threequarters</string>
       <string>fraction</string>
     </array>
     <key>tnCurvePalet</key>
