@@ -1,0 +1,128 @@
+{
+  "wght400": {
+    "XTRA": {
+      "min": 400,
+      "max": 530
+    },
+    "XOPQ": {
+      "min": 72,
+      "max": 115
+    },
+    "YOPQ": {
+      "min": 70,
+      "max": 104
+    },
+    "XTSP": {
+      "min": -50,
+      "max": 50
+    }
+  },
+  "wght200": {
+    "XTRA": {
+      "min": 440,
+      "max": 600
+    },
+    "XOPQ": {
+        "min": 30,
+        "max": 80
+    },
+    "YOPQ": {
+        "min": 28,
+        "max": 74
+    },
+    "XTSP": {
+        "min": -40,
+        "max": 30
+    }
+  },
+  "wght800": {
+    "XTRA": {
+      "min": 320,
+      "max": 420
+    },
+    "XOPQ": {
+      "min": 170,
+      "max": 220
+    },
+    "YOPQ": {
+      "min": 132,
+      "max": 180
+    },
+    "XTSP": {
+      "min": -36,
+      "max": 30
+    }
+  },
+  "wdth25": {
+     "XTRA": {
+      "min": 370,
+      "max": 430
+    },
+    "XOPQ": {
+      "min": 72,
+      "max": 105
+    },
+    "YOPQ": {
+      "min": 64,
+      "max": 95
+    },
+    "XTSP": {
+      "min": -32,
+      "max": 32
+    }
+  },
+  "wdth151": {
+  	"XTRA": {
+      "min": 480,
+      "max": 580
+    },
+    "XOPQ": {
+      "min": 80,
+      "max": 120
+    },
+    "YOPQ": {
+      "min": 74,
+      "max": 106
+    },
+    "XTSP": {
+      "min": -40,
+      "max": 40
+    }
+  },
+  "opsz8": {
+    "XTRA": {
+      "min": 432,
+      "max": 532
+    },
+    "XOPQ": {
+      "min": 90,
+      "max": 115
+    },
+    "YOPQ": {
+      "min": 82,
+      "max": 100
+    },
+    "XTSP": {
+      "min": -16,
+      "max": 16
+    }
+  },
+  "opsz144": {
+    "XTRA": {
+      "min": 380,
+      "max": 532
+    },
+    "XOPQ": {
+      "min": 40,
+      "max": 115
+    },
+    "YOPQ": {
+      "min": 36,
+      "max": 104
+    },
+    "XTSP": {
+      "min": -70,
+      "max": 70
+    }
+  },
+}
