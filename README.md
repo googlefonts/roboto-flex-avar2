@@ -12,9 +12,9 @@ Table of contents
   - [ASCII Alpha](#ascii-alpha)
 - [source](#Source-folder)
   - [Parametric avar2](#parametric-avar2)
-  - [Measurements file](#measurements-file)
-  - [Blends file](#blends-file)
-  - [Fences file](#fences-file)
+  - [Measurements file](#measurements.json)
+  - [Blends file](#blends.json)
+  - [Fences file](#fences.json)
 - [The designspace and variable font builder](#the-designspace-and-variable-font-builder)
 
 
