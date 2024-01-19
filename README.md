@@ -10,7 +10,7 @@ Table of contents
 - [Current folder structure](#current-folder-structure)
 - [fonts](#Fonts-Folder)
   - [ASCII Alpha](#ascii-alpha)
-- [source](#the-source-folder)
+- [source](#Source-folder)
   - [Parametric avar2](#parametric-avar2)
   - [Measurements file](#measurements-file)
   - [Blends file](#blends-file)
@@ -80,7 +80,7 @@ AsciiAlpha
 \* see [Implementing fences](https://github.com/googlefonts/amstelvar-avar2/issues/4)
 
 
-The Sources folder
+Source folder
 ------------------
 
 Just like the Fonts folder, the Sources folder contains subfolders which correspond to different stages of the project:
