@@ -246,7 +246,7 @@ packaging==21.3
     #   matplotlib
 picosvg==0.20.5
     # via nanoemoji
-pillow==9.3.0
+pillow==10.0.1
     # via
     #   diffenator2
     #   gftools
