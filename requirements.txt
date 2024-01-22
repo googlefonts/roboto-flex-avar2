@@ -282,7 +282,7 @@ pygit2==1.11.1
     # via gftools
 pygithub==1.57
     # via gftools
-pygments==2.13.0
+pygments==2.15.0
     # via rich
 pyjwt==2.6.0
     # via pygithub
