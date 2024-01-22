@@ -168,7 +168,7 @@ gftools @ git+https://github.com/googlefonts/gftools@460641a7f20c2e84f48c03cfc56
     # via -r requirements.in
 gitdb==4.0.9
     # via gitpython
-gitpython==3.1.29
+gitpython==3.1.41
     # via font-v
 glyphsets
     # via
