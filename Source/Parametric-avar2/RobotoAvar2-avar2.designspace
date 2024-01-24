@@ -1008,7 +1008,214 @@
     </source>
   </sources>
   <instances>
-    <instance familyname="RobotoAvar2" stylename="Regular" filename="instances/RobotoAvar2-Regular.ufo">
+    <instance familyname="RobotoAvar2" stylename="opsz8-wdth25-wght100" filename="instances/RobotoAvar2-opsz8-wdth25-wght100.ufo">
+      <location>
+        <dimension name="Optical size" xvalue="8"/>
+        <dimension name="Slant" xvalue="0"/>
+        <dimension name="Weight" xvalue="400"/>
+        <dimension name="Width" xvalue="100"/>
+        <dimension name="VANG" xvalue="0"/>
+        <dimension name="VROT" xvalue="0"/>
+        <dimension name="SQRD" xvalue="0"/>
+        <dimension name="XOPQ" xvalue="50"/>
+        <dimension name="XTRA" xvalue="451"/>
+        <dimension name="XTSP" xvalue="0"/>
+        <dimension name="YOPQ" xvalue="48"/>
+        <dimension name="YTAS" xvalue="768"/>
+        <dimension name="YTDE" xvalue="-208"/>
+        <dimension name="YTFI" xvalue="743"/>
+        <dimension name="YTLC" xvalue="545"/>
+        <dimension name="YTOS" xvalue="30"/>
+        <dimension name="YTUC" xvalue="728"/>
+        <dimension name="YTTL" xvalue="25"/>
+        <dimension name="XTTW" xvalue="5"/>
+      </location>
+    </instance>
+    <instance familyname="RobotoAvar2" stylename="opsz8-wdth25-wght400" filename="instances/RobotoAvar2-opsz8-wdth25-wght400.ufo">
+      <location>
+        <dimension name="Optical size" xvalue="8"/>
+        <dimension name="Slant" xvalue="0"/>
+        <dimension name="Weight" xvalue="400"/>
+        <dimension name="Width" xvalue="100"/>
+        <dimension name="VANG" xvalue="0"/>
+        <dimension name="VROT" xvalue="0"/>
+        <dimension name="SQRD" xvalue="0"/>
+        <dimension name="XOPQ" xvalue="100"/>
+        <dimension name="XTRA" xvalue="430"/>
+        <dimension name="XTSP" xvalue="0"/>
+        <dimension name="YOPQ" xvalue="85"/>
+        <dimension name="YTAS" xvalue="768"/>
+        <dimension name="YTDE" xvalue="-208"/>
+        <dimension name="YTFI" xvalue="743"/>
+        <dimension name="YTLC" xvalue="545"/>
+        <dimension name="YTOS" xvalue="30"/>
+        <dimension name="YTUC" xvalue="728"/>
+        <dimension name="YTTL" xvalue="25"/>
+        <dimension name="XTTW" xvalue="5"/>
+      </location>
+    </instance>
+    <instance familyname="RobotoAvar2" stylename="opsz8-wdth25-wght1000" filename="instances/RobotoAvar2-opsz8-wdth25-wght1000.ufo">
+      <location>
+        <dimension name="Optical size" xvalue="8"/>
+        <dimension name="Slant" xvalue="0"/>
+        <dimension name="Weight" xvalue="400"/>
+        <dimension name="Width" xvalue="100"/>
+        <dimension name="VANG" xvalue="0"/>
+        <dimension name="VROT" xvalue="0"/>
+        <dimension name="SQRD" xvalue="0"/>
+        <dimension name="XOPQ" xvalue="158"/>
+        <dimension name="XTRA" xvalue="382"/>
+        <dimension name="XTSP" xvalue="0"/>
+        <dimension name="YOPQ" xvalue="112"/>
+        <dimension name="YTAS" xvalue="768"/>
+        <dimension name="YTDE" xvalue="-208"/>
+        <dimension name="YTFI" xvalue="743"/>
+        <dimension name="YTLC" xvalue="558"/>
+        <dimension name="YTOS" xvalue="30"/>
+        <dimension name="YTUC" xvalue="728"/>
+        <dimension name="YTTL" xvalue="25"/>
+        <dimension name="XTTW" xvalue="5"/>
+      </location>
+    </instance>
+    <instance familyname="RobotoAvar2" stylename="opsz8-wdth100-wght100" filename="instances/RobotoAvar2-opsz8-wdth100-wght100.ufo">
+      <location>
+        <dimension name="Optical size" xvalue="8"/>
+        <dimension name="Slant" xvalue="0"/>
+        <dimension name="Weight" xvalue="400"/>
+        <dimension name="Width" xvalue="100"/>
+        <dimension name="VANG" xvalue="0"/>
+        <dimension name="VROT" xvalue="0"/>
+        <dimension name="SQRD" xvalue="0"/>
+        <dimension name="XOPQ" xvalue="54"/>
+        <dimension name="XTRA" xvalue="556"/>
+        <dimension name="XTSP" xvalue="0"/>
+        <dimension name="YOPQ" xvalue="50"/>
+        <dimension name="YTAS" xvalue="768"/>
+        <dimension name="YTDE" xvalue="-208"/>
+        <dimension name="YTFI" xvalue="743"/>
+        <dimension name="YTLC" xvalue="545"/>
+        <dimension name="YTOS" xvalue="30"/>
+        <dimension name="YTUC" xvalue="728"/>
+        <dimension name="YTTL" xvalue="25"/>
+        <dimension name="XTTW" xvalue="5"/>
+      </location>
+    </instance>
+    <instance familyname="RobotoAvar2" stylename="opsz8-wdth100-wght400" filename="instances/RobotoAvar2-opsz8-wdth100-wght400.ufo">
+      <location>
+        <dimension name="Optical size" xvalue="8"/>
+        <dimension name="Slant" xvalue="0"/>
+        <dimension name="Weight" xvalue="400"/>
+        <dimension name="Width" xvalue="100"/>
+        <dimension name="VANG" xvalue="0"/>
+        <dimension name="VROT" xvalue="0"/>
+        <dimension name="SQRD" xvalue="0"/>
+        <dimension name="XOPQ" xvalue="103"/>
+        <dimension name="XTRA" xvalue="484"/>
+        <dimension name="XTSP" xvalue="0"/>
+        <dimension name="YOPQ" xvalue="86"/>
+        <dimension name="YTAS" xvalue="768"/>
+        <dimension name="YTDE" xvalue="-208"/>
+        <dimension name="YTFI" xvalue="743"/>
+        <dimension name="YTLC" xvalue="545"/>
+        <dimension name="YTOS" xvalue="30"/>
+        <dimension name="YTUC" xvalue="728"/>
+        <dimension name="YTTL" xvalue="25"/>
+        <dimension name="XTTW" xvalue="5"/>
+      </location>
+    </instance>
+    <instance familyname="RobotoAvar2" stylename="opsz8-wdth100-wght1000" filename="instances/RobotoAvar2-opsz8-wdth100-wght1000.ufo">
+      <location>
+        <dimension name="Optical size" xvalue="8"/>
+        <dimension name="Slant" xvalue="0"/>
+        <dimension name="Weight" xvalue="400"/>
+        <dimension name="Width" xvalue="100"/>
+        <dimension name="VANG" xvalue="0"/>
+        <dimension name="VROT" xvalue="0"/>
+        <dimension name="SQRD" xvalue="0"/>
+        <dimension name="XOPQ" xvalue="177"/>
+        <dimension name="XTRA" xvalue="426"/>
+        <dimension name="XTSP" xvalue="0"/>
+        <dimension name="YOPQ" xvalue="118"/>
+        <dimension name="YTAS" xvalue="768"/>
+        <dimension name="YTDE" xvalue="-208"/>
+        <dimension name="YTFI" xvalue="743"/>
+        <dimension name="YTLC" xvalue="558"/>
+        <dimension name="YTOS" xvalue="30"/>
+        <dimension name="YTUC" xvalue="728"/>
+        <dimension name="YTTL" xvalue="25"/>
+        <dimension name="XTTW" xvalue="5"/>
+      </location>
+    </instance>
+    <instance familyname="RobotoAvar2" stylename="opsz8-wdth151-wght100" filename="instances/RobotoAvar2-opsz8-wdth151-wght100.ufo">
+      <location>
+        <dimension name="Optical size" xvalue="8"/>
+        <dimension name="Slant" xvalue="0"/>
+        <dimension name="Weight" xvalue="400"/>
+        <dimension name="Width" xvalue="100"/>
+        <dimension name="VANG" xvalue="0"/>
+        <dimension name="VROT" xvalue="0"/>
+        <dimension name="SQRD" xvalue="0"/>
+        <dimension name="XOPQ" xvalue="60"/>
+        <dimension name="XTRA" xvalue="605"/>
+        <dimension name="XTSP" xvalue="0"/>
+        <dimension name="YOPQ" xvalue="54"/>
+        <dimension name="YTAS" xvalue="768"/>
+        <dimension name="YTDE" xvalue="-208"/>
+        <dimension name="YTFI" xvalue="743"/>
+        <dimension name="YTLC" xvalue="545"/>
+        <dimension name="YTOS" xvalue="30"/>
+        <dimension name="YTUC" xvalue="728"/>
+        <dimension name="YTTL" xvalue="25"/>
+        <dimension name="XTTW" xvalue="5"/>
+      </location>
+    </instance>
+    <instance familyname="RobotoAvar2" stylename="opsz8-wdth151-wght400" filename="instances/RobotoAvar2-opsz8-wdth151-wght400.ufo">
+      <location>
+        <dimension name="Optical size" xvalue="8"/>
+        <dimension name="Slant" xvalue="0"/>
+        <dimension name="Weight" xvalue="400"/>
+        <dimension name="Width" xvalue="100"/>
+        <dimension name="VANG" xvalue="0"/>
+        <dimension name="VROT" xvalue="0"/>
+        <dimension name="SQRD" xvalue="0"/>
+        <dimension name="XOPQ" xvalue="108"/>
+        <dimension name="XTRA" xvalue="555"/>
+        <dimension name="XTSP" xvalue="0"/>
+        <dimension name="YOPQ" xvalue="88"/>
+        <dimension name="YTAS" xvalue="768"/>
+        <dimension name="YTDE" xvalue="-208"/>
+        <dimension name="YTFI" xvalue="743"/>
+        <dimension name="YTLC" xvalue="545"/>
+        <dimension name="YTOS" xvalue="30"/>
+        <dimension name="YTUC" xvalue="728"/>
+        <dimension name="YTTL" xvalue="25"/>
+        <dimension name="XTTW" xvalue="5"/>
+      </location>
+    </instance>
+    <instance familyname="RobotoAvar2" stylename="opsz8-wdth151-wght1000" filename="instances/RobotoAvar2-opsz8-wdth151-wght1000.ufo">
+      <location>
+        <dimension name="Optical size" xvalue="8"/>
+        <dimension name="Slant" xvalue="0"/>
+        <dimension name="Weight" xvalue="400"/>
+        <dimension name="Width" xvalue="100"/>
+        <dimension name="VANG" xvalue="0"/>
+        <dimension name="VROT" xvalue="0"/>
+        <dimension name="SQRD" xvalue="0"/>
+        <dimension name="XOPQ" xvalue="216"/>
+        <dimension name="XTRA" xvalue="408"/>
+        <dimension name="XTSP" xvalue="0"/>
+        <dimension name="YOPQ" xvalue="158"/>
+        <dimension name="YTAS" xvalue="768"/>
+        <dimension name="YTDE" xvalue="-208"/>
+        <dimension name="YTFI" xvalue="743"/>
+        <dimension name="YTLC" xvalue="566"/>
+        <dimension name="YTOS" xvalue="30"/>
+        <dimension name="YTUC" xvalue="728"/>
+        <dimension name="YTTL" xvalue="25"/>
+        <dimension name="XTTW" xvalue="5"/>
+      </location>
+    </instance>
+    <instance familyname="RobotoAvar2" stylename="opsz14-wdth25-wght100" filename="instances/RobotoAvar2-opsz14-wdth25-wght100.ufo">
       <location>
         <dimension name="Optical size" xvalue="14"/>
         <dimension name="Slant" xvalue="0"/>
@@ -1017,10 +1224,10 @@
         <dimension name="VANG" xvalue="0"/>
         <dimension name="VROT" xvalue="0"/>
         <dimension name="SQRD" xvalue="0"/>
-        <dimension name="XOPQ" xvalue="96"/>
+        <dimension name="XOPQ" xvalue="44"/>
         <dimension name="XTRA" xvalue="463"/>
         <dimension name="XTSP" xvalue="0"/>
-        <dimension name="YOPQ" xvalue="79"/>
+        <dimension name="YOPQ" xvalue="42"/>
         <dimension name="YTAS" xvalue="768"/>
         <dimension name="YTDE" xvalue="-208"/>
         <dimension name="YTFI" xvalue="743"/>
@@ -1031,53 +1238,7 @@
         <dimension name="XTTW" xvalue="5"/>
       </location>
     </instance>
-    <instance familyname="RobotoAvar2" stylename="wght200" filename="instances/RobotoAvar2-wght200.ufo">
-      <location>
-        <dimension name="Optical size" xvalue="14"/>
-        <dimension name="Slant" xvalue="0"/>
-        <dimension name="Weight" xvalue="400"/>
-        <dimension name="Width" xvalue="100"/>
-        <dimension name="VANG" xvalue="0"/>
-        <dimension name="VROT" xvalue="0"/>
-        <dimension name="SQRD" xvalue="0"/>
-        <dimension name="XOPQ" xvalue="47"/>
-        <dimension name="XTRA" xvalue="534"/>
-        <dimension name="XTSP" xvalue="0"/>
-        <dimension name="YOPQ" xvalue="44"/>
-        <dimension name="YTAS" xvalue="768"/>
-        <dimension name="YTDE" xvalue="-208"/>
-        <dimension name="YTFI" xvalue="743"/>
-        <dimension name="YTLC" xvalue="526"/>
-        <dimension name="YTOS" xvalue="30"/>
-        <dimension name="YTUC" xvalue="728"/>
-        <dimension name="YTTL" xvalue="25"/>
-        <dimension name="XTTW" xvalue="5"/>
-      </location>
-    </instance>
-    <instance familyname="RobotoAvar2" stylename="wght800" filename="instances/RobotoAvar2-wght800.ufo">
-      <location>
-        <dimension name="Optical size" xvalue="14"/>
-        <dimension name="Slant" xvalue="0"/>
-        <dimension name="Weight" xvalue="400"/>
-        <dimension name="Width" xvalue="100"/>
-        <dimension name="VANG" xvalue="0"/>
-        <dimension name="VROT" xvalue="0"/>
-        <dimension name="SQRD" xvalue="0"/>
-        <dimension name="XOPQ" xvalue="210"/>
-        <dimension name="XTRA" xvalue="360"/>
-        <dimension name="XTSP" xvalue="0"/>
-        <dimension name="YOPQ" xvalue="156"/>
-        <dimension name="YTAS" xvalue="768"/>
-        <dimension name="YTDE" xvalue="-208"/>
-        <dimension name="YTFI" xvalue="743"/>
-        <dimension name="YTLC" xvalue="526"/>
-        <dimension name="YTOS" xvalue="30"/>
-        <dimension name="YTUC" xvalue="728"/>
-        <dimension name="YTTL" xvalue="25"/>
-        <dimension name="XTTW" xvalue="5"/>
-      </location>
-    </instance>
-    <instance familyname="RobotoAvar2" stylename="wdth25" filename="instances/RobotoAvar2-wdth25.ufo">
+    <instance familyname="RobotoAvar2" stylename="opsz14-wdth25-wght400" filename="instances/RobotoAvar2-opsz14-wdth25-wght400.ufo">
       <location>
         <dimension name="Optical size" xvalue="14"/>
         <dimension name="Slant" xvalue="0"/>
@@ -1100,7 +1261,99 @@
         <dimension name="XTTW" xvalue="5"/>
       </location>
     </instance>
-    <instance familyname="RobotoAvar2" stylename="wdth151" filename="instances/RobotoAvar2-wdth151.ufo">
+    <instance familyname="RobotoAvar2" stylename="opsz14-wdth25-wght1000" filename="instances/RobotoAvar2-opsz14-wdth25-wght1000.ufo">
+      <location>
+        <dimension name="Optical size" xvalue="14"/>
+        <dimension name="Slant" xvalue="0"/>
+        <dimension name="Weight" xvalue="400"/>
+        <dimension name="Width" xvalue="100"/>
+        <dimension name="VANG" xvalue="0"/>
+        <dimension name="VROT" xvalue="0"/>
+        <dimension name="SQRD" xvalue="0"/>
+        <dimension name="XOPQ" xvalue="206"/>
+        <dimension name="XTRA" xvalue="312"/>
+        <dimension name="XTSP" xvalue="0"/>
+        <dimension name="YOPQ" xvalue="154"/>
+        <dimension name="YTAS" xvalue="768"/>
+        <dimension name="YTDE" xvalue="-208"/>
+        <dimension name="YTFI" xvalue="743"/>
+        <dimension name="YTLC" xvalue="526"/>
+        <dimension name="YTOS" xvalue="30"/>
+        <dimension name="YTUC" xvalue="728"/>
+        <dimension name="YTTL" xvalue="25"/>
+        <dimension name="XTTW" xvalue="5"/>
+      </location>
+    </instance>
+    <instance familyname="RobotoAvar2" stylename="opsz14-wdth100-wght100" filename="instances/RobotoAvar2-opsz14-wdth100-wght100.ufo">
+      <location>
+        <dimension name="Optical size" xvalue="14"/>
+        <dimension name="Slant" xvalue="0"/>
+        <dimension name="Weight" xvalue="400"/>
+        <dimension name="Width" xvalue="100"/>
+        <dimension name="VANG" xvalue="0"/>
+        <dimension name="VROT" xvalue="0"/>
+        <dimension name="SQRD" xvalue="0"/>
+        <dimension name="XOPQ" xvalue="47"/>
+        <dimension name="XTRA" xvalue="534"/>
+        <dimension name="XTSP" xvalue="0"/>
+        <dimension name="YOPQ" xvalue="44"/>
+        <dimension name="YTAS" xvalue="768"/>
+        <dimension name="YTDE" xvalue="-208"/>
+        <dimension name="YTFI" xvalue="743"/>
+        <dimension name="YTLC" xvalue="526"/>
+        <dimension name="YTOS" xvalue="30"/>
+        <dimension name="YTUC" xvalue="728"/>
+        <dimension name="YTTL" xvalue="25"/>
+        <dimension name="XTTW" xvalue="5"/>
+      </location>
+    </instance>
+    <instance familyname="RobotoAvar2" stylename="Regular" filename="instances/RobotoAvar2-opsz14-wdth100-wght400.ufo">
+      <location>
+        <dimension name="Optical size" xvalue="14"/>
+        <dimension name="Slant" xvalue="0"/>
+        <dimension name="Weight" xvalue="400"/>
+        <dimension name="Width" xvalue="100"/>
+        <dimension name="VANG" xvalue="0"/>
+        <dimension name="VROT" xvalue="0"/>
+        <dimension name="SQRD" xvalue="0"/>
+        <dimension name="XOPQ" xvalue="96"/>
+        <dimension name="XTRA" xvalue="463"/>
+        <dimension name="XTSP" xvalue="0"/>
+        <dimension name="YOPQ" xvalue="79"/>
+        <dimension name="YTAS" xvalue="768"/>
+        <dimension name="YTDE" xvalue="-208"/>
+        <dimension name="YTFI" xvalue="743"/>
+        <dimension name="YTLC" xvalue="526"/>
+        <dimension name="YTOS" xvalue="30"/>
+        <dimension name="YTUC" xvalue="728"/>
+        <dimension name="YTTL" xvalue="25"/>
+        <dimension name="XTTW" xvalue="5"/>
+      </location>
+    </instance>
+    <instance familyname="RobotoAvar2" stylename="opsz14-wdth100-wght1000" filename="instances/RobotoAvar2-opsz14-wdth100-wght1000.ufo">
+      <location>
+        <dimension name="Optical size" xvalue="14"/>
+        <dimension name="Slant" xvalue="0"/>
+        <dimension name="Weight" xvalue="400"/>
+        <dimension name="Width" xvalue="100"/>
+        <dimension name="VANG" xvalue="0"/>
+        <dimension name="VROT" xvalue="0"/>
+        <dimension name="SQRD" xvalue="0"/>
+        <dimension name="XOPQ" xvalue="210"/>
+        <dimension name="XTRA" xvalue="360"/>
+        <dimension name="XTSP" xvalue="0"/>
+        <dimension name="YOPQ" xvalue="156"/>
+        <dimension name="YTAS" xvalue="768"/>
+        <dimension name="YTDE" xvalue="-208"/>
+        <dimension name="YTFI" xvalue="743"/>
+        <dimension name="YTLC" xvalue="526"/>
+        <dimension name="YTOS" xvalue="30"/>
+        <dimension name="YTUC" xvalue="728"/>
+        <dimension name="YTTL" xvalue="25"/>
+        <dimension name="XTTW" xvalue="5"/>
+      </location>
+    </instance>
+    <instance familyname="RobotoAvar2" stylename="opsz14-wdth151-wght400" filename="instances/RobotoAvar2-opsz14-wdth151-wght400.ufo">
       <location>
         <dimension name="Optical size" xvalue="14"/>
         <dimension name="Slant" xvalue="0"/>
@@ -1123,7 +1376,145 @@
         <dimension name="XTTW" xvalue="5"/>
       </location>
     </instance>
-    <instance familyname="RobotoAvar2" stylename="opsz144" filename="instances/RobotoAvar2-opsz144.ufo">
+    <instance familyname="RobotoAvar2" stylename="opsz14-wdth151-wght100" filename="instances/RobotoAvar2-opsz14-wdth151-wght100.ufo">
+      <location>
+        <dimension name="Optical size" xvalue="14"/>
+        <dimension name="Slant" xvalue="0"/>
+        <dimension name="Weight" xvalue="400"/>
+        <dimension name="Width" xvalue="100"/>
+        <dimension name="VANG" xvalue="0"/>
+        <dimension name="VROT" xvalue="0"/>
+        <dimension name="SQRD" xvalue="0"/>
+        <dimension name="XOPQ" xvalue="53"/>
+        <dimension name="XTRA" xvalue="602"/>
+        <dimension name="XTSP" xvalue="0"/>
+        <dimension name="YOPQ" xvalue="46"/>
+        <dimension name="YTAS" xvalue="768"/>
+        <dimension name="YTDE" xvalue="-208"/>
+        <dimension name="YTFI" xvalue="743"/>
+        <dimension name="YTLC" xvalue="526"/>
+        <dimension name="YTOS" xvalue="30"/>
+        <dimension name="YTUC" xvalue="728"/>
+        <dimension name="YTTL" xvalue="25"/>
+        <dimension name="XTTW" xvalue="5"/>
+      </location>
+    </instance>
+    <instance familyname="RobotoAvar2" stylename="opsz14-wdth151-wght1000" filename="instances/RobotoAvar2-opsz14-wdth151-wght1000.ufo">
+      <location>
+        <dimension name="Optical size" xvalue="14"/>
+        <dimension name="Slant" xvalue="0"/>
+        <dimension name="Weight" xvalue="400"/>
+        <dimension name="Width" xvalue="100"/>
+        <dimension name="VANG" xvalue="0"/>
+        <dimension name="VROT" xvalue="0"/>
+        <dimension name="SQRD" xvalue="0"/>
+        <dimension name="XOPQ" xvalue="214"/>
+        <dimension name="XTRA" xvalue="410"/>
+        <dimension name="XTSP" xvalue="0"/>
+        <dimension name="YOPQ" xvalue="158"/>
+        <dimension name="YTAS" xvalue="768"/>
+        <dimension name="YTDE" xvalue="-208"/>
+        <dimension name="YTFI" xvalue="743"/>
+        <dimension name="YTLC" xvalue="526"/>
+        <dimension name="YTOS" xvalue="30"/>
+        <dimension name="YTUC" xvalue="728"/>
+        <dimension name="YTTL" xvalue="25"/>
+        <dimension name="XTTW" xvalue="5"/>
+      </location>
+    </instance>
+    <instance familyname="RobotoAvar2" stylename="opsz144-wdth25-wght100" filename="instances/RobotoAvar2-opsz144-wdth25-wght100.ufo">
+      <location>
+        <dimension name="Optical size" xvalue="144"/>
+        <dimension name="Slant" xvalue="0"/>
+        <dimension name="Weight" xvalue="400"/>
+        <dimension name="Width" xvalue="100"/>
+        <dimension name="VANG" xvalue="0"/>
+        <dimension name="VROT" xvalue="0"/>
+        <dimension name="SQRD" xvalue="0"/>
+        <dimension name="XOPQ" xvalue="4"/>
+        <dimension name="XTRA" xvalue="256"/>
+        <dimension name="XTSP" xvalue="-10"/>
+        <dimension name="YOPQ" xvalue="4"/>
+        <dimension name="YTAS" xvalue="768"/>
+        <dimension name="YTDE" xvalue="-208"/>
+        <dimension name="YTFI" xvalue="743"/>
+        <dimension name="YTLC" xvalue="458"/>
+        <dimension name="YTOS" xvalue="30"/>
+        <dimension name="YTUC" xvalue="728"/>
+        <dimension name="YTTL" xvalue="25"/>
+        <dimension name="XTTW" xvalue="5"/>
+      </location>
+    </instance>
+    <instance familyname="RobotoAvar2" stylename="opsz144-wdth25-wght400" filename="instances/RobotoAvar2-opsz144-wdth25-wght400.ufo">
+      <location>
+        <dimension name="Optical size" xvalue="144"/>
+        <dimension name="Slant" xvalue="0"/>
+        <dimension name="Weight" xvalue="400"/>
+        <dimension name="Width" xvalue="100"/>
+        <dimension name="VANG" xvalue="0"/>
+        <dimension name="VROT" xvalue="0"/>
+        <dimension name="SQRD" xvalue="0"/>
+        <dimension name="XOPQ" xvalue="48.737"/>
+        <dimension name="XTRA" xvalue="244"/>
+        <dimension name="XTSP" xvalue="-10"/>
+        <dimension name="YOPQ" xvalue="48"/>
+        <dimension name="YTAS" xvalue="768"/>
+        <dimension name="YTDE" xvalue="-208"/>
+        <dimension name="YTFI" xvalue="743"/>
+        <dimension name="YTLC" xvalue="458"/>
+        <dimension name="YTOS" xvalue="30"/>
+        <dimension name="YTUC" xvalue="728"/>
+        <dimension name="YTTL" xvalue="25"/>
+        <dimension name="XTTW" xvalue="5"/>
+      </location>
+    </instance>
+    <instance familyname="RobotoAvar2" stylename="opsz144-wdth25-wght1000" filename="instances/RobotoAvar2-opsz144-wdth25-wght1000.ufo">
+      <location>
+        <dimension name="Optical size" xvalue="144"/>
+        <dimension name="Slant" xvalue="0"/>
+        <dimension name="Weight" xvalue="400"/>
+        <dimension name="Width" xvalue="100"/>
+        <dimension name="VANG" xvalue="0"/>
+        <dimension name="VROT" xvalue="0"/>
+        <dimension name="SQRD" xvalue="0"/>
+        <dimension name="XOPQ" xvalue="248"/>
+        <dimension name="XTRA" xvalue="244"/>
+        <dimension name="XTSP" xvalue="-10"/>
+        <dimension name="YOPQ" xvalue="228"/>
+        <dimension name="YTAS" xvalue="768"/>
+        <dimension name="YTDE" xvalue="-208"/>
+        <dimension name="YTFI" xvalue="743"/>
+        <dimension name="YTLC" xvalue="458"/>
+        <dimension name="YTOS" xvalue="30"/>
+        <dimension name="YTUC" xvalue="728"/>
+        <dimension name="YTTL" xvalue="25"/>
+        <dimension name="XTTW" xvalue="5"/>
+      </location>
+    </instance>
+    <instance familyname="RobotoAvar2" stylename="opsz144-wdth100-wght100" filename="instances/RobotoAvar2-opsz144-wdth100-wght100.ufo">
+      <location>
+        <dimension name="Optical size" xvalue="144"/>
+        <dimension name="Slant" xvalue="0"/>
+        <dimension name="Weight" xvalue="400"/>
+        <dimension name="Width" xvalue="100"/>
+        <dimension name="VANG" xvalue="0"/>
+        <dimension name="VROT" xvalue="0"/>
+        <dimension name="SQRD" xvalue="0"/>
+        <dimension name="XOPQ" xvalue="4"/>
+        <dimension name="XTRA" xvalue="520"/>
+        <dimension name="XTSP" xvalue="-10"/>
+        <dimension name="YOPQ" xvalue="4"/>
+        <dimension name="YTAS" xvalue="768"/>
+        <dimension name="YTDE" xvalue="-208"/>
+        <dimension name="YTFI" xvalue="743"/>
+        <dimension name="YTLC" xvalue="458"/>
+        <dimension name="YTOS" xvalue="30"/>
+        <dimension name="YTUC" xvalue="728"/>
+        <dimension name="YTTL" xvalue="25"/>
+        <dimension name="XTTW" xvalue="5"/>
+      </location>
+    </instance>
+    <instance familyname="RobotoAvar2" stylename="opsz144-wdth100-wght400" filename="instances/RobotoAvar2-opsz144-wdth100-wght400.ufo">
       <location>
         <dimension name="Optical size" xvalue="144"/>
         <dimension name="Slant" xvalue="0"/>
@@ -1146,23 +1537,92 @@
         <dimension name="XTTW" xvalue="5"/>
       </location>
     </instance>
-    <instance familyname="RobotoAvar2" stylename="opsz8" filename="instances/RobotoAvar2-opsz8.ufo">
+    <instance familyname="RobotoAvar2" stylename="opsz144-wdth100-wght1000" filename="instances/RobotoAvar2-opsz144-wdth100-wght1000.ufo">
       <location>
-        <dimension name="Optical size" xvalue="8"/>
+        <dimension name="Optical size" xvalue="144"/>
         <dimension name="Slant" xvalue="0"/>
         <dimension name="Weight" xvalue="400"/>
         <dimension name="Width" xvalue="100"/>
         <dimension name="VANG" xvalue="0"/>
         <dimension name="VROT" xvalue="0"/>
         <dimension name="SQRD" xvalue="0"/>
-        <dimension name="XOPQ" xvalue="103"/>
-        <dimension name="XTRA" xvalue="484"/>
-        <dimension name="XTSP" xvalue="0"/>
-        <dimension name="YOPQ" xvalue="86"/>
+        <dimension name="XOPQ" xvalue="300"/>
+        <dimension name="XTRA" xvalue="244"/>
+        <dimension name="XTSP" xvalue="-10"/>
+        <dimension name="YOPQ" xvalue="228"/>
         <dimension name="YTAS" xvalue="768"/>
         <dimension name="YTDE" xvalue="-208"/>
         <dimension name="YTFI" xvalue="743"/>
-        <dimension name="YTLC" xvalue="526"/>
+        <dimension name="YTLC" xvalue="458"/>
+        <dimension name="YTOS" xvalue="30"/>
+        <dimension name="YTUC" xvalue="728"/>
+        <dimension name="YTTL" xvalue="25"/>
+        <dimension name="XTTW" xvalue="5"/>
+      </location>
+    </instance>
+    <instance familyname="RobotoAvar2" stylename="opsz144-wdth151-wght100" filename="instances/RobotoAvar2-opsz144-wdth151-wght100.ufo">
+      <location>
+        <dimension name="Optical size" xvalue="144"/>
+        <dimension name="Slant" xvalue="0"/>
+        <dimension name="Weight" xvalue="400"/>
+        <dimension name="Width" xvalue="100"/>
+        <dimension name="VANG" xvalue="0"/>
+        <dimension name="VROT" xvalue="0"/>
+        <dimension name="SQRD" xvalue="0"/>
+        <dimension name="XOPQ" xvalue="4"/>
+        <dimension name="XTRA" xvalue="605"/>
+        <dimension name="XTSP" xvalue="-10"/>
+        <dimension name="YOPQ" xvalue="4"/>
+        <dimension name="YTAS" xvalue="768"/>
+        <dimension name="YTDE" xvalue="-208"/>
+        <dimension name="YTFI" xvalue="743"/>
+        <dimension name="YTLC" xvalue="458"/>
+        <dimension name="YTOS" xvalue="30"/>
+        <dimension name="YTUC" xvalue="728"/>
+        <dimension name="YTTL" xvalue="25"/>
+        <dimension name="XTTW" xvalue="5"/>
+      </location>
+    </instance>
+    <instance familyname="RobotoAvar2" stylename="opsz144-wdth151-wght400" filename="instances/RobotoAvar2-opsz144-wdth151-wght400.ufo">
+      <location>
+        <dimension name="Optical size" xvalue="144"/>
+        <dimension name="Slant" xvalue="0"/>
+        <dimension name="Weight" xvalue="400"/>
+        <dimension name="Width" xvalue="100"/>
+        <dimension name="VANG" xvalue="0"/>
+        <dimension name="VROT" xvalue="0"/>
+        <dimension name="SQRD" xvalue="0"/>
+        <dimension name="XOPQ" xvalue="57"/>
+        <dimension name="XTRA" xvalue="605"/>
+        <dimension name="XTSP" xvalue="-10"/>
+        <dimension name="YOPQ" xvalue="50"/>
+        <dimension name="YTAS" xvalue="768"/>
+        <dimension name="YTDE" xvalue="-208"/>
+        <dimension name="YTFI" xvalue="743"/>
+        <dimension name="YTLC" xvalue="458"/>
+        <dimension name="YTOS" xvalue="30"/>
+        <dimension name="YTUC" xvalue="728"/>
+        <dimension name="YTTL" xvalue="25"/>
+        <dimension name="XTTW" xvalue="5"/>
+      </location>
+    </instance>
+    <instance familyname="RobotoAvar2" stylename="opsz144-wdth151-wght1000" filename="instances/RobotoAvar2-opsz144-wdth151-wght1000.ufo">
+      <location>
+        <dimension name="Optical size" xvalue="144"/>
+        <dimension name="Slant" xvalue="0"/>
+        <dimension name="Weight" xvalue="400"/>
+        <dimension name="Width" xvalue="100"/>
+        <dimension name="VANG" xvalue="0"/>
+        <dimension name="VROT" xvalue="0"/>
+        <dimension name="SQRD" xvalue="0"/>
+        <dimension name="XOPQ" xvalue="300"/>
+        <dimension name="XTRA" xvalue="380"/>
+        <dimension name="XTSP" xvalue="-10"/>
+        <dimension name="YOPQ" xvalue="250"/>
+        <dimension name="YTAS" xvalue="768"/>
+        <dimension name="YTDE" xvalue="-208"/>
+        <dimension name="YTFI" xvalue="743"/>
+        <dimension name="YTLC" xvalue="458"/>
         <dimension name="YTOS" xvalue="30"/>
         <dimension name="YTUC" xvalue="728"/>
         <dimension name="YTTL" xvalue="25"/>
