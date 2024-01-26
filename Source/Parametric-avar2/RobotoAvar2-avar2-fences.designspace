@@ -175,21 +175,92 @@
           <dimension name="XTTW" xvalue="5"/>
         </output>
       </mapping>
+      
       <mapping>
         <input>
+          <dimension name="Optical size" xvalue="14"/>
           <dimension name="Weight" xvalue="400"/>
           <dimension name="XTRA" xvalue="390"/>
         </input>
         <output>
+          <dimension name="Optical size" xvalue="14"/>
+          <dimension name="Weight" xvalue="400"/>
           <dimension name="XTRA" xvalue="244"/>
         </output>
       </mapping>
+      <mapping>
+        <input>
+          <dimension name="Optical size" xvalue="14"/>
+          <dimension name="Weight" xvalue="400"/>
+          <dimension name="XTRA" xvalue="244"/>
+        </input>
+        <output>
+          <dimension name="Optical size" xvalue="14"/>
+          <dimension name="Weight" xvalue="400"/>
+          <dimension name="XTRA" xvalue="244"/>
+        </output>
+      </mapping>
+      
+      <mapping>
+        <input>
+          <dimension name="Optical size" xvalue="8"/>
+          <dimension name="Weight" xvalue="400"/>
+          <dimension name="XTRA" xvalue="420"/>
+        </input>
+        <output>
+          <dimension name="Optical size" xvalue="8"/>
+          <dimension name="Weight" xvalue="400"/>
+          <dimension name="XTRA" xvalue="244"/>
+        </output>
+      </mapping>
+      <mapping>
+        <input>
+          <dimension name="Optical size" xvalue="8"/>
+          <dimension name="Weight" xvalue="400"/>
+          <dimension name="XTRA" xvalue="244"/>
+        </input>
+        <output>
+          <dimension name="Optical size" xvalue="8"/>
+          <dimension name="Weight" xvalue="400"/>
+          <dimension name="XTRA" xvalue="244"/>
+        </output>
+      </mapping>
+      
+<!--
+      <mapping>
+        <input>
+          <dimension name="Optical size" xvalue="8"/>
+          <dimension name="Weight" xvalue="400"/>
+          <dimension name="XTRA" xvalue="420"/>
+        </input>
+        <output>
+          <dimension name="Optical size" xvalue="8"/>
+          <dimension name="Weight" xvalue="400"/>
+          <dimension name="XTRA" xvalue="244"/>
+        </output>
+      </mapping>
+      <mapping>
+        <input>
+          <dimension name="Optical size" xvalue="8"/>
+          <dimension name="Weight" xvalue="400"/>
+          <dimension name="XTRA" xvalue="244"/>
+        </input>
+        <output>
+          <dimension name="Optical size" xvalue="8"/>
+          <dimension name="Weight" xvalue="400"/>
+          <dimension name="XTRA" xvalue="245"/>
+        </output>
+      </mapping>
+-->
+      
+<!--
       <mapping>
         <input>
           <dimension name="Weight" xvalue="400"/>
           <dimension name="XTRA" xvalue="510"/>
         </input>
         <output>
+          <dimension name="Weight" xvalue="400"/>
           <dimension name="XTRA" xvalue="605"/>
         </output>
       </mapping>
@@ -247,6 +318,7 @@
           <dimension name="XTSP" xvalue="100"/>
         </output>
       </mapping>
+-->
     </mappings>
   </axes>
   <sources>
