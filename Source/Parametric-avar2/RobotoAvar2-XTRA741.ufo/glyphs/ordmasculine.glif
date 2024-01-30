@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ordmasculine" format="2">
+  <advance width="1064"/>
+  <unicode hex="00BA"/>
+  <guideline x="0" y="1975.0" angle="0" identifier="Jnt0R9CyOf"/>
+  <outline>
+    <contour>
+      <point x="165.77006113529208" y="1044.970285902608" type="qcurve"/>
+      <point x="165.77006113529208" y="1122.0297140973928" type="line"/>
+      <point x="165.77006113529208" y="1276.891714179783"/>
+      <point x="363.82320524007105" y="1477.0000000000007"/>
+      <point x="531.9676348766981" y="1477.0000000000007" type="qcurve" smooth="yes"/>
+      <point x="701.1736359477818" y="1477.0000000000007"/>
+      <point x="898.2267800525607" y="1276.891714179783"/>
+      <point x="898.2267800525607" y="1122.0297140973928" type="qcurve"/>
+      <point x="898.2267800525607" y="1044.970285902608" type="line"/>
+      <point x="898.2267800525607" y="890.1082858202169"/>
+      <point x="702.2967788166948" y="691.0000000000003"/>
+      <point x="534.090777745611" y="691.0000000000003" type="qcurve" smooth="yes"/>
+      <point x="364.94634810898395" y="691.0000000000003"/>
+      <point x="165.77006113529208" y="890.1082858202169"/>
+    </contour>
+    <contour>
+      <point x="352.9676348766981" y="1124.0000000000007" type="qcurve"/>
+      <point x="352.9676348766981" y="1043.0" type="line"/>
+      <point x="352.9676348766981" y="952.0"/>
+      <point x="441.96763487669796" y="830.0"/>
+      <point x="533.967634876698" y="830.0" type="qcurve" smooth="yes"/>
+      <point x="622.9676348766981" y="830.0"/>
+      <point x="711.9676348766981" y="952.0"/>
+      <point x="711.9676348766981" y="1043.0" type="qcurve"/>
+      <point x="711.9676348766981" y="1124.0000000000007" type="line"/>
+      <point x="711.9676348766981" y="1213.0"/>
+      <point x="621.9676348766981" y="1336.0"/>
+      <point x="531.9676348766981" y="1336.0" type="qcurve" smooth="yes"/>
+      <point x="441.96763487669796" y="1336.0"/>
+      <point x="352.9676348766981" y="1213.0"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.guideline.magnetic.Jnt0R9CyOf</key>
+      <integer>5</integer>
+    </dict>
+  </lib>
+</glyph>

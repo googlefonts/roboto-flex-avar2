@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ogonekcomb" format="2">
+  <unicode hex="0328"/>
+  <anchor x="88.0" y="0.0" name="_ogonek"/>
+  <anchor x="21.0" y="-434.0" name="bottom"/>
+  <outline>
+    <contour>
+      <point x="4.0" y="57.00000000000002" type="qcurve"/>
+      <point x="88.0" y="0.0" type="line"/>
+      <point x="26.00000000000001" y="-42.0"/>
+      <point x="-49.0" y="-144.00000000000009"/>
+      <point x="-49.0" y="-203.0" type="qcurve" smooth="yes"/>
+      <point x="-49.0" y="-252.00000000000009"/>
+      <point x="8.0" y="-296.0"/>
+      <point x="45.0" y="-295.0" type="qcurve" smooth="yes"/>
+      <point x="78.0" y="-294.0"/>
+      <point x="126.00000000000004" y="-276.00000000000017"/>
+      <point x="140.0" y="-268.0" type="qcurve"/>
+      <point x="175.0" y="-390.0" type="line"/>
+      <point x="152.0" y="-405.0"/>
+      <point x="80.0" y="-434.0"/>
+      <point x="16.997856760327267" y="-434.0" type="qcurve" smooth="yes"/>
+      <point x="-89.52657205238938" y="-434.0"/>
+      <point x="-217.2357151684756" y="-310.0"/>
+      <point x="-217.2357151684756" y="-230.00000000000009" type="qcurve" smooth="yes"/>
+      <point x="-217.2357151684756" y="-144.90657122847887"/>
+      <point x="-115.35671479771581" y="-0.9532856142394386"/>
+    </contour>
+  </outline>
+</glyph>

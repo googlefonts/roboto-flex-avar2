@@ -9,7 +9,7 @@
     <axis tag="VROT" name="VROT" minimum="0" maximum="13" default="0"/>
     <axis tag="SQRD" name="SQRD" minimum="0" maximum="1" default="0"/>
     <axis tag="XOPQ" name="XOPQ" minimum="2" maximum="310" default="96"/>
-    <axis tag="XTRA" name="XTRA" minimum="244" maximum="605" default="463"/>
+    <axis tag="XTRA" name="XTRA" minimum="244" maximum="741" default="463"/>
     <axis tag="XTSP" name="XTSP" minimum="-100" maximum="100" default="0"/>
     <axis tag="YOPQ" name="YOPQ" minimum="2" maximum="280" default="79"/>
     <axis tag="YTAS" name="YTAS" minimum="665" maximum="875" default="768"/>
@@ -261,7 +261,7 @@
         </input>
         <output>
           <dimension name="Weight" xvalue="400"/>
-          <dimension name="XTRA" xvalue="605"/>
+          <dimension name="XTRA" xvalue="741"/>
         </output>
       </mapping>
       <mapping>
@@ -667,7 +667,7 @@
         <dimension name="XTTW" xvalue="5"/>
       </location>
     </source>
-    <source filename="RobotoAvar2-XTRA605.ufo" familyname="RobotoAvar2" stylename="XTRA605">
+    <source filename="RobotoAvar2-XTRA741.ufo" familyname="RobotoAvar2" stylename="XTRA741">
       <location>
         <dimension name="Optical size" xvalue="14"/>
         <dimension name="Slant" xvalue="0"/>
@@ -677,7 +677,7 @@
         <dimension name="VROT" xvalue="0"/>
         <dimension name="SQRD" xvalue="0"/>
         <dimension name="XOPQ" xvalue="96"/>
-        <dimension name="XTRA" xvalue="605"/>
+        <dimension name="XTRA" xvalue="741"/>
         <dimension name="XTSP" xvalue="0"/>
         <dimension name="YOPQ" xvalue="79"/>
         <dimension name="YTAS" xvalue="768"/>
@@ -1300,7 +1300,7 @@
         <dimension name="VROT" xvalue="0"/>
         <dimension name="SQRD" xvalue="0"/>
         <dimension name="XOPQ" xvalue="60"/>
-        <dimension name="XTRA" xvalue="605"/>
+        <dimension name="XTRA" xvalue="741"/>
         <dimension name="XTSP" xvalue="-10"/>
         <dimension name="YOPQ" xvalue="54"/>
         <dimension name="YTAS" xvalue="768"/>
@@ -1714,7 +1714,7 @@
         <dimension name="VROT" xvalue="0"/>
         <dimension name="SQRD" xvalue="0"/>
         <dimension name="XOPQ" xvalue="4"/>
-        <dimension name="XTRA" xvalue="605"/>
+        <dimension name="XTRA" xvalue="741"/>
         <dimension name="XTSP" xvalue="30"/>
         <dimension name="YOPQ" xvalue="4"/>
         <dimension name="YTAS" xvalue="768"/>
@@ -1737,7 +1737,7 @@
         <dimension name="VROT" xvalue="0"/>
         <dimension name="SQRD" xvalue="0"/>
         <dimension name="XOPQ" xvalue="57"/>
-        <dimension name="XTRA" xvalue="605"/>
+        <dimension name="XTRA" xvalue="741"/>
         <dimension name="XTSP" xvalue="30"/>
         <dimension name="YOPQ" xvalue="50"/>
         <dimension name="YTAS" xvalue="768"/>
