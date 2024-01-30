@@ -1,9 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Ghestroke" format="2">
-  <advance width="1186"/>
+  <advance width="1101"/>
   <outline>
-    <component base="Gamma"/>
-    <component base="horizontalbar" xOffset="2.4012859438036407"/>
+    <component base="Gamma" xOffset="-2"/>
+    <component base="horizontalbar"/>
   </outline>
   <lib>
     <dict>

@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="dje" format="2">
-  <advance width="1270"/>
+  <advance width="1640"/>
   <unicode hex="0452"/>
   <outline>
-    <component base="h"/>
-    <component base="horizontalbarlc" xOffset="-15.578571722825176" yOffset="597.9999999999997"/>
-    <component base="engtail" xOffset="502.6285737826017"/>
+    <component base="h" xOffset="-37.17589679278679"/>
+    <component base="horizontalbarlc" xOffset="-53.17589679278679" yOffset="598"/>
+    <component base="engtail" xOffset="465.8241032072132"/>
   </outline>
   <lib>
     <dict>

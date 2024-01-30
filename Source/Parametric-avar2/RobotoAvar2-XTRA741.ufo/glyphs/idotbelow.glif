@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="idotbelow" format="2">
-  <advance width="605"/>
+  <advance width="529"/>
   <unicode hex="1ECB"/>
   <outline>
-    <component base="idotless"/>
-    <component base="idot" xOffset="304.0443265941961"/>
-    <component base="dotbelowcomb" xOffset="304.0443265941961"/>
+    <component base="idotless" xOffset="-33"/>
+    <component base="idot" xOffset="271"/>
+    <component base="dotbelowcomb" xOffset="271"/>
   </outline>
   <lib>
     <dict>

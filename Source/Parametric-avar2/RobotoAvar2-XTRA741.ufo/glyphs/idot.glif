@@ -1,20 +1,21 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="idot" format="2">
-  <anchor x="0.0" y="1052.0" name="_top"/>
+  <advance width="24"/>
+  <anchor x="12.0" y="1052.0" name="_top"/>
   <outline>
     <contour>
-      <point x="-128.3758583257572" y="1364.8279995056532" type="qcurve" smooth="yes"/>
-      <point x="-128.3758583257572" y="1415.5838570075007"/>
-      <point x="-61.972429142280845" y="1484.6942860673903"/>
-      <point x="0.0" y="1484.6942860673903" type="qcurve" smooth="yes"/>
-      <point x="62.03400057673737" y="1484.6942860673903"/>
-      <point x="128.43742976021375" y="1415.5838570075007"/>
-      <point x="128.43742976021375" y="1364.8279995056532" type="qcurve" smooth="yes"/>
-      <point x="128.43742976021375" y="1314.1337134382638"/>
-      <point x="62.03400057673737" y="1245.0232843783742"/>
-      <point x="0.0" y="1245.0232843783742" type="qcurve" smooth="yes"/>
-      <point x="-61.972429142280845" y="1245.0232843783742"/>
-      <point x="-128.3758583257572" y="1314.1337134382638"/>
+      <point x="-116" y="1365" type="qcurve" smooth="yes"/>
+      <point x="-116" y="1416"/>
+      <point x="-50" y="1485"/>
+      <point x="12" y="1485" type="qcurve" smooth="yes"/>
+      <point x="74" y="1485"/>
+      <point x="140" y="1416"/>
+      <point x="140" y="1365" type="qcurve" smooth="yes"/>
+      <point x="140" y="1314"/>
+      <point x="74" y="1245"/>
+      <point x="12" y="1245" type="qcurve" smooth="yes"/>
+      <point x="-50" y="1245"/>
+      <point x="-116" y="1314"/>
     </contour>
   </outline>
 </glyph>

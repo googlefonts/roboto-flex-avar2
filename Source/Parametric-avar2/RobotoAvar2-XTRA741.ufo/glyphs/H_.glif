@@ -1,30 +1,30 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="H" format="2">
-  <advance width="2344"/>
+  <advance width="2260"/>
   <unicode hex="0048"/>
-  <anchor x="1251.8802121089998" y="0.0" name="bottom"/>
-  <anchor x="1251.8802121089998" y="1100.0" name="center"/>
-  <anchor x="1251.8802121089998" y="1456.0" name="top"/>
-  <anchor x="2008.5520875720968" y="0.0" name="cy_descender"/>
-  <anchor x="-33.824103207213234" y="1074.0" name="tonos"/>
+  <anchor x="1210" y="0.0" name="bottom"/>
+  <anchor x="1210" y="1100.0" name="center"/>
+  <anchor x="1210" y="1456.0" name="top"/>
+  <anchor x="1967" y="0.0" name="cy_descender"/>
+  <anchor x="-76" y="1074.0" name="tonos"/>
   <outline>
     <contour>
-      <point x="212" y="0" type="line"/>
-      <point x="212" y="1456" type="line"/>
-      <point x="430" y="1456" type="line"/>
-      <point x="430" y="0" type="line"/>
+      <point x="170" y="0" type="line"/>
+      <point x="170" y="1456" type="line"/>
+      <point x="388" y="1456" type="line"/>
+      <point x="388" y="0" type="line"/>
     </contour>
     <contour>
-      <point x="327" y="669" type="line"/>
-      <point x="327" y="834" type="line"/>
-      <point x="2018" y="834" type="line"/>
-      <point x="2018" y="669" type="line"/>
+      <point x="285" y="669" type="line"/>
+      <point x="285" y="834" type="line"/>
+      <point x="1976" y="834" type="line"/>
+      <point x="1976" y="669" type="line"/>
     </contour>
     <contour>
-      <point x="1913" y="0" type="line"/>
-      <point x="1913" y="1456" type="line"/>
-      <point x="2132" y="1456" type="line"/>
-      <point x="2132" y="0" type="line"/>
+      <point x="1871" y="0" type="line"/>
+      <point x="1871" y="1456" type="line"/>
+      <point x="2090" y="1456" type="line"/>
+      <point x="2090" y="0" type="line"/>
     </contour>
   </outline>
 </glyph>

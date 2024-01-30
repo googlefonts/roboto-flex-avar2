@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="onequarter" format="2">
-  <advance width="1668"/>
+  <advance width="1630"/>
   <unicode hex="00BC"/>
   <outline>
     <component base="onesuperior"/>
-    <component base="fraction" xOffset="674.6285737826017"/>
-    <component base="foursuperior" xOffset="824.6285737826013" yOffset="-697.0000000000003"/>
+    <component base="fraction" xOffset="675"/>
+    <component base="foursuperior" xOffset="825" yOffset="-697"/>
   </outline>
   <lib>
     <dict>

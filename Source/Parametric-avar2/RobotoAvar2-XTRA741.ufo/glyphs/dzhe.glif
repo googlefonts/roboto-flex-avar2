@@ -1,23 +1,23 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="dzhe" format="2">
-  <advance width="1260"/>
+  <advance width="1177"/>
   <unicode hex="045F"/>
   <outline>
     <contour>
-      <point x="189.17589679278677" y="0.0" type="line"/>
-      <point x="189.17589679278677" y="1052.0" type="line"/>
-      <point x="399.8044705753883" y="1052.0" type="line"/>
-      <point x="399.8044705753883" y="145.0" type="line"/>
-      <point x="859.8044705753881" y="145.0" type="line"/>
-      <point x="859.8044705753881" y="1052.0" type="line"/>
-      <point x="1070.4330443579897" y="1052.0" type="line"/>
-      <point x="1070.4330443579897" y="0.0" type="line"/>
+      <point x="148" y="0" type="line"/>
+      <point x="148" y="1052" type="line"/>
+      <point x="359" y="1052" type="line"/>
+      <point x="359" y="145" type="line"/>
+      <point x="819" y="145" type="line"/>
+      <point x="819" y="1052" type="line"/>
+      <point x="1029" y="1052" type="line"/>
+      <point x="1029" y="0" type="line"/>
     </contour>
     <contour>
-      <point x="545.8044705753883" y="-270.0" type="line"/>
-      <point x="545.8044705753883" y="70.0" type="line"/>
-      <point x="713.8044705753885" y="70.0" type="line"/>
-      <point x="713.8044705753885" y="-270.0" type="line"/>
+      <point x="505" y="-270" type="line"/>
+      <point x="505" y="70" type="line"/>
+      <point x="673" y="70" type="line"/>
+      <point x="673" y="-270" type="line"/>
     </contour>
   </outline>
 </glyph>

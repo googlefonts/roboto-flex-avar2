@@ -1,10 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Yi" format="2">
-  <advance width="651"/>
+  <advance width="558"/>
   <unicode hex="0407"/>
   <outline>
-    <component base="I"/>
-    <component base="Yi-dieresiscomb.case" xOffset="325.5984695043048"/>
+    <component base="I" xOffset="-47.057284955111015"/>
+    <component base="Yi-dieresiscomb.case" xOffset="278.942715044889"/>
   </outline>
   <lib>
     <dict>

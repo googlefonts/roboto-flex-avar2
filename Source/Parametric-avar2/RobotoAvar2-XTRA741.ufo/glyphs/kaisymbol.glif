@@ -1,26 +1,26 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="kaisymbol" format="2">
-  <advance width="1162"/>
+  <advance width="1081"/>
   <unicode hex="03D7"/>
   <outline>
     <contour>
-      <point x="189.17589679278677" y="0.0" type="line"/>
-      <point x="189.17589679278677" y="1052.0" type="line"/>
-      <point x="399.8044705753883" y="1052.0" type="line"/>
-      <point x="399.8044705753883" y="0.0" type="line"/>
+      <point x="148" y="0" type="line"/>
+      <point x="148" y="1052" type="line"/>
+      <point x="359" y="1052" type="line"/>
+      <point x="359" y="0" type="line"/>
     </contour>
     <contour>
-      <point x="307.49018368408747" y="465.0" type="line"/>
-      <point x="307.49018368408747" y="610.0" type="line"/>
-      <point x="485.8044705753883" y="610.0" type="line"/>
-      <point x="870.8044705753885" y="1052.0" type="line"/>
-      <point x="1088.8044705753882" y="1052.0" type="line"/>
-      <point x="654.948900212015" y="557.6837154980398" type="line"/>
-      <point x="1126.7960432457105" y="24.144429636627155" type="line"/>
-      <point x="414.8044705753881" y="-590.0" type="line"/>
-      <point x="296.8044705753883" y="-454.0" type="line"/>
-      <point x="870.8044705753885" y="28.0" type="line"/>
-      <point x="487.8044705753883" y="465.0" type="line"/>
+      <point x="266" y="465" type="line"/>
+      <point x="266" y="610" type="line"/>
+      <point x="445" y="610" type="line"/>
+      <point x="830" y="1052" type="line"/>
+      <point x="1048" y="1052" type="line"/>
+      <point x="614" y="558" type="line"/>
+      <point x="1086" y="24" type="line"/>
+      <point x="374" y="-590" type="line"/>
+      <point x="256" y="-454" type="line"/>
+      <point x="830" y="28" type="line"/>
+      <point x="447" y="465" type="line"/>
     </contour>
   </outline>
 </glyph>

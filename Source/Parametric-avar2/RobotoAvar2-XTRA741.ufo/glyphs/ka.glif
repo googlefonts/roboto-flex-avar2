@@ -1,30 +1,30 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="ka" format="2">
-  <advance width="1175"/>
+  <advance width="1092"/>
   <unicode hex="043A"/>
   <guideline x="241.0" y="553.0" angle="90.0" identifier="lmgRx0QBdK"/>
-  <anchor x="648.447755777672" y="1052.0" name="top"/>
-  <anchor x="931.0041875564672" y="0.0" name="cy_descender"/>
+  <anchor x="607" y="1052.0" name="top"/>
+  <anchor x="890" y="0.0" name="cy_descender"/>
   <outline>
     <contour>
-      <point x="895.8044705753885" y="0.0" type="line"/>
-      <point x="475.94247049299736" y="478.16985725467356" type="line"/>
-      <point x="614.5710442755986" y="604.1698572546734" type="line"/>
-      <point x="1148.4330443579895" y="0.0" type="line"/>
+      <point x="855" y="0" type="line"/>
+      <point x="435" y="478" type="line"/>
+      <point x="574" y="604" type="line"/>
+      <point x="1107" y="0" type="line"/>
     </contour>
     <contour>
-      <point x="294.49018368408747" y="610.0" type="line"/>
-      <point x="502.4287578786443" y="610.0" type="line"/>
-      <point x="887.4287578786443" y="1052.0" type="line"/>
-      <point x="1105.4287578786443" y="1052.0" type="line"/>
-      <point x="590.4287578786443" y="465.0" type="line"/>
-      <point x="294.49018368408747" y="465.0" type="line"/>
+      <point x="253" y="610" type="line"/>
+      <point x="461" y="610" type="line"/>
+      <point x="846" y="1052" type="line"/>
+      <point x="1064" y="1052" type="line"/>
+      <point x="549" y="465" type="line"/>
+      <point x="253" y="465" type="line"/>
     </contour>
     <contour>
-      <point x="399.8044705753883" y="1052.0" type="line"/>
-      <point x="399.8044705753883" y="0.0" type="line"/>
-      <point x="189.17589679278677" y="0.0" type="line"/>
-      <point x="189.17589679278677" y="1052.0" type="line"/>
+      <point x="359" y="1052" type="line"/>
+      <point x="359" y="0" type="line"/>
+      <point x="148" y="0" type="line"/>
+      <point x="148" y="1052" type="line"/>
     </contour>
   </outline>
 </glyph>

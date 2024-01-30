@@ -1,14 +1,15 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="acutecomb-stack" format="2">
-  <anchor x="0.0" y="1053.0000000000007" name="_top"/>
-  <anchor x="0.0" y="1565.186857543042" name="top"/>
+  <advance width="4"/>
+  <anchor x="0.0" y="1053" name="_top"/>
+  <anchor x="0.0" y="1565" name="top"/>
   <anchor x="0.0" y="1052.0" name="_topright"/>
   <outline>
     <contour>
-      <point x="10.0" y="1215.1847143033694" type="line"/>
-      <point x="-102.06157143445655" y="1290.0" type="line"/>
-      <point x="71.7834283595659" y="1565.063714674129" type="line"/>
-      <point x="235.37157184641183" y="1462.692142827717" type="line"/>
+      <point x="10" y="1215" type="line"/>
+      <point x="-102" y="1290" type="line"/>
+      <point x="72" y="1565" type="line"/>
+      <point x="235" y="1463" type="line"/>
     </contour>
   </outline>
 </glyph>

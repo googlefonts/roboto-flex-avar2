@@ -2,16 +2,16 @@
 <glyph name="caroncomb" format="2">
   <unicode hex="030C"/>
   <anchor x="0.0" y="1052.0" name="_top"/>
-  <anchor x="0.0" y="1536.4480003295644" name="top"/>
+  <anchor x="0.0" y="1536" name="top"/>
   <outline>
     <contour>
-      <point x="-59.07857172282519" y="1213.0" type="line"/>
-      <point x="-303.18471430336973" y="1529.8174289363033" type="line"/>
-      <point x="-149.06157143445654" y="1529.8174289363033" type="line"/>
-      <point x="0.0" y="1370.817428936304" type="line"/>
-      <point x="150.93842856554355" y="1529.8174289363033" type="line"/>
-      <point x="303.00000000000017" y="1529.8174289363033" type="line"/>
-      <point x="59.69428606739022" y="1213.0" type="line"/>
+      <point x="-59" y="1213" type="line"/>
+      <point x="-303" y="1530" type="line"/>
+      <point x="-149" y="1530" type="line"/>
+      <point x="0" y="1371" type="line"/>
+      <point x="151" y="1530" type="line"/>
+      <point x="303" y="1530" type="line"/>
+      <point x="60" y="1213" type="line"/>
     </contour>
   </outline>
 </glyph>

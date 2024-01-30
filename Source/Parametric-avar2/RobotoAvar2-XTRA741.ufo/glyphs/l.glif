@@ -1,18 +1,18 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="l" format="2">
-  <advance width="603"/>
+  <advance width="523"/>
   <unicode hex="006C"/>
-  <anchor x="302.73646942191345" y="0.0" name="bottom"/>
-  <anchor x="302.73646942191345" y="791.0000000000003" name="center"/>
-  <anchor x="302.73646942191345" y="1535.9999999999993" name="top"/>
-  <anchor x="508.3586134854968" y="1052.0" name="topright"/>
-  <anchor x="302.428612249631" y="542.0000000000003" name="yu_dash"/>
+  <anchor x="262" y="0.0" name="bottom"/>
+  <anchor x="262" y="791" name="center"/>
+  <anchor x="262" y="1536" name="top"/>
+  <anchor x="467" y="1052.0" name="topright"/>
+  <anchor x="261" y="542" name="yu_dash"/>
   <outline>
     <contour>
-      <point x="197.17589679278677" y="0.0" type="line"/>
-      <point x="197.17589679278677" y="1535.9999999999993" type="line"/>
-      <point x="407.8044705753881" y="1535.9999999999993" type="line"/>
-      <point x="407.8044705753881" y="0.0" type="line"/>
+      <point x="156" y="0" type="line"/>
+      <point x="156" y="1536" type="line"/>
+      <point x="367" y="1536" type="line"/>
+      <point x="367" y="0" type="line"/>
     </contour>
   </outline>
 </glyph>

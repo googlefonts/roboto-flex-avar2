@@ -1,10 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Hbar" format="2">
-  <advance width="1593"/>
+  <advance width="2045"/>
   <unicode hex="0126"/>
   <outline>
-    <component base="H"/>
-    <component base="horizontalbarH" xOffset="15.746894362250798" yOffset="5.5"/>
+    <component base="H" xOffset="-55.528860921075335"/>
+    <component base="horizontalbarH" xOffset="-39.528860921075335" yOffset="6"/>
   </outline>
   <lib>
     <dict>

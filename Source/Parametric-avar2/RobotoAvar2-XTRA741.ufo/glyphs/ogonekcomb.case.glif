@@ -1,29 +1,30 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="ogonekcomb.case" format="2">
-  <anchor x="50.0" y="0.0" name="_ogonek"/>
-  <anchor x="-1.0" y="-497.0" name="bottom"/>
+  <advance width="6"/>
+  <anchor x="56.0" y="0.0" name="_ogonek"/>
+  <anchor x="5.0" y="-497.0" name="bottom"/>
   <outline>
     <contour>
-      <point x="-298.46500061793296" y="-306.0" type="qcurve" smooth="yes"/>
-      <point x="-298.46500061793296" y="-217.0"/>
-      <point x="-168.37157184641174" y="-40.876857131087"/>
-      <point x="-45.0" y="51.00000000000002" type="qcurve"/>
-      <point x="50.0" y="0.0" type="line"/>
-      <point x="-53.21442840076141" y="-104.93842856554355"/>
-      <point x="-116.85985684271833" y="-200.23142868913013"/>
-      <point x="-116.85985684271833" y="-245.23142868913013" type="qcurve" smooth="yes"/>
-      <point x="-116.85985684271833" y="-292.6157143445651"/>
-      <point x="-57.968142662935385" y="-347.0"/>
-      <point x="-6.152856966304893" y="-347.0" type="qcurve" smooth="yes"/>
-      <point x="41.15500020597764" y="-347.0"/>
-      <point x="171.492571475652" y="-300.753714262174"/>
-      <point x="233.00000000000009" y="-254.00000000000009" type="qcurve"/>
-      <point x="290.0" y="-357.0" type="line"/>
-      <point x="245.0" y="-418.0"/>
-      <point x="70.41614299249963" y="-497.0"/>
-      <point x="-35.0" y="-497.0" type="qcurve" smooth="yes"/>
-      <point x="-144.3100004119553" y="-497.0"/>
-      <point x="-298.46500061793296" y="-384.9851429513038"/>
+      <point x="-292" y="-306" type="qcurve" smooth="yes"/>
+      <point x="-292" y="-217"/>
+      <point x="-162" y="-41"/>
+      <point x="-39" y="51" type="qcurve"/>
+      <point x="56" y="0" type="line"/>
+      <point x="-47" y="-105"/>
+      <point x="-111" y="-200"/>
+      <point x="-111" y="-245" type="qcurve" smooth="yes"/>
+      <point x="-111" y="-293"/>
+      <point x="-52" y="-347"/>
+      <point x="0" y="-347" type="qcurve" smooth="yes"/>
+      <point x="47" y="-347"/>
+      <point x="177" y="-301"/>
+      <point x="239" y="-254" type="qcurve"/>
+      <point x="296" y="-357" type="line"/>
+      <point x="251" y="-418"/>
+      <point x="76" y="-497"/>
+      <point x="-29" y="-497" type="qcurve" smooth="yes"/>
+      <point x="-138" y="-497"/>
+      <point x="-292" y="-385"/>
     </contour>
   </outline>
 </glyph>

@@ -1,19 +1,19 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="L" format="2">
-  <advance width="2119"/>
+  <advance width="2036"/>
   <unicode hex="004C"/>
-  <anchor x="685.9530410623476" y="0.0" name="bottom"/>
-  <anchor x="920.8787558188684" y="728.0" name="center"/>
-  <anchor x="431.94875458300226" y="1456.0" name="top"/>
-  <anchor x="816.0358992645183" y="1052.0" name="topright"/>
+  <anchor x="645" y="0.0" name="bottom"/>
+  <anchor x="880" y="728.0" name="center"/>
+  <anchor x="391" y="1456.0" name="top"/>
+  <anchor x="775" y="1052.0" name="topright"/>
   <outline>
     <contour>
-      <point x="211.17589679278677" y="0.0" type="line"/>
-      <point x="211.17589679278677" y="1456.0" type="line"/>
-      <point x="430.821470863757" y="1456.0" type="line"/>
-      <point x="430.821470863757" y="164.5881434868459" type="line"/>
-      <point x="2023.4607031173691" y="164.5881434868459" type="line"/>
-      <point x="2023.4607031173691" y="0.0" type="line"/>
+      <point x="170" y="0" type="line"/>
+      <point x="170" y="1456" type="line"/>
+      <point x="390" y="1456" type="line"/>
+      <point x="390" y="165" type="line"/>
+      <point x="1982" y="165" type="line"/>
+      <point x="1982" y="0" type="line"/>
     </contour>
   </outline>
 </glyph>

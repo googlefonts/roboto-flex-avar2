@@ -1,10 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="ghestroke" format="2">
-  <advance width="969"/>
+  <advance width="850"/>
   <unicode hex="0493"/>
   <outline>
-    <component base="ghe"/>
-    <component base="horizontalbarlc" xOffset="-30.64703587171147" yOffset="-203"/>
+    <component base="ghe" xOffset="-39.17589679278679"/>
+    <component base="horizontalbarlc" xOffset="-70.17589679278679" yOffset="-203"/>
   </outline>
   <lib>
     <dict>

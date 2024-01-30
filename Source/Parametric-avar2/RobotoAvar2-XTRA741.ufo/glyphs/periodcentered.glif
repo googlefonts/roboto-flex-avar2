@@ -1,21 +1,21 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="periodcentered" format="2">
-  <advance width="702"/>
+  <advance width="621"/>
   <unicode hex="00B7"/>
   <outline>
     <contour>
-      <point x="217.17589679278677" y="749.0" type="qcurve" smooth="yes"/>
-      <point x="217.17589679278677" y="802.1252861085858"/>
-      <point x="286.53261159050254" y="877.9745723819539"/>
-      <point x="351.5198977814794" y="877.9745723819539" type="qcurve" smooth="yes"/>
-      <point x="416.5687554069128" y="877.9745723819539"/>
-      <point x="485.9254702046285" y="802.1252861085858"/>
-      <point x="485.9254702046285" y="749.0" type="qcurve" smooth="yes"/>
-      <point x="485.9254702046285" y="695.8747138914146"/>
-      <point x="416.5687554069128" y="620.0254276180461"/>
-      <point x="351.5198977814794" y="620.0254276180461" type="qcurve" smooth="yes"/>
-      <point x="286.53261159050254" y="620.0254276180461"/>
-      <point x="217.17589679278677" y="695.8747138914146"/>
+      <point x="176" y="749" type="qcurve" smooth="yes"/>
+      <point x="176" y="802"/>
+      <point x="246" y="878"/>
+      <point x="311" y="878" type="qcurve" smooth="yes"/>
+      <point x="376" y="878"/>
+      <point x="445" y="802"/>
+      <point x="445" y="749" type="qcurve" smooth="yes"/>
+      <point x="445" y="696"/>
+      <point x="376" y="620"/>
+      <point x="311" y="620" type="qcurve" smooth="yes"/>
+      <point x="246" y="620"/>
+      <point x="176" y="696"/>
     </contour>
   </outline>
 </glyph>
