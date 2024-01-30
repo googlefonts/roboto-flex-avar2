@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="percent" format="2">
-  <advance width="2182"/>
+  <advance width="2491"/>
   <unicode hex="0025"/>
   <outline>
-    <component base="zerosuperior" xOffset="-40.17589679278679"/>
-    <component base="fraction" xOffset="884.8241032072132"/>
-    <component base="zerosuperior" xOffset="1074.8241032072133" yOffset="-700"/>
+    <component base="zerosuperior" xOffset="1"/>
+    <component base="fraction" xOffset="926"/>
+    <component base="zerosuperior" xOffset="1425" yOffset="-700"/>
   </outline>
   <lib>
     <dict>
