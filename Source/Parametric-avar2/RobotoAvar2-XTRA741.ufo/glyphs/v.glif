@@ -6,18 +6,18 @@
   <anchor x="851.1260609597861" y="1052.0" name="top"/>
   <outline>
     <contour>
-      <point x="41.17589679278679" y="1052.0" type="line"/>
-      <point x="282" y="1052" type="line"/>
-      <point x="802" y="319" type="line" smooth="yes"/>
-      <point x="830" y="280"/>
-      <point x="861" y="235"/>
-      <point x="888" y="189" type="qcurve"/>
-      <point x="894" y="189" type="line"/>
-      <point x="921" y="235"/>
-      <point x="955" y="281"/>
-      <point x="981" y="318" type="qcurve" smooth="yes"/>
-      <point x="1498" y="1052" type="line"/>
-      <point x="1733.0976575235131" y="1052.0" type="line"/>
+      <point x="41" y="1052" type="line"/>
+      <point x="276" y="1052" type="line"/>
+      <point x="791" y="349" type="line" smooth="yes"/>
+      <point x="815" y="316"/>
+      <point x="867" y="249"/>
+      <point x="888" y="219" type="qcurve"/>
+      <point x="894" y="219" type="line"/>
+      <point x="915" y="249"/>
+      <point x="966" y="315"/>
+      <point x="991" y="349" type="qcurve" smooth="yes"/>
+      <point x="1500" y="1052" type="line"/>
+      <point x="1733" y="1052" type="line"/>
       <point x="959" y="0" type="line"/>
       <point x="817" y="0" type="line"/>
     </contour>
