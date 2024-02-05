@@ -752,6 +752,64 @@
         </output>
       </mapping>
       
+      <mapping>
+        <input>
+          <dimension name="Optical size" xvalue="14"/>
+          <dimension name="Weight" xvalue="400"/>
+          <dimension name="Width" xvalue="100"/>
+          <dimension name="XOPQ" xvalue="47"/>
+        </input>
+        <output>
+          <dimension name="Optical size" xvalue="14"/>
+          <dimension name="Weight" xvalue="400"/>
+          <dimension name="Width" xvalue="100"/>
+          <dimension name="XOPQ" xvalue="47"/>
+        </output>
+      </mapping>
+      <mapping>
+        <input>
+          <dimension name="Optical size" xvalue="14"/>
+          <dimension name="Weight" xvalue="400"/>
+          <dimension name="Width" xvalue="100"/>
+          <dimension name="XOPQ" xvalue="2"/>
+        </input>
+        <output>
+          <dimension name="Optical size" xvalue="14"/>
+          <dimension name="Weight" xvalue="400"/>
+          <dimension name="Width" xvalue="100"/>
+          <dimension name="XOPQ" xvalue="47"/>
+        </output>
+      </mapping>
+      
+      <mapping>
+        <input>
+          <dimension name="Optical size" xvalue="14"/>
+          <dimension name="Weight" xvalue="400"/>
+          <dimension name="Width" xvalue="100"/>
+          <dimension name="YOPQ" xvalue="44"/>
+        </input>
+        <output>
+          <dimension name="Optical size" xvalue="14"/>
+          <dimension name="Weight" xvalue="400"/>
+          <dimension name="Width" xvalue="100"/>
+          <dimension name="YOPQ" xvalue="44"/>
+        </output>
+      </mapping>
+      <mapping>
+        <input>
+          <dimension name="Optical size" xvalue="14"/>
+          <dimension name="Weight" xvalue="400"/>
+          <dimension name="Width" xvalue="100"/>
+          <dimension name="YOPQ" xvalue="2"/>
+        </input>
+        <output>
+          <dimension name="Optical size" xvalue="14"/>
+          <dimension name="Weight" xvalue="400"/>
+          <dimension name="Width" xvalue="100"/>
+          <dimension name="YOPQ" xvalue="44"/>
+        </output>
+      </mapping>
+      
 <!--       MAX FENCES -->
       <mapping>
         <input>
@@ -779,6 +837,64 @@
           <dimension name="Weight" xvalue="400"/>
           <dimension name="Width" xvalue="100"/>
           <dimension name="XTRA" xvalue="550"/>
+        </output>
+      </mapping>
+      
+      <mapping>
+        <input>
+          <dimension name="Optical size" xvalue="14"/>
+          <dimension name="Weight" xvalue="400"/>
+          <dimension name="Width" xvalue="100"/>
+          <dimension name="XOPQ" xvalue="210"/>
+        </input>
+        <output>
+          <dimension name="Optical size" xvalue="14"/>
+          <dimension name="Weight" xvalue="400"/>
+          <dimension name="Width" xvalue="100"/>
+          <dimension name="XOPQ" xvalue="210"/>
+        </output>
+      </mapping>
+      <mapping>
+        <input>
+          <dimension name="Optical size" xvalue="14"/>
+          <dimension name="Weight" xvalue="400"/>
+          <dimension name="Width" xvalue="100"/>
+          <dimension name="XOPQ" xvalue="310"/>
+        </input>
+        <output>
+          <dimension name="Optical size" xvalue="14"/>
+          <dimension name="Weight" xvalue="400"/>
+          <dimension name="Width" xvalue="100"/>
+          <dimension name="XOPQ" xvalue="210"/>
+        </output>
+      </mapping>
+      
+      <mapping>
+        <input>
+          <dimension name="Optical size" xvalue="14"/>
+          <dimension name="Weight" xvalue="400"/>
+          <dimension name="Width" xvalue="100"/>
+          <dimension name="YOPQ" xvalue="156"/>
+        </input>
+        <output>
+          <dimension name="Optical size" xvalue="14"/>
+          <dimension name="Weight" xvalue="400"/>
+          <dimension name="Width" xvalue="100"/>
+          <dimension name="YOPQ" xvalue="156"/>
+        </output>
+      </mapping>
+      <mapping>
+        <input>
+          <dimension name="Optical size" xvalue="14"/>
+          <dimension name="Weight" xvalue="400"/>
+          <dimension name="Width" xvalue="100"/>
+          <dimension name="YOPQ" xvalue="280"/>
+        </input>
+        <output>
+          <dimension name="Optical size" xvalue="14"/>
+          <dimension name="Weight" xvalue="400"/>
+          <dimension name="Width" xvalue="100"/>
+          <dimension name="YOPQ" xvalue="156"/>
         </output>
       </mapping>
       
