@@ -109,7 +109,7 @@
 	        <dimension name="VROT" xvalue="0"/>
 	        <dimension name="SQRD" xvalue="0"/>
 	        <dimension name="XOPQ" xvalue="54"/>
-	        <dimension name="XTRA" xvalue="556"/>
+	        <dimension name="XTRA" xvalue="532"/>
 	        <dimension name="XTSP" xvalue="-10"/>
 	        <dimension name="YOPQ" xvalue="50"/>
 	        <dimension name="YTAS" xvalue="768"/>
@@ -134,7 +134,7 @@
 	        <dimension name="VROT" xvalue="0"/>
 	        <dimension name="SQRD" xvalue="0"/>
 	        <dimension name="XOPQ" xvalue="103"/>
-	        <dimension name="XTRA" xvalue="484"/>
+	        <dimension name="XTRA" xvalue="480"/>
 	        <dimension name="XTSP" xvalue="-10"/>
 	        <dimension name="YOPQ" xvalue="86"/>
 	        <dimension name="YTAS" xvalue="768"/>
@@ -209,7 +209,7 @@
 	        <dimension name="VROT" xvalue="0"/>
 	        <dimension name="SQRD" xvalue="0"/>
 	        <dimension name="XOPQ" xvalue="108"/>
-	        <dimension name="XTRA" xvalue="555"/>
+	        <dimension name="XTRA" xvalue="530"/>
 	        <dimension name="XTSP" xvalue="0"/>
 	        <dimension name="YOPQ" xvalue="88"/>
 	        <dimension name="YTAS" xvalue="768"/>
@@ -334,7 +334,7 @@
 	        <dimension name="VROT" xvalue="0"/>
 	        <dimension name="SQRD" xvalue="0"/>
 	        <dimension name="XOPQ" xvalue="47"/>
-	        <dimension name="XTRA" xvalue="534"/>
+	        <dimension name="XTRA" xvalue="516"/>
 	        <dimension name="XTSP" xvalue="-10"/>
 	        <dimension name="YOPQ" xvalue="44"/>
 	        <dimension name="YTAS" xvalue="768"/>
@@ -508,7 +508,7 @@
             <dimension name="VANG" xvalue="0"/>
 	        <dimension name="VROT" xvalue="0"/>
 	        <dimension name="SQRD" xvalue="0"/>
-	        <dimension name="XOPQ" xvalue="48.737"/>
+	        <dimension name="XOPQ" xvalue="48"/>
 	        <dimension name="XTRA" xvalue="244"/>
 	        <dimension name="XTSP" xvalue="-83"/>
 	        <dimension name="YOPQ" xvalue="48"/>
@@ -559,7 +559,7 @@
 	        <dimension name="VROT" xvalue="0"/>
 	        <dimension name="SQRD" xvalue="0"/>
 	        <dimension name="XOPQ" xvalue="4"/>
-	        <dimension name="XTRA" xvalue="520"/>
+	        <dimension name="XTRA" xvalue="506"/>
 	        <dimension name="XTSP" xvalue="-40"/>
 	        <dimension name="YOPQ" xvalue="4"/>
 	        <dimension name="YTAS" xvalue="768"/>
@@ -721,7 +721,7 @@
       </mapping>
       
       
-<!--       GLOBAL FENCES, A.K.A avar1 -->
+<!--       GLOBAL FENCES, A.K.A avar1 / DESIGNSPACE LIMITATIONS-->
 <!--       MIN FENCES -->
       <mapping>
         <input>
@@ -1921,7 +1921,7 @@
         <dimension name="VROT" xvalue="0"/>
         <dimension name="SQRD" xvalue="0"/>
         <dimension name="XOPQ" xvalue="54"/>
-        <dimension name="XTRA" xvalue="556"/>
+        <dimension name="XTRA" xvalue="532"/>
         <dimension name="XTSP" xvalue="-10"/>
         <dimension name="YOPQ" xvalue="50"/>
         <dimension name="YTAS" xvalue="768"/>
@@ -1944,7 +1944,7 @@
         <dimension name="VROT" xvalue="0"/>
         <dimension name="SQRD" xvalue="0"/>
         <dimension name="XOPQ" xvalue="103"/>
-        <dimension name="XTRA" xvalue="484"/>
+        <dimension name="XTRA" xvalue="480"/>
         <dimension name="XTSP" xvalue="-10"/>
         <dimension name="YOPQ" xvalue="86"/>
         <dimension name="YTAS" xvalue="768"/>
@@ -1990,7 +1990,7 @@
         <dimension name="VROT" xvalue="0"/>
         <dimension name="SQRD" xvalue="0"/>
         <dimension name="XOPQ" xvalue="60"/>
-        <dimension name="XTRA" xvalue="741"/>
+        <dimension name="XTRA" xvalue="584"/>
         <dimension name="XTSP" xvalue="-10"/>
         <dimension name="YOPQ" xvalue="54"/>
         <dimension name="YTAS" xvalue="768"/>
@@ -2013,7 +2013,7 @@
         <dimension name="VROT" xvalue="0"/>
         <dimension name="SQRD" xvalue="0"/>
         <dimension name="XOPQ" xvalue="108"/>
-        <dimension name="XTRA" xvalue="555"/>
+        <dimension name="XTRA" xvalue="530"/>
         <dimension name="XTSP" xvalue="0"/>
         <dimension name="YOPQ" xvalue="88"/>
         <dimension name="YTAS" xvalue="768"/>
@@ -2128,7 +2128,7 @@
         <dimension name="VROT" xvalue="0"/>
         <dimension name="SQRD" xvalue="0"/>
         <dimension name="XOPQ" xvalue="47"/>
-        <dimension name="XTRA" xvalue="534"/>
+        <dimension name="XTRA" xvalue="516"/>
         <dimension name="XTSP" xvalue="-10"/>
         <dimension name="YOPQ" xvalue="44"/>
         <dimension name="YTAS" xvalue="768"/>
@@ -2288,7 +2288,7 @@
         <dimension name="VANG" xvalue="0"/>
         <dimension name="VROT" xvalue="0"/>
         <dimension name="SQRD" xvalue="0"/>
-        <dimension name="XOPQ" xvalue="48.737"/>
+        <dimension name="XOPQ" xvalue="48"/>
         <dimension name="XTRA" xvalue="244"/>
         <dimension name="XTSP" xvalue="-83"/>
         <dimension name="YOPQ" xvalue="48"/>
@@ -2335,7 +2335,7 @@
         <dimension name="VROT" xvalue="0"/>
         <dimension name="SQRD" xvalue="0"/>
         <dimension name="XOPQ" xvalue="4"/>
-        <dimension name="XTRA" xvalue="520"/>
+        <dimension name="XTRA" xvalue="506"/>
         <dimension name="XTSP" xvalue="-40"/>
         <dimension name="YOPQ" xvalue="4"/>
         <dimension name="YTAS" xvalue="768"/>
