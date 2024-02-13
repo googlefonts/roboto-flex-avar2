@@ -959,8 +959,10 @@
       
 <!--       CUSTOM MAPPINGS / DESIGNSPACE LIMITATIONS-->
 
-<!--       OPSZ14  WDTH25 -->
-      <mapping>
+<!--       OPSZ14  WDTH25 WGHT400-->
+<!--       XTRA MIN CUSTOM FENCE -->
+<!--
+	  <mapping description="XTRA MIN fence">
         <input>
           <dimension name="Optical size" xvalue="14"/>
           <dimension name="Weight" xvalue="400"/>
@@ -988,8 +990,8 @@
           <dimension name="XTRA" xvalue="400"/>
         </output>
       </mapping>
-      <!--       RE-MAP GLOBAL FENCE TO CUSTOM FENCE -->
-      <mapping>
+      
+      <mapping description="RE-MAP GLOBAL XTRA MIN fence">
         <input>
           <dimension name="Optical size" xvalue="14"/>
           <dimension name="Weight" xvalue="400"/>
@@ -1003,6 +1005,8 @@
           <dimension name="XTRA" xvalue="400"/>
         </output>
       </mapping>
+-->
+
 
 
 <!--       OPSZ8 -->
@@ -1049,6 +1053,7 @@
           <dimension name="XTRA" xvalue="420"/>
         </output>
       </mapping>
+
 <!--       OPSZ144 -->
 <!--       THIS USE THE AXIS MIN, SO NO MAPPING NEEDED -->
       <mapping>
