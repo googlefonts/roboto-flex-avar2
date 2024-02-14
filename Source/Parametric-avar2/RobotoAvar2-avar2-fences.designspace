@@ -723,8 +723,9 @@
       
 <!--       GLOBAL FENCES, A.K.A avar1 / DESIGNSPACE LIMITATIONS-->
 
+<!--       OPSZ14 WDTH100 WGHT400 -->
 <!--       XTRA FENCES -->
-      <mapping description="XTRA global fence">
+      <mapping description="XTRA MIN global fence">
         <input>
           <dimension name="Optical size" xvalue="14"/>
           <dimension name="Weight" xvalue="400"/>
@@ -752,7 +753,7 @@
           <dimension name="XTRA" xvalue="390"/>
         </output>
       </mapping>
-      <mapping>
+      <mapping  description="XTRA MAX global fence">
         <input>
           <dimension name="Optical size" xvalue="14"/>
           <dimension name="Weight" xvalue="400"/>
@@ -782,7 +783,7 @@
       </mapping>
       
 <!--       XOPQ FENCES-->
-      <mapping description="XOPQ global fence">
+      <mapping description="XOPQ MIN global fence">
         <input>
           <dimension name="Optical size" xvalue="14"/>
           <dimension name="Weight" xvalue="400"/>
@@ -810,7 +811,7 @@
           <dimension name="XOPQ" xvalue="47"/>
         </output>
       </mapping>
-      <mapping>
+      <mapping  description="XOPQ MAX global fence">
         <input>
           <dimension name="Optical size" xvalue="14"/>
           <dimension name="Weight" xvalue="400"/>
@@ -840,7 +841,7 @@
       </mapping>
       
 <!--       YOPQ FENCES -->
-      <mapping  description="YOPQ global fence">
+      <mapping description="YOPQ MIN global fence">
         <input>
           <dimension name="Optical size" xvalue="14"/>
           <dimension name="Weight" xvalue="400"/>
@@ -868,7 +869,7 @@
           <dimension name="YOPQ" xvalue="44"/>
         </output>
       </mapping>
-      <mapping>
+      <mapping description="YOPQ MAX global fence">
         <input>
           <dimension name="Optical size" xvalue="14"/>
           <dimension name="Weight" xvalue="400"/>
@@ -898,7 +899,7 @@
       </mapping>
       
       <!--       XTSP FENCES -->
-      <mapping description="XTSP global fence">
+      <mapping description="XTSP MIN global fence">
         <input>
           <dimension name="Optical size" xvalue="14"/>
           <dimension name="Weight" xvalue="400"/>
@@ -926,7 +927,7 @@
           <dimension name="XTSP" xvalue="-20"/>
         </output>
       </mapping>
-      <mapping>
+      <mapping description="YOPQ MAX global fence">
         <input>
           <dimension name="Optical size" xvalue="14"/>
           <dimension name="Weight" xvalue="400"/>
@@ -959,7 +960,7 @@
       
 <!--       CUSTOM MAPPINGS / DESIGNSPACE LIMITATIONS-->
 
-<!--       OPSZ14  WDTH25 WGHT400-->
+<!--       OPSZ14 WDTH25 WGHT400-->
 <!--       XTRA MIN CUSTOM FENCE -->
 <!--
 	  <mapping description="XTRA MIN fence">
@@ -1009,8 +1010,9 @@
 
 
 
-<!--       OPSZ8 -->
-      <mapping>
+<!--       OPSZ8 WDTH100 WGHT400 -->
+<!--       XTRA FENCES -->
+      <mapping description="XTRA MIN fence">
         <input>
           <dimension name="Optical size" xvalue="8"/>
           <dimension name="Weight" xvalue="400"/>
@@ -1053,6 +1055,144 @@
           <dimension name="XTRA" xvalue="420"/>
         </output>
       </mapping>
+      <mapping description="XTRA MAX fence">
+        <input>
+          <dimension name="Optical size" xvalue="8"/>
+          <dimension name="Weight" xvalue="400"/>
+          <dimension name="Width" xvalue="100"/>
+          <dimension name="XTRA" xvalue="520"/>
+        </input>
+        <output>
+          <dimension name="Optical size" xvalue="8"/>
+          <dimension name="Weight" xvalue="400"/>
+          <dimension name="Width" xvalue="100"/>
+          <dimension name="XTRA" xvalue="520"/>
+        </output>
+      </mapping>
+      <mapping>
+        <input>
+          <dimension name="Optical size" xvalue="8"/>
+          <dimension name="Weight" xvalue="400"/>
+          <dimension name="Width" xvalue="100"/>
+          <dimension name="XTRA" xvalue="741"/>
+        </input>
+        <output>
+          <dimension name="Optical size" xvalue="8"/>
+          <dimension name="Weight" xvalue="400"/>
+          <dimension name="Width" xvalue="100"/>
+          <dimension name="XTRA" xvalue="520"/>
+        </output>
+      </mapping>
+<!--       RE-MAP GLOBAL FENCE TO CUSTOM FENCE -->
+      <mapping>
+        <input>
+          <dimension name="Optical size" xvalue="8"/>
+          <dimension name="Weight" xvalue="400"/>
+          <dimension name="Width" xvalue="100"/>
+          <dimension name="XTRA" xvalue="550"/>
+        </input>
+        <output>
+          <dimension name="Optical size" xvalue="8"/>
+          <dimension name="Weight" xvalue="400"/>
+          <dimension name="Width" xvalue="100"/>
+          <dimension name="XTRA" xvalue="520"/>
+        </output>
+      </mapping>
+
+<!--       XOPQ FENCES-->
+      <mapping description="XOPQ MIN fence">
+        <input>
+          <dimension name="Optical size" xvalue="8"/>
+          <dimension name="Weight" xvalue="400"/>
+          <dimension name="Width" xvalue="100"/>
+          <dimension name="XOPQ" xvalue="80"/>
+        </input>
+        <output>
+          <dimension name="Optical size" xvalue="8"/>
+          <dimension name="Weight" xvalue="400"/>
+          <dimension name="Width" xvalue="100"/>
+          <dimension name="XOPQ" xvalue="80"/>
+          <dimension name="YTLC" xvalue="545"/>
+        </output>
+      </mapping>
+      <mapping>
+        <input>
+          <dimension name="Optical size" xvalue="8"/>
+          <dimension name="Weight" xvalue="400"/>
+          <dimension name="Width" xvalue="100"/>
+          <dimension name="XOPQ" xvalue="2"/>
+        </input>
+        <output>
+          <dimension name="Optical size" xvalue="8"/>
+          <dimension name="Weight" xvalue="400"/>
+          <dimension name="Width" xvalue="100"/>
+          <dimension name="XOPQ" xvalue="80"/>
+          <dimension name="YTLC" xvalue="545"/>
+        </output>
+      </mapping>
+<!--       RE-MAP GLOBAL FENCE TO CUSTOM FENCE -->
+      <mapping>
+        <input>
+          <dimension name="Optical size" xvalue="8"/>
+          <dimension name="Weight" xvalue="400"/>
+          <dimension name="Width" xvalue="100"/>
+          <dimension name="XOPQ" xvalue="47"/>
+        </input>
+        <output>
+          <dimension name="Optical size" xvalue="8"/>
+          <dimension name="Weight" xvalue="400"/>
+          <dimension name="Width" xvalue="100"/>
+          <dimension name="XOPQ" xvalue="80"/>
+          <dimension name="YTLC" xvalue="545"/>
+        </output>
+      </mapping>
+      <mapping description="XOPQ MAX fence">
+        <input>
+          <dimension name="Optical size" xvalue="8"/>
+          <dimension name="Weight" xvalue="400"/>
+          <dimension name="Width" xvalue="100"/>
+          <dimension name="XOPQ" xvalue="190"/>
+        </input>
+        <output>
+          <dimension name="Optical size" xvalue="8"/>
+          <dimension name="Weight" xvalue="400"/>
+          <dimension name="Width" xvalue="100"/>
+          <dimension name="XOPQ" xvalue="190"/>
+          <dimension name="YTLC" xvalue="545"/>
+        </output>
+      </mapping>
+      <mapping>
+        <input>
+          <dimension name="Optical size" xvalue="8"/>
+          <dimension name="Weight" xvalue="400"/>
+          <dimension name="Width" xvalue="100"/>
+          <dimension name="XOPQ" xvalue="310"/>
+        </input>
+        <output>
+          <dimension name="Optical size" xvalue="8"/>
+          <dimension name="Weight" xvalue="400"/>
+          <dimension name="Width" xvalue="100"/>
+          <dimension name="XOPQ" xvalue="190"/>
+          <dimension name="YTLC" xvalue="545"/>
+        </output>
+      </mapping>
+<!--       RE-MAP GLOBAL FENCE TO CUSTOM FENCE -->
+      <mapping>
+        <input>
+          <dimension name="Optical size" xvalue="8"/>
+          <dimension name="Weight" xvalue="400"/>
+          <dimension name="Width" xvalue="100"/>
+          <dimension name="XOPQ" xvalue="210"/>
+        </input>
+        <output>
+          <dimension name="Optical size" xvalue="8"/>
+          <dimension name="Weight" xvalue="400"/>
+          <dimension name="Width" xvalue="100"/>
+          <dimension name="XOPQ" xvalue="190"/>
+          <dimension name="YTLC" xvalue="545"/>
+        </output>
+      </mapping>
+
 
 <!--       OPSZ144 -->
 <!--       THIS USE THE AXIS MIN, SO NO MAPPING NEEDED -->
