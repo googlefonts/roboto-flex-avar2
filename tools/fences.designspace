@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<designspace format="5.1">
+  <axes>
+    <mappings>
+      <mapping>
+        <input>
+          <dimension name="Optical size" xvalue="144"/>
+          <dimension name="Width" xvalue="100"/>
+          <dimension name="Weight" xvalue="400"/>
+          <dimension name="YOPQ" xvalue="49"/>
+        </input>
+        <output>
+          <dimension name="Optical size" xvalue="144"/>
+          <dimension name="Slant" xvalue="0"/>
+          <dimension name="Weight" xvalue="400"/>
+          <dimension name="Width" xvalue="100"/>
+          <dimension name="SQRD" xvalue="0"/>
+          <dimension name="XOPQ" xvalue="55"/>
+          <dimension name="XTRA" xvalue="447"/>
+          <dimension name="XTSP" xvalue="-40"/>
+          <dimension name="YOPQ" xvalue="49"/>
+          <dimension name="YTAS" xvalue="768"/>
+          <dimension name="YTDE" xvalue="-208"/>
+          <dimension name="YTFI" xvalue="743"/>
+          <dimension name="YTLC" xvalue="458"/>
+          <dimension name="YTOS" xvalue="30"/>
+          <dimension name="YTUC" xvalue="728"/>
+          <dimension name="YTTL" xvalue="25"/>
+          <dimension name="XTTW" xvalue="5"/>
+        </output>
+      </mapping>
+    </mappings>
+  </axes>
+</designspace>
