@@ -1,8 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="coloncurrency" format="2">
-  <advance width="514"/>
-  <unicode hex="20A1"/>
-  <guideline y="1570" identifier="0DwZ2nfhdf"/>
+  <advance width="1154"/>
   <outline>
     <contour>
       <point x="85" y="612" type="qcurve" smooth="yes"/>
@@ -44,8 +42,8 @@
       <point x="208" y="18" type="line"/>
       <point x="193" y="-125" type="line"/>
       <point x="34" y="-125" type="line"/>
-      <point x="105" y="465" type="line"/>
-      <point x="109" y="491" type="line"/>
+      <point x="61" y="101" type="line"/>
+      <point x="75" y="127" type="line"/>
       <point x="133" y="741" type="line"/>
     </contour>
     <contour>
@@ -70,8 +68,8 @@
     </contour>
     <contour>
       <point x="518" y="1570" type="line"/>
-      <point x="472" y="1153" type="line"/>
-      <point x="465" y="1130" type="line"/>
+      <point x="496" y="1374" type="line"/>
+      <point x="483" y="1351" type="line"/>
       <point x="429" y="674" type="line"/>
       <point x="294" y="696" type="line"/>
       <point x="356" y="1411" type="line"/>
@@ -79,10 +77,4 @@
       <point x="360" y="1570" type="line"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.typemytype.robofont.guideline.magnetic.0DwZ2nfhdf</key>
-      <integer>5</integer>
-    </dict>
-  </lib>
 </glyph>
