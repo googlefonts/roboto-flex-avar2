@@ -1,22 +1,28 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="greaterequal" format="2">
-  <advance width="1024"/>
+  <advance width="412"/>
   <unicode hex="2265"/>
   <outline>
     <contour>
-      <point x="111" y="253" type="line"/>
-      <point x="111" y="456" type="line"/>
-      <point x="698" y="679" type="line"/>
-      <point x="111" y="902" type="line"/>
-      <point x="111" y="1095" type="line"/>
-      <point x="929" y="746" type="line"/>
-      <point x="929" y="602" type="line"/>
+      <point x="106" y="221" type="line"/>
+      <point x="106" y="576" type="line"/>
+      <point x="169" y="677" type="line"/>
+      <point x="106" y="778" type="line"/>
+      <point x="106" y="1123" type="line"/>
+      <point x="312" y="744" type="line"/>
+      <point x="312" y="600" type="line"/>
     </contour>
     <contour>
-      <point x="972" y="1" type="line"/>
-      <point x="62" y="1" type="line"/>
-      <point x="62" y="170" type="line"/>
-      <point x="972" y="170" type="line"/>
+      <point x="360" y="1" type="line"/>
+      <point x="87" y="1" type="line"/>
+      <point x="87" y="170" type="line"/>
+      <point x="360" y="170" type="line"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.9908,1,0.037,1</string>
+    </dict>
+  </lib>
 </glyph>
