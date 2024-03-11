@@ -6,22 +6,22 @@
   <guideline y="443" identifier="G9bQni2n1K"/>
   <outline>
     <contour>
-      <point x="667" y="522" type="line"/>
-      <point x="507" y="153" type="line"/>
-      <point x="345" y="153" type="line"/>
-      <point x="468" y="551" type="line"/>
-      <point x="345" y="949" type="line"/>
-      <point x="507" y="949" type="line"/>
-      <point x="667" y="581" type="line"/>
-    </contour>
-    <contour>
-      <point x="409" y="522" type="line"/>
-      <point x="249" y="153" type="line"/>
       <point x="87" y="153" type="line"/>
       <point x="210" y="551" type="line"/>
       <point x="87" y="949" type="line"/>
       <point x="249" y="949" type="line"/>
       <point x="409" y="581" type="line"/>
+      <point x="409" y="522" type="line"/>
+      <point x="249" y="153" type="line"/>
+    </contour>
+    <contour>
+      <point x="345" y="153" type="line"/>
+      <point x="468" y="551" type="line"/>
+      <point x="345" y="949" type="line"/>
+      <point x="507" y="949" type="line"/>
+      <point x="667" y="581" type="line"/>
+      <point x="667" y="522" type="line"/>
+      <point x="507" y="153" type="line"/>
     </contour>
   </outline>
   <lib>
