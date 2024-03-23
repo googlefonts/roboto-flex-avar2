@@ -1,10 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="chedescender-cy" format="2">
-  <advance width="1095"/>
+  <advance width="675"/>
   <unicode hex="04B7"/>
   <outline>
     <component base="che"/>
-    <component base="cy-descendercomb" xOffset="855"/>
+    <component base="cy-descendercomb" xOffset="434"/>
   </outline>
   <lib>
     <dict>
