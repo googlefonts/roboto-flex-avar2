@@ -24,13 +24,13 @@
       
       <mapping>
         <input>
-        	<dimension name="Optical size" xvalue="8"/>
-	        <dimension name="Slant" xvalue="0"/>
-	        <dimension name="Weight" xvalue="100"/>
-	        <dimension name="Width" xvalue="25"/>
+          <dimension name="Optical size" xvalue="8"/>
+          <dimension name="Slant" xvalue="0"/>
+          <dimension name="Weight" xvalue="100"/>
+          <dimension name="Width" xvalue="25"/>
         </input>
         <output>
-	        <dimension name="VANG" xvalue="0"/>
+        	<dimension name="VANG" xvalue="0"/>
 	        <dimension name="VROT" xvalue="0"/>
 	        <dimension name="SQRD" xvalue="0"/>
 	        <dimension name="XOPQ" xvalue="50"/>
@@ -49,10 +49,10 @@
       </mapping>
       <mapping>
         <input>
-        	<dimension name="Optical size" xvalue="8"/>
-	        <dimension name="Slant" xvalue="0"/>
-	        <dimension name="Weight" xvalue="400"/>
-	        <dimension name="Width" xvalue="25"/>
+          <dimension name="Optical size" xvalue="8"/>
+          <dimension name="Slant" xvalue="0"/>
+          <dimension name="Weight" xvalue="400"/>
+          <dimension name="Width" xvalue="25"/>
         </input>
         <output>
 	        <dimension name="VANG" xvalue="0"/>
@@ -74,17 +74,17 @@
       </mapping>
       <mapping>
         <input>
-        	<dimension name="Optical size" xvalue="8"/>
-	        <dimension name="Slant" xvalue="0"/>
-	        <dimension name="Weight" xvalue="1000"/>
-	        <dimension name="Width" xvalue="25"/>
+          <dimension name="Optical size" xvalue="8"/>
+          <dimension name="Slant" xvalue="0"/>
+          <dimension name="Weight" xvalue="1000"/>
+          <dimension name="Width" xvalue="25"/>
         </input>
         <output>
 	        <dimension name="VANG" xvalue="0"/>
 	        <dimension name="VROT" xvalue="0"/>
 	        <dimension name="SQRD" xvalue="0"/>
-	        <dimension name="XOPQ" xvalue="158"/>
-	        <dimension name="XTRA" xvalue="382"/>
+	        <dimension name="XOPQ" xvalue="155"/>
+	        <dimension name="XTRA" xvalue="390"/>
 	        <dimension name="XTSP" xvalue="-5"/>
 	        <dimension name="YOPQ" xvalue="112"/>
 	        <dimension name="YTAS" xvalue="768"/>
@@ -99,10 +99,10 @@
       </mapping>
       <mapping>
         <input>
-        	<dimension name="Optical size" xvalue="8"/>
-	        <dimension name="Slant" xvalue="0"/>
-	        <dimension name="Weight" xvalue="100"/>
-	        <dimension name="Width" xvalue="100"/>
+          <dimension name="Optical size" xvalue="8"/>
+          <dimension name="Slant" xvalue="0"/>
+          <dimension name="Weight" xvalue="100"/>
+          <dimension name="Width" xvalue="100"/>
         </input>
         <output>
 	        <dimension name="VANG" xvalue="0"/>
@@ -124,10 +124,10 @@
       </mapping>
       <mapping>
         <input>
-        	<dimension name="Optical size" xvalue="8"/>
-	        <dimension name="Slant" xvalue="0"/>
-	        <dimension name="Weight" xvalue="400"/>
-	        <dimension name="Width" xvalue="100"/>
+          <dimension name="Optical size" xvalue="8"/>
+          <dimension name="Slant" xvalue="0"/>
+          <dimension name="Weight" xvalue="400"/>
+          <dimension name="Width" xvalue="100"/>
         </input>
         <output>
 	        <dimension name="VANG" xvalue="0"/>
@@ -149,17 +149,17 @@
       </mapping>
       <mapping>
         <input>
-        	<dimension name="Optical size" xvalue="8"/>
-	        <dimension name="Slant" xvalue="0"/>
-	        <dimension name="Weight" xvalue="1000"/>
-	        <dimension name="Width" xvalue="100"/>
+          <dimension name="Optical size" xvalue="8"/>
+          <dimension name="Slant" xvalue="0"/>
+          <dimension name="Weight" xvalue="1000"/>
+          <dimension name="Width" xvalue="100"/>
         </input>
         <output>
 	        <dimension name="VANG" xvalue="0"/>
 	        <dimension name="VROT" xvalue="0"/>
 	        <dimension name="SQRD" xvalue="0"/>
 	        <dimension name="XOPQ" xvalue="177"/>
-	        <dimension name="XTRA" xvalue="426"/>
+	        <dimension name="XTRA" xvalue="430"/>
 	        <dimension name="XTSP" xvalue="-10"/>
 	        <dimension name="YOPQ" xvalue="118"/>
 	        <dimension name="YTAS" xvalue="768"/>
@@ -174,10 +174,10 @@
       </mapping>
       <mapping>
         <input>
-        	<dimension name="Optical size" xvalue="8"/>
-	        <dimension name="Slant" xvalue="0"/>
-	        <dimension name="Weight" xvalue="100"/>
-	        <dimension name="Width" xvalue="151"/>
+          <dimension name="Optical size" xvalue="8"/>
+          <dimension name="Slant" xvalue="0"/>
+          <dimension name="Weight" xvalue="100"/>
+          <dimension name="Width" xvalue="151"/>
         </input>
         <output>
 	        <dimension name="VANG" xvalue="0"/>
@@ -199,10 +199,10 @@
       </mapping>
       <mapping>
         <input>
-        	<dimension name="Optical size" xvalue="8"/>
-	        <dimension name="Slant" xvalue="0"/>
-	        <dimension name="Weight" xvalue="400"/>
-	        <dimension name="Width" xvalue="151"/>
+          <dimension name="Optical size" xvalue="8"/>
+          <dimension name="Slant" xvalue="0"/>
+          <dimension name="Weight" xvalue="400"/>
+          <dimension name="Width" xvalue="151"/>
         </input>
         <output>
 	        <dimension name="VANG" xvalue="0"/>
@@ -224,17 +224,17 @@
       </mapping>
       <mapping>
         <input>
-        	<dimension name="Optical size" xvalue="8"/>
-	        <dimension name="Slant" xvalue="0"/>
-	        <dimension name="Weight" xvalue="1000"/>
-	        <dimension name="Width" xvalue="151"/>
+          <dimension name="Optical size" xvalue="8"/>
+          <dimension name="Slant" xvalue="0"/>
+          <dimension name="Weight" xvalue="1000"/>
+          <dimension name="Width" xvalue="151"/>
         </input>
         <output>
 	        <dimension name="VANG" xvalue="0"/>
 	        <dimension name="VROT" xvalue="0"/>
 	        <dimension name="SQRD" xvalue="0"/>
 	        <dimension name="XOPQ" xvalue="216"/>
-	        <dimension name="XTRA" xvalue="408"/>
+	        <dimension name="XTRA" xvalue="414"/>
 	        <dimension name="XTSP" xvalue="0"/>
 	        <dimension name="YOPQ" xvalue="158"/>
 	        <dimension name="YTAS" xvalue="768"/>
@@ -249,10 +249,10 @@
       </mapping>
       <mapping>
         <input>
-        	<dimension name="Optical size" xvalue="14"/>
-	        <dimension name="Slant" xvalue="0"/>
-	        <dimension name="Weight" xvalue="100"/>
-	        <dimension name="Width" xvalue="25"/>
+          <dimension name="Optical size" xvalue="14"/>
+          <dimension name="Slant" xvalue="0"/>
+          <dimension name="Weight" xvalue="100"/>
+          <dimension name="Width" xvalue="25"/>
         </input>
         <output>
 	        <dimension name="VANG" xvalue="0"/>
@@ -274,17 +274,17 @@
       </mapping>
       <mapping>
         <input>
-        	<dimension name="Optical size" xvalue="14"/>
-	        <dimension name="Slant" xvalue="0"/>
-	        <dimension name="Weight" xvalue="400"/>
-	        <dimension name="Width" xvalue="25"/>
+          <dimension name="Optical size" xvalue="14"/>
+          <dimension name="Slant" xvalue="0"/>
+          <dimension name="Weight" xvalue="400"/>
+          <dimension name="Width" xvalue="25"/>
         </input>
         <output>
-            <dimension name="VANG" xvalue="0"/>
+	        <dimension name="VANG" xvalue="0"/>
 	        <dimension name="VROT" xvalue="0"/>
 	        <dimension name="SQRD" xvalue="0"/>
 	        <dimension name="XOPQ" xvalue="92"/>
-	        <dimension name="XTRA" xvalue="414"/>
+	        <dimension name="XTRA" xvalue="420"/>
 	        <dimension name="XTSP" xvalue="-30"/>
 	        <dimension name="YOPQ" xvalue="78"/>
 	        <dimension name="YTAS" xvalue="768"/>
@@ -299,17 +299,17 @@
       </mapping>
       <mapping>
         <input>
-        	<dimension name="Optical size" xvalue="14"/>
-	        <dimension name="Slant" xvalue="0"/>
-	        <dimension name="Weight" xvalue="1000"/>
-	        <dimension name="Width" xvalue="25"/>
+          <dimension name="Optical size" xvalue="14"/>
+          <dimension name="Slant" xvalue="0"/>
+          <dimension name="Weight" xvalue="1000"/>
+          <dimension name="Width" xvalue="25"/>
         </input>
         <output>
-            <dimension name="VANG" xvalue="0"/>
+	        <dimension name="VANG" xvalue="0"/>
 	        <dimension name="VROT" xvalue="0"/>
 	        <dimension name="SQRD" xvalue="0"/>
 	        <dimension name="XOPQ" xvalue="206"/>
-	        <dimension name="XTRA" xvalue="312"/>
+	        <dimension name="XTRA" xvalue="327"/>
 	        <dimension name="XTSP" xvalue="-30"/>
 	        <dimension name="YOPQ" xvalue="154"/>
 	        <dimension name="YTAS" xvalue="768"/>
@@ -324,13 +324,13 @@
       </mapping>
       <mapping>
         <input>
-        	<dimension name="Optical size" xvalue="14"/>
-	        <dimension name="Slant" xvalue="0"/>
-	        <dimension name="Weight" xvalue="100"/>
-	        <dimension name="Width" xvalue="100"/>
+          <dimension name="Optical size" xvalue="14"/>
+          <dimension name="Slant" xvalue="0"/>
+          <dimension name="Weight" xvalue="100"/>
+          <dimension name="Width" xvalue="100"/>
         </input>
         <output>
-            <dimension name="VANG" xvalue="0"/>
+	        <dimension name="VANG" xvalue="0"/>
 	        <dimension name="VROT" xvalue="0"/>
 	        <dimension name="SQRD" xvalue="0"/>
 	        <dimension name="XOPQ" xvalue="47"/>
@@ -349,13 +349,13 @@
       </mapping>
       <mapping>
         <input>
-        	<dimension name="Optical size" xvalue="14"/>
-	        <dimension name="Slant" xvalue="0"/>
-	        <dimension name="Weight" xvalue="400"/>
-	        <dimension name="Width" xvalue="100"/>
+          <dimension name="Optical size" xvalue="14"/>
+          <dimension name="Slant" xvalue="0"/>
+          <dimension name="Weight" xvalue="400"/>
+          <dimension name="Width" xvalue="100"/>
         </input>
         <output>
-            <dimension name="VANG" xvalue="0"/>
+	        <dimension name="VANG" xvalue="0"/>
 	        <dimension name="VROT" xvalue="0"/>
 	        <dimension name="SQRD" xvalue="0"/>
 	        <dimension name="XOPQ" xvalue="96"/>
@@ -374,17 +374,17 @@
       </mapping>
       <mapping>
         <input>
-        	<dimension name="Optical size" xvalue="14"/>
-	        <dimension name="Slant" xvalue="0"/>
-	        <dimension name="Weight" xvalue="1000"/>
-	        <dimension name="Width" xvalue="100"/>
+          <dimension name="Optical size" xvalue="14"/>
+          <dimension name="Slant" xvalue="0"/>
+          <dimension name="Weight" xvalue="1000"/>
+          <dimension name="Width" xvalue="100"/>
         </input>
         <output>
-            <dimension name="VANG" xvalue="0"/>
+	        <dimension name="VANG" xvalue="0"/>
 	        <dimension name="VROT" xvalue="0"/>
 	        <dimension name="SQRD" xvalue="0"/>
 	        <dimension name="XOPQ" xvalue="210"/>
-	        <dimension name="XTRA" xvalue="360"/>
+	        <dimension name="XTRA" xvalue="370"/>
 	        <dimension name="XTSP" xvalue="-30"/>
 	        <dimension name="YOPQ" xvalue="156"/>
 	        <dimension name="YTAS" xvalue="768"/>
@@ -399,13 +399,13 @@
       </mapping>
       <mapping>
         <input>
-        	<dimension name="Optical size" xvalue="14"/>
-	        <dimension name="Slant" xvalue="0"/>
-	        <dimension name="Weight" xvalue="100"/>
-	        <dimension name="Width" xvalue="151"/>
+          <dimension name="Optical size" xvalue="14"/>
+          <dimension name="Slant" xvalue="0"/>
+          <dimension name="Weight" xvalue="100"/>
+          <dimension name="Width" xvalue="151"/>
         </input>
         <output>
-            <dimension name="VANG" xvalue="0"/>
+	        <dimension name="VANG" xvalue="0"/>
 	        <dimension name="VROT" xvalue="0"/>
 	        <dimension name="SQRD" xvalue="0"/>
 	        <dimension name="XOPQ" xvalue="53"/>
@@ -424,13 +424,13 @@
       </mapping>
       <mapping>
         <input>
-        	<dimension name="Optical size" xvalue="14"/>
-	        <dimension name="Slant" xvalue="0"/>
-	        <dimension name="Weight" xvalue="400"/>
-	        <dimension name="Width" xvalue="151"/>
+          <dimension name="Optical size" xvalue="14"/>
+          <dimension name="Slant" xvalue="0"/>
+          <dimension name="Weight" xvalue="400"/>
+          <dimension name="Width" xvalue="151"/>
         </input>
         <output>
-            <dimension name="VANG" xvalue="0"/>
+	        <dimension name="VANG" xvalue="0"/>
 	        <dimension name="VROT" xvalue="0"/>
 	        <dimension name="SQRD" xvalue="0"/>
 	        <dimension name="XOPQ" xvalue="100"/>
@@ -449,17 +449,17 @@
       </mapping>
       <mapping>
         <input>
-        	<dimension name="Optical size" xvalue="14"/>
-	        <dimension name="Slant" xvalue="0"/>
-	        <dimension name="Weight" xvalue="1000"/>
-	        <dimension name="Width" xvalue="151"/>
+          <dimension name="Optical size" xvalue="14"/>
+          <dimension name="Slant" xvalue="0"/>
+          <dimension name="Weight" xvalue="1000"/>
+          <dimension name="Width" xvalue="151"/>
         </input>
         <output>
-            <dimension name="VANG" xvalue="0"/>
+	        <dimension name="VANG" xvalue="0"/>
 	        <dimension name="VROT" xvalue="0"/>
 	        <dimension name="SQRD" xvalue="0"/>
 	        <dimension name="XOPQ" xvalue="214"/>
-	        <dimension name="XTRA" xvalue="410"/>
+	        <dimension name="XTRA" xvalue="415"/>
 	        <dimension name="XTSP" xvalue="20"/>
 	        <dimension name="YOPQ" xvalue="158"/>
 	        <dimension name="YTAS" xvalue="768"/>
@@ -474,19 +474,19 @@
       </mapping>
       <mapping>
         <input>
-        	<dimension name="Optical size" xvalue="144"/>
-	        <dimension name="Slant" xvalue="0"/>
-	        <dimension name="Weight" xvalue="100"/>
-	        <dimension name="Width" xvalue="25"/>
+          <dimension name="Optical size" xvalue="144"/>
+          <dimension name="Slant" xvalue="0"/>
+          <dimension name="Weight" xvalue="100"/>
+          <dimension name="Width" xvalue="25"/>
         </input>
         <output>
-            <dimension name="VANG" xvalue="0"/>
+	        <dimension name="VANG" xvalue="0"/>
 	        <dimension name="VROT" xvalue="0"/>
 	        <dimension name="SQRD" xvalue="0"/>
-	        <dimension name="XOPQ" xvalue="4"/>
-	        <dimension name="XTRA" xvalue="256"/>
+	        <dimension name="XOPQ" xvalue="2"/>
+	        <dimension name="XTRA" xvalue="278"/>
 	        <dimension name="XTSP" xvalue="-80"/>
-	        <dimension name="YOPQ" xvalue="4"/>
+	        <dimension name="YOPQ" xvalue="2"/>
 	        <dimension name="YTAS" xvalue="768"/>
 	        <dimension name="YTDE" xvalue="-208"/>
 	        <dimension name="YTFI" xvalue="743"/>
@@ -499,17 +499,17 @@
       </mapping>
       <mapping>
         <input>
-        	<dimension name="Optical size" xvalue="144"/>
-	        <dimension name="Slant" xvalue="0"/>
-	        <dimension name="Weight" xvalue="400"/>
-	        <dimension name="Width" xvalue="25"/>
+          <dimension name="Optical size" xvalue="144"/>
+          <dimension name="Slant" xvalue="0"/>
+          <dimension name="Weight" xvalue="400"/>
+          <dimension name="Width" xvalue="25"/>
         </input>
         <output>
-            <dimension name="VANG" xvalue="0"/>
+	        <dimension name="VANG" xvalue="0"/>
 	        <dimension name="VROT" xvalue="0"/>
 	        <dimension name="SQRD" xvalue="0"/>
 	        <dimension name="XOPQ" xvalue="48"/>
-	        <dimension name="XTRA" xvalue="244"/>
+	        <dimension name="XTRA" xvalue="267"/>
 	        <dimension name="XTSP" xvalue="-83"/>
 	        <dimension name="YOPQ" xvalue="48"/>
 	        <dimension name="YTAS" xvalue="768"/>
@@ -524,13 +524,13 @@
       </mapping>
       <mapping>
         <input>
-        	<dimension name="Optical size" xvalue="144"/>
-	        <dimension name="Slant" xvalue="0"/>
-	        <dimension name="Weight" xvalue="1000"/>
-	        <dimension name="Width" xvalue="25"/>
+          <dimension name="Optical size" xvalue="144"/>
+          <dimension name="Slant" xvalue="0"/>
+          <dimension name="Weight" xvalue="1000"/>
+          <dimension name="Width" xvalue="25"/>
         </input>
         <output>
-            <dimension name="VANG" xvalue="0"/>
+	        <dimension name="VANG" xvalue="0"/>
 	        <dimension name="VROT" xvalue="0"/>
 	        <dimension name="SQRD" xvalue="0"/>
 	        <dimension name="XOPQ" xvalue="248"/>
@@ -549,13 +549,13 @@
       </mapping>
       <mapping>
         <input>
-        	<dimension name="Optical size" xvalue="144"/>
-	        <dimension name="Slant" xvalue="0"/>
-	        <dimension name="Weight" xvalue="100"/>
-	        <dimension name="Width" xvalue="100"/>
+          <dimension name="Optical size" xvalue="144"/>
+          <dimension name="Slant" xvalue="0"/>
+          <dimension name="Weight" xvalue="100"/>
+          <dimension name="Width" xvalue="100"/>
         </input>
         <output>
-            <dimension name="VANG" xvalue="0"/>
+	        <dimension name="VANG" xvalue="0"/>
 	        <dimension name="VROT" xvalue="0"/>
 	        <dimension name="SQRD" xvalue="0"/>
 	        <dimension name="XOPQ" xvalue="4"/>
@@ -574,17 +574,17 @@
       </mapping>
       <mapping>
         <input>
-        	<dimension name="Optical size" xvalue="144"/>
-	        <dimension name="Slant" xvalue="0"/>
-	        <dimension name="Weight" xvalue="400"/>
-	        <dimension name="Width" xvalue="100"/>
+          <dimension name="Optical size" xvalue="144"/>
+          <dimension name="Slant" xvalue="0"/>
+          <dimension name="Weight" xvalue="400"/>
+          <dimension name="Width" xvalue="100"/>
         </input>
         <output>
-            <dimension name="VANG" xvalue="0"/>
+	        <dimension name="VANG" xvalue="0"/>
 	        <dimension name="VROT" xvalue="0"/>
 	        <dimension name="SQRD" xvalue="0"/>
 	        <dimension name="XOPQ" xvalue="55"/>
-	        <dimension name="XTRA" xvalue="447"/>
+	        <dimension name="XTRA" xvalue="449"/>
 	        <dimension name="XTSP" xvalue="-40"/>
 	        <dimension name="YOPQ" xvalue="49"/>
 	        <dimension name="YTAS" xvalue="768"/>
@@ -599,17 +599,17 @@
       </mapping>
       <mapping>
         <input>
-        	<dimension name="Optical size" xvalue="144"/>
-	        <dimension name="Slant" xvalue="0"/>
-	        <dimension name="Weight" xvalue="1000"/>
-	        <dimension name="Width" xvalue="100"/>
+          <dimension name="Optical size" xvalue="144"/>
+          <dimension name="Slant" xvalue="0"/>
+          <dimension name="Weight" xvalue="1000"/>
+          <dimension name="Width" xvalue="100"/>
         </input>
         <output>
-            <dimension name="VANG" xvalue="0"/>
+	        <dimension name="VANG" xvalue="0"/>
 	        <dimension name="VROT" xvalue="0"/>
 	        <dimension name="SQRD" xvalue="0"/>
 	        <dimension name="XOPQ" xvalue="300"/>
-	        <dimension name="XTRA" xvalue="244"/>
+	        <dimension name="XTRA" xvalue="262"/>
 	        <dimension name="XTSP" xvalue="-80"/>
 	        <dimension name="YOPQ" xvalue="228"/>
 	        <dimension name="YTAS" xvalue="768"/>
@@ -624,41 +624,41 @@
       </mapping>
       <mapping>
         <input>
-        	<dimension name="Optical size" xvalue="144"/>
-	        <dimension name="Slant" xvalue="0"/>
-	        <dimension name="Weight" xvalue="100"/>
-	        <dimension name="Width" xvalue="151"/>
+          <dimension name="Optical size" xvalue="144"/>
+          <dimension name="Slant" xvalue="0"/>
+          <dimension name="Weight" xvalue="100"/>
+          <dimension name="Width" xvalue="151"/>
         </input>
         <output>
-            <dimension name="VANG" xvalue="0"/>
-	        <dimension name="VROT" xvalue="0"/>
-	        <dimension name="SQRD" xvalue="0"/>
-	        <dimension name="XOPQ" xvalue="4"/>
-	        <dimension name="XTRA" xvalue="658"/>
-	        <dimension name="XTSP" xvalue="30"/>
-	        <dimension name="YOPQ" xvalue="4"/>
-	        <dimension name="YTAS" xvalue="768"/>
-	        <dimension name="YTDE" xvalue="-208"/>
-	        <dimension name="YTFI" xvalue="743"/>
-	        <dimension name="YTLC" xvalue="458"/>
-	        <dimension name="YTOS" xvalue="30"/>
-	        <dimension name="YTUC" xvalue="728"/>
-	        <dimension name="YTTL" xvalue="25"/>
-	        <dimension name="XTTW" xvalue="5"/>
+        <dimension name="VANG" xvalue="0"/>
+        <dimension name="VROT" xvalue="0"/>
+        <dimension name="SQRD" xvalue="0"/>
+        <dimension name="XOPQ" xvalue="4"/>
+        <dimension name="XTRA" xvalue="658"/>
+        <dimension name="XTSP" xvalue="30"/>
+        <dimension name="YOPQ" xvalue="4"/>
+        <dimension name="YTAS" xvalue="768"/>
+        <dimension name="YTDE" xvalue="-208"/>
+        <dimension name="YTFI" xvalue="743"/>
+        <dimension name="YTLC" xvalue="458"/>
+        <dimension name="YTOS" xvalue="30"/>
+        <dimension name="YTUC" xvalue="728"/>
+        <dimension name="YTTL" xvalue="25"/>
+        <dimension name="XTTW" xvalue="5"/>
         </output>
       </mapping>
       <mapping>
         <input>
-        	<dimension name="Optical size" xvalue="144"/>
-	        <dimension name="Slant" xvalue="0"/>
-	        <dimension name="Weight" xvalue="400"/>
-	        <dimension name="Width" xvalue="151"/>
+          <dimension name="Optical size" xvalue="144"/>
+          <dimension name="Slant" xvalue="0"/>
+          <dimension name="Weight" xvalue="400"/>
+          <dimension name="Width" xvalue="151"/>
         </input>
         <output>
-            <dimension name="VANG" xvalue="0"/>
+	        <dimension name="VANG" xvalue="0"/>
 	        <dimension name="VROT" xvalue="0"/>
 	        <dimension name="SQRD" xvalue="0"/>
-	        <dimension name="XOPQ" xvalue="57"/>
+	        <dimension name="XOPQ" xvalue="53"/>
 	        <dimension name="XTRA" xvalue="600"/>
 	        <dimension name="XTSP" xvalue="30"/>
 	        <dimension name="YOPQ" xvalue="50"/>
@@ -674,17 +674,17 @@
       </mapping>
       <mapping>
         <input>
-        	<dimension name="Optical size" xvalue="144"/>
-	        <dimension name="Slant" xvalue="0"/>
-	        <dimension name="Weight" xvalue="1000"/>
-	        <dimension name="Width" xvalue="151"/>
+          <dimension name="Optical size" xvalue="144"/>
+          <dimension name="Slant" xvalue="0"/>
+          <dimension name="Weight" xvalue="1000"/>
+          <dimension name="Width" xvalue="151"/>
         </input>
         <output>
-            <dimension name="VANG" xvalue="0"/>
+	        <dimension name="VANG" xvalue="0"/>
 	        <dimension name="VROT" xvalue="0"/>
 	        <dimension name="SQRD" xvalue="0"/>
 	        <dimension name="XOPQ" xvalue="300"/>
-	        <dimension name="XTRA" xvalue="380"/>
+	        <dimension name="XTRA" xvalue="390"/>
 	        <dimension name="XTSP" xvalue="30"/>
 	        <dimension name="YOPQ" xvalue="250"/>
 	        <dimension name="YTAS" xvalue="768"/>
@@ -2721,8 +2721,8 @@
         <dimension name="VANG" xvalue="0"/>
         <dimension name="VROT" xvalue="0"/>
         <dimension name="SQRD" xvalue="0"/>
-        <dimension name="XOPQ" xvalue="158"/>
-        <dimension name="XTRA" xvalue="382"/>
+        <dimension name="XOPQ" xvalue="155"/>
+        <dimension name="XTRA" xvalue="390"/>
         <dimension name="XTSP" xvalue="-5"/>
         <dimension name="YOPQ" xvalue="112"/>
         <dimension name="YTAS" xvalue="768"/>
@@ -2791,7 +2791,7 @@
         <dimension name="VROT" xvalue="0"/>
         <dimension name="SQRD" xvalue="0"/>
         <dimension name="XOPQ" xvalue="177"/>
-        <dimension name="XTRA" xvalue="426"/>
+        <dimension name="XTRA" xvalue="430"/>
         <dimension name="XTSP" xvalue="-10"/>
         <dimension name="YOPQ" xvalue="118"/>
         <dimension name="YTAS" xvalue="768"/>
@@ -2860,7 +2860,7 @@
         <dimension name="VROT" xvalue="0"/>
         <dimension name="SQRD" xvalue="0"/>
         <dimension name="XOPQ" xvalue="216"/>
-        <dimension name="XTRA" xvalue="408"/>
+        <dimension name="XTRA" xvalue="414"/>
         <dimension name="XTSP" xvalue="0"/>
         <dimension name="YOPQ" xvalue="158"/>
         <dimension name="YTAS" xvalue="768"/>
@@ -2906,7 +2906,7 @@
         <dimension name="VROT" xvalue="0"/>
         <dimension name="SQRD" xvalue="0"/>
         <dimension name="XOPQ" xvalue="92"/>
-        <dimension name="XTRA" xvalue="414"/>
+        <dimension name="XTRA" xvalue="420"/>
         <dimension name="XTSP" xvalue="-30"/>
         <dimension name="YOPQ" xvalue="78"/>
         <dimension name="YTAS" xvalue="768"/>
@@ -2929,7 +2929,7 @@
         <dimension name="VROT" xvalue="0"/>
         <dimension name="SQRD" xvalue="0"/>
         <dimension name="XOPQ" xvalue="206"/>
-        <dimension name="XTRA" xvalue="312"/>
+        <dimension name="XTRA" xvalue="327"/>
         <dimension name="XTSP" xvalue="-30"/>
         <dimension name="YOPQ" xvalue="154"/>
         <dimension name="YTAS" xvalue="768"/>
@@ -2998,7 +2998,7 @@
         <dimension name="VROT" xvalue="0"/>
         <dimension name="SQRD" xvalue="0"/>
         <dimension name="XOPQ" xvalue="210"/>
-        <dimension name="XTRA" xvalue="360"/>
+        <dimension name="XTRA" xvalue="370"/>
         <dimension name="XTSP" xvalue="-30"/>
         <dimension name="YOPQ" xvalue="156"/>
         <dimension name="YTAS" xvalue="768"/>
@@ -3067,7 +3067,7 @@
         <dimension name="VROT" xvalue="0"/>
         <dimension name="SQRD" xvalue="0"/>
         <dimension name="XOPQ" xvalue="214"/>
-        <dimension name="XTRA" xvalue="410"/>
+        <dimension name="XTRA" xvalue="415"/>
         <dimension name="XTSP" xvalue="20"/>
         <dimension name="YOPQ" xvalue="158"/>
         <dimension name="YTAS" xvalue="768"/>
@@ -3089,10 +3089,10 @@
         <dimension name="VANG" xvalue="0"/>
         <dimension name="VROT" xvalue="0"/>
         <dimension name="SQRD" xvalue="0"/>
-        <dimension name="XOPQ" xvalue="4"/>
-        <dimension name="XTRA" xvalue="256"/>
+        <dimension name="XOPQ" xvalue="2"/>
+        <dimension name="XTRA" xvalue="278"/>
         <dimension name="XTSP" xvalue="-80"/>
-        <dimension name="YOPQ" xvalue="4"/>
+        <dimension name="YOPQ" xvalue="2"/>
         <dimension name="YTAS" xvalue="768"/>
         <dimension name="YTDE" xvalue="-208"/>
         <dimension name="YTFI" xvalue="743"/>
@@ -3113,7 +3113,7 @@
         <dimension name="VROT" xvalue="0"/>
         <dimension name="SQRD" xvalue="0"/>
         <dimension name="XOPQ" xvalue="48"/>
-        <dimension name="XTRA" xvalue="244"/>
+        <dimension name="XTRA" xvalue="267"/>
         <dimension name="XTSP" xvalue="-83"/>
         <dimension name="YOPQ" xvalue="48"/>
         <dimension name="YTAS" xvalue="768"/>
@@ -3182,7 +3182,7 @@
         <dimension name="VROT" xvalue="0"/>
         <dimension name="SQRD" xvalue="0"/>
         <dimension name="XOPQ" xvalue="55"/>
-        <dimension name="XTRA" xvalue="447"/>
+        <dimension name="XTRA" xvalue="449"/>
         <dimension name="XTSP" xvalue="-40"/>
         <dimension name="YOPQ" xvalue="49"/>
         <dimension name="YTAS" xvalue="768"/>
@@ -3205,7 +3205,7 @@
         <dimension name="VROT" xvalue="0"/>
         <dimension name="SQRD" xvalue="0"/>
         <dimension name="XOPQ" xvalue="300"/>
-        <dimension name="XTRA" xvalue="244"/>
+        <dimension name="XTRA" xvalue="262"/>
         <dimension name="XTSP" xvalue="-80"/>
         <dimension name="YOPQ" xvalue="228"/>
         <dimension name="YTAS" xvalue="768"/>
@@ -3250,7 +3250,7 @@
         <dimension name="VANG" xvalue="0"/>
         <dimension name="VROT" xvalue="0"/>
         <dimension name="SQRD" xvalue="0"/>
-        <dimension name="XOPQ" xvalue="57"/>
+        <dimension name="XOPQ" xvalue="53"/>
         <dimension name="XTRA" xvalue="600"/>
         <dimension name="XTSP" xvalue="30"/>
         <dimension name="YOPQ" xvalue="50"/>
@@ -3274,7 +3274,7 @@
         <dimension name="VROT" xvalue="0"/>
         <dimension name="SQRD" xvalue="0"/>
         <dimension name="XOPQ" xvalue="300"/>
-        <dimension name="XTRA" xvalue="380"/>
+        <dimension name="XTRA" xvalue="390"/>
         <dimension name="XTSP" xvalue="30"/>
         <dimension name="YOPQ" xvalue="250"/>
         <dimension name="YTAS" xvalue="768"/>
