@@ -34,7 +34,7 @@
 	        <dimension name="SQRD" xvalue="0"/>
 	        <dimension name="XOPQ" xvalue="50"/>
 	        <dimension name="XTRA" xvalue="451"/>
-	        <dimension name="XTSP" xvalue="-5"/>
+	        <dimension name="XTSP" xvalue="0"/>
 	        <dimension name="YOPQ" xvalue="48"/>
 	        <dimension name="YTAS" xvalue="768"/>
 	        <dimension name="YTDE" xvalue="-208"/>
@@ -59,7 +59,7 @@
 	        <dimension name="SQRD" xvalue="0"/>
 	        <dimension name="XOPQ" xvalue="100"/>
 	        <dimension name="XTRA" xvalue="430"/>
-	        <dimension name="XTSP" xvalue="-5"/>
+	        <dimension name="XTSP" xvalue="0"/>
 	        <dimension name="YOPQ" xvalue="85"/>
 	        <dimension name="YTAS" xvalue="768"/>
 	        <dimension name="YTDE" xvalue="-208"/>
@@ -84,7 +84,7 @@
 	        <dimension name="SQRD" xvalue="0"/>
 	        <dimension name="XOPQ" xvalue="155"/>
 	        <dimension name="XTRA" xvalue="390"/>
-	        <dimension name="XTSP" xvalue="-5"/>
+	        <dimension name="XTSP" xvalue="0"/>
 	        <dimension name="YOPQ" xvalue="112"/>
 	        <dimension name="YTAS" xvalue="768"/>
 	        <dimension name="YTDE" xvalue="-208"/>
@@ -109,7 +109,7 @@
 	        <dimension name="SQRD" xvalue="0"/>
 	        <dimension name="XOPQ" xvalue="54"/>
 	        <dimension name="XTRA" xvalue="532"/>
-	        <dimension name="XTSP" xvalue="-10"/>
+	        <dimension name="XTSP" xvalue="20"/>
 	        <dimension name="YOPQ" xvalue="50"/>
 	        <dimension name="YTAS" xvalue="768"/>
 	        <dimension name="YTDE" xvalue="-208"/>
@@ -134,7 +134,7 @@
 	        <dimension name="SQRD" xvalue="0"/>
 	        <dimension name="XOPQ" xvalue="103"/>
 	        <dimension name="XTRA" xvalue="480"/>
-	        <dimension name="XTSP" xvalue="-10"/>
+	        <dimension name="XTSP" xvalue="20"/>
 	        <dimension name="YOPQ" xvalue="86"/>
 	        <dimension name="YTAS" xvalue="768"/>
 	        <dimension name="YTDE" xvalue="-208"/>
@@ -159,7 +159,7 @@
 	        <dimension name="SQRD" xvalue="0"/>
 	        <dimension name="XOPQ" xvalue="177"/>
 	        <dimension name="XTRA" xvalue="430"/>
-	        <dimension name="XTSP" xvalue="-10"/>
+	        <dimension name="XTSP" xvalue="10"/>
 	        <dimension name="YOPQ" xvalue="118"/>
 	        <dimension name="YTAS" xvalue="768"/>
 	        <dimension name="YTDE" xvalue="-208"/>
@@ -718,6 +718,7 @@
           <dimension name="XTTW" xvalue="5"/>
         </output>
       </mapping>
+
   </mappings>
   </axes>
   <sources>

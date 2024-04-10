@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="z" format="2">
-  <advance width="1555"/>
+  <advance width="1465"/>
   <unicode hex="007A"/>
   <anchor x="818" y="0" name="bottom"/>
   <anchor x="818" y="1052" name="top"/>
@@ -8,14 +8,14 @@
     <contour>
       <point x="70" y="0" type="line"/>
       <point x="70" y="152" type="line"/>
-      <point x="689" y="900" type="line"/>
+      <point x="716" y="900" type="line"/>
       <point x="78" y="900" type="line"/>
       <point x="78" y="1052" type="line"/>
-      <point x="1461" y="1052" type="line"/>
-      <point x="1461" y="919" type="line"/>
-      <point x="707" y="152" type="line"/>
-      <point x="1491" y="152" type="line"/>
-      <point x="1491" y="0" type="line"/>
+      <point x="1371" y="1052" type="line"/>
+      <point x="1371" y="919" type="line"/>
+      <point x="617" y="152" type="line"/>
+      <point x="1401" y="152" type="line"/>
+      <point x="1401" y="0" type="line"/>
     </contour>
   </outline>
 </glyph>

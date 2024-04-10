@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="U" format="2">
-  <advance width="1748"/>
+  <advance width="1364"/>
   <unicode hex="0055"/>
   <anchor x="682" y="0" name="bottom"/>
   <anchor x="879" y="0" name="ogonek"/>
@@ -19,12 +19,12 @@
       <point x="1017" y="682"/>
       <point x="1017" y="796" type="qcurve" smooth="yes"/>
       <point x="1017" y="1456" type="line"/>
-      <point x="1637" y="1456" type="line"/>
-      <point x="1637" y="532" type="line" smooth="yes"/>
-      <point x="1637" y="278"/>
-      <point x="1208" y="-30"/>
-      <point x="865" y="-30" type="qcurve" smooth="yes"/>
-      <point x="505" y="-30"/>
+      <point x="1209" y="1456" type="line"/>
+      <point x="1209" y="532" type="line" smooth="yes"/>
+      <point x="1209" y="278"/>
+      <point x="902" y="-30"/>
+      <point x="681" y="-30" type="qcurve" smooth="yes"/>
+      <point x="462" y="-30"/>
       <point x="155" y="285"/>
     </contour>
   </outline>
