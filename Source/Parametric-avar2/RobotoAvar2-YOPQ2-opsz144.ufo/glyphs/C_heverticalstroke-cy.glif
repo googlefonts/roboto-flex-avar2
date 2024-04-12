@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Cheverticalstroke-cy" format="2">
+  <advance width="1388"/>
+  <unicode hex="04B8"/>
+  <outline>
+    <contour>
+      <point x="766" y="1106" type="line"/>
+      <point x="766" y="250" type="line"/>
+      <point x="596" y="250" type="line"/>
+      <point x="596" y="1106" type="line"/>
+    </contour>
+    <contour>
+      <point x="332" y="1032" type="line" smooth="yes"/>
+      <point x="332" y="811"/>
+      <point x="500" y="583"/>
+      <point x="678" y="583" type="qcurve" smooth="yes"/>
+      <point x="772" y="583"/>
+      <point x="988" y="601"/>
+      <point x="1122" y="623" type="qcurve"/>
+      <point x="1122" y="617" type="line"/>
+      <point x="988" y="595"/>
+      <point x="763" y="576"/>
+      <point x="678" y="576" type="qcurve" smooth="yes"/>
+      <point x="367" y="576"/>
+      <point x="140" y="807"/>
+      <point x="140" y="1035" type="qcurve" smooth="yes"/>
+      <point x="140" y="1456" type="line"/>
+      <point x="332" y="1456" type="line"/>
+    </contour>
+    <contour>
+      <point x="1218" y="1456" type="line"/>
+      <point x="1218" y="0" type="line"/>
+      <point x="1026" y="0" type="line"/>
+      <point x="1026" y="1456" type="line"/>
+    </contour>
+  </outline>
+</glyph>

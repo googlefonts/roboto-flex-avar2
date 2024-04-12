@@ -22,7 +22,7 @@
     <axis tag="XTTW" name="XTTW" minimum="0" maximum="30" default="5"/>
     <mappings>
       
-            <mapping>
+      <mapping>
         <input>
           <dimension name="Optical size" xvalue="8"/>
           <dimension name="Slant" xvalue="0"/>
@@ -2135,6 +2135,29 @@
         <dimension name="XTTW" xvalue="5"/>
       </location>
     </source>
+    <source filename="RobotoAvar2-XOPQ2-opsz144.ufo" familyname="RobotoAvar2" stylename="XOPQ2-opsz144">
+      <location>
+        <dimension name="Optical size" xvalue="144"/>
+        <dimension name="Slant" xvalue="0"/>
+        <dimension name="Weight" xvalue="400"/>
+        <dimension name="Width" xvalue="100"/>
+        <dimension name="VANG" xvalue="0"/>
+        <dimension name="VROT" xvalue="0"/>
+        <dimension name="SQRD" xvalue="0"/>
+        <dimension name="XOPQ" xvalue="2"/>
+        <dimension name="XTRA" xvalue="463"/>
+        <dimension name="XTSP" xvalue="0"/>
+        <dimension name="YOPQ" xvalue="79"/>
+        <dimension name="YTAS" xvalue="768"/>
+        <dimension name="YTDE" xvalue="-208"/>
+        <dimension name="YTFI" xvalue="743"/>
+        <dimension name="YTLC" xvalue="526"/>
+        <dimension name="YTOS" xvalue="30"/>
+        <dimension name="YTUC" xvalue="728"/>
+        <dimension name="YTTL" xvalue="25"/>
+        <dimension name="XTTW" xvalue="5"/>
+      </location>
+    </source>
     <source filename="RobotoAvar2-XOPQ310.ufo" familyname="RobotoAvar2" stylename="XOPQ310">
       <location>
         <dimension name="Optical size" xvalue="14"/>
@@ -2253,6 +2276,29 @@
     <source filename="RobotoAvar2-YOPQ2.ufo" familyname="RobotoAvar2" stylename="YOPQ2">
       <location>
         <dimension name="Optical size" xvalue="14"/>
+        <dimension name="Slant" xvalue="0"/>
+        <dimension name="Weight" xvalue="400"/>
+        <dimension name="Width" xvalue="100"/>
+        <dimension name="VANG" xvalue="0"/>
+        <dimension name="VROT" xvalue="0"/>
+        <dimension name="SQRD" xvalue="0"/>
+        <dimension name="XOPQ" xvalue="96"/>
+        <dimension name="XTRA" xvalue="463"/>
+        <dimension name="XTSP" xvalue="0"/>
+        <dimension name="YOPQ" xvalue="2"/>
+        <dimension name="YTAS" xvalue="768"/>
+        <dimension name="YTDE" xvalue="-208"/>
+        <dimension name="YTFI" xvalue="743"/>
+        <dimension name="YTLC" xvalue="526"/>
+        <dimension name="YTOS" xvalue="30"/>
+        <dimension name="YTUC" xvalue="728"/>
+        <dimension name="YTTL" xvalue="25"/>
+        <dimension name="XTTW" xvalue="5"/>
+      </location>
+    </source>
+    <source filename="RobotoAvar2-YOPQ2-opsz144.ufo" familyname="RobotoAvar2" stylename="YOPQ2-opsz144">
+      <location>
+        <dimension name="Optical size" xvalue="144"/>
         <dimension name="Slant" xvalue="0"/>
         <dimension name="Weight" xvalue="400"/>
         <dimension name="Width" xvalue="100"/>
