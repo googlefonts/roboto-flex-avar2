@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="iotadieresis" format="2">
+  <advance width="502.4838512168988"/>
+  <unicode hex="03CA"/>
+  <outline>
+    <component base="iota" xOffset="-37.877697841726615"/>
+    <component base="dieresiscomb" xOffset="180.5" yOffset="-136.0"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0,0,1,0.5</string>
+    </dict>
+  </lib>
+</glyph>

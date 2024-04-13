@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="breveinvertedcomb" format="2">
+  <unicode hex="030F"/>
+  <anchor x="0.0" y="1052.0" name="_top"/>
+  <anchor x="0.0" y="1540.4640287769785" name="top"/>
+  <outline>
+    <contour>
+      <point x="-328.45454545454544" y="1270.6493506493507" type="qcurve"/>
+      <point x="-336.0" y="1274.0" type="line"/>
+      <point x="-296.0" y="1376.1546762589928"/>
+      <point x="-126.0" y="1540.4640287769785"/>
+      <point x="0.0" y="1540.4640287769785" type="qcurve" smooth="yes"/>
+      <point x="126.0" y="1540.4640287769785"/>
+      <point x="296.0" y="1376.1546762589928"/>
+      <point x="336.0" y="1273.0" type="qcurve"/>
+      <point x="328.45454545454544" y="1269.6753246753246" type="line"/>
+      <point x="275.802155291517" y="1388.260079198316"/>
+      <point x="111.96186791931473" y="1529.1955456911066"/>
+      <point x="0.0" y="1529.1955456911066" type="qcurve" smooth="yes"/>
+      <point x="-113.91461729759602" y="1529.1955456911066"/>
+      <point x="-278.7336280740536" y="1384.4490816851905"/>
+    </contour>
+  </outline>
+</glyph>

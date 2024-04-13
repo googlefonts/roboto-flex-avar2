@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="oslashacute" format="2">
+  <advance width="1352.2584570641359"/>
+  <unicode hex="01FF"/>
+  <outline>
+    <component base="o"/>
+    <component base="diagonalbaro" xOffset="171.23775447726928" yOffset="-72.85071942446044"/>
+    <component base="acutecomb" xOffset="486.39001989897446" yOffset="-136.0"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0,0,1,0.5</string>
+    </dict>
+  </lib>
+</glyph>

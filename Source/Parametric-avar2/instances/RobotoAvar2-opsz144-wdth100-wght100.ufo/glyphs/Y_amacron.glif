@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Yamacron" format="2">
+  <advance width="819.915505893158"/>
+  <unicode hex="F528"/>
+  <outline>
+    <component base="Ya"/>
+    <component base="macroncomb.case" xOffset="382.0998775447727"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0,0,1,0.5</string>
+    </dict>
+  </lib>
+</glyph>

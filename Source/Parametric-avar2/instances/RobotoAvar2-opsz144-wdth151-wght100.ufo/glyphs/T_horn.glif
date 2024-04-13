@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Thorn" format="2">
+  <advance width="933.7507270779122"/>
+  <unicode hex="00DE"/>
+  <guideline y="901.0000000000002" identifier="i9jYwjBDP4"/>
+  <guideline y="555.0000000000002" identifier="T8KKW8oxop"/>
+  <outline>
+    <contour>
+      <point x="207.5" y="0.0" type="line"/>
+      <point x="207.5" y="1456.0" type="line"/>
+      <point x="236.52464411449563" y="1456.0" type="line"/>
+      <point x="236.52464411449563" y="0.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="222.06620235726314" y="314.97872340425533" type="line"/>
+      <point x="222.06620235726314" y="324.7402597402597" type="line"/>
+      <point x="514.5246441144957" y="324.7402597402597" type="line" smooth="yes"/>
+      <point x="674.5246441144957" y="324.7402597402597"/>
+      <point x="816.5246441144957" y="545.5584415584416"/>
+      <point x="816.5246441144957" y="737.9574468085107" type="qcurve" smooth="yes"/>
+      <point x="816.5246441144957" y="934.2337662337662"/>
+      <point x="674.5246441144957" y="1152.2597402597403"/>
+      <point x="514.5246441144957" y="1152.2597402597403" type="qcurve" smooth="yes"/>
+      <point x="223.04492576151844" y="1152.2597402597403" type="line"/>
+      <point x="223.04492576151844" y="1163.0" type="line"/>
+      <point x="521.5390326037043" y="1163.0" type="line" smooth="yes"/>
+      <point x="692.6611816929435" y="1163.0"/>
+      <point x="846.2507270779122" y="935.9787234042553"/>
+      <point x="846.2507270779122" y="738.0" type="qcurve" smooth="yes"/>
+      <point x="846.2507270779122" y="541.9787234042553"/>
+      <point x="692.6611816929435" y="314.97872340425533"/>
+      <point x="521.5390326037043" y="314.97872340425533" type="qcurve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.guideline.magnetic.T8KKW8oxop</key>
+      <integer>5</integer>
+      <key>com.typemytype.robofont.guideline.magnetic.i9jYwjBDP4</key>
+      <integer>5</integer>
+    </dict>
+  </lib>
+</glyph>

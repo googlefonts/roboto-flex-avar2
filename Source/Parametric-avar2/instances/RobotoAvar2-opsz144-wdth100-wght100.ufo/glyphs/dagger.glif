@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dagger" format="2">
+  <advance width="810.1222256237563"/>
+  <unicode hex="2020"/>
+  <outline>
+    <contour>
+      <point x="49.0" y="933.8181818181818" type="line"/>
+      <point x="49.0" y="945.1298701298701" type="line"/>
+      <point x="761.1222256237563" y="945.1298701298701" type="line"/>
+      <point x="761.1222256237563" y="933.8181818181818" type="line"/>
+    </contour>
+    <contour>
+      <point x="395.6170212765957" y="8.0" type="line"/>
+      <point x="396.06382978723406" y="748.0" type="line"/>
+      <point x="396.06382978723406" y="905.0" type="line"/>
+      <point x="395.70212765957444" y="1508.0" type="line"/>
+      <point x="410.48392775141593" y="1508.0" type="line"/>
+      <point x="410.1222256237563" y="905.0" type="line"/>
+      <point x="410.1222256237563" y="748.0" type="line"/>
+      <point x="413.5052043471606" y="8.0" type="line"/>
+      <point x="413.4200979641818" y="-271.8345323741007" type="line"/>
+      <point x="405.11717434562985" y="-415.0"/>
+      <point x="403.7169753558855" y="-416.0"/>
+      <point x="395.70212765957444" y="-271.8345323741007" type="qcurve"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="upsilon" format="2">
+  <advance width="1045.3444818613193"/>
+  <unicode hex="03C5"/>
+  <anchor x="531.9508648400429" y="916.0" name="top"/>
+  <outline>
+    <contour>
+      <point x="523.7896066125822" y="-20.0" type="qcurve" smooth="yes"/>
+      <point x="369.9001224552273" y="-20.0"/>
+      <point x="262.6063829787234" y="201.0"/>
+      <point x="262.6063829787234" y="403.0" type="qcurve" smooth="yes"/>
+      <point x="262.6063829787234" y="916.0" type="line"/>
+      <point x="290.95086484004287" y="916.0" type="line"/>
+      <point x="290.95086484004287" y="401.0" type="line" smooth="yes"/>
+      <point x="290.95086484004287" y="203.8961038961039"/>
+      <point x="389.41839730757533" y="-9.129870129870142"/>
+      <point x="532.9083116485535" y="-9.129870129870142" type="qcurve" smooth="yes"/>
+      <point x="678.3274882166662" y="-9.129870129870142"/>
+      <point x="769.0453660834803" y="203.8961038961039"/>
+      <point x="770.9508648400429" y="401.0" type="qcurve" smooth="yes"/>
+      <point x="770.9508648400429" y="916.0" type="line"/>
+      <point x="781.7593754783406" y="916.0" type="line"/>
+      <point x="781.7593754783406" y="403.0" type="line" smooth="yes"/>
+      <point x="781.7593754783406" y="201.0"/>
+      <point x="679.3592530231134" y="-20.0"/>
+    </contour>
+  </outline>
+</glyph>
