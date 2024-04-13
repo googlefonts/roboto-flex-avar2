@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="u" format="2">
-  <advance width="764.587524873718"/>
+  <advance width="765"/>
   <unicode hex="0075"/>
   <anchor x="335.5547834073167" y="0.0" name="bottom"/>
   <anchor x="593.0018980560233" y="0.0" name="ogonek"/>
@@ -34,4 +34,10 @@
       <point x="671.787524873718" y="0.0" type="line"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>1,0,0,1</string>
+    </dict>
+  </lib>
 </glyph>
