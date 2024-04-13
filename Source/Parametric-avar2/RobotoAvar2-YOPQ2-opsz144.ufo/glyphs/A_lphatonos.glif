@@ -1,10 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Alphatonos" format="2">
-  <advance width="1280"/>
+  <advance width="1270"/>
   <unicode hex="0386"/>
   <outline>
     <component base="A"/>
-    <component base="tonoscomb.case" xOffset="227" yOffset="22"/>
+    <component base="tonoscomb.case" xOffset="222" yOffset="22"/>
   </outline>
   <lib>
     <dict>

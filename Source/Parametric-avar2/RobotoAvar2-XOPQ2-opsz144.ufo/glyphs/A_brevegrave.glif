@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Abrevegrave" format="2">
-  <advance width="1030"/>
+  <advance width="858"/>
   <unicode hex="1EB0"/>
   <outline>
     <component base="A"/>
-    <component base="brevecomb-stack.case" xOffset="507"/>
-    <component base="gravecomb-stack.case" xOffset="507" yOffset="372"/>
+    <component base="brevecomb-stack.case" xOffset="419"/>
+    <component base="gravecomb-stack.case" xOffset="419" yOffset="372"/>
   </outline>
   <lib>
     <dict>

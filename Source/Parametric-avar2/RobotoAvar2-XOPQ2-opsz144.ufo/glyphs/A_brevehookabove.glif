@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Abrevehookabove" format="2">
-  <advance width="1030"/>
+  <advance width="858"/>
   <unicode hex="1EB2"/>
   <outline>
     <component base="A"/>
-    <component base="brevecomb-stack.case" xOffset="507"/>
-    <component base="hookabovecomb-stack" xOffset="507" yOffset="776"/>
+    <component base="brevecomb-stack.case" xOffset="419"/>
+    <component base="hookabovecomb-stack" xOffset="419" yOffset="776"/>
   </outline>
   <lib>
     <dict>

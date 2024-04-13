@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="k" format="2">
-  <advance width="795"/>
+  <advance width="695"/>
   <unicode hex="006B"/>
   <anchor x="447" y="0" name="bottom"/>
   <anchor x="447" y="1536" name="top"/>
@@ -12,16 +12,16 @@
       <point x="155" y="0" type="line"/>
     </contour>
     <contour>
-      <point x="802" y="0" type="line"/>
-      <point x="292" y="661" type="line"/>
-      <point x="297" y="665" type="line"/>
-      <point x="811" y="0" type="line"/>
+      <point x="702" y="0" type="line"/>
+      <point x="282" y="676" type="line"/>
+      <point x="279" y="690" type="line"/>
+      <point x="711" y="0" type="line"/>
     </contour>
     <contour>
       <point x="153" y="410" type="line"/>
       <point x="153" y="628" type="line"/>
-      <point x="550" y="1052" type="line"/>
-      <point x="761" y="1052" type="line"/>
+      <point x="465" y="1052" type="line"/>
+      <point x="661" y="1052" type="line"/>
     </contour>
   </outline>
 </glyph>
