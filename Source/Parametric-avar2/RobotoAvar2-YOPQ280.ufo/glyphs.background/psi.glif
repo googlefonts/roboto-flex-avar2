@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="psi" format="2">
+  <advance width="500"/>
+  <unicode hex="03C8"/>
+  <outline>
+    <contour>
+      <point x="716" y="-20" type="qcurve" smooth="yes"/>
+      <point x="489" y="-20"/>
+      <point x="290" y="201"/>
+      <point x="290" y="403" type="qcurve" smooth="yes"/>
+      <point x="290" y="1052" type="line"/>
+      <point x="476" y="1052" type="line"/>
+      <point x="476" y="664" type="line" smooth="yes"/>
+      <point x="476" y="582"/>
+      <point x="592" y="492"/>
+      <point x="716" y="492" type="qcurve" smooth="yes"/>
+      <point x="840" y="492"/>
+      <point x="956" y="582"/>
+      <point x="956" y="664" type="qcurve" smooth="yes"/>
+      <point x="956" y="1052" type="line"/>
+      <point x="1142" y="1052" type="line"/>
+      <point x="1142" y="403" type="line" smooth="yes"/>
+      <point x="1142" y="201"/>
+      <point x="943" y="-20"/>
+    </contour>
+  </outline>
+</glyph>
