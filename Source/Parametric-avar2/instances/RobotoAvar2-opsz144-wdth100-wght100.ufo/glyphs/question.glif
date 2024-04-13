@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="question" format="2">
-  <advance width="599.5418949946426"/>
+  <advance width="600"/>
   <unicode hex="003F"/>
   <outline>
     <contour>
@@ -50,4 +50,10 @@
       <point x="50.787234042553195" y="1095.0" type="line"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>1,0,0,1</string>
+    </dict>
+  </lib>
 </glyph>
