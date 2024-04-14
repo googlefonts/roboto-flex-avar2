@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Ka" format="2">
-  <advance width="2106"/>
+  <advance width="2216"/>
   <unicode hex="041A"/>
   <guideline x="480" y="796" angle="90.0" identifier="LxfLwWU0sJ"/>
   <anchor x="657" y="1456" name="top"/>
@@ -9,22 +9,22 @@
     <contour>
       <point x="1470" y="0" type="line"/>
       <point x="860" y="717" type="line"/>
-      <point x="1293" y="971" type="line"/>
-      <point x="2126" y="0" type="line"/>
+      <point x="1377" y="999" type="line"/>
+      <point x="2236" y="0" type="line"/>
     </contour>
     <contour>
-      <point x="686" y="830" type="line"/>
-      <point x="1058" y="830" type="line"/>
-      <point x="1603" y="1456" type="line"/>
-      <point x="1820" y="1456" type="line"/>
-      <point x="1136" y="672" type="line"/>
-      <point x="686" y="672" type="line"/>
+      <point x="696" y="830" type="line"/>
+      <point x="1068" y="830" type="line"/>
+      <point x="1613" y="1456" type="line"/>
+      <point x="1830" y="1456" type="line"/>
+      <point x="1146" y="672" type="line"/>
+      <point x="696" y="672" type="line"/>
     </contour>
     <contour>
       <point x="170" y="0" type="line"/>
       <point x="170" y="1456" type="line"/>
-      <point x="782" y="1456" type="line"/>
-      <point x="782" y="0" type="line"/>
+      <point x="790" y="1456" type="line"/>
+      <point x="790" y="0" type="line"/>
     </contour>
   </outline>
 </glyph>

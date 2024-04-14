@@ -1,9 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="K" format="2">
-  <advance width="2144"/>
+  <advance width="2264"/>
   <unicode hex="004B"/>
-  <anchor x="1183" y="0" name="bottom"/>
-  <anchor x="1183" y="1456" name="top"/>
+  <anchor x="1053" y="0" name="bottom"/>
+  <anchor x="1053" y="1456" name="top"/>
   <outline>
     <contour>
       <point x="170" y="0" type="line"/>
@@ -12,16 +12,16 @@
       <point x="791" y="0" type="line"/>
     </contour>
     <contour>
-      <point x="1479" y="0" type="line"/>
-      <point x="1030" y="597" type="line"/>
-      <point x="1395" y="998" type="line"/>
-      <point x="2164" y="0" type="line"/>
+      <point x="1491" y="0" type="line"/>
+      <point x="860" y="694" type="line"/>
+      <point x="1294" y="1076" type="line"/>
+      <point x="2284" y="0" type="line"/>
     </contour>
     <contour>
-      <point x="607" y="27" type="line"/>
-      <point x="607" y="267" type="line"/>
-      <point x="1689" y="1456" type="line"/>
-      <point x="1921" y="1456" type="line"/>
+      <point x="477" y="277" type="line"/>
+      <point x="477" y="517" type="line"/>
+      <point x="1598" y="1456" type="line"/>
+      <point x="1907" y="1456" type="line"/>
     </contour>
   </outline>
 </glyph>

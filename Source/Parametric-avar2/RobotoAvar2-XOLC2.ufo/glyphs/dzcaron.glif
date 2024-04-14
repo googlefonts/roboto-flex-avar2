@@ -1,16 +1,16 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="dzcaron" format="2">
-  <advance width="1594"/>
+  <advance width="1597"/>
   <unicode hex="01C6"/>
   <outline>
     <component base="d"/>
     <component base="z" xOffset="809"/>
-    <component base="caroncomb" xOffset="1192"/>
+    <component base="caroncomb" xOffset="1197"/>
   </outline>
   <lib>
     <dict>
       <key>public.markColor</key>
-      <string>0.0016,0,0.9984,1</string>
+      <string>0.0676,0,0.9997,1</string>
     </dict>
   </lib>
 </glyph>

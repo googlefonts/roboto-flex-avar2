@@ -6,4 +6,10 @@
     <component base="yu-dash" xOffset="448" yOffset="6"/>
     <component base="o" xOffset="836" yOffset="6"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.0676,0,0.9997,1</string>
+    </dict>
+  </lib>
 </glyph>
