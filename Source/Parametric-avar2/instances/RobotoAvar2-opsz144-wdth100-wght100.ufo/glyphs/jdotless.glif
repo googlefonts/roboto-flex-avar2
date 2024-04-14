@@ -1,26 +1,26 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="jdotless" format="2">
-  <advance width="257.32361855196694"/>
+  <advance width="257"/>
   <anchor x="237.4482014388489" y="-436.0" name="bottom"/>
   <anchor x="150.39516301852132" y="916.0" name="top"/>
   <outline>
     <contour>
-      <point x="-152.9546762589928" y="-408.91726618705036" type="qcurve"/>
-      <point x="-152.9546762589928" y="-397.89362795477905" type="line"/>
-      <point x="-127.66648603195365" y="-407.27973465383536"/>
-      <point x="-48.79201158553677" y="-425.12987012987014"/>
-      <point x="-15.710912828179014" y="-425.12987012987014" type="qcurve" smooth="yes"/>
-      <point x="81.1272425110478" y="-425.12987012987014"/>
+      <point x="-153" y="-404" type="qcurve"/>
+      <point x="-153" y="-393" type="line"/>
+      <point x="-127" y="-405"/>
+      <point x="-49" y="-425"/>
+      <point x="-9" y="-425" type="qcurve" smooth="yes"/>
+      <point x="81" y="-425"/>
       <point x="148.46978417266186" y="-283.89948930604066"/>
       <point x="148.46978417266186" y="-119.4820143884892" type="qcurve" smooth="yes"/>
       <point x="148.46978417266186" y="916.0" type="line"/>
       <point x="159.27829481095975" y="916.0" type="line"/>
       <point x="159.27829481095975" y="-76.23381294964028" type="line" smooth="yes"/>
       <point x="159.27829481095975" y="-296.62551660799016"/>
-      <point x="82.69517832542476" y="-436.0"/>
-      <point x="-19.844390019898974" y="-436.0" type="qcurve" smooth="yes"/>
-      <point x="-52.6413439461197" y="-436.0"/>
-      <point x="-126.87194244604316" y="-418.38129496402877"/>
+      <point x="83" y="-436"/>
+      <point x="-11" y="-436" type="qcurve" smooth="yes"/>
+      <point x="-53" y="-436"/>
+      <point x="-128" y="-416"/>
     </contour>
   </outline>
 </glyph>
