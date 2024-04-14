@@ -1,15 +1,15 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="ldot" format="2">
-  <advance width="1725"/>
+  <advance width="1254"/>
   <unicode hex="0140"/>
   <outline>
     <component base="l"/>
-    <component base="dotaccentcomb" xOffset="1391" yOffset="-619.5"/>
+    <component base="dotaccentcomb" xOffset="920" yOffset="-619.5"/>
   </outline>
   <lib>
     <dict>
       <key>public.markColor</key>
-      <string>0.0016,0,0.9984,1</string>
+      <string>0.0676,0,0.9997,1</string>
     </dict>
   </lib>
 </glyph>
