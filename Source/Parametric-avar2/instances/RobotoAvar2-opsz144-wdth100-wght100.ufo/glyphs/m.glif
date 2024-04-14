@@ -6,47 +6,47 @@
   <anchor x="642.0455992652686" y="916.0" name="top"/>
   <outline>
     <contour>
-      <point x="92.8" y="0.0" type="line"/>
-      <point x="92.8" y="916.0" type="line"/>
-      <point x="103.22553191489361" y="916.0" type="line"/>
-      <point x="103.60851063829789" y="756.3191489361702" type="line"/>
-      <point x="103.60851063829789" y="0.0" type="line"/>
+      <point x="92" y="0" type="line"/>
+      <point x="92" y="916" type="line"/>
+      <point x="103" y="916" type="line"/>
+      <point x="103" y="756" type="line"/>
+      <point x="103" y="0" type="line"/>
     </contour>
     <contour>
-      <point x="645.0080973519057" y="567.5200331583311" type="qcurve" smooth="yes"/>
-      <point x="645.0080973519057" y="0.0" type="line"/>
-      <point x="634.1995867136078" y="0.0" type="line"/>
-      <point x="634.1995867136078" y="570.4468085106383" type="line" smooth="yes"/>
-      <point x="634.1995867136078" y="797.6609560652114"/>
-      <point x="535.433233672802" y="925.1298701298701"/>
-      <point x="430.8370566216273" y="925.1298701298701" type="qcurve" smooth="yes"/>
-      <point x="317.7649730340072" y="925.1298701298701"/>
-      <point x="142.7409163467789" y="817.9381044487427"/>
-      <point x="98.31469462727692" y="743.90273556231" type="qcurve"/>
-      <point x="98.31469462727692" y="759.2334899143409" type="line"/>
-      <point x="145.74213195345908" y="834.4534401768444"/>
-      <point x="320.6930524549689" y="936.0"/>
-      <point x="430.80677181382833" y="936.0" type="qcurve" smooth="yes"/>
-      <point x="536.2968054293787" y="936.0"/>
-      <point x="645.0080973519057" y="805.8275766786405"/>
+      <point x="645" y="658" type="qcurve" smooth="yes"/>
+      <point x="645" y="0" type="line"/>
+      <point x="634" y="0" type="line"/>
+      <point x="634" y="661" type="line" smooth="yes"/>
+      <point x="634" y="797"/>
+      <point x="535" y="925"/>
+      <point x="430" y="925" type="qcurve" smooth="yes"/>
+      <point x="317" y="925"/>
+      <point x="142" y="817"/>
+      <point x="98" y="743" type="qcurve"/>
+      <point x="98" y="759" type="line"/>
+      <point x="145" y="834"/>
+      <point x="320" y="936"/>
+      <point x="430" y="936" type="qcurve" smooth="yes"/>
+      <point x="536" y="936"/>
+      <point x="645" y="805"/>
     </contour>
     <contour>
-      <point x="665.5208913388769" y="762.4139817629178" type="line"/>
-      <point x="740.0306569444638" y="865.050898038132"/>
-      <point x="874.7120399728849" y="936.0"/>
-      <point x="975.9446283702522" y="936.0" type="qcurve" smooth="yes"/>
-      <point x="1074.0645708799084" y="936.0"/>
-      <point x="1185.4289606612583" y="803.922077922078"/>
-      <point x="1185.4289606612583" y="569.4255319148937" type="qcurve" smooth="yes"/>
-      <point x="1185.4289606612583" y="0.0" type="line"/>
-      <point x="1174.6204500229603" y="0.0" type="line"/>
-      <point x="1174.6204500229603" y="570.4468085106383" type="line" smooth="yes"/>
-      <point x="1174.6204500229603" y="797.6609560652114"/>
-      <point x="1070.0391385592823" y="925.1298701298701"/>
-      <point x="977.09787532229" y="925.1298701298701" type="qcurve" smooth="yes"/>
-      <point x="872.1031094880934" y="925.1298701298701"/>
-      <point x="740.3855653912902" y="844.844432163581"/>
-      <point x="666.4996147431323" y="743.90273556231" type="qcurve"/>
+      <point x="638" y="722" type="line"/>
+      <point x="709" y="842"/>
+      <point x="854" y="936"/>
+      <point x="968" y="936" type="qcurve" smooth="yes"/>
+      <point x="1074" y="936"/>
+      <point x="1185" y="803"/>
+      <point x="1185" y="660" type="qcurve" smooth="yes"/>
+      <point x="1185" y="0" type="line"/>
+      <point x="1174" y="0" type="line"/>
+      <point x="1174" y="661" type="line" smooth="yes"/>
+      <point x="1174" y="797"/>
+      <point x="1070" y="925"/>
+      <point x="971" y="925" type="qcurve" smooth="yes"/>
+      <point x="859" y="925"/>
+      <point x="716" y="837"/>
+      <point x="639" y="708" type="qcurve"/>
     </contour>
   </outline>
   <lib>
