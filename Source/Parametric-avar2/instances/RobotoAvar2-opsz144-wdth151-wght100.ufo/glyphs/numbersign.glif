@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="numbersign" format="2">
-  <advance width="1827.3273381294964"/>
+  <advance width="1827"/>
   <unicode hex="0023"/>
   <outline>
     <contour>
@@ -16,16 +16,16 @@
       <point x="1047.5416238437822" y="-20.0" type="line"/>
     </contour>
     <contour>
-      <point x="101.5" y="468.59574468085106" type="line"/>
+      <point x="102" y="467" type="line"/>
       <point x="101.5" y="478.3829787234043" type="line"/>
       <point x="1650.8273381294964" y="478.3829787234043" type="line"/>
-      <point x="1650.8273381294964" y="468.59574468085106" type="line"/>
+      <point x="1651" y="467" type="line"/>
     </contour>
     <contour>
-      <point x="152.5" y="1003.5957446808511" type="line"/>
+      <point x="153" y="1002" type="line"/>
       <point x="152.5" y="1013.3829787234042" type="line"/>
       <point x="1700.8273381294964" y="1013.3829787234042" type="line"/>
-      <point x="1700.8273381294964" y="1003.5957446808511" type="line"/>
+      <point x="1701" y="1002" type="line"/>
     </contour>
   </outline>
 </glyph>
