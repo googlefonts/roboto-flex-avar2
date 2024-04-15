@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="H" format="2">
-  <advance width="1696.2500382672586"/>
+  <advance width="1696"/>
   <unicode hex="0048"/>
   <anchor x="904.5908464717588" y="0.0" name="bottom"/>
   <anchor x="904.5908464717588" y="1100.0" name="center"/>
@@ -9,22 +9,22 @@
   <anchor x="-53.50267870809735" y="1074.0" name="tonos"/>
   <outline>
     <contour>
-      <point x="207.5" y="0.0" type="line"/>
-      <point x="207.5" y="1456.0" type="line"/>
-      <point x="218.43617021276597" y="1456.0" type="line"/>
-      <point x="218.43617021276597" y="0.0" type="line"/>
+      <point x="207" y="0" type="line"/>
+      <point x="207" y="1456" type="line"/>
+      <point x="218" y="1456" type="line"/>
+      <point x="218" y="0" type="line"/>
     </contour>
     <contour>
-      <point x="205.44512475126282" y="753.1167429692609" type="line"/>
-      <point x="205.44512475126282" y="764.0388208913389" type="line"/>
-      <point x="1484.4274452778202" y="764.0388208913389" type="line"/>
-      <point x="1484.4274452778202" y="753.1167429692609" type="line"/>
+      <point x="213" y="753" type="line"/>
+      <point x="213" y="764" type="line"/>
+      <point x="1481" y="764" type="line"/>
+      <point x="1481" y="753" type="line"/>
     </contour>
     <contour>
-      <point x="1477.8138680544926" y="0.0" type="line"/>
-      <point x="1477.8138680544926" y="1456.0" type="line"/>
-      <point x="1488.7500382672586" y="1456.0" type="line"/>
-      <point x="1488.7500382672586" y="0.0" type="line"/>
+      <point x="1477" y="0" type="line"/>
+      <point x="1477" y="1456" type="line"/>
+      <point x="1488" y="1456" type="line"/>
+      <point x="1488" y="0" type="line"/>
     </contour>
   </outline>
 </glyph>
