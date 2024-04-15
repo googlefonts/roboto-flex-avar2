@@ -1,10 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="igravecyr" format="2">
-  <advance width="922.8598652992499"/>
+  <advance width="923"/>
   <unicode hex="045D"/>
   <outline>
     <component base="icyr"/>
-    <component base="gravecomb" xOffset="499.5396448798408" yOffset="-136.0"/>
+    <component base="gravecomb" xOffset="499.5396448798408" yOffset="-136"/>
   </outline>
   <lib>
     <dict>
