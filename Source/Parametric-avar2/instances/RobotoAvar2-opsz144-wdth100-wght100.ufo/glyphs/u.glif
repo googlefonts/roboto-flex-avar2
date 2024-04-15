@@ -9,29 +9,29 @@
   <anchor x="589.1663707332007" y="0.0" name="cy_descender"/>
   <outline>
     <contour>
-      <point x="308.1127965712536" y="-20.0" type="qcurve" smooth="yes"/>
-      <point x="202.10514311954694" y="-20.0"/>
-      <point x="86.8" y="123.80851063829788"/>
-      <point x="86.8" y="346.5744680851064" type="qcurve" smooth="yes"/>
-      <point x="86.8" y="916.0" type="line"/>
-      <point x="97.60851063829789" y="916.0" type="line"/>
-      <point x="97.60851063829789" y="345.5531914893617" type="line" smooth="yes"/>
-      <point x="97.60851063829789" y="132.0411715943631"/>
-      <point x="204.96899119554868" y="-9.129870129870142"/>
-      <point x="308.12948606574815" y="-9.129870129870142" type="qcurve" smooth="yes"/>
-      <point x="424.98604435821335" y="-9.129870129870142"/>
-      <point x="593.5004579348404" y="73.90600030613805"/>
-      <point x="664.8139078524414" y="98.78777562862673" type="qcurve"/>
-      <point x="669.1339078524413" y="89.93702127659574" type="line"/>
-      <point x="567.1851369967856" y="28.429024950252565"/>
-      <point x="396.35760600030613" y="-20.0"/>
+      <point x="308" y="-20" type="qcurve" smooth="yes"/>
+      <point x="202" y="-20"/>
+      <point x="86" y="104"/>
+      <point x="86" y="263" type="qcurve" smooth="yes"/>
+      <point x="86" y="916" type="line"/>
+      <point x="97" y="916" type="line"/>
+      <point x="97" y="262" type="line" smooth="yes"/>
+      <point x="97" y="112"/>
+      <point x="204" y="-10"/>
+      <point x="308" y="-10" type="qcurve" smooth="yes"/>
+      <point x="432" y="-10"/>
+      <point x="574" y="40"/>
+      <point x="664" y="98" type="qcurve"/>
+      <point x="669" y="89" type="line"/>
+      <point x="573" y="31"/>
+      <point x="436" y="-20"/>
     </contour>
     <contour>
-      <point x="661.3619929588244" y="0.0" type="line"/>
-      <point x="660.9790142354202" y="361.71767287358284" type="line"/>
-      <point x="660.9790142354202" y="916.0" type="line"/>
-      <point x="671.787524873718" y="916.0" type="line"/>
-      <point x="671.787524873718" y="0.0" type="line"/>
+      <point x="661" y="0" type="line"/>
+      <point x="660" y="88" type="line"/>
+      <point x="660" y="916" type="line"/>
+      <point x="671" y="916" type="line"/>
+      <point x="671" y="0" type="line"/>
     </contour>
   </outline>
   <lib>

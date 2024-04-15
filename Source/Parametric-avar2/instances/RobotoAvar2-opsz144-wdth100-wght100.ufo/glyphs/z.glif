@@ -6,16 +6,16 @@
   <anchor x="366.8538379575423" y="916.0" name="top"/>
   <outline>
     <contour>
-      <point x="95.67532467532467" y="0.0" type="line"/>
-      <point x="95.67532467532467" y="10.350649350649348" type="line"/>
-      <point x="685.413276651406" y="905.2337662337663" type="line"/>
-      <point x="132.8961038961039" y="905.2337662337663" type="line"/>
-      <point x="132.8961038961039" y="916.0" type="line"/>
-      <point x="718.7686798889156" y="916.0" type="line"/>
-      <point x="718.7686798889156" y="905.7272727272727" type="line"/>
-      <point x="129.20862196123178" y="10.766233766233768" type="line"/>
-      <point x="738.4536648106218" y="10.766233766233768" type="line"/>
-      <point x="738.4536648106218" y="0.0" type="line"/>
+      <point x="95" y="0" type="line"/>
+      <point x="95" y="10" type="line"/>
+      <point x="696" y="905" type="line"/>
+      <point x="132" y="905" type="line"/>
+      <point x="132" y="916" type="line"/>
+      <point x="709" y="916" type="line"/>
+      <point x="709" y="906" type="line"/>
+      <point x="108" y="10" type="line"/>
+      <point x="738" y="10" type="line"/>
+      <point x="738" y="0" type="line"/>
     </contour>
   </outline>
   <lib>
