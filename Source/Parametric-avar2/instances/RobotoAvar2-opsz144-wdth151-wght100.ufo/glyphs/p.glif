@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="p" format="2">
-  <advance width="1326.9970916883515"/>
+  <advance width="1327"/>
   <unicode hex="0070"/>
   <anchor x="428.32764426756466" y="0.0" name="bottom"/>
   <anchor x="419.2089392315935" y="916.0" name="top"/>
@@ -32,10 +32,10 @@
     <contour>
       <point x="702.9558624446119" y="-20.0" type="qcurve" smooth="yes"/>
       <point x="462.3000757791114" y="-20.0"/>
-      <point x="187.11702127659575" y="252.52051948051948"/>
+      <point x="187" y="238"/>
       <point x="187.11702127659575" y="452.0" type="qcurve" smooth="yes"/>
       <point x="187.11702127659575" y="486.0" type="line" smooth="yes"/>
-      <point x="187.11702127659575" y="665.5353191489362"/>
+      <point x="187" y="677"/>
       <point x="464.51963875707946" y="936.0"/>
       <point x="703.9298884186379" y="936.0" type="qcurve" smooth="yes"/>
       <point x="931.4212429205572" y="936.0"/>

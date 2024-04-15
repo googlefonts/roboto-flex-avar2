@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="q" format="2">
-  <advance width="1324.0609214755855"/>
+  <advance width="1324"/>
   <unicode hex="0071"/>
   <anchor x="424.6839124445125" y="0.0" name="bottom"/>
   <anchor x="424.6839124445125" y="916.0" name="top"/>
@@ -39,10 +39,10 @@
       <point x="386.3989450959266" y="936.0"/>
       <point x="622.0931772956876" y="936.0" type="qcurve" smooth="yes"/>
       <point x="864.9987973942482" y="936.0"/>
-      <point x="1138.9060444377296" y="650.164321635811"/>
+      <point x="1139" y="660"/>
       <point x="1138.9060444377296" y="463.97402597402595" type="qcurve" smooth="yes"/>
       <point x="1138.9060444377296" y="435.0425531914894" type="line" smooth="yes"/>
-      <point x="1138.9060444377296" y="226.12378004973746"/>
+      <point x="1139" y="217"/>
       <point x="852.9951831361659" y="-20.0"/>
     </contour>
   </outline>

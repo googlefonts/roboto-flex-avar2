@@ -1,26 +1,26 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="jdotless" format="2">
-  <advance width="627.0746976886576"/>
+  <advance width="627"/>
   <anchor x="497.23021582733816" y="-436.0" name="bottom"/>
   <anchor x="417.2850910760753" y="916.0" name="top"/>
   <outline>
     <contour>
-      <point x="-57.20143884892086" y="-405.08992805755395" type="qcurve"/>
-      <point x="-57.20143884892086" y="-392.97276464542654" type="line"/>
-      <point x="-26.992385312529194" y="-403.99915911426706"/>
-      <point x="86.32813229935532" y="-425.12987012987014"/>
-      <point x="154.40203681210875" y="-425.12987012987014" type="qcurve" smooth="yes"/>
-      <point x="298.8085374750766" y="-425.12987012987014"/>
-      <point x="422.46762589928056" y="-266.4030864283428"/>
-      <point x="422.46762589928056" y="-82.3021582733813" type="qcurve" smooth="yes"/>
-      <point x="422.46762589928056" y="916.0" type="line"/>
-      <point x="433.27613653757845" y="916.0" type="line"/>
-      <point x="433.27613653757845" y="-27.571942446043167" type="line" smooth="yes"/>
-      <point x="433.27613653757845" y="-273.1147252410837"/>
-      <point x="297.0958977498852" y="-436.0"/>
-      <point x="143.16064595132406" y="-436.0" type="qcurve" smooth="yes"/>
-      <point x="77.0111740394918" y="-436.0"/>
-      <point x="-27.29136690647482" y="-416.19424460431657"/>
+      <point x="-58" y="-406" type="qcurve"/>
+      <point x="-58" y="-393" type="line"/>
+      <point x="-27" y="-406"/>
+      <point x="82" y="-425"/>
+      <point x="154" y="-426" type="qcurve" smooth="yes"/>
+      <point x="289" y="-428"/>
+      <point x="422" y="-262"/>
+      <point x="422" y="-43" type="qcurve" smooth="yes"/>
+      <point x="422" y="916" type="line"/>
+      <point x="433" y="916" type="line"/>
+      <point x="433" y="-28" type="line" smooth="yes"/>
+      <point x="433" y="-272"/>
+      <point x="295" y="-436"/>
+      <point x="154" y="-436" type="qcurve" smooth="yes"/>
+      <point x="77" y="-436"/>
+      <point x="-28" y="-417"/>
     </contour>
   </outline>
 </glyph>
