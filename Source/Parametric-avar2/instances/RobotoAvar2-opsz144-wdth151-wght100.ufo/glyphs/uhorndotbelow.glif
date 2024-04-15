@@ -1,10 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uhorndotbelow" format="2">
-  <advance width="1035.170978111128"/>
+  <advance width="1035"/>
   <unicode hex="1EF1"/>
   <outline>
     <component base="u"/>
-    <component base="horncomb" xOffset="727.4661717434562" yOffset="-136.0"/>
+    <component base="horncomb" xOffset="727.4661717434562" yOffset="-136"/>
     <component base="dotbelowcomb" xOffset="466.13607837134543"/>
   </outline>
   <lib>

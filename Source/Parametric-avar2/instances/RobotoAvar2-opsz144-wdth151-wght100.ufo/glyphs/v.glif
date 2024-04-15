@@ -1,22 +1,22 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="v" format="2">
-  <advance width="1279.0212765957447"/>
+  <advance width="1279"/>
   <unicode hex="0076"/>
   <anchor x="612.6671015380713" y="0.0" name="bottom"/>
   <anchor x="612.6671015380713" y="916.0" name="top"/>
   <outline>
     <contour>
       <point x="66.2589928057554" y="916.0" type="line"/>
-      <point x="107.72677276802489" y="916.0" type="line"/>
-      <point x="561.4030307668758" y="106.83047604469616" type="line" smooth="yes"/>
-      <point x="583.4739984215997" y="72.12182458288689"/>
-      <point x="621.6287310577071" y="3.844864533904797"/>
-      <point x="638.531914893617" y="-23.169523955303838" type="qcurve"/>
-      <point x="638.6595744680851" y="-23.169523955303838" type="line"/>
-      <point x="655.5627583039951" y="3.844864533904797"/>
-      <point x="693.9947754954369" y="71.42038573396603"/>
-      <point x="716.7671819990816" y="106.83047604469616" type="qcurve" smooth="yes"/>
-      <point x="1168.573854815015" y="916.0" type="line"/>
+      <point x="79" y="916" type="line"/>
+      <point x="562" y="136" type="line" smooth="yes"/>
+      <point x="583" y="101"/>
+      <point x="621" y="38"/>
+      <point x="638" y="9" type="qcurve"/>
+      <point x="638" y="9" type="line"/>
+      <point x="655" y="38"/>
+      <point x="693" y="100"/>
+      <point x="715" y="136" type="qcurve" smooth="yes"/>
+      <point x="1198" y="916" type="line"/>
       <point x="1211.3594060921475" y="916.0" type="line"/>
       <point x="643.9574468085107" y="0.0" type="line"/>
       <point x="633.1063829787234" y="0.0" type="line"/>
