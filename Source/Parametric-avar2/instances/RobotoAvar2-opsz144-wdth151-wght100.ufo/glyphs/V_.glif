@@ -1,22 +1,22 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="V" format="2">
-  <advance width="1579.700443900199"/>
+  <advance width="1580"/>
   <unicode hex="0056"/>
   <anchor x="800.3239306295407" y="0.0" name="bottom"/>
   <anchor x="809.3935358129718" y="1456.0" name="top"/>
   <outline>
     <contour>
       <point x="37.5" y="1456.0" type="line"/>
-      <point x="56.56358129854228" y="1456.0" type="line"/>
-      <point x="725.7193191012263" y="93.49220242485207" type="line" smooth="yes"/>
-      <point x="740.3946596798272" y="63.02067326520107"/>
-      <point x="778.5305084476216" y="-27.14471782618114"/>
-      <point x="788.6561015901287" y="-53.78439331982878" type="qcurve"/>
-      <point x="788.847590951831" y="-53.78439331982878" type="line"/>
-      <point x="800.3760617921799" y="-27.14471782618114"/>
-      <point x="837.0045920710239" y="59.10577964817979"/>
-      <point x="853.6373794581356" y="93.49220242485207" type="qcurve" smooth="yes"/>
-      <point x="1519.3710293991942" y="1456.0" type="line"/>
+      <point x="50" y="1456" type="line"/>
+      <point x="715" y="153" type="line" smooth="yes"/>
+      <point x="730" y="123"/>
+      <point x="777" y="31"/>
+      <point x="790" y="5" type="qcurve"/>
+      <point x="790" y="5" type="line"/>
+      <point x="803" y="31"/>
+      <point x="849" y="119"/>
+      <point x="866" y="153" type="qcurve" smooth="yes"/>
+      <point x="1529" y="1456" type="line"/>
       <point x="1542.200443900199" y="1456.0" type="line"/>
       <point x="795.317618245829" y="-10.0" type="line"/>
       <point x="785.7857033522118" y="-10.0" type="line"/>
