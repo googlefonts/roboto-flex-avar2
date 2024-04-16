@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="two" format="2">
-  <advance width="985.9092759834685"/>
+  <advance width="986"/>
   <unicode hex="0032"/>
   <outline>
     <contour>
@@ -26,10 +26,10 @@
       <point x="897.3630032144497" y="1242.1702127659576"/>
       <point x="897.3630032144497" y="1060.6382978723404" type="qcurve" smooth="yes"/>
       <point x="897.3630032144497" y="877.531914893617"/>
-      <point x="698.6566661564366" y="628.2215674269095"/>
+      <point x="699" y="628"/>
       <point x="587.4621919485688" y="521.8544313485382" type="qcurve" smooth="yes"/>
-      <point x="58.02556252870046" y="10.38297872340425" type="line"/>
-      <point x="916.2444512475126" y="10.38297872340425" type="line"/>
+      <point x="51" y="11" type="line"/>
+      <point x="916" y="11" type="line"/>
       <point x="916.2444512475126" y="0.0" type="line"/>
     </contour>
   </outline>
