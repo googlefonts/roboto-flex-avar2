@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="IJacute" format="2">
+  <advance width="1171.5784999514233"/>
+  <outline>
+    <component base="I"/>
+    <component base="J" xOffset="329.3085106382979"/>
+    <component base="acutecomb.case" xOffset="1021.2056737588653"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0,0,1,0.5</string>
+    </dict>
+  </lib>
+</glyph>

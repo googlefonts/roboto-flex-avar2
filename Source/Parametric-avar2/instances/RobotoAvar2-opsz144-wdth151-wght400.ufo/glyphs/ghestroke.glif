@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ghestroke" format="2">
+  <advance width="850.2177407010562"/>
+  <unicode hex="0493"/>
+  <outline>
+    <component base="ghe" xOffset="-19.306107412272624"/>
+    <component base="horizontalbarlc" xOffset="-53.05145918280426" yOffset="-271.56493506493507"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0,0,1,0.5</string>
+    </dict>
+  </lib>
+</glyph>

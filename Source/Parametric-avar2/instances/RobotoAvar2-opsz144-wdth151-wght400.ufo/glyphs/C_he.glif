@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Che" format="2">
+  <advance width="1320.3561916424308"/>
+  <unicode hex="0427"/>
+  <guideline x="1123.0" y="741.0" angle="90.0" identifier="nfCxFSb4p1"/>
+  <anchor x="1059.4484922700137" y="0.0" name="cy_descender"/>
+  <outline>
+    <contour>
+      <point x="298.1780958212154" y="1032.0" type="line" smooth="yes"/>
+      <point x="298.1780958212154" y="837.8051948051948"/>
+      <point x="441.5651392863795" y="677.1298701298701"/>
+      <point x="632.0326717539122" y="677.1298701298701" type="qcurve" smooth="yes"/>
+      <point x="742.7761831210038" y="677.1298701298701"/>
+      <point x="935.6829206482362" y="696.8401087943658"/>
+      <point x="1052.9922700137763" y="719.7244697748296" type="qcurve"/>
+      <point x="1052.9922700137763" y="618.9712230215828" type="line"/>
+      <point x="915.0471649970018" y="595.4807588070312"/>
+      <point x="732.3003703302687" y="576.0"/>
+      <point x="620.71079938168" y="576.0" type="qcurve" smooth="yes"/>
+      <point x="366.2534823205266" y="576.0"/>
+      <point x="177.5" y="806.0143884892086"/>
+      <point x="177.5" y="1035.9856115107914" type="qcurve" smooth="yes"/>
+      <point x="177.5" y="1456.0" type="line"/>
+      <point x="298.1780958212154" y="1456.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="1112.8561916424308" y="1456.0" type="line"/>
+      <point x="1112.8561916424308" y="0.0" type="line"/>
+      <point x="992.1780958212154" y="0.0" type="line"/>
+      <point x="992.1780958212154" y="1456.0" type="line"/>
+    </contour>
+  </outline>
+</glyph>

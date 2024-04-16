@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Cheverticalstroke-cy" format="2">
+  <advance width="1080.9549208199749"/>
+  <unicode hex="04B8"/>
+  <outline>
+    <contour>
+      <point x="583.4559895074323" y="1106.0" type="line"/>
+      <point x="583.4559895074323" y="250.0" type="line"/>
+      <point x="484.55173418828326" y="250.0" type="line"/>
+      <point x="484.55173418828326" y="1106.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="199.3085106382979" y="1032.0" type="line" smooth="yes"/>
+      <point x="199.3085106382979" y="837.2467532467532"/>
+      <point x="334.61501007493433" y="675.1688311688312"/>
+      <point x="519.005450684553" y="675.1688311688312" type="qcurve" smooth="yes"/>
+      <point x="625.0688439123297" y="675.1688311688312"/>
+      <point x="809.4094927709034" y="694.3896103896104"/>
+      <point x="919.6929700048323" y="715.7792207792207" type="qcurve"/>
+      <point x="919.6929700048323" y="617.0" type="line"/>
+      <point x="790.5101272961955" y="595.0"/>
+      <point x="616.0688439123297" y="576.0"/>
+      <point x="509.8496065287088" y="576.0" type="qcurve" smooth="yes"/>
+      <point x="261.5082580394443" y="576.0"/>
+      <point x="88.0" y="807.0"/>
+      <point x="88.0" y="1035.0" type="qcurve" smooth="yes"/>
+      <point x="88.0" y="1456.0" type="line"/>
+      <point x="199.3085106382979" y="1456.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="974.9549208199749" y="1456.0" type="line"/>
+      <point x="974.9549208199749" y="0.0" type="line"/>
+      <point x="863.6464101816769" y="0.0" type="line"/>
+      <point x="863.6464101816769" y="1456.0" type="line"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dje" format="2">
+  <advance width="846.7478674827553"/>
+  <unicode hex="0452"/>
+  <outline>
+    <component base="h"/>
+    <component base="horizontalbarlc" xOffset="-86.25042059854069" yOffset="597.4155844155844"/>
+    <component base="engtail" xOffset="283.06691926552026"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0,0,1,0.5</string>
+    </dict>
+  </lib>
+</glyph>

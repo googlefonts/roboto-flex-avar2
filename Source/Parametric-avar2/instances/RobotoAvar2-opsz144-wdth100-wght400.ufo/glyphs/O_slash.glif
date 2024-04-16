@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Oslash" format="2">
+  <advance width="1160.9636646264453"/>
+  <unicode hex="00D8"/>
+  <outline>
+    <component base="O"/>
+    <component base="diagonalbarO" xOffset="264.4637472068396" yOffset="-6.5"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0,0,1,0.5</string>
+    </dict>
+  </lib>
+</glyph>

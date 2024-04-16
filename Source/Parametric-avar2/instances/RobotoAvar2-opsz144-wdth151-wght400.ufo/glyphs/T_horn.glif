@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Thorn" format="2">
+  <advance width="1108.267641206184"/>
+  <unicode hex="00DE"/>
+  <guideline y="901.0000000000001" identifier="i9jYwjBDP4"/>
+  <guideline y="555.0000000000001" identifier="T8KKW8oxop"/>
+  <outline>
+    <contour>
+      <point x="207.5" y="0.0" type="line"/>
+      <point x="207.5" y="1456.0" type="line"/>
+      <point x="323.88741772539413" y="1456.0" type="line"/>
+      <point x="323.88741772539413" y="0.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="272.21154140517376" y="314.4574468085106" type="line"/>
+      <point x="272.21154140517376" y="410.76623376623377" type="line"/>
+      <point x="601.8874177253942" y="410.76623376623377" type="line" smooth="yes"/>
+      <point x="761.8874177253942" y="410.76623376623377"/>
+      <point x="903.8874177253942" y="581.4025974025974"/>
+      <point x="903.8874177253942" y="736.9148936170212" type="qcurve" smooth="yes"/>
+      <point x="903.8874177253942" y="893.6103896103896"/>
+      <point x="761.8874177253942" y="1066.2337662337663"/>
+      <point x="601.8874177253942" y="1066.2337662337663" type="qcurve" smooth="yes"/>
+      <point x="272.6689882136844" y="1066.2337662337663" type="line"/>
+      <point x="272.6689882136844" y="1163.0" type="line"/>
+      <point x="606.8154752793511" y="1163.0" type="line" smooth="yes"/>
+      <point x="813.2791979182612" y="1163.0"/>
+      <point x="1020.767641206184" y="935.4574468085107"/>
+      <point x="1020.767641206184" y="738.0" type="qcurve" smooth="yes"/>
+      <point x="1020.767641206184" y="541.4574468085107"/>
+      <point x="813.2791979182612" y="314.4574468085106"/>
+      <point x="606.8154752793511" y="314.4574468085106" type="qcurve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.guideline.magnetic.T8KKW8oxop</key>
+      <integer>5</integer>
+      <key>com.typemytype.robofont.guideline.magnetic.i9jYwjBDP4</key>
+      <integer>5</integer>
+    </dict>
+  </lib>
+</glyph>

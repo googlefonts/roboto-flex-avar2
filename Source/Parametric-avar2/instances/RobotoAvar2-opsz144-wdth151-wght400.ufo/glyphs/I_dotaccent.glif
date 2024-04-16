@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Idotaccent" format="2">
+  <advance width="553.5629879075464"/>
+  <unicode hex="0130"/>
+  <outline>
+    <component base="I" xOffset="-9.856115107913668"/>
+    <component base="dotaccentcomb.case" xOffset="283.6630950558702"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0,0,1,0.5</string>
+    </dict>
+  </lib>
+</glyph>
