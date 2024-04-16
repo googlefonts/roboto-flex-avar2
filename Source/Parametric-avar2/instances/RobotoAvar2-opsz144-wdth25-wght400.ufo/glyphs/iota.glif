@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="iota" format="2">
+  <advance width="222.10309919362678"/>
+  <unicode hex="03B9"/>
+  <anchor x="97.4" y="916.0" name="top"/>
+  <outline>
+    <contour>
+      <point x="149.5048285242398" y="-30.0" type="qcurve" smooth="yes"/>
+      <point x="80.75839891188187" y="-30.0"/>
+      <point x="48.400000000000006" y="110.0"/>
+      <point x="48.400000000000006" y="260.0" type="qcurve" smooth="yes"/>
+      <point x="48.400000000000006" y="916.0" type="line"/>
+      <point x="142.99574468085106" y="916.0" type="line"/>
+      <point x="142.99574468085106" y="260.0" type="line" smooth="yes"/>
+      <point x="142.99574468085106" y="161.01298701298703"/>
+      <point x="148.61052259699886" y="68.4025974025974"/>
+      <point x="173.07793646167298" y="68.4025974025974" type="qcurve" smooth="yes"/>
+      <point x="179.375451731791" y="68.4025974025974"/>
+      <point x="196.00944331098802" y="82.81818181818181"/>
+      <point x="201.63501408724377" y="93.62337662337663" type="qcurve"/>
+      <point x="201.63501408724377" y="0.0" type="line"/>
+      <point x="193.5345574662392" y="-12.0"/>
+      <point x="162.70622753327507" y="-30.0"/>
+    </contour>
+  </outline>
+</glyph>

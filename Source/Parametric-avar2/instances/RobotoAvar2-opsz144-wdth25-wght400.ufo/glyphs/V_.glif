@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="V" format="2">
+  <advance width="300.3495579520063"/>
+  <unicode hex="0056"/>
+  <anchor x="153.75468765180221" y="0.0" name="bottom"/>
+  <anchor x="153.75468765180221" y="1456.0" name="top"/>
+  <outline>
+    <contour>
+      <point x="7.0" y="1456.0" type="line"/>
+      <point x="106.82434664334986" y="1456.0" type="line"/>
+      <point x="143.2889342271447" y="243.9275235597008" type="line" smooth="yes"/>
+      <point x="143.0172933061304" y="208.6269309239289"/>
+      <point x="152.16710385699025" y="131.1891576799767"/>
+      <point x="152.55911784708059" y="98.50422617312739" type="qcurve"/>
+      <point x="152.94345671815802" y="98.50422617312739" type="line"/>
+      <point x="152.82483241037608" y="132.1891576799767"/>
+      <point x="160.56902749441372" y="206.58437773243952"/>
+      <point x="161.31866316914414" y="243.9275235597008" type="qcurve" smooth="yes"/>
+      <point x="197.4401049256777" y="1456.0" type="line"/>
+      <point x="293.3495579520063" y="1456.0" type="line"/>
+      <point x="193.66550082580403" y="-10.0" type="line"/>
+      <point x="108.47401146410186" y="-10.0" type="line"/>
+    </contour>
+  </outline>
+</glyph>

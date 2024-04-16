@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Thorn" format="2">
+  <advance width="355.9753230350725"/>
+  <unicode hex="00DE"/>
+  <guideline y="901.0" identifier="i9jYwjBDP4"/>
+  <guideline y="555.0" identifier="T8KKW8oxop"/>
+  <outline>
+    <contour>
+      <point x="58.0" y="0.0" type="line"/>
+      <point x="58.0" y="1456.0" type="line"/>
+      <point x="152.10638297872345" y="1456.0" type="line"/>
+      <point x="152.10638297872345" y="0.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="111.42553191489361" y="314.51063829787233" type="line"/>
+      <point x="111.42553191489361" y="407.02597402597405" type="line"/>
+      <point x="194.7273875449335" y="407.02597402597405" type="line" smooth="yes"/>
+      <point x="220.48081220246775" y="407.02597402597405"/>
+      <point x="239.86894005634906" y="579.8441558441558"/>
+      <point x="239.86894005634906" y="737.0212765957447" type="qcurve" smooth="yes"/>
+      <point x="239.86894005634906" y="895.3766233766233"/>
+      <point x="220.48081220246775" y="1069.974025974026"/>
+      <point x="194.7273875449335" y="1069.974025974026" type="qcurve" smooth="yes"/>
+      <point x="111.93617021276594" y="1069.974025974026" type="line"/>
+      <point x="111.93617021276594" y="1163.0" type="line"/>
+      <point x="194.7273875449335" y="1163.0" type="line" smooth="yes"/>
+      <point x="303.9743515010201" y="1163.0"/>
+      <point x="333.9753230350725" y="935.5106382978723"/>
+      <point x="333.9753230350725" y="738.0" type="qcurve" smooth="yes"/>
+      <point x="333.9753230350725" y="541.5106382978723"/>
+      <point x="303.9743515010201" y="314.51063829787233"/>
+      <point x="194.7273875449335" y="314.51063829787233" type="qcurve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.guideline.magnetic.T8KKW8oxop</key>
+      <integer>5</integer>
+      <key>com.typemytype.robofont.guideline.magnetic.i9jYwjBDP4</key>
+      <integer>5</integer>
+    </dict>
+  </lib>
+</glyph>

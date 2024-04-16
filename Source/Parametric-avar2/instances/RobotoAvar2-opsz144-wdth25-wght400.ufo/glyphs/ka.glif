@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ka" format="2">
+  <advance width="471.5459729913533"/>
+  <unicode hex="043A"/>
+  <guideline x="241.0" y="553.0" angle="90.0" identifier="lmgRx0QBdK"/>
+  <anchor x="212.94551637034877" y="916.0" name="top"/>
+  <anchor x="316.7513067133003" y="0.0" name="cy_descender"/>
+  <outline>
+    <contour>
+      <point x="315.86614834694115" y="0.0" type="line"/>
+      <point x="208.37536820509715" y="429.5463907509958" type="line"/>
+      <point x="259.934052268532" y="485.96240163217715" type="line"/>
+      <point x="411.343845331779" y="0.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="101.63812299621105" y="510.1948051948052" type="line"/>
+      <point x="193.32293438612294" y="510.1948051948052" type="line"/>
+      <point x="294.15840850104917" y="916.0" type="line"/>
+      <point x="416.87322792819737" y="916.0" type="line"/>
+      <point x="249.74430662119389" y="420.75324675324674" type="line"/>
+      <point x="101.63812299621105" y="420.75324675324674" type="line"/>
+    </contour>
+    <contour>
+      <point x="145.99574468085106" y="916.0" type="line"/>
+      <point x="145.99574468085106" y="0.0" type="line"/>
+      <point x="51.80259740259741" y="0.0" type="line"/>
+      <point x="51.80259740259741" y="916.0" type="line"/>
+    </contour>
+  </outline>
+</glyph>

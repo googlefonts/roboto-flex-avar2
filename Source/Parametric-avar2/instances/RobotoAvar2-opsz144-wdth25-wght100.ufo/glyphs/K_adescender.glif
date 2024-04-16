@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Kadescender" format="2">
+  <advance width="470.2397260273973"/>
+  <unicode hex="049A"/>
+  <outline>
+    <component base="Ka"/>
+    <component base="cy-descendercomb" xOffset="451.30593607305934"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0,0,1,0.5</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="onehalf" format="2">
+  <advance width="932.9543378995434"/>
+  <unicode hex="00BD"/>
+  <guideline y="2079.0" identifier="ZZEoUYP2Rx"/>
+  <outline>
+    <component base="onesuperior" xOffset="9.0"/>
+    <component base="fraction" xOffset="453.69406392694066"/>
+    <component base="twosuperior" xOffset="492.972602739726" yOffset="-697.0"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.guideline.magnetic.ZZEoUYP2Rx</key>
+      <integer>5</integer>
+      <key>public.markColor</key>
+      <string>0,0,1,0.5</string>
+    </dict>
+  </lib>
+</glyph>

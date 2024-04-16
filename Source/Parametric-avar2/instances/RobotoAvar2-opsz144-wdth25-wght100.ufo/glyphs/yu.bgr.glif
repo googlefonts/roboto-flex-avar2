@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="yu.bgr" format="2">
+  <advance width="446.4523744292237"/>
+  <outline>
+    <component base="l"/>
+    <component base="yu-dash" xOffset="49.5" yOffset="1.92"/>
+    <component base="o" xOffset="256.2857077625571" yOffset="1.92"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0,0,1,0.5</string>
+    </dict>
+  </lib>
+</glyph>
