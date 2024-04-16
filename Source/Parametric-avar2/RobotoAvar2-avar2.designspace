@@ -21,7 +21,7 @@
     <axis tag="YTTL" name="YTTL" minimum="0" maximum="50" default="25"/>
     <axis tag="XTTW" name="XTTW" minimum="0" maximum="30" default="5"/>
     <mappings>
-        <mapping>
+       <mapping>
         <input>
           <dimension name="Optical size" xvalue="8"/>
           <dimension name="Slant" xvalue="0"/>
@@ -484,7 +484,7 @@
 	        <dimension name="SQRD" xvalue="0"/>
 	        <dimension name="XOPQ" xvalue="2"/>
 	        <dimension name="XTRA" xvalue="278"/>
-	        <dimension name="XTSP" xvalue="-80"/>
+	        <dimension name="XTSP" xvalue="-75"/>
 	        <dimension name="YOPQ" xvalue="2"/>
 	        <dimension name="YTAS" xvalue="768"/>
 	        <dimension name="YTDE" xvalue="-208"/>
@@ -509,13 +509,13 @@
 	        <dimension name="SQRD" xvalue="0"/>
 	        <dimension name="XOPQ" xvalue="48"/>
 	        <dimension name="XTRA" xvalue="267"/>
-	        <dimension name="XTSP" xvalue="-83"/>
+	        <dimension name="XTSP" xvalue="-70"/>
 	        <dimension name="YOPQ" xvalue="48"/>
 	        <dimension name="YTAS" xvalue="768"/>
 	        <dimension name="YTDE" xvalue="-208"/>
 	        <dimension name="YTFI" xvalue="743"/>
 	        <dimension name="YTLC" xvalue="458"/>
-	        <dimension name="YTOS" xvalue="30"/>
+	        <dimension name="YTOS" xvalue="0"/>
 	        <dimension name="YTUC" xvalue="728"/>
 	        <dimension name="YTTL" xvalue="25"/>
 	        <dimension name="XTTW" xvalue="5"/>
@@ -534,7 +534,7 @@
 	        <dimension name="SQRD" xvalue="0"/>
 	        <dimension name="XOPQ" xvalue="248"/>
 	        <dimension name="XTRA" xvalue="244"/>
-	        <dimension name="XTSP" xvalue="-85"/>
+	        <dimension name="XTSP" xvalue="-100"/>
 	        <dimension name="YOPQ" xvalue="228"/>
 	        <dimension name="YTAS" xvalue="768"/>
 	        <dimension name="YTDE" xvalue="-208"/>
@@ -559,7 +559,7 @@
 	        <dimension name="SQRD" xvalue="0"/>
 	        <dimension name="XOPQ" xvalue="4"/>
 	        <dimension name="XTRA" xvalue="506"/>
-	        <dimension name="XTSP" xvalue="-40"/>
+	        <dimension name="XTSP" xvalue="-10"/>
 	        <dimension name="YOPQ" xvalue="4"/>
 	        <dimension name="YTAS" xvalue="768"/>
 	        <dimension name="YTDE" xvalue="-208"/>
@@ -584,7 +584,7 @@
 	        <dimension name="SQRD" xvalue="0"/>
 	        <dimension name="XOPQ" xvalue="55"/>
 	        <dimension name="XTRA" xvalue="449"/>
-	        <dimension name="XTSP" xvalue="-40"/>
+	        <dimension name="XTSP" xvalue="-24.9"/>
 	        <dimension name="YOPQ" xvalue="49"/>
 	        <dimension name="YTAS" xvalue="768"/>
 	        <dimension name="YTDE" xvalue="-208"/>
@@ -759,7 +759,7 @@
         <dimension name="SQRD" xvalue="0"/>
         <dimension name="XOPQ" xvalue="4"/>
         <dimension name="XTRA" xvalue="658"/>
-        <dimension name="XTSP" xvalue="30"/>
+        <dimension name="XTSP" xvalue="65"/>
         <dimension name="YOPQ" xvalue="4"/>
         <dimension name="YTAS" xvalue="768"/>
         <dimension name="YTDE" xvalue="-208"/>
@@ -784,7 +784,7 @@
 	        <dimension name="SQRD" xvalue="0"/>
 	        <dimension name="XOPQ" xvalue="53"/>
 	        <dimension name="XTRA" xvalue="600"/>
-	        <dimension name="XTSP" xvalue="30"/>
+	        <dimension name="XTSP" xvalue="50"/>
 	        <dimension name="YOPQ" xvalue="50"/>
 	        <dimension name="YTAS" xvalue="768"/>
 	        <dimension name="YTDE" xvalue="-208"/>
@@ -809,7 +809,7 @@
 	        <dimension name="SQRD" xvalue="0"/>
 	        <dimension name="XOPQ" xvalue="300"/>
 	        <dimension name="XTRA" xvalue="390"/>
-	        <dimension name="XTSP" xvalue="30"/>
+	        <dimension name="XTSP" xvalue="-21"/>
 	        <dimension name="YOPQ" xvalue="250"/>
 	        <dimension name="YTAS" xvalue="768"/>
 	        <dimension name="YTDE" xvalue="-208"/>
@@ -916,146 +916,6 @@
         <dimension name="XTTW" xvalue="5"/>
       </location>
     </source>
-<!--
-    <source filename="RobotoAvar2-XTRA244-NEW.ufo" familyname="RobotoAvar2" stylename="SQRD1-XTRA244">
-      <location>
-        <dimension name="Optical size" xvalue="14"/>
-        <dimension name="Slant" xvalue="0"/>
-        <dimension name="Weight" xvalue="400"/>
-        <dimension name="Width" xvalue="100"/>
-        <dimension name="VANG" xvalue="0"/>
-        <dimension name="VROT" xvalue="0"/>
-        <dimension name="SQRD" xvalue="1"/>
-        <dimension name="XOPQ" xvalue="96"/>
-        <dimension name="XTRA" xvalue="244"/>
-        <dimension name="XTSP" xvalue="0"/>
-        <dimension name="YOPQ" xvalue="79"/>
-        <dimension name="YTAS" xvalue="768"/>
-        <dimension name="YTDE" xvalue="-208"/>
-        <dimension name="YTFI" xvalue="743"/>
-        <dimension name="YTLC" xvalue="526"/>
-        <dimension name="YTOS" xvalue="30"/>
-        <dimension name="YTUC" xvalue="728"/>
-        <dimension name="YTTL" xvalue="25"/>
-        <dimension name="XTTW" xvalue="5"/>
-      </location>
-    </source>
-    <source filename="RobotoAvar2-VANG13-SQRD1-XTRA244.ufo" familyname="RobotoAvar2" stylename="VANG13-SQRD1-XTRA244" layer="public.default">
-      <location>
-        <dimension name="Optical size" xvalue="14"/>
-        <dimension name="Slant" xvalue="0"/>
-        <dimension name="Weight" xvalue="400"/>
-        <dimension name="Width" xvalue="100"/>
-        <dimension name="VANG" xvalue="13"/>
-        <dimension name="VROT" xvalue="0"/>
-        <dimension name="SQRD" xvalue="1"/>
-        <dimension name="XOPQ" xvalue="96"/>
-        <dimension name="XTRA" xvalue="244"/>
-        <dimension name="XTSP" xvalue="0"/>
-        <dimension name="YOPQ" xvalue="79"/>
-        <dimension name="YTAS" xvalue="768"/>
-        <dimension name="YTDE" xvalue="-208"/>
-        <dimension name="YTFI" xvalue="743"/>
-        <dimension name="YTLC" xvalue="526"/>
-        <dimension name="YTOS" xvalue="30"/>
-        <dimension name="YTUC" xvalue="728"/>
-        <dimension name="YTTL" xvalue="25"/>
-        <dimension name="XTTW" xvalue="5"/>
-      </location>
-    </source>
-    <source filename="RobotoAvar2-VANG13-SQRD1-XTRA244.ufo" familyname="RobotoAvar2" stylename="VANG13-SQRD0-XTRA244" layer="public.default">
-      <location>
-        <dimension name="Optical size" xvalue="14"/>
-        <dimension name="Slant" xvalue="0"/>
-        <dimension name="Weight" xvalue="400"/>
-        <dimension name="Width" xvalue="100"/>
-        <dimension name="VANG" xvalue="13"/>
-        <dimension name="VROT" xvalue="0"/>
-        <dimension name="SQRD" xvalue="0"/>
-        <dimension name="XOPQ" xvalue="96"/>
-        <dimension name="XTRA" xvalue="244"/>
-        <dimension name="XTSP" xvalue="0"/>
-        <dimension name="YOPQ" xvalue="79"/>
-        <dimension name="YTAS" xvalue="768"/>
-        <dimension name="YTDE" xvalue="-208"/>
-        <dimension name="YTFI" xvalue="743"/>
-        <dimension name="YTLC" xvalue="526"/>
-        <dimension name="YTOS" xvalue="30"/>
-        <dimension name="YTUC" xvalue="728"/>
-        <dimension name="YTTL" xvalue="25"/>
-        <dimension name="XTTW" xvalue="5"/>
-      </location>
-    </source>
-    <source filename="RobotoAvar2-VANG-3-SQRD1.ufo" familyname="RobotoAvar2" stylename="VANG-3-SQRD1">
-      <location>
-        <dimension name="Optical size" xvalue="14"/>
-        <dimension name="Slant" xvalue="0"/>
-        <dimension name="Weight" xvalue="400"/>
-        <dimension name="Width" xvalue="100"/>
-        <dimension name="VANG" xvalue="-3"/>
-        <dimension name="VROT" xvalue="0"/>
-        <dimension name="SQRD" xvalue="1"/>
-        <dimension name="XOPQ" xvalue="96"/>
-        <dimension name="XTRA" xvalue="463"/>
-        <dimension name="XTSP" xvalue="0"/>
-        <dimension name="YOPQ" xvalue="79"/>
-        <dimension name="YTAS" xvalue="768"/>
-        <dimension name="YTDE" xvalue="-208"/>
-        <dimension name="YTFI" xvalue="743"/>
-        <dimension name="YTLC" xvalue="526"/>
-        <dimension name="YTOS" xvalue="30"/>
-        <dimension name="YTUC" xvalue="728"/>
-        <dimension name="YTTL" xvalue="25"/>
-        <dimension name="XTTW" xvalue="5"/>
-      </location>
-    </source>
-    <source filename="RobotoAvar2-VANG-3-SQRD1-XTRA244.ufo" familyname="RobotoAvar2" stylename="VANG-3-SQRD1-XTRA244" layer="public.default">
-      <location>
-        <dimension name="Optical size" xvalue="14"/>
-        <dimension name="Slant" xvalue="0"/>
-        <dimension name="Weight" xvalue="400"/>
-        <dimension name="Width" xvalue="100"/>
-        <dimension name="VANG" xvalue="-3"/>
-        <dimension name="VROT" xvalue="0"/>
-        <dimension name="SQRD" xvalue="1"/>
-        <dimension name="XOPQ" xvalue="96"/>
-        <dimension name="XTRA" xvalue="244"/>
-        <dimension name="XTSP" xvalue="0"/>
-        <dimension name="YOPQ" xvalue="79"/>
-        <dimension name="YTAS" xvalue="768"/>
-        <dimension name="YTDE" xvalue="-208"/>
-        <dimension name="YTFI" xvalue="743"/>
-        <dimension name="YTLC" xvalue="526"/>
-        <dimension name="YTOS" xvalue="30"/>
-        <dimension name="YTUC" xvalue="728"/>
-        <dimension name="YTTL" xvalue="25"/>
-        <dimension name="XTTW" xvalue="5"/>
-      </location>
-    </source>
-    <source filename="RobotoAvar2-VANG-3-SQRD1-XTRA244.ufo" familyname="RobotoAvar2" stylename="VANG-3-SQRD0-XTRA244" layer="public.default">
-      <location>
-        <dimension name="Optical size" xvalue="14"/>
-        <dimension name="Slant" xvalue="0"/>
-        <dimension name="Weight" xvalue="400"/>
-        <dimension name="Width" xvalue="100"/>
-        <dimension name="VANG" xvalue="-3"/>
-        <dimension name="VROT" xvalue="0"/>
-        <dimension name="SQRD" xvalue="0"/>
-        <dimension name="XOPQ" xvalue="96"/>
-        <dimension name="XTRA" xvalue="244"/>
-        <dimension name="XTSP" xvalue="0"/>
-        <dimension name="YOPQ" xvalue="79"/>
-        <dimension name="YTAS" xvalue="768"/>
-        <dimension name="YTDE" xvalue="-208"/>
-        <dimension name="YTFI" xvalue="743"/>
-        <dimension name="YTLC" xvalue="526"/>
-        <dimension name="YTOS" xvalue="30"/>
-        <dimension name="YTUC" xvalue="728"/>
-        <dimension name="YTTL" xvalue="25"/>
-        <dimension name="XTTW" xvalue="5"/>
-      </location>
-    </source>
--->
     <source filename="RobotoAvar2-VANG-3.ufo" familyname="RobotoAvar2" stylename="VANG-3">
       <location>
         <dimension name="Optical size" xvalue="14"/>
@@ -1128,29 +988,6 @@
     <source filename="RobotoAvar2-XOPQ2.ufo" familyname="RobotoAvar2" stylename="XOPQ2">
       <location>
         <dimension name="Optical size" xvalue="14"/>
-        <dimension name="Slant" xvalue="0"/>
-        <dimension name="Weight" xvalue="400"/>
-        <dimension name="Width" xvalue="100"/>
-        <dimension name="VANG" xvalue="0"/>
-        <dimension name="VROT" xvalue="0"/>
-        <dimension name="SQRD" xvalue="0"/>
-        <dimension name="XOPQ" xvalue="2"/>
-        <dimension name="XTRA" xvalue="463"/>
-        <dimension name="XTSP" xvalue="0"/>
-        <dimension name="YOPQ" xvalue="79"/>
-        <dimension name="YTAS" xvalue="768"/>
-        <dimension name="YTDE" xvalue="-208"/>
-        <dimension name="YTFI" xvalue="743"/>
-        <dimension name="YTLC" xvalue="526"/>
-        <dimension name="YTOS" xvalue="30"/>
-        <dimension name="YTUC" xvalue="728"/>
-        <dimension name="YTTL" xvalue="25"/>
-        <dimension name="XTTW" xvalue="5"/>
-      </location>
-    </source>
-    <source filename="RobotoAvar2-XOPQ2-opsz144.ufo" familyname="RobotoAvar2" stylename="XOPQ2-opsz144">
-      <location>
-        <dimension name="Optical size" xvalue="144"/>
         <dimension name="Slant" xvalue="0"/>
         <dimension name="Weight" xvalue="400"/>
         <dimension name="Width" xvalue="100"/>
@@ -1289,29 +1126,6 @@
     <source filename="RobotoAvar2-YOPQ2.ufo" familyname="RobotoAvar2" stylename="YOPQ2">
       <location>
         <dimension name="Optical size" xvalue="14"/>
-        <dimension name="Slant" xvalue="0"/>
-        <dimension name="Weight" xvalue="400"/>
-        <dimension name="Width" xvalue="100"/>
-        <dimension name="VANG" xvalue="0"/>
-        <dimension name="VROT" xvalue="0"/>
-        <dimension name="SQRD" xvalue="0"/>
-        <dimension name="XOPQ" xvalue="96"/>
-        <dimension name="XTRA" xvalue="463"/>
-        <dimension name="XTSP" xvalue="0"/>
-        <dimension name="YOPQ" xvalue="2"/>
-        <dimension name="YTAS" xvalue="768"/>
-        <dimension name="YTDE" xvalue="-208"/>
-        <dimension name="YTFI" xvalue="743"/>
-        <dimension name="YTLC" xvalue="526"/>
-        <dimension name="YTOS" xvalue="30"/>
-        <dimension name="YTUC" xvalue="728"/>
-        <dimension name="YTTL" xvalue="25"/>
-        <dimension name="XTTW" xvalue="5"/>
-      </location>
-    </source>
-    <source filename="RobotoAvar2-YOPQ2-opsz144.ufo" familyname="RobotoAvar2" stylename="YOPQ2-opsz144">
-      <location>
-        <dimension name="Optical size" xvalue="144"/>
         <dimension name="Slant" xvalue="0"/>
         <dimension name="Weight" xvalue="400"/>
         <dimension name="Width" xvalue="100"/>
