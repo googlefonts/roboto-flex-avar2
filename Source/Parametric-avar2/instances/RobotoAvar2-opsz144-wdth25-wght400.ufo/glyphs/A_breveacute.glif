@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Abreveacute" format="2">
-  <advance width="398.4500145730108"/>
+  <advance width="398"/>
   <unicode hex="1EAE"/>
   <outline>
     <component base="A"/>
     <component base="brevecomb-stack.case" xOffset="192.4549693966773"/>
-    <component base="acutecomb-stack.case" xOffset="192.4549693966773" yOffset="372.0"/>
+    <component base="acutecomb-stack.case" xOffset="192.4549693966773" yOffset="372"/>
   </outline>
   <lib>
     <dict>

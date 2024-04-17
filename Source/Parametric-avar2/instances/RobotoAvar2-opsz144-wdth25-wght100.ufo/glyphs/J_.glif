@@ -6,24 +6,24 @@
   <anchor x="128.08333333333331" y="1456.0" name="top"/>
   <outline>
     <contour>
-      <point x="13.75" y="428.0" type="qcurve" smooth="yes"/>
+      <point x="13.75" y="368.0228310502283" type="qcurve" smooth="yes"/>
       <point x="13.75" y="438.0" type="line"/>
       <point x="20.75" y="438.0" type="line"/>
-      <point x="20.75" y="428.0" type="line" smooth="yes"/>
-      <point x="20.75" y="233.0"/>
-      <point x="42.70890410958904" y="5.0"/>
+      <point x="20.75" y="368.0228310502283" type="line" smooth="yes"/>
+      <point x="20.75" y="140.92237442922374"/>
+      <point x="40.17465753424658" y="5.0"/>
       <point x="75.0285388127854" y="5.0" type="qcurve" smooth="yes"/>
-      <point x="108.34817351598173" y="5.0"/>
-      <point x="130.15182648401827" y="248.0"/>
+      <point x="112.57191780821915" y="5.0"/>
+      <point x="129.3070776255708" y="163.52511415525115"/>
       <point x="129.3070776255708" y="453.0" type="qcurve" smooth="yes"/>
       <point x="129.3070776255708" y="1456.0" type="line"/>
       <point x="136.3070776255708" y="1456.0" type="line"/>
       <point x="136.3070776255708" y="453.0" type="line" smooth="yes"/>
-      <point x="136.3070776255708" y="243.0"/>
-      <point x="147.5171232876712" y="-2.0"/>
+      <point x="136.3070776255708" y="217.65753424657535"/>
+      <point x="144.13812785388126" y="-2.0"/>
       <point x="75.0285388127854" y="-2.0" type="qcurve" smooth="yes"/>
-      <point x="5.918949771689483" y="-2.0"/>
-      <point x="13.75" y="229.0"/>
+      <point x="14.366438356164394" y="-2.0"/>
+      <point x="13.75" y="169.02283105022832"/>
     </contour>
   </outline>
 </glyph>

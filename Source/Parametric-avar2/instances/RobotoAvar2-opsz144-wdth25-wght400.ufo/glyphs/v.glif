@@ -1,25 +1,25 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="v" format="2">
-  <advance width="429.8731176527737"/>
+  <advance width="430"/>
   <unicode hex="0076"/>
   <anchor x="214.42592052851452" y="0.0" name="bottom"/>
   <anchor x="214.42592052851452" y="916.0" name="top"/>
   <outline>
     <contour>
-      <point x="7.0" y="916.0" type="line"/>
-      <point x="121.92898086077918" y="916.0" type="line"/>
-      <point x="202.1118235694161" y="207.2340425531915" type="line" smooth="yes"/>
-      <point x="207.02775867094144" y="166.80408821529198"/>
-      <point x="212.94199941707956" y="97.2340425531915"/>
-      <point x="215.89400563489752" y="77.2340425531915" type="qcurve"/>
-      <point x="215.89400563489752" y="77.2340425531915" type="line"/>
-      <point x="218.84601185271543" y="97.2340425531915"/>
-      <point x="223.86527542990385" y="166.80408821529198"/>
-      <point x="228.78121053142914" y="207.2340425531915" type="qcurve" smooth="yes"/>
-      <point x="307.2166520936559" y="916.0" type="line"/>
-      <point x="422.8731176527737" y="916.0" type="line"/>
-      <point x="252.74506946468475" y="0.0" type="line"/>
-      <point x="176.1067715923443" y="0.0" type="line"/>
+      <point x="7" y="916" type="line"/>
+      <point x="122" y="916" type="line"/>
+      <point x="216" y="78" type="line" smooth="yes"/>
+      <point x="216" y="78"/>
+      <point x="216" y="78"/>
+      <point x="216" y="78" type="qcurve"/>
+      <point x="216" y="78" type="line"/>
+      <point x="216" y="78"/>
+      <point x="216" y="78"/>
+      <point x="216" y="78" type="qcurve" smooth="yes"/>
+      <point x="308" y="916" type="line"/>
+      <point x="423" y="916" type="line"/>
+      <point x="253" y="0" type="line"/>
+      <point x="177" y="0" type="line"/>
     </contour>
   </outline>
 </glyph>
