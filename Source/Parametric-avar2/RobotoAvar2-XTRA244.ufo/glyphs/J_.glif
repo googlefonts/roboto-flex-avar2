@@ -6,24 +6,24 @@
   <anchor x="343" y="1456" name="top"/>
   <outline>
     <contour>
-      <point x="25" y="400" type="qcurve" smooth="yes"/>
+      <point x="25" y="329" type="qcurve" smooth="yes"/>
       <point x="25" y="410" type="line"/>
       <point x="217" y="410" type="line"/>
-      <point x="217" y="400" type="line" smooth="yes"/>
-      <point x="217" y="270"/>
-      <point x="225" y="134"/>
+      <point x="217" y="329" type="line"/>
+      <point x="217" y="161"/>
+      <point x="222" y="134"/>
       <point x="232" y="134" type="qcurve" smooth="yes"/>
-      <point x="239" y="134"/>
-      <point x="248" y="285"/>
+      <point x="244" y="134"/>
+      <point x="247" y="185"/>
       <point x="247" y="425" type="qcurve" smooth="yes"/>
       <point x="247" y="1456" type="line"/>
       <point x="439" y="1456" type="line"/>
       <point x="439" y="425" type="line" smooth="yes"/>
-      <point x="439" y="215"/>
-      <point x="363" y="-30"/>
+      <point x="439" y="185"/>
+      <point x="359" y="-30"/>
       <point x="232" y="-30" type="qcurve" smooth="yes"/>
-      <point x="105" y="-30"/>
-      <point x="25" y="200"/>
+      <point x="115" y="-30"/>
+      <point x="25" y="129"/>
     </contour>
   </outline>
 </glyph>
