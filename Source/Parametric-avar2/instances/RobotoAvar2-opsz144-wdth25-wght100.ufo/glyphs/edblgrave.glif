@@ -1,10 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="edblgrave" format="2">
-  <advance width="267.3184931506849"/>
+  <advance width="267"/>
   <unicode hex="0205"/>
   <outline>
     <component base="e"/>
-    <component base="dblgravecomb" xOffset="99.82305936073058" yOffset="-136.0"/>
+    <component base="dblgravecomb" xOffset="99.82305936073058" yOffset="-136"/>
   </outline>
   <lib>
     <dict>
