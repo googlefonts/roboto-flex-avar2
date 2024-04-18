@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="idotless" format="2">
-  <advance width="100.5"/>
+  <advance width="101"/>
   <unicode hex="0131"/>
   <anchor x="49.75" y="916.0" name="top"/>
   <anchor x="49.75" y="0.0" name="bottom"/>
@@ -8,10 +8,10 @@
   <anchor x="48.39" y="471.96" name="yu_dash"/>
   <outline>
     <contour>
-      <point x="46.75" y="0.0" type="line"/>
-      <point x="46.75" y="916.0" type="line"/>
-      <point x="53.75" y="916.0" type="line"/>
-      <point x="53.75" y="0.0" type="line"/>
+      <point x="46" y="0" type="line"/>
+      <point x="46" y="916" type="line"/>
+      <point x="53" y="916" type="line"/>
+      <point x="53" y="0" type="line"/>
     </contour>
   </outline>
 </glyph>

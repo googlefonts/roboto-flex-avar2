@@ -8,14 +8,12 @@
   <anchor x="154.36301369863014" y="0.0" name="engtail"/>
   <outline>
     <contour>
+      <point x="51" y="0" type="line"/>
       <point x="44" y="0" type="line"/>
       <point x="44" y="1536" type="line"/>
       <point x="51" y="1536" type="line"/>
-      <point x="51" y="851" type="line"/>
-      <point x="51" y="0" type="line"/>
     </contour>
     <contour>
-      <point x="48" y="835" type="qcurve"/>
       <point x="48" y="850" type="line"/>
       <point x="57" y="885"/>
       <point x="87" y="917"/>
@@ -31,6 +29,7 @@
       <point x="110" y="910" type="qcurve" smooth="yes"/>
       <point x="90" y="910"/>
       <point x="60" y="880"/>
+      <point x="48" y="835" type="qcurve"/>
     </contour>
   </outline>
 </glyph>

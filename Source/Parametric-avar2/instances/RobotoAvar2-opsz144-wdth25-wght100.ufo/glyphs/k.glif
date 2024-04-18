@@ -1,27 +1,27 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="k" format="2">
-  <advance width="320.7260273972603"/>
+  <advance width="182"/>
   <unicode hex="006B"/>
-  <anchor x="204.96118721461187" y="0.0" name="bottom"/>
-  <anchor x="204.96118721461187" y="1536.0" name="top"/>
+  <anchor x="205" y="0.0" name="bottom"/>
+  <anchor x="205" y="1536.0" name="top"/>
   <outline>
     <contour>
-      <point x="44.5" y="0.0" type="line"/>
-      <point x="44.5" y="1536.0" type="line"/>
-      <point x="51.5" y="1536.0" type="line"/>
-      <point x="51.5" y="0.0" type="line"/>
+      <point x="45" y="0" type="line"/>
+      <point x="45" y="1536" type="line"/>
+      <point x="52" y="1536" type="line"/>
+      <point x="52" y="0" type="line"/>
     </contour>
     <contour>
-      <point x="295.9860273972603" y="0.0" type="line"/>
-      <point x="56.315159817351585" y="541.2750684931507" type="line"/>
-      <point x="50.036438356164396" y="623.4421917808219" type="line"/>
-      <point x="317.2260273972603" y="0.0" type="line"/>
+      <point x="176" y="0" type="line"/>
+      <point x="64" y="556" type="line"/>
+      <point x="68" y="570" type="line"/>
+      <point x="183" y="0" type="line"/>
     </contour>
     <contour>
-      <point x="49.5" y="471.28" type="line"/>
-      <point x="49.5" y="464.64" type="line"/>
-      <point x="179.10547945205482" y="916.0" type="line"/>
-      <point x="201.70547945205482" y="916.0" type="line"/>
+      <point x="48" y="473" type="line"/>
+      <point x="48" y="498" type="line"/>
+      <point x="140" y="916" type="line"/>
+      <point x="148" y="916" type="line"/>
     </contour>
   </outline>
 </glyph>
