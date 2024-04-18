@@ -190,7 +190,7 @@ h11==0.14.0
     # via wsproto
 hyperglot==0.4.1
     # via gftools
-idna==3.4
+idna==3.7
     # via
     #   requests
     #   trio
