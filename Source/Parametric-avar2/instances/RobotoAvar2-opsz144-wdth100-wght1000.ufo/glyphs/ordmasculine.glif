@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ordmasculine" format="2">
+  <advance width="1212.164460376392"/>
+  <unicode hex="00BA"/>
+  <guideline y="1975.0" identifier="Jnt0R9CyOf"/>
+  <outline>
+    <contour>
+      <point x="47.099065420560734" y="1073.5046728971963" type="qcurve"/>
+      <point x="47.099065420560734" y="1093.4953271028037" type="line"/>
+      <point x="47.099065420560734" y="1260.8411214953271"/>
+      <point x="336.9048521316093" y="1477.0"/>
+      <point x="611.3784150556905" y="1477.0" type="qcurve" smooth="yes"/>
+      <point x="887.8052490078094" y="1477.0"/>
+      <point x="1179.3644603763921" y="1260.8411214953271"/>
+      <point x="1179.3644603763921" y="1093.4953271028037" type="qcurve"/>
+      <point x="1179.3644603763921" y="1073.5046728971963" type="line"/>
+      <point x="1179.3644603763921" y="906.1588785046729"/>
+      <point x="890.7117910638842" y="691.0"/>
+      <point x="615.2849571117654" y="691.0" type="qcurve" smooth="yes"/>
+      <point x="339.811394187684" y="691.0"/>
+      <point x="47.099065420560734" y="906.1588785046729"/>
+    </contour>
+    <contour>
+      <point x="584.7345794392522" y="1124.0" type="qcurve"/>
+      <point x="584.7345794392522" y="1043.0" type="line"/>
+      <point x="584.7345794392522" y="952.0"/>
+      <point x="596.6386890282934" y="830.0"/>
+      <point x="613.3784150556905" y="830.0" type="qcurve" smooth="yes"/>
+      <point x="629.8715657406221" y="830.0"/>
+      <point x="641.7756753296632" y="952.0"/>
+      <point x="641.7756753296632" y="1043.0" type="qcurve"/>
+      <point x="641.7756753296632" y="1124.0" type="line"/>
+      <point x="641.7756753296632" y="1213.0"/>
+      <point x="628.8715657406221" y="1336.0"/>
+      <point x="611.3784150556905" y="1336.0" type="qcurve" smooth="yes"/>
+      <point x="596.6386890282934" y="1336.0"/>
+      <point x="584.7345794392522" y="1213.0"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.guideline.magnetic.Jnt0R9CyOf</key>
+      <integer>5</integer>
+    </dict>
+  </lib>
+</glyph>

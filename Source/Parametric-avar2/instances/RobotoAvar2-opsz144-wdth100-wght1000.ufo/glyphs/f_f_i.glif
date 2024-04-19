@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="f_f_i" format="2">
+  <advance width="2011.2555114581999"/>
+  <unicode hex="FB03"/>
+  <outline>
+    <component base="f"/>
+    <component base="f" xOffset="682.5735501216234"/>
+    <component base="idotless" xOffset="1365.1471002432468"/>
+    <component base="idot" xOffset="1696.7807451030599" yOffset="-136.0"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0,0,1,0.5</string>
+    </dict>
+  </lib>
+</glyph>

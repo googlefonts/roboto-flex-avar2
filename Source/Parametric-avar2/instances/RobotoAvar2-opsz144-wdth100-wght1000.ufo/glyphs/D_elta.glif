@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Delta" format="2">
+  <advance width="999.3003968762001"/>
+  <unicode hex="0394"/>
+  <outline>
+    <contour>
+      <point x="13.799999999999999" y="0.0" type="line"/>
+      <point x="13.799999999999999" y="107.0" type="line"/>
+      <point x="189.69041095890412" y="1466.0" type="line"/>
+      <point x="809.7277941364741" y="1466.0" type="line"/>
+      <point x="985.7003968762001" y="107.0" type="line"/>
+      <point x="985.7003968762001" y="0.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="543.1679547468138" y="478.9800995024875" type="line"/>
+      <point x="197.44390376882706" y="478.9800995024875" type="line"/>
+      <point x="383.07697130784436" y="839.0646766169154" type="line" smooth="yes"/>
+      <point x="382.7497716894977" y="870.5820895522388"/>
+      <point x="375.24564846997885" y="934.0646766169154"/>
+      <point x="374.6703060042255" y="967.0646766169154" type="qcurve"/>
+      <point x="364.6703060042255" y="967.0646766169154" type="line"/>
+      <point x="364.09496353847203" y="934.0646766169154"/>
+      <point x="362.4389967968377" y="880.2189054726368"/>
+      <point x="357.74622776528315" y="839.0646766169154" type="qcurve" smooth="yes"/>
+    </contour>
+  </outline>
+</glyph>
