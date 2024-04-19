@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Tcaron" format="2">
+  <advance width="729.7233644859814"/>
+  <unicode hex="0164"/>
+  <outline>
+    <component base="T"/>
+    <component base="caroncomb.case" xOffset="370.3616822429907"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0,0,1,0.5</string>
+    </dict>
+  </lib>
+</glyph>

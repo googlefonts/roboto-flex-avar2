@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="l" format="2">
-  <advance width="645.7084112149532"/>
+  <advance width="647"/>
   <unicode hex="006C"/>
   <anchor x="326.6672897196261" y="0.0" name="bottom"/>
   <anchor x="326.6672897196261" y="791.0" name="center"/>
@@ -9,10 +9,10 @@
   <anchor x="321.90093457943925" y="471.96" name="yu_dash"/>
   <outline>
     <contour>
-      <point x="39.19999999999999" y="0.0" type="line"/>
-      <point x="39.19999999999999" y="1536.0" type="line"/>
-      <point x="606.5084112149532" y="1536.0" type="line"/>
-      <point x="606.5084112149532" y="0.0" type="line"/>
+      <point x="40" y="0" type="line"/>
+      <point x="40" y="1456" type="line"/>
+      <point x="607" y="1456" type="line"/>
+      <point x="607" y="0" type="line"/>
     </contour>
   </outline>
 </glyph>

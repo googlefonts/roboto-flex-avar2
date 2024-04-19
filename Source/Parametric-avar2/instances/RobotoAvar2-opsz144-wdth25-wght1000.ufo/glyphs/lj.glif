@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="lj" format="2">
+  <advance width="1068.1242990654205"/>
+  <unicode hex="01C9"/>
+  <outline>
+    <component base="l"/>
+    <component base="jdotless" xOffset="533.9121495327101"/>
+    <component base="idot" xOffset="807.4107476635514" yOffset="-136.0"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0,0,1,0.5</string>
+    </dict>
+  </lib>
+</glyph>

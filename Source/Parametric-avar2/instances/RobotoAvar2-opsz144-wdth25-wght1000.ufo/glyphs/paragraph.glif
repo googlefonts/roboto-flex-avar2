@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="paragraph" format="2">
+  <advance width="1232.5121495327103"/>
+  <unicode hex="00B6"/>
+  <guideline y="901.0" identifier="27539Lsr1A"/>
+  <guideline y="555.0" identifier="e34wUdCmXR"/>
+  <outline>
+    <contour>
+      <point x="978.0121495327102" y="-146.0" type="line"/>
+      <point x="507.9" y="-146.0" type="line"/>
+      <point x="507.9" y="463.97512437810946" type="line"/>
+      <point x="420.9" y="463.97512437810946" type="line" smooth="yes"/>
+      <point x="225.9" y="463.97512437810946"/>
+      <point x="16.9" y="745.9502487562189"/>
+      <point x="16.9" y="959.6169154228855" type="qcurve" smooth="yes"/>
+      <point x="16.9" y="1171.2835820895523"/>
+      <point x="225.9" y="1456.0"/>
+      <point x="420.9" y="1456.0" type="qcurve" smooth="yes"/>
+      <point x="978.0121495327102" y="1456.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="1008.0121495327102" y="1459.0" type="line"/>
+      <point x="1194.0121495327103" y="1459.0" type="line"/>
+      <point x="1194.0121495327103" y="-146.0" type="line"/>
+      <point x="1008.0121495327102" y="-146.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.guideline.magnetic.27539Lsr1A</key>
+      <integer>5</integer>
+      <key>com.typemytype.robofont.guideline.magnetic.e34wUdCmXR</key>
+      <integer>5</integer>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Tshe" format="2">
+  <advance width="2528.607476635514"/>
+  <unicode hex="040B"/>
+  <guideline x="568.0" y="683.0" angle="90.0" identifier="juO2xYoEN4"/>
+  <outline>
+    <contour>
+      <point x="393.5" y="0.0" type="line"/>
+      <point x="393.5" y="1378.4672897196263" type="line"/>
+      <point x="992.5467289719627" y="1378.4672897196263" type="line"/>
+      <point x="992.5467289719627" y="0.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="1437.5934579439252" y="0.0" type="line"/>
+      <point x="1437.5934579439252" y="274.8955223880597" type="line" smooth="yes"/>
+      <point x="1437.5934579439252" y="355.05970149253733"/>
+      <point x="1323.9267912772584" y="408.7014925373134"/>
+      <point x="1191.9267912772584" y="408.7014925373134" type="qcurve" smooth="yes"/>
+      <point x="1131.9267912772584" y="408.7014925373134"/>
+      <point x="839.309968847352" y="395.4893290556563"/>
+      <point x="729.7242990654206" y="377.27911842655874" type="qcurve"/>
+      <point x="729.7242990654206" y="838.1447900683498" type="line"/>
+      <point x="834.7834890965732" y="869.4376249593156"/>
+      <point x="1138.9267912772584" y="892.5373134328358"/>
+      <point x="1238.8520249221183" y="892.5373134328358" type="qcurve" smooth="yes"/>
+      <point x="1613.702492211838" y="892.5373134328358"/>
+      <point x="2032.8271028037384" y="669.8706467661692"/>
+      <point x="2027.107476635514" y="433.53731343283584" type="qcurve" smooth="yes"/>
+      <point x="2027.107476635514" y="0.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="61.5" y="956.0" type="line"/>
+      <point x="61.5" y="1456.0" type="line"/>
+      <point x="1350.260124610592" y="1456.0" type="line"/>
+      <point x="1350.260124610592" y="956.0" type="line"/>
+    </contour>
+  </outline>
+</glyph>
