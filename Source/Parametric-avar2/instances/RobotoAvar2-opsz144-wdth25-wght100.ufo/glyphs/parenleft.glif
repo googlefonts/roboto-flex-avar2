@@ -1,25 +1,25 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="parenleft" format="2">
-  <advance width="147.66210045662098"/>
+  <advance width="148"/>
   <unicode hex="0028"/>
   <outline>
     <contour>
-      <point x="131.16210045662098" y="-436.0" type="line"/>
-      <point x="69.27625570776254" y="-340.0"/>
-      <point x="38.5" y="120.0"/>
-      <point x="38.5" y="515.0" type="qcurve" smooth="yes"/>
-      <point x="38.5" y="525.0" type="line" smooth="yes"/>
-      <point x="38.5" y="937.0"/>
-      <point x="69.27625570776254" y="1380.0"/>
-      <point x="131.16210045662098" y="1476.0" type="qcurve"/>
-      <point x="131.16210045662098" y="1469.0" type="line"/>
-      <point x="85.94748858447488" y="1375.0"/>
-      <point x="45.5" y="936.0"/>
-      <point x="45.5" y="532.0" type="qcurve" smooth="yes"/>
-      <point x="45.5" y="508.0" type="line" smooth="yes"/>
-      <point x="45.5" y="121.0"/>
-      <point x="86.94748858447488" y="-336.0"/>
-      <point x="131.16210045662098" y="-429.0" type="qcurve"/>
+      <point x="131" y="-436" type="line"/>
+      <point x="69" y="-290"/>
+      <point x="18" y="120"/>
+      <point x="18" y="515" type="qcurve" smooth="yes"/>
+      <point x="18" y="525" type="line" smooth="yes"/>
+      <point x="18" y="937"/>
+      <point x="72" y="1348"/>
+      <point x="131" y="1476" type="qcurve"/>
+      <point x="131" y="1449" type="line"/>
+      <point x="83" y="1346"/>
+      <point x="25" y="936"/>
+      <point x="25" y="532" type="qcurve" smooth="yes"/>
+      <point x="25" y="508" type="line" smooth="yes"/>
+      <point x="25" y="121"/>
+      <point x="75" y="-284"/>
+      <point x="131" y="-416" type="qcurve"/>
     </contour>
   </outline>
 </glyph>

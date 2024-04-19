@@ -1,12 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="perthousand" format="2">
-  <advance width="714.0045662100456"/>
+  <advance width="714"/>
   <unicode hex="2030"/>
   <outline>
     <component base="zerosuperior"/>
     <component base="fraction" xOffset="203.1415525114155"/>
-    <component base="zerosuperior" xOffset="260.1826484018265" yOffset="-700.0"/>
-    <component base="zerosuperior" xOffset="392.1461187214612" yOffset="-700.0"/>
+    <component base="zerosuperior" xOffset="260.1826484018265" yOffset="-700"/>
+    <component base="zerosuperior" xOffset="392.1461187214612" yOffset="-700"/>
   </outline>
   <lib>
     <dict>
