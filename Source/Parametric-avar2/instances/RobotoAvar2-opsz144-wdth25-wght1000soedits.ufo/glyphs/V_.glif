@@ -1,25 +1,25 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="V" format="2">
-  <advance width="1171.2990654205607"/>
+  <advance width="1171"/>
   <unicode hex="0056"/>
   <anchor x="629.7803738317757" y="0.0" name="bottom"/>
   <anchor x="647.5373831775701" y="1456.0" name="top"/>
   <outline>
     <contour>
-      <point x="8.5" y="1456.0" type="line"/>
-      <point x="594.8925233644859" y="1456.0" type="line"/>
-      <point x="640.5373831775701" y="622.3551401869158" type="line" smooth="yes"/>
-      <point x="641.2476635514017" y="595.8785046728972"/>
-      <point x="644.5373831775701" y="540.8504672897196"/>
-      <point x="643.696261682243" y="505.7196261682243" type="qcurve"/>
-      <point x="643.9859813084113" y="505.7196261682243" type="line"/>
-      <point x="643.1448598130842" y="541.8504672897196"/>
-      <point x="648.2757009345794" y="595.1682242990654"/>
-      <point x="646.8551401869158" y="622.3551401869158" type="qcurve" smooth="yes"/>
-      <point x="686.6869158878503" y="1456.0" type="line"/>
-      <point x="1162.7990654205607" y="1456.0" type="line"/>
-      <point x="875.4345794392523" y="-10.0" type="line"/>
-      <point x="301.41588785046724" y="-10.0" type="line"/>
+      <point x="29" y="1456" type="line"/>
+      <point x="567" y="1456" type="line"/>
+      <point x="587" y="623" type="line"/>
+      <point x="588" y="596"/>
+      <point x="590" y="541"/>
+      <point x="591" y="506" type="qcurve"/>
+      <point x="591" y="506" type="line"/>
+      <point x="592" y="541"/>
+      <point x="595" y="596"/>
+      <point x="596" y="623" type="qcurve" smooth="yes"/>
+      <point x="621" y="1456" type="line"/>
+      <point x="1145" y="1456" type="line"/>
+      <point x="876" y="-10" type="line"/>
+      <point x="302" y="-10" type="line"/>
     </contour>
   </outline>
 </glyph>
