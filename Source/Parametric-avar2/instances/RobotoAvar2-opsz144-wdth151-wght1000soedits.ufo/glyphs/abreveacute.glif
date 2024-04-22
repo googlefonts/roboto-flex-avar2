@@ -1,10 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="abreveacute" format="2">
-  <advance width="1764.2523364485983"/>
+  <advance width="1764"/>
   <unicode hex="1EAF"/>
   <outline>
     <component base="a"/>
-    <component base="brevecomb-stack" xOffset="857.7367601246106" yOffset="-136.0"/>
+    <component base="brevecomb-stack" xOffset="857.7367601246106" yOffset="-136"/>
     <component base="acutecomb-stack" xOffset="857.7367601246106" yOffset="342.98130841121497"/>
   </outline>
   <lib>

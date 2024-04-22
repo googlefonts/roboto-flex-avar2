@@ -7,22 +7,22 @@
   <anchor x="116.43886826270641" y="1074.0" name="tonos"/>
   <outline>
     <contour>
-      <point x="442.3155805914736" y="0.0" type="line"/>
-      <point x="442.3155805914736" y="544.0" type="line"/>
-      <point x="11.0" y="1456.0" type="line"/>
-      <point x="671.2242990654206" y="1456.0" type="line"/>
-      <point x="775" y="1092" type="line" smooth="yes"/>
-      <point x="782" y="1067"/>
-      <point x="797" y="1012"/>
-      <point x="803.2781974139033" y="984.6635514018692" type="qcurve"/>
-      <point x="809.2781974139033" y="984.6635514018692" type="line"/>
-      <point x="815" y="1011"/>
-      <point x="831" y="1070"/>
-      <point x="838" y="1091" type="qcurve" smooth="yes"/>
-      <point x="951.1226475483294" y="1456.0" type="line"/>
-      <point x="1482.2815260530024" y="1456.0" type="line"/>
-      <point x="1053.754832927922" y="544.0" type="line"/>
-      <point x="1053.754832927922" y="0.0" type="line"/>
+      <point x="443" y="0" type="line"/>
+      <point x="443" y="544" type="line"/>
+      <point x="11" y="1456" type="line"/>
+      <point x="672" y="1456" type="line"/>
+      <point x="806" y="985" type="line" smooth="yes"/>
+      <point x="806" y="985"/>
+      <point x="806" y="985"/>
+      <point x="806" y="985" type="qcurve"/>
+      <point x="806" y="985" type="line"/>
+      <point x="806" y="985"/>
+      <point x="806" y="985"/>
+      <point x="806" y="985" type="qcurve" smooth="yes"/>
+      <point x="952" y="1456" type="line"/>
+      <point x="1483" y="1456" type="line"/>
+      <point x="1054" y="544" type="line"/>
+      <point x="1054" y="0" type="line"/>
     </contour>
   </outline>
 </glyph>

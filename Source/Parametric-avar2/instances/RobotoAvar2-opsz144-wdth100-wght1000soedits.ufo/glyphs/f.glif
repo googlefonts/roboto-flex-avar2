@@ -6,7 +6,7 @@
   <anchor x="492.2963769043657" y="1536.0" name="top"/>
   <outline>
     <contour>
-      <point x="63.767123287671225" y="0.0" type="line"/>
+      <point x="64" y="0" type="line"/>
       <point x="64" y="1065" type="line" smooth="yes"/>
       <point x="64" y="1293"/>
       <point x="266" y="1476"/>
@@ -21,17 +21,17 @@
       <point x="650" y="1039"/>
       <point x="635" y="995"/>
       <point x="635" y="894" type="qcurve" smooth="yes"/>
-      <point x="634.888618614774" y="643.9900497512438" type="line"/>
-      <point x="634.888618614774" y="834.0" type="line"/>
-      <point x="634.888618614774" y="0.0" type="line"/>
+      <point x="635" y="644" type="line"/>
+      <point x="635" y="834" type="line"/>
+      <point x="635" y="0" type="line"/>
     </contour>
     <contour>
-      <point x="13.0" y="477.48258706467664" type="line"/>
-      <point x="13.0" y="916.0" type="line"/>
-      <point x="130.0958904109589" y="916.0" type="line"/>
-      <point x="557.4043016259121" y="916.0" type="line"/>
-      <point x="690.3406734092946" y="916.0" type="line"/>
-      <point x="690.3406734092946" y="477.48258706467664" type="line"/>
+      <point x="13" y="478" type="line"/>
+      <point x="13" y="916" type="line"/>
+      <point x="131" y="916" type="line"/>
+      <point x="558" y="916" type="line"/>
+      <point x="691" y="916" type="line"/>
+      <point x="691" y="478" type="line"/>
     </contour>
   </outline>
 </glyph>

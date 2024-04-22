@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="b" format="2">
-  <advance width="1037"/>
+  <advance width="1036"/>
   <unicode hex="0062"/>
   <anchor x="606.5317757009345" y="0.0" name="bottom"/>
   <anchor x="606.5317757009345" y="1535.2897196261683" name="top"/>
@@ -16,10 +16,10 @@
     <contour>
       <point x="509" y="351" type="qcurve" smooth="yes"/>
       <point x="521" y="351"/>
-      <point x="531" y="399"/>
-      <point x="531" y="452" type="qcurve" smooth="yes"/>
-      <point x="531" y="463" type="line" smooth="yes"/>
-      <point x="531" y="517"/>
+      <point x="532" y="399"/>
+      <point x="532" y="452" type="qcurve" smooth="yes"/>
+      <point x="532" y="463" type="line" smooth="yes"/>
+      <point x="532" y="517"/>
       <point x="520" y="566"/>
       <point x="507" y="566" type="qcurve" smooth="yes"/>
       <point x="492" y="566"/>

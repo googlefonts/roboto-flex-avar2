@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="o" format="2">
-  <advance width="1297"/>
+  <advance width="1322"/>
   <unicode hex="006F"/>
   <anchor x="646.7009345794393" y="0.0" name="bottom"/>
   <anchor x="647.6542056074766" y="458.0" name="center"/>
@@ -26,20 +26,20 @@
       <point x="20" y="233"/>
     </contour>
     <contour>
-      <point x="603" y="501" type="qcurve" smooth="yes"/>
-      <point x="603" y="426" type="line" smooth="yes"/>
-      <point x="603" y="392"/>
-      <point x="632" y="350"/>
+      <point x="603" y="465" type="qcurve" smooth="yes"/>
+      <point x="603" y="454" type="line" smooth="yes"/>
+      <point x="603" y="399"/>
+      <point x="630" y="350"/>
       <point x="661" y="350" type="qcurve" smooth="yes"/>
-      <point x="690" y="350"/>
-      <point x="719" y="392"/>
-      <point x="719" y="426" type="qcurve" smooth="yes"/>
-      <point x="719" y="501" type="line" smooth="yes"/>
-      <point x="719" y="531"/>
-      <point x="690" y="569"/>
+      <point x="692" y="350"/>
+      <point x="719" y="399"/>
+      <point x="719" y="454" type="qcurve" smooth="yes"/>
+      <point x="719" y="465" type="line" smooth="yes"/>
+      <point x="719" y="520"/>
+      <point x="692" y="569"/>
       <point x="661" y="569" type="qcurve" smooth="yes"/>
-      <point x="632" y="569"/>
-      <point x="603" y="531"/>
+      <point x="630" y="569"/>
+      <point x="603" y="520"/>
     </contour>
   </outline>
 </glyph>
