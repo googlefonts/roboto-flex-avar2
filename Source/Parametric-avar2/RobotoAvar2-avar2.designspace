@@ -774,7 +774,7 @@
 	        <dimension name="YTLC" xvalue="458"/>
 	        <dimension name="YTOS" xvalue="20"/>
 	        <dimension name="YTUC" xvalue="728"/>
-	        <dimension name="YTTL" xvalue="0"/>
+	        <dimension name="YTTL" xvalue="25"/>
 	        <dimension name="XTTW" xvalue="0"/>
 	        <dimension name="XTUR" xvalue="463"/>
         </output>
@@ -802,7 +802,7 @@
 	        <dimension name="YTUC" xvalue="728"/>
 	        <dimension name="YTTL" xvalue="25"/>
 	        <dimension name="XTTW" xvalue="0"/>
-	        <dimension name="XTUR" xvalue="463"/>
+	        <dimension name="XTUR" xvalue="532"/>
         </output>
       </mapping>
       <mapping>
@@ -826,9 +826,9 @@
 	        <dimension name="YTLC" xvalue="458"/>
 	        <dimension name="YTOS" xvalue="20"/>
 	        <dimension name="YTUC" xvalue="728"/>
-	        <dimension name="YTTL" xvalue="0"/>
-	        <dimension name="XTTW" xvalue="0"/>
-	        <dimension name="XTUR" xvalue="463"/>
+	        <dimension name="YTTL" xvalue="25"/>
+	        <dimension name="XTTW" xvalue="5"/>
+	        <dimension name="XTUR" xvalue="542"/>
         </output>
       </mapping>
       <mapping>
@@ -852,9 +852,9 @@
 	        <dimension name="YTLC" xvalue="458"/>
 	        <dimension name="YTOS" xvalue="20"/>
 	        <dimension name="YTUC" xvalue="728"/>
-	        <dimension name="YTTL" xvalue="0"/>
+	        <dimension name="YTTL" xvalue="25"/>
 	        <dimension name="XTTW" xvalue="0"/>
-	        <dimension name="XTUR" xvalue="554"/>
+	        <dimension name="XTUR" xvalue="552"/>
         </output>
       </mapping>
       <mapping>
@@ -880,6 +880,7 @@
           <dimension name="XTUR" xvalue="463"/>
         </output>
       </mapping>
+      
       
       
       
@@ -1017,22 +1018,23 @@
         <dimension name="Slant" xvalue="0"/>
         <dimension name="Weight" xvalue="100"/>
         <dimension name="Width" xvalue="151"/>
-    	<dimension name="VANG" xvalue="0"/>
-        <dimension name="VROT" xvalue="0"/>
-        <dimension name="SQRD" xvalue="0"/>
-        <dimension name="XOPQ" xvalue="4"/>
-        <dimension name="XTRA" xvalue="658"/>
-        <dimension name="XTSP" xvalue="65"/>
-        <dimension name="YOPQ" xvalue="4"/>
-        <dimension name="YTAS" xvalue="768"/>
-        <dimension name="YTDE" xvalue="-208"/>
-        <dimension name="YTFI" xvalue="743"/>
-        <dimension name="YTLC" xvalue="458"/>
-        <dimension name="YTOS" xvalue="20"/>
-        <dimension name="YTUC" xvalue="728"/>
-        <dimension name="YTTL" xvalue="25"/>
-        <dimension name="XTTW" xvalue="0"/>
-        <dimension name="XTUR" xvalue="463"/>
+            <dimension name="VANG" xvalue="0"/>
+	        <dimension name="VROT" xvalue="0"/>
+	        <dimension name="SQRD" xvalue="0"/>
+	        <dimension name="XOPQ" xvalue="4"/>
+	        <dimension name="XTRA" xvalue="658"/>
+	        <dimension name="XTSP" xvalue="65"/>
+	        <dimension name="YOPQ" xvalue="4"/>
+	        <dimension name="YTAS" xvalue="768"/>
+	        <dimension name="YTDE" xvalue="-208"/>
+	        <dimension name="YTFI" xvalue="743"/>
+	        <dimension name="YTLC" xvalue="458"/>
+	        <dimension name="YTOS" xvalue="20"/>
+	        <dimension name="YTUC" xvalue="728"/>
+	        <dimension name="YTTL" xvalue="25"/>
+	        <dimension name="XTTW" xvalue="0"/>
+	        <dimension name="XTUR" xvalue="463"/>
+
       </location>
     </source>
     
@@ -1057,7 +1059,7 @@
         <dimension name="YTUC" xvalue="728"/>
         <dimension name="YTTL" xvalue="25"/>
         <dimension name="XTTW" xvalue="0"/>
-        <dimension name="XTUR" xvalue="614"/>
+        <dimension name="XTUR" xvalue="463"/>
       </location>
     </source>
     
