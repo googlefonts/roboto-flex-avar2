@@ -21,6 +21,7 @@
     <axis tag="YTTL" name="YTTL" minimum="0" maximum="50" default="25"/>
     <axis tag="XTTW" name="XTTW" minimum="0" maximum="30" default="5"/>
     <axis tag="XTUR" name="XTUR" minimum="463" maximum="741" default="463"/>
+    <axis tag="WDSP" name="WDSP" minimum="0" maximum="1000" default="246"/>
     <mappings>
       
       <mapping>
@@ -47,6 +48,7 @@
           <dimension name="YTTL" xvalue="25"/>
           <dimension name="XTTW" xvalue="5"/>
           <dimension name="XTUR" xvalue="463"/>
+          <dimension name="WDSP" xvalue="250"/>
         </output>
       </mapping>
       <mapping>
@@ -73,6 +75,7 @@
           <dimension name="YTTL" xvalue="25"/>
           <dimension name="XTTW" xvalue="5"/>
           <dimension name="XTUR" xvalue="463"/>
+          <dimension name="WDSP" xvalue="250"/>
         </output>
       </mapping>
       <mapping>
@@ -99,6 +102,7 @@
           <dimension name="YTTL" xvalue="25"/>
           <dimension name="XTTW" xvalue="5"/>
           <dimension name="XTUR" xvalue="463"/>
+          <dimension name="WDSP" xvalue="250"/>
         </output>
       </mapping>
       <mapping>
@@ -125,6 +129,7 @@
           <dimension name="YTTL" xvalue="25"/>
           <dimension name="XTTW" xvalue="5"/>
           <dimension name="XTUR" xvalue="463"/>
+          <dimension name="WDSP" xvalue="250"/>
         </output>
       </mapping>
       <mapping>
@@ -151,6 +156,7 @@
           <dimension name="YTTL" xvalue="25"/>
           <dimension name="XTTW" xvalue="5"/>
           <dimension name="XTUR" xvalue="463"/>
+          <dimension name="WDSP" xvalue="250"/>
         </output>
       </mapping>
       <mapping>
@@ -177,6 +183,7 @@
           <dimension name="YTTL" xvalue="25"/>
           <dimension name="XTTW" xvalue="5"/>
           <dimension name="XTUR" xvalue="463"/>
+          <dimension name="WDSP" xvalue="250"/>
         </output>
       </mapping>
       <mapping>
@@ -203,6 +210,7 @@
           <dimension name="YTTL" xvalue="25"/>
           <dimension name="XTTW" xvalue="5"/>
           <dimension name="XTUR" xvalue="463"/>
+          <dimension name="WDSP" xvalue="250"/>
         </output>
       </mapping>
       <mapping>
@@ -229,6 +237,7 @@
           <dimension name="YTTL" xvalue="25"/>
           <dimension name="XTTW" xvalue="5"/>
           <dimension name="XTUR" xvalue="463"/>
+          <dimension name="WDSP" xvalue="250"/>
         </output>
       </mapping>
       <mapping>
@@ -255,6 +264,7 @@
           <dimension name="YTTL" xvalue="25"/>
           <dimension name="XTTW" xvalue="5"/>
           <dimension name="XTUR" xvalue="463"/>
+          <dimension name="WDSP" xvalue="257"/>
         </output>
       </mapping>
       <mapping>
@@ -281,6 +291,7 @@
 	        <dimension name="YTTL" xvalue="25"/>
 	        <dimension name="XTTW" xvalue="5"/>
 	        <dimension name="XTUR" xvalue="463"/>
+	        <dimension name="WDSP" xvalue="250"/>
         </output>
       </mapping>
       <mapping>
@@ -307,6 +318,7 @@
 	        <dimension name="YTTL" xvalue="25"/>
 	        <dimension name="XTTW" xvalue="5"/>
 	        <dimension name="XTUR" xvalue="463"/>
+	        <dimension name="WDSP" xvalue="250"/>
         </output>
       </mapping>
       <mapping>
@@ -333,6 +345,7 @@
 	        <dimension name="YTTL" xvalue="25"/>
 	        <dimension name="XTTW" xvalue="5"/>
 	        <dimension name="XTUR" xvalue="463"/>
+	        <dimension name="WDSP" xvalue="257"/>
         </output>
       </mapping>
       <mapping>
@@ -359,6 +372,7 @@
 	        <dimension name="YTTL" xvalue="25"/>
 	        <dimension name="XTTW" xvalue="5"/>
 	       <dimension name="XTUR" xvalue="463"/>
+	       <dimension name="WDSP" xvalue="250"/>
         </output>
       </mapping>
       <mapping>
@@ -385,6 +399,7 @@
 	        <dimension name="YTTL" xvalue="25"/>
 	        <dimension name="XTTW" xvalue="5"/>
 	        <dimension name="XTUR" xvalue="463"/>
+	        <dimension name="WDSP" xvalue="246"/>
         </output>
       </mapping>
       <mapping>
@@ -411,6 +426,7 @@
 	        <dimension name="YTTL" xvalue="25"/>
 	        <dimension name="XTTW" xvalue="5"/>
 	        <dimension name="XTUR" xvalue="463"/>
+	        <dimension name="WDSP" xvalue="250"/>
         </output>
       </mapping>
       <mapping>
@@ -437,6 +453,7 @@
 	        <dimension name="YTTL" xvalue="25"/>
 	        <dimension name="XTTW" xvalue="5"/>
 	        <dimension name="XTUR" xvalue="463"/>
+	        <dimension name="WDSP" xvalue="250"/>
         </output>
       </mapping>
       <mapping>
@@ -463,6 +480,7 @@
 	        <dimension name="YTTL" xvalue="25"/>
 	        <dimension name="XTTW" xvalue="5"/>
 	        <dimension name="XTUR" xvalue="463"/>
+	        <dimension name="WDSP" xvalue="250"/>
         </output>
       </mapping>
       <mapping>
@@ -489,6 +507,7 @@
 	        <dimension name="YTTL" xvalue="25"/>
 	        <dimension name="XTTW" xvalue="5"/>
 	        <dimension name="XTUR" xvalue="463"/>
+	        <dimension name="WDSP" xvalue="257"/>
         </output>
       </mapping>
       <mapping>
@@ -515,6 +534,7 @@
 	        <dimension name="YTTL" xvalue="25"/>
 	        <dimension name="XTTW" xvalue="0"/>
 	        <dimension name="XTUR" xvalue="463"/>
+	        <dimension name="WDSP" xvalue="53"/>
         </output>
       </mapping>
       <mapping>
@@ -541,6 +561,7 @@
 	        <dimension name="YTTL" xvalue="25"/>
 	        <dimension name="XTTW" xvalue="0"/>
 	        <dimension name="XTUR" xvalue="463"/>
+	        <dimension name="WDSP" xvalue="94"/>
         </output>
       </mapping>
       <mapping>
@@ -567,6 +588,7 @@
 	        <dimension name="YTTL" xvalue="25"/>
 	        <dimension name="XTTW" xvalue="0"/>
 	        <dimension name="XTUR" xvalue="463"/>
+	        <dimension name="WDSP" xvalue="255"/>
         </output>
       </mapping>
       <mapping>
@@ -593,6 +615,7 @@
 	        <dimension name="YTTL" xvalue="25"/>
 	        <dimension name="XTTW" xvalue="0"/>
 	        <dimension name="XTUR" xvalue="463"/>
+	        <dimension name="WDSP" xvalue="162"/>
         </output>
       </mapping>
       <mapping>
@@ -619,6 +642,7 @@
 	        <dimension name="YTTL" xvalue="0"/>
 	        <dimension name="XTTW" xvalue="0"/>
 	        <dimension name="XTUR" xvalue="463"/>
+	        <dimension name="WDSP" xvalue="175"/>
         </output>
       </mapping>
 <!--
@@ -646,6 +670,7 @@
           <dimension name="YTTL" xvalue="0"/>
           <dimension name="XTTW" xvalue="0"/>
           <dimension name="XTUR" xvalue="463"/>
+          <dimension name="WDSP" xvalue="250"/>
         </output>
       </mapping>
       <mapping>
@@ -672,6 +697,7 @@
           <dimension name="YTTL" xvalue="0"/>
           <dimension name="XTTW" xvalue="0"/>
           <dimension name="XTUR" xvalue="463"/>
+          <dimension name="WDSP" xvalue="250"/>
         </output>
       </mapping>
       <mapping>
@@ -698,6 +724,7 @@
           <dimension name="YTTL" xvalue="0"/>
           <dimension name="XTTW" xvalue="0"/>
           <dimension name="XTUR" xvalue="463"/>
+          <dimension name="WDSP" xvalue="250"/>
         </output>
       </mapping>
       <mapping>
@@ -724,6 +751,7 @@
           <dimension name="YTTL" xvalue="0"/>
           <dimension name="XTTW" xvalue="0"/>
           <dimension name="XTUR" xvalue="463"/>
+          <dimension name="WDSP" xvalue="250"/>
         </output>
       </mapping>
       <mapping>
@@ -750,6 +778,7 @@
           <dimension name="YTTL" xvalue="0"/>
           <dimension name="XTTW" xvalue="0"/>
           <dimension name="XTUR" xvalue="463"/>
+          <dimension name="WDSP" xvalue="250"/>
         </output>
       </mapping>
 -->
@@ -777,6 +806,7 @@
 	        <dimension name="YTTL" xvalue="25"/>
 	        <dimension name="XTTW" xvalue="0"/>
 	        <dimension name="XTUR" xvalue="463"/>
+	        <dimension name="WDSP" xvalue="306"/>
         </output>
       </mapping>
       <mapping>
@@ -803,6 +833,7 @@
 	        <dimension name="YTTL" xvalue="25"/>
 	        <dimension name="XTTW" xvalue="0"/>
 	        <dimension name="XTUR" xvalue="532"/>
+	        <dimension name="WDSP" xvalue="250"/>
         </output>
       </mapping>
       <mapping>
@@ -829,6 +860,7 @@
 	        <dimension name="YTTL" xvalue="25"/>
 	        <dimension name="XTTW" xvalue="5"/>
 	        <dimension name="XTUR" xvalue="542"/>
+	        <dimension name="WDSP" xvalue="285"/>
         </output>
       </mapping>
       <mapping>
@@ -855,6 +887,7 @@
 	        <dimension name="YTTL" xvalue="25"/>
 	        <dimension name="XTTW" xvalue="0"/>
 	        <dimension name="XTUR" xvalue="552"/>
+	        <dimension name="WDSP" xvalue="384"/>
         </output>
       </mapping>
       <mapping>
@@ -878,6 +911,7 @@
           <dimension name="YTTL" xvalue="25"/>
           <dimension name="XTTW" xvalue="5"/>
           <dimension name="XTUR" xvalue="463"/>
+          <dimension name="WDSP" xvalue="246"/>
         </output>
       </mapping>
       
@@ -909,6 +943,7 @@
         <dimension name="YTTL" xvalue="25"/>
         <dimension name="XTTW" xvalue="5"/>
         <dimension name="XTUR" xvalue="463"/>
+        <dimension name="WDSP" xvalue="246"/>
       </location>
     </source>
     
@@ -934,6 +969,7 @@
         <dimension name="YTTL" xvalue="25"/>
         <dimension name="XTTW" xvalue="0"/>
         <dimension name="XTUR" xvalue="463"/>
+        <dimension name="WDSP" xvalue="246"/>
       </location>
     </source>
     
@@ -959,6 +995,7 @@
         <dimension name="YTTL" xvalue="25"/>
         <dimension name="XTTW" xvalue="0"/>
         <dimension name="XTUR" xvalue="463"/>
+        <dimension name="WDSP" xvalue="255"/>
       </location>
     </source>
     
@@ -984,6 +1021,7 @@
         <dimension name="YTTL" xvalue="25"/>
         <dimension name="XTTW" xvalue="0"/>
         <dimension name="XTUR" xvalue="463"/>
+        <dimension name="WDSP" xvalue="246"/>
       </location>
     </source>
     
@@ -1009,6 +1047,7 @@
         <dimension name="YTTL" xvalue="25"/>
         <dimension name="XTTW" xvalue="0"/>
         <dimension name="XTUR" xvalue="463"/>
+        <dimension name="WDSP" xvalue="306"/>
       </location>
     </source>
     
@@ -1034,7 +1073,7 @@
 	        <dimension name="YTTL" xvalue="25"/>
 	        <dimension name="XTTW" xvalue="0"/>
 	        <dimension name="XTUR" xvalue="463"/>
-
+	        <dimension name="WDSP" xvalue="246"/>
       </location>
     </source>
     
@@ -1060,6 +1099,7 @@
         <dimension name="YTTL" xvalue="25"/>
         <dimension name="XTTW" xvalue="0"/>
         <dimension name="XTUR" xvalue="463"/>
+        <dimension name="WDSP" xvalue="387"/>
       </location>
     </source>
     
@@ -1085,6 +1125,7 @@
         <dimension name="YTTL" xvalue="25"/>
         <dimension name="XTTW" xvalue="5"/>
         <dimension name="XTUR" xvalue="463"/>
+        <dimension name="WDSP" xvalue="246"/>
       </location>
     </source>
     <source filename="RobotoAvar2-VANG13-SQRD1.ufo" familyname="RobotoAvar2" stylename="VANG13-SQRD1">
@@ -1109,6 +1150,7 @@
         <dimension name="YTTL" xvalue="25"/>
         <dimension name="XTTW" xvalue="5"/>
         <dimension name="XTUR" xvalue="463"/>
+        <dimension name="WDSP" xvalue="246"/>
       </location>
     </source>
     <source filename="RobotoAvar2-XTRA244.ufo" familyname="RobotoAvar2" stylename="SQRD1-XTRA244">
@@ -1133,6 +1175,7 @@
         <dimension name="YTTL" xvalue="25"/>
         <dimension name="XTTW" xvalue="5"/>
         <dimension name="XTUR" xvalue="463"/>
+        <dimension name="WDSP" xvalue="246"/>
       </location>
     </source>
     <source filename="RobotoAvar2-VANG13-SQRD1-XTRA244.ufo" familyname="RobotoAvar2" stylename="VANG13-SQRD1-XTRA244" layer="public.default">
@@ -1157,6 +1200,7 @@
         <dimension name="YTTL" xvalue="25"/>
         <dimension name="XTTW" xvalue="5"/>
         <dimension name="XTUR" xvalue="463"/>
+        <dimension name="WDSP" xvalue="246"/>
       </location>
     </source>
     <source filename="RobotoAvar2-VANG13-SQRD1-XTRA244.ufo" familyname="RobotoAvar2" stylename="VANG13-SQRD0-XTRA244" layer="public.default">
@@ -1181,6 +1225,7 @@
         <dimension name="YTTL" xvalue="25"/>
         <dimension name="XTTW" xvalue="5"/>
         <dimension name="XTUR" xvalue="463"/>
+        <dimension name="WDSP" xvalue="246"/>
       </location>
     </source>
     <source filename="RobotoAvar2-VANG-3-SQRD1.ufo" familyname="RobotoAvar2" stylename="VANG-3-SQRD1">
@@ -1205,6 +1250,7 @@
         <dimension name="YTTL" xvalue="25"/>
         <dimension name="XTTW" xvalue="5"/>
         <dimension name="XTUR" xvalue="463"/>
+        <dimension name="WDSP" xvalue="246"/>
       </location>
     </source>
     <source filename="RobotoAvar2-VANG-3-SQRD1-XTRA244.ufo" familyname="RobotoAvar2" stylename="VANG-3-SQRD1-XTRA244" layer="public.default">
@@ -1229,6 +1275,7 @@
         <dimension name="YTTL" xvalue="25"/>
         <dimension name="XTTW" xvalue="5"/>
         <dimension name="XTUR" xvalue="463"/>
+        <dimension name="WDSP" xvalue="246"/>
       </location>
     </source>
     <source filename="RobotoAvar2-VANG-3-SQRD1-XTRA244.ufo" familyname="RobotoAvar2" stylename="VANG-3-SQRD0-XTRA244" layer="public.default">
@@ -1253,6 +1300,7 @@
         <dimension name="YTTL" xvalue="25"/>
         <dimension name="XTTW" xvalue="5"/>
         <dimension name="XTUR" xvalue="463"/>
+        <dimension name="WDSP" xvalue="246"/>
       </location>
     </source>
     <source filename="RobotoAvar2-VANG-3.ufo" familyname="RobotoAvar2" stylename="VANG-3">
@@ -1277,6 +1325,7 @@
         <dimension name="YTTL" xvalue="25"/>
         <dimension name="XTTW" xvalue="5"/>
         <dimension name="XTUR" xvalue="463"/>
+        <dimension name="WDSP" xvalue="246"/>
       </location>
     </source>
     <source filename="RobotoAvar2-VANG13.ufo" familyname="RobotoAvar2" stylename="VANG13">
@@ -1301,6 +1350,7 @@
         <dimension name="YTTL" xvalue="25"/>
         <dimension name="XTTW" xvalue="5"/>
         <dimension name="XTUR" xvalue="463"/>
+        <dimension name="WDSP" xvalue="246"/>
       </location>
     </source>
     <source filename="RobotoAvar2-VROT13.ufo" familyname="RobotoAvar2" stylename="VROT13" layer="foreground">
@@ -1325,6 +1375,7 @@
         <dimension name="YTTL" xvalue="25"/>
         <dimension name="XTTW" xvalue="5"/>
         <dimension name="XTUR" xvalue="463"/>
+        <dimension name="WDSP" xvalue="246"/>
       </location>
     </source>
     <source filename="RobotoAvar2-XOPQ2.ufo" familyname="RobotoAvar2" stylename="XOPQ2">
@@ -1349,6 +1400,7 @@
         <dimension name="YTTL" xvalue="25"/>
         <dimension name="XTTW" xvalue="5"/>
         <dimension name="XTUR" xvalue="463"/>
+        <dimension name="WDSP" xvalue="246"/>
       </location>
     </source>
     <source filename="RobotoAvar2-XOPQ310.ufo" familyname="RobotoAvar2" stylename="XOPQ310">
@@ -1373,6 +1425,7 @@
         <dimension name="YTTL" xvalue="25"/>
         <dimension name="XTTW" xvalue="5"/>
         <dimension name="XTUR" xvalue="463"/>
+        <dimension name="WDSP" xvalue="246"/>
       </location>
     </source>
     <source filename="RobotoAvar2-XTRA244.ufo" familyname="RobotoAvar2" stylename="XTRA244">
@@ -1397,6 +1450,7 @@
         <dimension name="YTTL" xvalue="25"/>
         <dimension name="XTTW" xvalue="5"/>
         <dimension name="XTUR" xvalue="463"/>
+        <dimension name="WDSP" xvalue="246"/>
       </location>
     </source>
     <source filename="RobotoAvar2-XTRA741.ufo" familyname="RobotoAvar2" stylename="XTRA741">
@@ -1421,6 +1475,7 @@
         <dimension name="YTTL" xvalue="25"/>
         <dimension name="XTTW" xvalue="5"/>
         <dimension name="XTUR" xvalue="463"/>
+        <dimension name="WDSP" xvalue="246"/>
       </location>
     </source>
     <source filename="RobotoAvar2-XTSP-100.ufo" familyname="RobotoAvar2" stylename="XTSP-100">
@@ -1445,6 +1500,7 @@
         <dimension name="YTTL" xvalue="25"/>
         <dimension name="XTTW" xvalue="5"/>
         <dimension name="XTUR" xvalue="463"/>
+        <dimension name="WDSP" xvalue="246"/>
       </location>
     </source>
     <source filename="RobotoAvar2-XTSP100.ufo" familyname="RobotoAvar2" stylename="XTSP100">
@@ -1469,6 +1525,7 @@
         <dimension name="YTTL" xvalue="25"/>
         <dimension name="XTTW" xvalue="5"/>
         <dimension name="XTUR" xvalue="463"/>
+        <dimension name="WDSP" xvalue="246"/>
       </location>
     </source>
     <source filename="RobotoAvar2-YOPQ2.ufo" familyname="RobotoAvar2" stylename="YOPQ2">
@@ -1493,6 +1550,7 @@
         <dimension name="YTTL" xvalue="25"/>
         <dimension name="XTTW" xvalue="5"/>
         <dimension name="XTUR" xvalue="463"/>
+        <dimension name="WDSP" xvalue="246"/>
       </location>
     </source>
     <source filename="RobotoAvar2-YOPQ280.ufo" familyname="RobotoAvar2" stylename="YOPQ280">
@@ -1517,6 +1575,7 @@
         <dimension name="YTTL" xvalue="25"/>
         <dimension name="XTTW" xvalue="5"/>
         <dimension name="XTUR" xvalue="463"/>
+        <dimension name="WDSP" xvalue="246"/>
       </location>
     </source>
     <source filename="RobotoAvar2-YTAS665.ufo" familyname="RobotoAvar2" stylename="YTAS665">
@@ -1541,6 +1600,7 @@
         <dimension name="YTTL" xvalue="25"/>
         <dimension name="XTTW" xvalue="5"/>
         <dimension name="XTUR" xvalue="463"/>
+        <dimension name="WDSP" xvalue="246"/>
       </location>
     </source>
     <source filename="RobotoAvar2-YTAS875.ufo" familyname="RobotoAvar2" stylename="YTAS875">
@@ -1565,6 +1625,7 @@
         <dimension name="YTTL" xvalue="25"/>
         <dimension name="XTTW" xvalue="5"/>
         <dimension name="XTUR" xvalue="463"/>
+        <dimension name="WDSP" xvalue="246"/>
       </location>
     </source>
     <source filename="RobotoAvar2-YTDE-100.ufo" familyname="RobotoAvar2" stylename="YTDE-100">
@@ -1589,6 +1650,7 @@
         <dimension name="YTTL" xvalue="25"/>
         <dimension name="XTTW" xvalue="5"/>
         <dimension name="XTUR" xvalue="463"/>
+        <dimension name="WDSP" xvalue="246"/>
       </location>
     </source>
     <source filename="RobotoAvar2-YTDE-310.ufo" familyname="RobotoAvar2" stylename="YTDE-310">
@@ -1613,6 +1675,7 @@
         <dimension name="YTTL" xvalue="25"/>
         <dimension name="XTTW" xvalue="5"/>
         <dimension name="XTUR" xvalue="463"/>
+        <dimension name="WDSP" xvalue="246"/>
       </location>
     </source>
     <source filename="RobotoAvar2-YTFI270.ufo" familyname="RobotoAvar2" stylename="YTFI270">
@@ -1637,6 +1700,7 @@
         <dimension name="YTTL" xvalue="25"/>
         <dimension name="XTTW" xvalue="5"/>
         <dimension name="XTUR" xvalue="463"/>
+        <dimension name="WDSP" xvalue="246"/>
       </location>
     </source>
     <source filename="RobotoAvar2-YTFI793.ufo" familyname="RobotoAvar2" stylename="YTFI793">
@@ -1661,6 +1725,7 @@
         <dimension name="YTTL" xvalue="25"/>
         <dimension name="XTTW" xvalue="5"/>
         <dimension name="XTUR" xvalue="463"/>
+        <dimension name="WDSP" xvalue="246"/>
       </location>
     </source>
     <source filename="RobotoAvar2-YTLC426.ufo" familyname="RobotoAvar2" stylename="YTLC426">
@@ -1685,6 +1750,7 @@
         <dimension name="YTTL" xvalue="25"/>
         <dimension name="XTTW" xvalue="5"/>
         <dimension name="XTUR" xvalue="463"/>
+        <dimension name="WDSP" xvalue="246"/>
       </location>
     </source>
     <source filename="RobotoAvar2-YTLC584.ufo" familyname="RobotoAvar2" stylename="YTLC584">
@@ -1709,6 +1775,7 @@
         <dimension name="YTTL" xvalue="25"/>
         <dimension name="XTTW" xvalue="5"/>
         <dimension name="XTUR" xvalue="463"/>
+        <dimension name="WDSP" xvalue="246"/>
       </location>
     </source>
     <source filename="RobotoAvar2-YTOS0.ufo" familyname="RobotoAvar2" stylename="YTOS0">
@@ -1733,6 +1800,7 @@
         <dimension name="YTTL" xvalue="25"/>
         <dimension name="XTTW" xvalue="5"/>
         <dimension name="XTUR" xvalue="463"/>
+        <dimension name="WDSP" xvalue="246"/>
       </location>
     </source>
     <source filename="RobotoAvar2-YTOS50.ufo" familyname="RobotoAvar2" stylename="YTOS50">
@@ -1757,6 +1825,7 @@
         <dimension name="YTTL" xvalue="25"/>
         <dimension name="XTTW" xvalue="5"/>
         <dimension name="XTUR" xvalue="463"/>
+        <dimension name="WDSP" xvalue="246"/>
       </location>
     </source>
     <source filename="RobotoAvar2-YTUC528.ufo" familyname="RobotoAvar2" stylename="YTUC528">
@@ -1781,6 +1850,7 @@
         <dimension name="YTTL" xvalue="25"/>
         <dimension name="XTTW" xvalue="5"/>
         <dimension name="XTUR" xvalue="463"/>
+        <dimension name="WDSP" xvalue="246"/>
       </location>
     </source>
     <source filename="RobotoAvar2-YTUC778.ufo" familyname="RobotoAvar2" stylename="YTUC778">
@@ -1805,6 +1875,7 @@
         <dimension name="YTTL" xvalue="25"/>
         <dimension name="XTTW" xvalue="5"/>
         <dimension name="XTUR" xvalue="463"/>
+        <dimension name="WDSP" xvalue="246"/>
       </location>
     </source>
     <source filename="RobotoAvar2-YTTL50.ufo" familyname="RobotoAvar2" stylename="YTTL50">
@@ -1829,6 +1900,7 @@
         <dimension name="YTTL" xvalue="50"/>
         <dimension name="XTTW" xvalue="5"/>
         <dimension name="XTUR" xvalue="463"/>
+        <dimension name="WDSP" xvalue="246"/>
       </location>
     </source>
     <source filename="RobotoAvar2-YTTL0.ufo" familyname="RobotoAvar2" stylename="YTTL0">
@@ -1853,6 +1925,7 @@
         <dimension name="YTTL" xvalue="0"/>
         <dimension name="XTTW" xvalue="5"/>
         <dimension name="XTUR" xvalue="463"/>
+        <dimension name="WDSP" xvalue="246"/>
       </location>
     </source>
     <source filename="RobotoAvar2-XTTW30.ufo" familyname="RobotoAvar2" stylename="XTTW30">
@@ -1877,6 +1950,7 @@
         <dimension name="YTTL" xvalue="25"/>
         <dimension name="XTTW" xvalue="30"/>
         <dimension name="XTUR" xvalue="463"/>
+        <dimension name="WDSP" xvalue="246"/>
       </location>
     </source>
     <source filename="RobotoAvar2-XTTW0.ufo" familyname="RobotoAvar2" stylename="XTTW0">
@@ -1901,6 +1975,7 @@
         <dimension name="YTTL" xvalue="25"/>
         <dimension name="XTTW" xvalue="0"/>
         <dimension name="XTUR" xvalue="463"/>
+        <dimension name="WDSP" xvalue="246"/>
       </location>
     </source>
     <source filename="RobotoAvar2-XTUR741.ufo" familyname="RobotoAvar2" stylename="XTUR741" layer="foreground">
@@ -1925,6 +2000,57 @@
         <dimension name="YTTL" xvalue="25"/>
         <dimension name="XTTW" xvalue="5"/>
         <dimension name="XTUR" xvalue="741"/>
+        <dimension name="WDSP" xvalue="246"/>
+      </location>
+    </source>
+    <source filename="RobotoAvar2-WDSP0.ufo" familyname="RobotoAvar2" stylename="WDSP0" layer="foreground">
+      <location>
+        <dimension name="Optical size" xvalue="14"/>
+        <dimension name="Slant" xvalue="0"/>
+        <dimension name="Weight" xvalue="400"/>
+        <dimension name="Width" xvalue="100"/>
+        <dimension name="VANG" xvalue="0"/>
+        <dimension name="VROT" xvalue="0"/>
+        <dimension name="SQRD" xvalue="0"/>
+        <dimension name="XOPQ" xvalue="96"/>
+        <dimension name="XTRA" xvalue="463"/>
+        <dimension name="XTSP" xvalue="0"/>
+        <dimension name="YOPQ" xvalue="79"/>
+        <dimension name="YTAS" xvalue="768"/>
+        <dimension name="YTDE" xvalue="-208"/>
+        <dimension name="YTFI" xvalue="743"/>
+        <dimension name="YTLC" xvalue="526"/>
+        <dimension name="YTOS" xvalue="30"/>
+        <dimension name="YTUC" xvalue="728"/>
+        <dimension name="YTTL" xvalue="25"/>
+        <dimension name="XTTW" xvalue="5"/>
+        <dimension name="XTUR" xvalue="463"/>
+        <dimension name="WDSP" xvalue="0"/>
+      </location>
+    </source>
+    <source filename="RobotoAvar2-WDSP1000.ufo" familyname="RobotoAvar2" stylename="WDSP1000" layer="foreground">
+      <location>
+        <dimension name="Optical size" xvalue="14"/>
+        <dimension name="Slant" xvalue="0"/>
+        <dimension name="Weight" xvalue="400"/>
+        <dimension name="Width" xvalue="100"/>
+        <dimension name="VANG" xvalue="0"/>
+        <dimension name="VROT" xvalue="0"/>
+        <dimension name="SQRD" xvalue="0"/>
+        <dimension name="XOPQ" xvalue="96"/>
+        <dimension name="XTRA" xvalue="463"/>
+        <dimension name="XTSP" xvalue="0"/>
+        <dimension name="YOPQ" xvalue="79"/>
+        <dimension name="YTAS" xvalue="768"/>
+        <dimension name="YTDE" xvalue="-208"/>
+        <dimension name="YTFI" xvalue="743"/>
+        <dimension name="YTLC" xvalue="526"/>
+        <dimension name="YTOS" xvalue="30"/>
+        <dimension name="YTUC" xvalue="728"/>
+        <dimension name="YTTL" xvalue="25"/>
+        <dimension name="XTTW" xvalue="5"/>
+        <dimension name="XTUR" xvalue="463"/>
+        <dimension name="WDSP" xvalue="1000"/>
       </location>
     </source>
   </sources>
@@ -1952,6 +2078,7 @@
         <dimension name="YTTL" xvalue="25"/>
         <dimension name="XTTW" xvalue="5"/>
         <dimension name="XTUR" xvalue="463"/>
+        <dimension name="WDSP" xvalue="246"/>
       </location>
     </instance>
     <instance familyname="RobotoAvar2" stylename="opsz8-wdth25-wght400" filename="instances/RobotoAvar2-opsz8-wdth25-wght400.ufo">
@@ -1976,6 +2103,7 @@
         <dimension name="YTTL" xvalue="25"/>
         <dimension name="XTTW" xvalue="5"/>
         <dimension name="XTUR" xvalue="463"/>
+        <dimension name="WDSP" xvalue="246"/>
       </location>
     </instance>
     <instance familyname="RobotoAvar2" stylename="opsz8-wdth25-wght1000" filename="instances/RobotoAvar2-opsz8-wdth25-wght1000.ufo">
@@ -2000,6 +2128,7 @@
         <dimension name="YTTL" xvalue="25"/>
         <dimension name="XTTW" xvalue="5"/>
         <dimension name="XTUR" xvalue="463"/>
+        <dimension name="WDSP" xvalue="246"/>
       </location>
     </instance>
     <instance familyname="RobotoAvar2" stylename="opsz8-wdth100-wght100" filename="instances/RobotoAvar2-opsz8-wdth100-wght100.ufo">
@@ -2024,6 +2153,7 @@
         <dimension name="YTTL" xvalue="25"/>
         <dimension name="XTTW" xvalue="5"/>
         <dimension name="XTUR" xvalue="463"/>
+        <dimension name="WDSP" xvalue="246"/>
       </location>
     </instance>
     <instance familyname="RobotoAvar2" stylename="opsz8-wdth100-wght400" filename="instances/RobotoAvar2-opsz8-wdth100-wght400.ufo">
@@ -2048,6 +2178,7 @@
         <dimension name="YTTL" xvalue="25"/>
         <dimension name="XTTW" xvalue="5"/>
         <dimension name="XTUR" xvalue="463"/>
+        <dimension name="WDSP" xvalue="246"/>
       </location>
     </instance>
     <instance familyname="RobotoAvar2" stylename="opsz8-wdth100-wght1000" filename="instances/RobotoAvar2-opsz8-wdth100-wght1000.ufo">
@@ -2072,6 +2203,7 @@
         <dimension name="YTTL" xvalue="25"/>
         <dimension name="XTTW" xvalue="5"/>
         <dimension name="XTUR" xvalue="463"/>
+        <dimension name="WDSP" xvalue="246"/>
       </location>
     </instance>
     <instance familyname="RobotoAvar2" stylename="opsz8-wdth151-wght100" filename="instances/RobotoAvar2-opsz8-wdth151-wght100.ufo">
@@ -2096,6 +2228,7 @@
         <dimension name="YTTL" xvalue="25"/>
         <dimension name="XTTW" xvalue="5"/>
         <dimension name="XTUR" xvalue="463"/>
+        <dimension name="WDSP" xvalue="246"/>
       </location>
     </instance>
     <instance familyname="RobotoAvar2" stylename="opsz8-wdth151-wght400" filename="instances/RobotoAvar2-opsz8-wdth151-wght400.ufo">
@@ -2120,6 +2253,7 @@
         <dimension name="YTTL" xvalue="25"/>
         <dimension name="XTTW" xvalue="5"/>
         <dimension name="XTUR" xvalue="463"/>
+        <dimension name="WDSP" xvalue="246"/>
       </location>
     </instance>
     <instance familyname="RobotoAvar2" stylename="opsz8-wdth151-wght1000" filename="instances/RobotoAvar2-opsz8-wdth151-wght1000.ufo">
@@ -2144,6 +2278,7 @@
         <dimension name="YTTL" xvalue="25"/>
         <dimension name="XTTW" xvalue="5"/>
         <dimension name="XTUR" xvalue="463"/>
+        <dimension name="WDSP" xvalue="246"/>
       </location>
     </instance>
     <instance familyname="RobotoAvar2" stylename="opsz14-wdth25-wght100" filename="instances/RobotoAvar2-opsz14-wdth25-wght100.ufo">
@@ -2168,6 +2303,7 @@
         <dimension name="YTTL" xvalue="25"/>
         <dimension name="XTTW" xvalue="5"/>
         <dimension name="XTUR" xvalue="463"/>
+        <dimension name="WDSP" xvalue="246"/>
       </location>
     </instance>
     <instance familyname="RobotoAvar2" stylename="opsz14-wdth25-wght400" filename="instances/RobotoAvar2-opsz14-wdth25-wght400.ufo">
@@ -2192,6 +2328,7 @@
         <dimension name="YTTL" xvalue="25"/>
         <dimension name="XTTW" xvalue="5"/>
         <dimension name="XTUR" xvalue="463"/>
+        <dimension name="WDSP" xvalue="246"/>
       </location>
     </instance>
     <instance familyname="RobotoAvar2" stylename="opsz14-wdth25-wght1000" filename="instances/RobotoAvar2-opsz14-wdth25-wght1000.ufo">
@@ -2216,6 +2353,7 @@
         <dimension name="YTTL" xvalue="25"/>
         <dimension name="XTTW" xvalue="5"/>
         <dimension name="XTUR" xvalue="463"/>
+        <dimension name="WDSP" xvalue="246"/>
       </location>
     </instance>
     <instance familyname="RobotoAvar2" stylename="opsz14-wdth100-wght100" filename="instances/RobotoAvar2-opsz14-wdth100-wght100.ufo">
@@ -2240,6 +2378,7 @@
         <dimension name="YTTL" xvalue="25"/>
         <dimension name="XTTW" xvalue="5"/>
         <dimension name="XTUR" xvalue="463"/>
+        <dimension name="WDSP" xvalue="246"/>
       </location>
     </instance>
     <instance familyname="RobotoAvar2" stylename="Regular" filename="instances/RobotoAvar2-opsz14-wdth100-wght400.ufo">
@@ -2264,6 +2403,7 @@
         <dimension name="YTTL" xvalue="25"/>
         <dimension name="XTTW" xvalue="5"/>
         <dimension name="XTUR" xvalue="463"/>
+        <dimension name="WDSP" xvalue="246"/>
       </location>
     </instance>
     <instance familyname="RobotoAvar2" stylename="opsz14-wdth100-wght1000" filename="instances/RobotoAvar2-opsz14-wdth100-wght1000.ufo">
@@ -2288,6 +2428,7 @@
         <dimension name="YTTL" xvalue="25"/>
         <dimension name="XTTW" xvalue="5"/>
         <dimension name="XTUR" xvalue="463"/>
+        <dimension name="WDSP" xvalue="246"/>
       </location>
     </instance>
     <instance familyname="RobotoAvar2" stylename="opsz14-wdth151-wght100" filename="instances/RobotoAvar2-opsz14-wdth151-wght100.ufo">
@@ -2312,6 +2453,7 @@
         <dimension name="YTTL" xvalue="25"/>
         <dimension name="XTTW" xvalue="5"/>
         <dimension name="XTUR" xvalue="463"/>
+        <dimension name="WDSP" xvalue="246"/>
       </location>
     </instance>
     <instance familyname="RobotoAvar2" stylename="opsz14-wdth151-wght400" filename="instances/RobotoAvar2-opsz14-wdth151-wght400.ufo">
@@ -2336,6 +2478,7 @@
         <dimension name="YTTL" xvalue="25"/>
         <dimension name="XTTW" xvalue="5"/>
         <dimension name="XTUR" xvalue="463"/>
+        <dimension name="WDSP" xvalue="246"/>
       </location>
     </instance>
     <instance familyname="RobotoAvar2" stylename="opsz14-wdth151-wght1000" filename="instances/RobotoAvar2-opsz14-wdth151-wght1000.ufo">
@@ -2360,6 +2503,7 @@
         <dimension name="YTTL" xvalue="25"/>
         <dimension name="XTTW" xvalue="5"/>
         <dimension name="XTUR" xvalue="463"/>
+        <dimension name="WDSP" xvalue="246"/>
       </location>
     </instance>
     <instance familyname="RobotoAvar2" stylename="opsz144-wdth25-wght100" filename="instances/RobotoAvar2-opsz144-wdth25-wght100.ufo">
@@ -2384,6 +2528,7 @@
         <dimension name="YTTL" xvalue="25"/>
         <dimension name="XTTW" xvalue="5"/>
         <dimension name="XTUR" xvalue="463"/>
+        <dimension name="WDSP" xvalue="246"/>
       </location>
     </instance>
     <instance familyname="RobotoAvar2" stylename="opsz144-wdth25-wght400" filename="instances/RobotoAvar2-opsz144-wdth25-wght400.ufo">
@@ -2408,6 +2553,7 @@
         <dimension name="YTTL" xvalue="25"/>
         <dimension name="XTTW" xvalue="5"/>
         <dimension name="XTUR" xvalue="463"/>
+        <dimension name="WDSP" xvalue="246"/>
       </location>
     </instance>
     <instance familyname="RobotoAvar2" stylename="opsz144-wdth25-wght1000" filename="instances/RobotoAvar2-opsz144-wdth25-wght1000.ufo">
@@ -2432,6 +2578,7 @@
         <dimension name="YTTL" xvalue="25"/>
         <dimension name="XTTW" xvalue="5"/>
         <dimension name="XTUR" xvalue="463"/>
+        <dimension name="WDSP" xvalue="246"/>
       </location>
     </instance>
     <instance familyname="RobotoAvar2" stylename="opsz144-wdth100-wght100" filename="instances/RobotoAvar2-opsz144-wdth100-wght100.ufo">
@@ -2456,6 +2603,7 @@
         <dimension name="YTTL" xvalue="25"/>
         <dimension name="XTTW" xvalue="5"/>
         <dimension name="XTUR" xvalue="463"/>
+        <dimension name="WDSP" xvalue="246"/>
       </location>
     </instance>
     <instance familyname="RobotoAvar2" stylename="opsz144-wdth100-wght400" filename="instances/RobotoAvar2-opsz144-wdth100-wght400.ufo">
@@ -2480,6 +2628,7 @@
         <dimension name="YTTL" xvalue="25"/>
         <dimension name="XTTW" xvalue="5"/>
         <dimension name="XTUR" xvalue="463"/>
+        <dimension name="WDSP" xvalue="246"/>
       </location>
     </instance>
     <instance familyname="RobotoAvar2" stylename="opsz144-wdth100-wght500" filename="instances/RobotoAvar2-opsz144-wdth100-wght500.ufo">
@@ -2504,6 +2653,7 @@
         <dimension name="YTTL" xvalue="25"/>
         <dimension name="XTTW" xvalue="5"/>
         <dimension name="XTUR" xvalue="463"/>
+        <dimension name="WDSP" xvalue="246"/>
       </location>
     </instance>
     <instance familyname="RobotoAvar2" stylename="opsz144-wdth100-wght600" filename="instances/RobotoAvar2-opsz144-wdth100-wght600.ufo">
@@ -2528,6 +2678,7 @@
         <dimension name="YTTL" xvalue="25"/>
         <dimension name="XTTW" xvalue="5"/>
         <dimension name="XTUR" xvalue="463"/>
+        <dimension name="WDSP" xvalue="246"/>
       </location>
     </instance>
     <instance familyname="RobotoAvar2" stylename="opsz144-wdth100-wght700" filename="instances/RobotoAvar2-opsz144-wdth100-wght700.ufo">
@@ -2552,6 +2703,7 @@
         <dimension name="YTTL" xvalue="25"/>
         <dimension name="XTTW" xvalue="5"/>
         <dimension name="XTUR" xvalue="463"/>
+        <dimension name="WDSP" xvalue="246"/>
       </location>
     </instance>
     <instance familyname="RobotoAvar2" stylename="opsz144-wdth100-wght800" filename="instances/RobotoAvar2-opsz144-wdth100-wght800.ufo">
@@ -2576,6 +2728,7 @@
         <dimension name="YTTL" xvalue="25"/>
         <dimension name="XTTW" xvalue="5"/>
         <dimension name="XTUR" xvalue="463"/>
+        <dimension name="WDSP" xvalue="246"/>
       </location>
     </instance>
     <instance familyname="RobotoAvar2" stylename="opsz144-wdth100-wght900" filename="instances/RobotoAvar2-opsz144-wdth100-wght900.ufo">
@@ -2600,6 +2753,7 @@
         <dimension name="YTTL" xvalue="25"/>
         <dimension name="XTTW" xvalue="5"/>
         <dimension name="XTUR" xvalue="463"/>
+        <dimension name="WDSP" xvalue="246"/>
       </location>
     </instance>
     <instance familyname="RobotoAvar2" stylename="opsz144-wdth100-wght1000" filename="instances/RobotoAvar2-opsz144-wdth100-wght1000.ufo">
@@ -2624,6 +2778,7 @@
         <dimension name="YTTL" xvalue="25"/>
         <dimension name="XTTW" xvalue="5"/>
         <dimension name="XTUR" xvalue="463"/>
+        <dimension name="WDSP" xvalue="246"/>
       </location>
     </instance>
     <instance familyname="RobotoAvar2" stylename="opsz144-wdth151-wght100" filename="instances/RobotoAvar2-opsz144-wdth151-wght100.ufo">
@@ -2648,6 +2803,7 @@
         <dimension name="YTTL" xvalue="25"/>
         <dimension name="XTTW" xvalue="5"/>
         <dimension name="XTUR" xvalue="463"/>
+        <dimension name="WDSP" xvalue="246"/>
       </location>
     </instance>
     <instance familyname="RobotoAvar2" stylename="opsz144-wdth151-wght400" filename="instances/RobotoAvar2-opsz144-wdth151-wght400.ufo">
@@ -2672,6 +2828,7 @@
         <dimension name="YTTL" xvalue="25"/>
         <dimension name="XTTW" xvalue="5"/>
         <dimension name="XTUR" xvalue="463"/>
+        <dimension name="WDSP" xvalue="246"/>
       </location>
     </instance>
     <instance familyname="RobotoAvar2" stylename="opsz144-wdth151-wght1000" filename="instances/RobotoAvar2-opsz144-wdth151-wght1000.ufo">
@@ -2696,6 +2853,7 @@
         <dimension name="YTTL" xvalue="25"/>
         <dimension name="XTTW" xvalue="5"/>
         <dimension name="XTUR" xvalue="741"/>
+        <dimension name="WDSP" xvalue="246"/>
       </location>
     </instance>
   </instances>
