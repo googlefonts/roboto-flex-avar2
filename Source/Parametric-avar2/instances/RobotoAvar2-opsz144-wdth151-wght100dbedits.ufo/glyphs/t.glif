@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="t" format="2">
-  <advance width="910.91910301546"/>
+  <advance width="911"/>
   <unicode hex="0074"/>
   <anchor x="312.4910454615031" y="0.0" name="bottom"/>
   <anchor x="239.06689116791674" y="551.0" name="center"/>
@@ -21,16 +21,16 @@
       <point x="418.68261135772235" y="1176.0" type="line"/>
       <point x="418.68261135772235" y="276.13309352517985" type="line" smooth="yes"/>
       <point x="418.68261135772235" y="129.5340091563113"/>
-      <point x="501.92006913949353" y="-19.025974025974023"/>
-      <point x="610.7482014388489" y="-19.025974025974023" type="qcurve" smooth="yes"/>
-      <point x="674.5215827338129" y="-19.025974025974023"/>
-      <point x="790.5090310730138" y="-0.7529664580024473"/>
-      <point x="822.0162253176181" y="13.57198916191723" type="qcurve"/>
-      <point x="822.0162253176181" y="2.1043165467625897" type="line"/>
-      <point x="794.6133476197765" y="-10.597122302158274"/>
-      <point x="671.9519363232818" y="-29.02127659574468"/>
-      <point x="604.7742997091689" y="-30.0" type="qcurve" smooth="yes"/>
-      <point x="494.7806520740854" y="-30.0"/>
+      <point x="501" y="-20"/>
+      <point x="610" y="-20" type="qcurve" smooth="yes"/>
+      <point x="674" y="-20"/>
+      <point x="790" y="-1"/>
+      <point x="822" y="13" type="qcurve"/>
+      <point x="822" y="2" type="line"/>
+      <point x="794" y="-11"/>
+      <point x="671" y="-30"/>
+      <point x="604" y="-30" type="qcurve" smooth="yes"/>
+      <point x="494" y="-30"/>
       <point x="407.87410071942446" y="119.82014388489209"/>
     </contour>
   </outline>

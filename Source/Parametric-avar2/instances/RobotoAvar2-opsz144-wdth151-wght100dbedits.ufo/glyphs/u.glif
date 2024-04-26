@@ -9,22 +9,22 @@
   <anchor x="704.6577376396755" y="0.0" name="cy_descender"/>
   <outline>
     <contour>
-      <point x="553" y="-20" type="qcurve"/>
-      <point x="373" y="-20"/>
+      <point x="553" y="-30" type="qcurve"/>
+      <point x="373" y="-30"/>
       <point x="175" y="123"/>
       <point x="175" y="346" type="qcurve" smooth="yes"/>
       <point x="175" y="916" type="line"/>
       <point x="186" y="916" type="line"/>
       <point x="186" y="345" type="line" smooth="yes"/>
       <point x="186" y="132"/>
-      <point x="378" y="-10"/>
-      <point x="552" y="-10" type="qcurve"/>
-      <point x="679" y="-10"/>
+      <point x="378" y="-20"/>
+      <point x="552" y="-20" type="qcurve"/>
+      <point x="679" y="-20"/>
       <point x="935" y="57"/>
       <point x="1048" y="103" type="qcurve"/>
       <point x="1049" y="94" type="line"/>
       <point x="931" y="46"/>
-      <point x="681" y="-20"/>
+      <point x="681" y="-30"/>
     </contour>
     <contour>
       <point x="1044" y="0" type="line"/>
