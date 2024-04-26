@@ -7,4 +7,10 @@
     <component base="yu-dash" xOffset="250"/>
     <component base="o" xOffset="464"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.0676,0,0.9997,1</string>
+    </dict>
+  </lib>
 </glyph>
