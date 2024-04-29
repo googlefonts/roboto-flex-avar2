@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="E" format="2">
-  <advance width="175"/>
+  <advance width="205"/>
   <unicode hex="0045"/>
   <anchor x="56.593607305936075" y="0.0" name="bottom"/>
   <anchor x="187.30593607305934" y="0.0" name="ogonek"/>
@@ -10,18 +10,18 @@
     <contour>
       <point x="50.0" y="0.0" type="line"/>
       <point x="50.0" y="1456.0" type="line"/>
-      <point x="145.3744292237443" y="1456.0" type="line"/>
-      <point x="145.3744292237443" y="1449.0" type="line"/>
+      <point x="175" y="1456" type="line"/>
+      <point x="175" y="1449" type="line"/>
       <point x="57.0" y="1449.0" type="line"/>
       <point x="57.0" y="7.0" type="line"/>
-      <point x="150.30593607305934" y="7.0" type="line"/>
-      <point x="150.30593607305934" y="0.0" type="line"/>
+      <point x="180" y="7" type="line"/>
+      <point x="180" y="0" type="line"/>
     </contour>
     <contour>
       <point x="54.0" y="750.0" type="line"/>
       <point x="54.0" y="757.0" type="line"/>
-      <point x="127" y="757" type="line"/>
-      <point x="127" y="750" type="line"/>
+      <point x="157" y="757" type="line"/>
+      <point x="157" y="750" type="line"/>
     </contour>
   </outline>
 </glyph>
