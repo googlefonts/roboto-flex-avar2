@@ -362,7 +362,7 @@ toml==0.10.2
     # via
     #   fontbakery
     #   nanoemoji
-tqdm==4.64.1
+tqdm==4.66.3
     # via diffenator2
 trio==0.22.0
     # via
