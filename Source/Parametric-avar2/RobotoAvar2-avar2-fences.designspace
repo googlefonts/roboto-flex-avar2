@@ -669,7 +669,6 @@
 	        <dimension name="BARS" xvalue="1000"/>
         </output>
       </mapping>
-<!--
       <mapping>
         <input>
           <dimension name="Optical size" xvalue="144"/>
@@ -810,7 +809,6 @@
           <dimension name="BARS" xvalue="1000"/>
         </output>
       </mapping>
--->
       <mapping>
         <input>
           <dimension name="Optical size" xvalue="144"/>
