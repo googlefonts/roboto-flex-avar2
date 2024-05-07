@@ -23,6 +23,10 @@
     <axis tag="XTUR" name="XTUR" minimum="463" maximum="741" default="463"/>
     <axis tag="WDSP" name="WDSP" minimum="0" maximum="1000" default="246"/>
     <axis tag="BARS" name="BARS" minimum="0" maximum="1000" default="1000"/>
+    <axis tag="STUI" name="STUI" minimum="2" maximum="736" default="92"/>
+    <axis tag="STUO" name="STUO" minimum="2" maximum="772" default="92"/>
+    <axis tag="STLI" name="STLI" minimum="2" maximum="412" default="32"/>
+    <axis tag="STLO" name="STLO" minimum="2" maximum="462" default="32"/>
     <mappings>
       
       <mapping>
@@ -51,6 +55,10 @@
           <dimension name="XTUR" xvalue="463"/>
           <dimension name="WDSP" xvalue="250"/>
           <dimension name="BARS" xvalue="1000"/>
+          <dimension name="STUI" xvalue="92"/>
+          <dimension name="STUO" xvalue="92"/>
+          <dimension name="STLI" xvalue="32"/>
+          <dimension name="STLO" xvalue="32"/>
         </output>
       </mapping>
       <mapping>
@@ -79,6 +87,10 @@
           <dimension name="XTUR" xvalue="463"/>
           <dimension name="WDSP" xvalue="250"/>
           <dimension name="BARS" xvalue="1000"/>
+          <dimension name="STUI" xvalue="92"/>
+          <dimension name="STUO" xvalue="92"/>
+          <dimension name="STLI" xvalue="32"/>
+          <dimension name="STLO" xvalue="32"/>
         </output>
       </mapping>
       <mapping>
@@ -107,6 +119,10 @@
           <dimension name="XTUR" xvalue="463"/>
           <dimension name="WDSP" xvalue="250"/>
           <dimension name="BARS" xvalue="1000"/>
+          <dimension name="STUI" xvalue="92"/>
+          <dimension name="STUO" xvalue="92"/>
+          <dimension name="STLI" xvalue="32"/>
+          <dimension name="STLO" xvalue="32"/>
         </output>
       </mapping>
       <mapping>
@@ -135,6 +151,10 @@
           <dimension name="XTUR" xvalue="463"/>
           <dimension name="WDSP" xvalue="250"/>
           <dimension name="BARS" xvalue="1000"/>
+          <dimension name="STUI" xvalue="92"/>
+          <dimension name="STUO" xvalue="92"/>
+          <dimension name="STLI" xvalue="32"/>
+          <dimension name="STLO" xvalue="32"/>
         </output>
       </mapping>
       <mapping>
@@ -163,6 +183,10 @@
           <dimension name="XTUR" xvalue="463"/>
           <dimension name="WDSP" xvalue="250"/>
           <dimension name="BARS" xvalue="1000"/>
+          <dimension name="STUI" xvalue="92"/>
+          <dimension name="STUO" xvalue="92"/>
+          <dimension name="STLI" xvalue="32"/>
+          <dimension name="STLO" xvalue="32"/>
         </output>
       </mapping>
       <mapping>
@@ -191,6 +215,10 @@
           <dimension name="XTUR" xvalue="463"/>
           <dimension name="WDSP" xvalue="250"/>
           <dimension name="BARS" xvalue="1000"/>
+          <dimension name="STUI" xvalue="92"/>
+          <dimension name="STUO" xvalue="92"/>
+          <dimension name="STLI" xvalue="32"/>
+          <dimension name="STLO" xvalue="32"/>
         </output>
       </mapping>
       <mapping>
@@ -219,6 +247,10 @@
           <dimension name="XTUR" xvalue="463"/>
           <dimension name="WDSP" xvalue="250"/>
           <dimension name="BARS" xvalue="1000"/>
+          <dimension name="STUI" xvalue="92"/>
+          <dimension name="STUO" xvalue="92"/>
+          <dimension name="STLI" xvalue="32"/>
+          <dimension name="STLO" xvalue="32"/>
         </output>
       </mapping>
       <mapping>
@@ -247,6 +279,10 @@
           <dimension name="XTUR" xvalue="463"/>
           <dimension name="WDSP" xvalue="250"/>
           <dimension name="BARS" xvalue="1000"/>
+          <dimension name="STUI" xvalue="92"/>
+          <dimension name="STUO" xvalue="92"/>
+          <dimension name="STLI" xvalue="32"/>
+          <dimension name="STLO" xvalue="32"/>
         </output>
       </mapping>
       <mapping>
@@ -275,6 +311,10 @@
           <dimension name="XTUR" xvalue="463"/>
           <dimension name="WDSP" xvalue="257"/>
           <dimension name="BARS" xvalue="1000"/>
+          <dimension name="STUI" xvalue="92"/>
+          <dimension name="STUO" xvalue="92"/>
+          <dimension name="STLI" xvalue="32"/>
+          <dimension name="STLO" xvalue="32"/>
         </output>
       </mapping>
       <mapping>
@@ -303,6 +343,10 @@
 	        <dimension name="XTUR" xvalue="463"/>
 	        <dimension name="WDSP" xvalue="250"/>
 	        <dimension name="BARS" xvalue="1000"/>
+          	<dimension name="STUI" xvalue="92"/>
+          	<dimension name="STUO" xvalue="92"/>
+          	<dimension name="STLI" xvalue="32"/>
+          	<dimension name="STLO" xvalue="32"/>
         </output>
       </mapping>
       <mapping>
@@ -331,6 +375,10 @@
 	        <dimension name="XTUR" xvalue="463"/>
 	        <dimension name="WDSP" xvalue="250"/>
 	        <dimension name="BARS" xvalue="1000"/>
+          	<dimension name="STUI" xvalue="92"/>
+          	<dimension name="STUO" xvalue="92"/>
+          	<dimension name="STLI" xvalue="32"/>
+          	<dimension name="STLO" xvalue="32"/>
         </output>
       </mapping>
       <mapping>
@@ -359,6 +407,10 @@
 	        <dimension name="XTUR" xvalue="463"/>
 	        <dimension name="WDSP" xvalue="257"/>
 	        <dimension name="BARS" xvalue="1000"/>
+          	<dimension name="STUI" xvalue="92"/>
+          	<dimension name="STUO" xvalue="92"/>
+          	<dimension name="STLI" xvalue="32"/>
+          	<dimension name="STLO" xvalue="32"/>
         </output>
       </mapping>
       <mapping>
@@ -387,6 +439,10 @@
 	       <dimension name="XTUR" xvalue="463"/>
 	       <dimension name="WDSP" xvalue="250"/>
 	       <dimension name="BARS" xvalue="1000"/>
+          	<dimension name="STUI" xvalue="92"/>
+          	<dimension name="STUO" xvalue="92"/>
+          	<dimension name="STLI" xvalue="32"/>
+          	<dimension name="STLO" xvalue="32"/>
         </output>
       </mapping>
       <mapping>
@@ -415,6 +471,10 @@
 	        <dimension name="XTUR" xvalue="463"/>
 	        <dimension name="WDSP" xvalue="246"/>
 	        <dimension name="BARS" xvalue="1000"/>
+          	<dimension name="STUI" xvalue="92"/>
+          	<dimension name="STUO" xvalue="92"/>
+          	<dimension name="STLI" xvalue="32"/>
+          	<dimension name="STLO" xvalue="32"/>
         </output>
       </mapping>
       <mapping>
@@ -443,6 +503,10 @@
 	        <dimension name="XTUR" xvalue="463"/>
 	        <dimension name="WDSP" xvalue="250"/>
 	        <dimension name="BARS" xvalue="1000"/>
+          	<dimension name="STUI" xvalue="92"/>
+          	<dimension name="STUO" xvalue="92"/>
+          	<dimension name="STLI" xvalue="32"/>
+          	<dimension name="STLO" xvalue="32"/>
         </output>
       </mapping>
       <mapping>
@@ -471,6 +535,10 @@
 	        <dimension name="XTUR" xvalue="463"/>
 	        <dimension name="WDSP" xvalue="250"/>
 	        <dimension name="BARS" xvalue="1000"/>
+          	<dimension name="STUI" xvalue="92"/>
+          	<dimension name="STUO" xvalue="92"/>
+          	<dimension name="STLI" xvalue="32"/>
+          	<dimension name="STLO" xvalue="32"/>
         </output>
       </mapping>
       <mapping>
@@ -499,6 +567,10 @@
 	        <dimension name="XTUR" xvalue="463"/>
 	        <dimension name="WDSP" xvalue="250"/>
 	        <dimension name="BARS" xvalue="1000"/>
+          	<dimension name="STUI" xvalue="92"/>
+          	<dimension name="STUO" xvalue="92"/>
+          	<dimension name="STLI" xvalue="32"/>
+          	<dimension name="STLO" xvalue="32"/>
         </output>
       </mapping>
       <mapping>
@@ -527,6 +599,10 @@
 	        <dimension name="XTUR" xvalue="463"/>
 	        <dimension name="WDSP" xvalue="257"/>
 	        <dimension name="BARS" xvalue="1000"/>
+          	<dimension name="STUI" xvalue="92"/>
+          	<dimension name="STUO" xvalue="92"/>
+          	<dimension name="STLI" xvalue="32"/>
+          	<dimension name="STLO" xvalue="32"/>
         </output>
       </mapping>
       <mapping>
@@ -555,6 +631,10 @@
 	        <dimension name="XTUR" xvalue="463"/>
 	        <dimension name="WDSP" xvalue="53"/>
 	        <dimension name="BARS" xvalue="1000"/>
+          	<dimension name="STUI" xvalue="92"/>
+          	<dimension name="STUO" xvalue="92"/>
+          	<dimension name="STLI" xvalue="32"/>
+          	<dimension name="STLO" xvalue="32"/>
         </output>
       </mapping>
       <mapping>
@@ -583,6 +663,10 @@
 	        <dimension name="XTUR" xvalue="463"/>
 	        <dimension name="WDSP" xvalue="94"/>
 	        <dimension name="BARS" xvalue="1000"/>
+          	<dimension name="STUI" xvalue="92"/>
+          	<dimension name="STUO" xvalue="92"/>
+          	<dimension name="STLI" xvalue="32"/>
+          	<dimension name="STLO" xvalue="32"/>
         </output>
       </mapping>
       <mapping>
@@ -611,6 +695,10 @@
 	        <dimension name="XTUR" xvalue="463"/>
 	        <dimension name="WDSP" xvalue="255"/>
 	        <dimension name="BARS" xvalue="1000"/>
+          	<dimension name="STUI" xvalue="92"/>
+          	<dimension name="STUO" xvalue="92"/>
+          	<dimension name="STLI" xvalue="32"/>
+          	<dimension name="STLO" xvalue="32"/>
         </output>
       </mapping>
       <mapping>
@@ -639,6 +727,10 @@
 	        <dimension name="XTUR" xvalue="463"/>
 	        <dimension name="WDSP" xvalue="162"/>
 	        <dimension name="BARS" xvalue="1000"/>
+          	<dimension name="STUI" xvalue="92"/>
+          	<dimension name="STUO" xvalue="92"/>
+          	<dimension name="STLI" xvalue="32"/>
+          	<dimension name="STLO" xvalue="32"/>
         </output>
       </mapping>
       <mapping>
@@ -667,6 +759,10 @@
 	        <dimension name="XTUR" xvalue="463"/>
 	        <dimension name="WDSP" xvalue="175"/>
 	        <dimension name="BARS" xvalue="1000"/>
+          	<dimension name="STUI" xvalue="92"/>
+          	<dimension name="STUO" xvalue="92"/>
+          	<dimension name="STLI" xvalue="32"/>
+          	<dimension name="STLO" xvalue="32"/>
         </output>
       </mapping>
       <mapping>
@@ -695,6 +791,10 @@
           <dimension name="XTUR" xvalue="463"/>
           <dimension name="WDSP" xvalue="250"/>
           <dimension name="BARS" xvalue="1000"/>
+          <dimension name="STUI" xvalue="92"/>
+          <dimension name="STUO" xvalue="92"/>
+          <dimension name="STLI" xvalue="32"/>
+          <dimension name="STLO" xvalue="32"/>
         </output>
       </mapping>
       <mapping>
@@ -722,7 +822,10 @@
           <dimension name="XTTW" xvalue="0"/>
           <dimension name="XTUR" xvalue="463"/>
           <dimension name="WDSP" xvalue="250"/>
-          <dimension name="BARS" xvalue="1000"/>
+          <dimension name="STUI" xvalue="92"/>
+          <dimension name="STUO" xvalue="92"/>
+          <dimension name="STLI" xvalue="32"/>
+          <dimension name="STLO" xvalue="32"/>
         </output>
       </mapping>
       <mapping>
@@ -751,6 +854,10 @@
           <dimension name="XTUR" xvalue="463"/>
           <dimension name="WDSP" xvalue="250"/>
           <dimension name="BARS" xvalue="1000"/>
+          <dimension name="STUI" xvalue="92"/>
+          <dimension name="STUO" xvalue="92"/>
+          <dimension name="STLI" xvalue="32"/>
+          <dimension name="STLO" xvalue="32"/>
         </output>
       </mapping>
       <mapping>
@@ -779,6 +886,11 @@
           <dimension name="XTUR" xvalue="463"/>
           <dimension name="WDSP" xvalue="250"/>
           <dimension name="BARS" xvalue="1000"/>
+          <dimension name="STUI" xvalue="92"/>
+          <dimension name="STUO" xvalue="92"/>
+          <dimension name="STLI" xvalue="32"/>
+          <dimension name="STLO" xvalue="32"/>
+
         </output>
       </mapping>
       <mapping>
@@ -807,6 +919,10 @@
           <dimension name="XTUR" xvalue="463"/>
           <dimension name="WDSP" xvalue="250"/>
           <dimension name="BARS" xvalue="1000"/>
+          <dimension name="STUI" xvalue="92"/>
+          <dimension name="STUO" xvalue="92"/>
+          <dimension name="STLI" xvalue="32"/>
+          <dimension name="STLO" xvalue="32"/>
         </output>
       </mapping>
       <mapping>
@@ -835,6 +951,10 @@
 	        <dimension name="XTUR" xvalue="463"/>
 	        <dimension name="WDSP" xvalue="306"/>
 	        <dimension name="BARS" xvalue="1000"/>
+          	<dimension name="STUI" xvalue="92"/>
+          	<dimension name="STUO" xvalue="92"/>
+          	<dimension name="STLI" xvalue="32"/>
+          	<dimension name="STLO" xvalue="32"/>
         </output>
       </mapping>
       <mapping>
@@ -863,6 +983,10 @@
 	        <dimension name="XTUR" xvalue="532"/>
 	        <dimension name="WDSP" xvalue="250"/>
 	        <dimension name="BARS" xvalue="1000"/>
+          	<dimension name="STUI" xvalue="92"/>
+          	<dimension name="STUO" xvalue="92"/>
+          	<dimension name="STLI" xvalue="32"/>
+          	<dimension name="STLO" xvalue="32"/>
         </output>
       </mapping>
       <mapping>
@@ -891,6 +1015,10 @@
 	        <dimension name="XTUR" xvalue="542"/>
 	        <dimension name="WDSP" xvalue="285"/>
 	        <dimension name="BARS" xvalue="1000"/>
+          	<dimension name="STUI" xvalue="92"/>
+          	<dimension name="STUO" xvalue="92"/>
+          	<dimension name="STLI" xvalue="32"/>
+          	<dimension name="STLO" xvalue="32"/>
         </output>
       </mapping>
       <mapping>
@@ -919,6 +1047,10 @@
 	        <dimension name="XTUR" xvalue="552"/>
 	        <dimension name="WDSP" xvalue="384"/>
 	        <dimension name="BARS" xvalue="1000"/>
+          	<dimension name="STUI" xvalue="92"/>
+          	<dimension name="STUO" xvalue="92"/>
+          	<dimension name="STLI" xvalue="32"/>
+          	<dimension name="STLO" xvalue="32"/>
         </output>
       </mapping>
       <mapping>
@@ -978,6 +1110,10 @@
         <dimension name="XTUR" xvalue="463"/>
         <dimension name="WDSP" xvalue="246"/>
         <dimension name="BARS" xvalue="1000"/>
+        <dimension name="STUI" xvalue="92"/>
+        <dimension name="STUO" xvalue="92"/>
+        <dimension name="STLI" xvalue="32"/>
+        <dimension name="STLO" xvalue="32"/>
       </location>
     </source>
     
