@@ -167,6 +167,18 @@
 
           <div class="row">
             <div class="col-4">
+              <label for="slnt" class="form-label"><small>slant</small></label>
+            </div>
+            <div class="col-6">
+              <input type="range" class="form-range axis" min="0" max="13" value='0' id="slnt">
+            </div>
+            <div class="col-2">
+              <output class="form-control border-0 bg-transparent" id='slnt_value'><small>0</small></output>
+            </div>
+          </div>
+
+          <div class="row">
+            <div class="col-4">
               <label for="GRAD" class="form-label"><small>grade</small></label>
             </div>
             <div class="col-6">
@@ -222,7 +234,6 @@
         link_fontsize      = document.getElementById("synchFontSize");
         language_selector  = document.getElementById("language");
         colormode_selector = document.getElementById("colormode");
-        // fontstyle_selector = document.getElementById("fontstyle");
         font_samples       = document.querySelectorAll(".sample");
         axis_sliders       = document.querySelectorAll('.axis')
         sample_original    = document.getElementById('sample_original')
@@ -231,12 +242,21 @@
         // define UI behavior
 
         function axis_sliders_changed() {
-          var variations = [];
-          axis_sliders.forEach(function(slider) {
-            variations.push('"' + slider.id + '" ' + slider.value);
-            document.getElementById(slider.id + '_value').value = slider.value;
-          })
           for (var i = 0; i < font_samples.length; i++) {
+            var variations = [];
+            axis_sliders.forEach(function(slider) {
+              if (slider.id == 'slnt' && i > 0) {
+                // the slnt axis has different ranges:
+                // - RobotoFlex goes from 0 to -10
+                // - RobotoA2   goes from 0 to +13
+                // in the RobotoFlex sample, we take the positive slider value and make it negative
+                value = -slider.value
+              } else {
+                value = slider.value
+              }
+              variations.push('"' + slider.id + '" ' + value);
+              document.getElementById(slider.id + '_value').value = slider.value;
+            })
             font_samples[i].style.fontVariationSettings = variations.join(", ")
           }
         }
