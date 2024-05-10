@@ -28,18 +28,18 @@
     <contour>
       <point x="275" y="442" type="qcurve" smooth="yes"/>
       <point x="275" y="410" type="line" smooth="yes"/>
-      <point x="275" y="274"/>
-      <point x="437" y="122"/>
+      <point x="275" y="271"/>
+      <point x="428" y="122"/>
       <point x="581" y="122" type="qcurve" smooth="yes"/>
-      <point x="725" y="122"/>
-      <point x="887" y="274"/>
+      <point x="733" y="122"/>
+      <point x="887" y="271"/>
       <point x="887" y="410" type="qcurve" smooth="yes"/>
       <point x="887" y="442" type="line" smooth="yes"/>
-      <point x="887" y="578"/>
-      <point x="725" y="730"/>
+      <point x="887" y="581"/>
+      <point x="733" y="730"/>
       <point x="581" y="730" type="qcurve" smooth="yes"/>
-      <point x="437" y="730"/>
-      <point x="275" y="578"/>
+      <point x="428" y="730"/>
+      <point x="275" y="581"/>
     </contour>
   </outline>
 </glyph>
