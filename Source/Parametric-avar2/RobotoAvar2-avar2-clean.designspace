@@ -7,7 +7,6 @@
     <axis tag="wdth" name="Width" minimum="25" maximum="151" default="100"/>
     <axis tag="VANG" name="VANG" minimum="-3" maximum="13" default="0"/>
     <axis tag="VROT" name="VROT" minimum="0" maximum="13" default="0"/>
-    <axis tag="SQRD" name="SQRD" minimum="0" maximum="1" default="0"/>
     <axis tag="XOPQ" name="XOPQ" minimum="2" maximum="310" default="96"/>
     <axis tag="XTRA" name="XTRA" minimum="244" maximum="741" default="463"/>
     <axis tag="XTSP" name="XTSP" minimum="-100" maximum="100" default="0"/>
@@ -32,928 +31,900 @@
       
       <mapping>
         <input>
-          <dimension name="Optical size" xvalue="8"/>
-          <dimension name="Slant" xvalue="0"/>
-          <dimension name="Weight" xvalue="100"/>
-          <dimension name="Width" xvalue="25"/>
+            <dimension name="Optical size" xvalue="8"/>
+            <dimension name="Slant" xvalue="0"/>
+            <dimension name="Weight" xvalue="100"/>
+            <dimension name="Width" xvalue="25"/>
         </input>
         <output>
-          <dimension name="VANG" xvalue="0"/>
-          <dimension name="VROT" xvalue="0"/>
-          <dimension name="SQRD" xvalue="0"/>
-          <dimension name="XOPQ" xvalue="50"/>
-          <dimension name="XTRA" xvalue="451"/>
-          <dimension name="XTSP" xvalue="0"/>
-          <dimension name="YOPQ" xvalue="48"/>
-          <dimension name="YTAS" xvalue="768"/>
-          <dimension name="YTDE" xvalue="-208"/>
-          <dimension name="YTFI" xvalue="743"/>
-          <dimension name="YTLC" xvalue="545"/>
-          <dimension name="YTOS" xvalue="30"/>
-          <dimension name="YTUC" xvalue="728"/>
-          <dimension name="YTTL" xvalue="25"/>
-          <dimension name="XTTW" xvalue="5"/>
-          <dimension name="XTUR" xvalue="463"/>
-          <dimension name="WDSP" xvalue="250"/>
-          <dimension name="BARS" xvalue="1000"/>
-          <dimension name="XTUD" xvalue="463"/>
-          <dimension name="STUI" xvalue="92"/>
-          <dimension name="STUO" xvalue="92"/>
-          <dimension name="STLI" xvalue="32"/>
-          <dimension name="STLO" xvalue="32"/>
+            <dimension name="VANG" xvalue="0"/>
+            <dimension name="VROT" xvalue="0"/>
+            <dimension name="XOPQ" xvalue="50"/>
+            <dimension name="XTRA" xvalue="451"/>
+            <dimension name="XTSP" xvalue="0"/>
+            <dimension name="YOPQ" xvalue="48"/>
+            <dimension name="YTAS" xvalue="768"/>
+            <dimension name="YTDE" xvalue="-208"/>
+            <dimension name="YTFI" xvalue="743"/>
+            <dimension name="YTLC" xvalue="545"/>
+            <dimension name="YTOS" xvalue="30"/>
+            <dimension name="YTUC" xvalue="728"/>
+            <dimension name="YTTL" xvalue="25"/>
+            <dimension name="XTTW" xvalue="5"/>
+            <dimension name="XTUR" xvalue="463"/>
+            <dimension name="WDSP" xvalue="250"/>
+            <dimension name="BARS" xvalue="1000"/>
+            <dimension name="XTUD" xvalue="463"/>
+            <dimension name="STUI" xvalue="92"/>
+            <dimension name="STUO" xvalue="92"/>
+            <dimension name="STLI" xvalue="32"/>
+            <dimension name="STLO" xvalue="32"/>
         </output>
       </mapping>
       <mapping>
         <input>
-          <dimension name="Optical size" xvalue="8"/>
-          <dimension name="Slant" xvalue="0"/>
-          <dimension name="Weight" xvalue="400"/>
-          <dimension name="Width" xvalue="25"/>
+            <dimension name="Optical size" xvalue="8"/>
+            <dimension name="Slant" xvalue="0"/>
+            <dimension name="Weight" xvalue="400"/>
+            <dimension name="Width" xvalue="25"/>
         </input>
         <output>
-          <dimension name="VANG" xvalue="0"/>
-          <dimension name="VROT" xvalue="0"/>
-          <dimension name="SQRD" xvalue="0"/>
-          <dimension name="XOPQ" xvalue="100"/>
-          <dimension name="XTRA" xvalue="430"/>
-          <dimension name="XTSP" xvalue="0"/>
-          <dimension name="YOPQ" xvalue="85"/>
-          <dimension name="YTAS" xvalue="768"/>
-          <dimension name="YTDE" xvalue="-208"/>
-          <dimension name="YTFI" xvalue="743"/>
-          <dimension name="YTLC" xvalue="545"/>
-          <dimension name="YTOS" xvalue="30"/>
-          <dimension name="YTUC" xvalue="728"/>
-          <dimension name="YTTL" xvalue="25"/>
-          <dimension name="XTTW" xvalue="5"/>
-          <dimension name="XTUR" xvalue="463"/>
-          <dimension name="WDSP" xvalue="250"/>
-          <dimension name="BARS" xvalue="1000"/>
-          <dimension name="XTUD" xvalue="463"/>
-          <dimension name="STUI" xvalue="92"/>
-          <dimension name="STUO" xvalue="92"/>
-          <dimension name="STLI" xvalue="32"/>
-          <dimension name="STLO" xvalue="32"/>
+            <dimension name="VANG" xvalue="0"/>
+            <dimension name="VROT" xvalue="0"/>
+            <dimension name="XOPQ" xvalue="100"/>
+            <dimension name="XTRA" xvalue="430"/>
+            <dimension name="XTSP" xvalue="0"/>
+            <dimension name="YOPQ" xvalue="85"/>
+            <dimension name="YTAS" xvalue="768"/>
+            <dimension name="YTDE" xvalue="-208"/>
+            <dimension name="YTFI" xvalue="743"/>
+            <dimension name="YTLC" xvalue="545"/>
+            <dimension name="YTOS" xvalue="30"/>
+            <dimension name="YTUC" xvalue="728"/>
+            <dimension name="YTTL" xvalue="25"/>
+            <dimension name="XTTW" xvalue="5"/>
+            <dimension name="XTUR" xvalue="463"/>
+            <dimension name="WDSP" xvalue="250"/>
+            <dimension name="BARS" xvalue="1000"/>
+            <dimension name="XTUD" xvalue="463"/>
+            <dimension name="STUI" xvalue="92"/>
+            <dimension name="STUO" xvalue="92"/>
+            <dimension name="STLI" xvalue="32"/>
+            <dimension name="STLO" xvalue="32"/>
         </output>
       </mapping>
       <mapping>
         <input>
-          <dimension name="Optical size" xvalue="8"/>
-          <dimension name="Slant" xvalue="0"/>
-          <dimension name="Weight" xvalue="1000"/>
-          <dimension name="Width" xvalue="25"/>
+            <dimension name="Optical size" xvalue="8"/>
+            <dimension name="Slant" xvalue="0"/>
+            <dimension name="Weight" xvalue="1000"/>
+            <dimension name="Width" xvalue="25"/>
         </input>
         <output>
-          <dimension name="VANG" xvalue="0"/>
-          <dimension name="VROT" xvalue="0"/>
-          <dimension name="SQRD" xvalue="0"/>
-          <dimension name="XOPQ" xvalue="190"/>
-          <dimension name="XTRA" xvalue="350"/>
-          <dimension name="XTSP" xvalue="0"/>
-          <dimension name="YOPQ" xvalue="145"/>
-          <dimension name="YTAS" xvalue="768"/>
-          <dimension name="YTDE" xvalue="-208"/>
-          <dimension name="YTFI" xvalue="743"/>
-          <dimension name="YTLC" xvalue="558"/>
-          <dimension name="YTOS" xvalue="30"/>
-          <dimension name="YTUC" xvalue="728"/>
-          <dimension name="YTTL" xvalue="25"/>
-          <dimension name="XTTW" xvalue="5"/>
-          <dimension name="XTUR" xvalue="463"/>
-          <dimension name="WDSP" xvalue="250"/>
-          <dimension name="BARS" xvalue="1000"/>
-          <dimension name="XTUD" xvalue="463"/>
-          <dimension name="STUI" xvalue="92"/>
-          <dimension name="STUO" xvalue="92"/>
-          <dimension name="STLI" xvalue="32"/>
-          <dimension name="STLO" xvalue="32"/>
+            <dimension name="VANG" xvalue="0"/>
+            <dimension name="VROT" xvalue="0"/>
+            <dimension name="XOPQ" xvalue="190"/>
+            <dimension name="XTRA" xvalue="350"/>
+            <dimension name="XTSP" xvalue="0"/>
+            <dimension name="YOPQ" xvalue="145"/>
+            <dimension name="YTAS" xvalue="768"/>
+            <dimension name="YTDE" xvalue="-208"/>
+            <dimension name="YTFI" xvalue="743"/>
+            <dimension name="YTLC" xvalue="558"/>
+            <dimension name="YTOS" xvalue="30"/>
+            <dimension name="YTUC" xvalue="728"/>
+            <dimension name="YTTL" xvalue="25"/>
+            <dimension name="XTTW" xvalue="5"/>
+            <dimension name="XTUR" xvalue="463"/>
+            <dimension name="WDSP" xvalue="250"/>
+            <dimension name="BARS" xvalue="1000"/>
+            <dimension name="XTUD" xvalue="463"/>
+            <dimension name="STUI" xvalue="92"/>
+            <dimension name="STUO" xvalue="92"/>
+            <dimension name="STLI" xvalue="32"/>
+            <dimension name="STLO" xvalue="32"/>
         </output>
       </mapping>
       <mapping>
         <input>
-          <dimension name="Optical size" xvalue="8"/>
-          <dimension name="Slant" xvalue="0"/>
-          <dimension name="Weight" xvalue="100"/>
-          <dimension name="Width" xvalue="100"/>
+            <dimension name="Optical size" xvalue="8"/>
+            <dimension name="Slant" xvalue="0"/>
+            <dimension name="Weight" xvalue="100"/>
+            <dimension name="Width" xvalue="100"/>
         </input>
         <output>
-          <dimension name="VANG" xvalue="0"/>
-          <dimension name="VROT" xvalue="0"/>
-          <dimension name="SQRD" xvalue="0"/>
-          <dimension name="XOPQ" xvalue="54"/>
-          <dimension name="XTRA" xvalue="532"/>
-          <dimension name="XTSP" xvalue="20"/>
-          <dimension name="YOPQ" xvalue="50"/>
-          <dimension name="YTAS" xvalue="768"/>
-          <dimension name="YTDE" xvalue="-208"/>
-          <dimension name="YTFI" xvalue="743"/>
-          <dimension name="YTLC" xvalue="545"/>
-          <dimension name="YTOS" xvalue="30"/>
-          <dimension name="YTUC" xvalue="728"/>
-          <dimension name="YTTL" xvalue="25"/>
-          <dimension name="XTTW" xvalue="5"/>
-          <dimension name="XTUR" xvalue="463"/>
-          <dimension name="WDSP" xvalue="250"/>
-          <dimension name="BARS" xvalue="1000"/>
-          <dimension name="XTUD" xvalue="463"/>
-          <dimension name="STUI" xvalue="92"/>
-          <dimension name="STUO" xvalue="92"/>
-          <dimension name="STLI" xvalue="32"/>
-          <dimension name="STLO" xvalue="32"/>
+            <dimension name="VANG" xvalue="0"/>
+            <dimension name="VROT" xvalue="0"/>
+            <dimension name="XOPQ" xvalue="54"/>
+            <dimension name="XTRA" xvalue="532"/>
+            <dimension name="XTSP" xvalue="20"/>
+            <dimension name="YOPQ" xvalue="50"/>
+            <dimension name="YTAS" xvalue="768"/>
+            <dimension name="YTDE" xvalue="-208"/>
+            <dimension name="YTFI" xvalue="743"/>
+            <dimension name="YTLC" xvalue="545"/>
+            <dimension name="YTOS" xvalue="30"/>
+            <dimension name="YTUC" xvalue="728"/>
+            <dimension name="YTTL" xvalue="25"/>
+            <dimension name="XTTW" xvalue="5"/>
+            <dimension name="XTUR" xvalue="463"/>
+            <dimension name="WDSP" xvalue="250"/>
+            <dimension name="BARS" xvalue="1000"/>
+            <dimension name="XTUD" xvalue="463"/>
+            <dimension name="STUI" xvalue="92"/>
+            <dimension name="STUO" xvalue="92"/>
+            <dimension name="STLI" xvalue="32"/>
+            <dimension name="STLO" xvalue="32"/>
         </output>
       </mapping>
       <mapping>
         <input>
-          <dimension name="Optical size" xvalue="8"/>
-          <dimension name="Slant" xvalue="0"/>
-          <dimension name="Weight" xvalue="400"/>
-          <dimension name="Width" xvalue="100"/>
+            <dimension name="Optical size" xvalue="8"/>
+            <dimension name="Slant" xvalue="0"/>
+            <dimension name="Weight" xvalue="400"/>
+            <dimension name="Width" xvalue="100"/>
         </input>
         <output>
-          <dimension name="VANG" xvalue="0"/>
-          <dimension name="VROT" xvalue="0"/>
-          <dimension name="SQRD" xvalue="0"/>
-          <dimension name="XOPQ" xvalue="103"/>
-          <dimension name="XTRA" xvalue="480"/>
-          <dimension name="XTSP" xvalue="0"/>
-          <dimension name="YOPQ" xvalue="86"/>
-          <dimension name="YTAS" xvalue="768"/>
-          <dimension name="YTDE" xvalue="-208"/>
-          <dimension name="YTFI" xvalue="743"/>
-          <dimension name="YTLC" xvalue="545"/>
-          <dimension name="YTOS" xvalue="30"/>
-          <dimension name="YTUC" xvalue="728"/>
-          <dimension name="YTTL" xvalue="25"/>
-          <dimension name="XTTW" xvalue="5"/>
-          <dimension name="XTUR" xvalue="463"/>
-          <dimension name="WDSP" xvalue="250"/>
-          <dimension name="BARS" xvalue="1000"/>
-          <dimension name="XTUD" xvalue="463"/>
-          <dimension name="STUI" xvalue="92"/>
-          <dimension name="STUO" xvalue="92"/>
-          <dimension name="STLI" xvalue="32"/>
-          <dimension name="STLO" xvalue="32"/>
+            <dimension name="VANG" xvalue="0"/>
+            <dimension name="VROT" xvalue="0"/>
+            <dimension name="XOPQ" xvalue="103"/>
+            <dimension name="XTRA" xvalue="480"/>
+            <dimension name="XTSP" xvalue="0"/>
+            <dimension name="YOPQ" xvalue="86"/>
+            <dimension name="YTAS" xvalue="768"/>
+            <dimension name="YTDE" xvalue="-208"/>
+            <dimension name="YTFI" xvalue="743"/>
+            <dimension name="YTLC" xvalue="545"/>
+            <dimension name="YTOS" xvalue="30"/>
+            <dimension name="YTUC" xvalue="728"/>
+            <dimension name="YTTL" xvalue="25"/>
+            <dimension name="XTTW" xvalue="5"/>
+            <dimension name="XTUR" xvalue="463"/>
+            <dimension name="WDSP" xvalue="250"/>
+            <dimension name="BARS" xvalue="1000"/>
+            <dimension name="XTUD" xvalue="463"/>
+            <dimension name="STUI" xvalue="92"/>
+            <dimension name="STUO" xvalue="92"/>
+            <dimension name="STLI" xvalue="32"/>
+            <dimension name="STLO" xvalue="32"/>
         </output>
       </mapping>
       <mapping>
         <input>
-          <dimension name="Optical size" xvalue="8"/>
-          <dimension name="Slant" xvalue="0"/>
-          <dimension name="Weight" xvalue="1000"/>
-          <dimension name="Width" xvalue="100"/>
+            <dimension name="Optical size" xvalue="8"/>
+            <dimension name="Slant" xvalue="0"/>
+            <dimension name="Weight" xvalue="1000"/>
+            <dimension name="Width" xvalue="100"/>
         </input>
         <output>
-          <dimension name="VANG" xvalue="0"/>
-          <dimension name="VROT" xvalue="0"/>
-          <dimension name="SQRD" xvalue="0"/>
-          <dimension name="XOPQ" xvalue="200"/>
-          <dimension name="XTRA" xvalue="400"/>
-          <dimension name="XTSP" xvalue="0"/>
-          <dimension name="YOPQ" xvalue="155"/>
-          <dimension name="YTAS" xvalue="768"/>
-          <dimension name="YTDE" xvalue="-208"/>
-          <dimension name="YTFI" xvalue="743"/>
-          <dimension name="YTLC" xvalue="558"/>
-          <dimension name="YTOS" xvalue="30"/>
-          <dimension name="YTUC" xvalue="728"/>
-          <dimension name="YTTL" xvalue="25"/>
-          <dimension name="XTTW" xvalue="5"/>
-          <dimension name="XTUR" xvalue="463"/>
-          <dimension name="WDSP" xvalue="250"/>
-          <dimension name="BARS" xvalue="1000"/>
-          <dimension name="XTUD" xvalue="463"/>
-          <dimension name="STUI" xvalue="92"/>
-          <dimension name="STUO" xvalue="92"/>
-          <dimension name="STLI" xvalue="32"/>
-          <dimension name="STLO" xvalue="32"/>
+            <dimension name="VANG" xvalue="0"/>
+            <dimension name="VROT" xvalue="0"/>
+            <dimension name="XOPQ" xvalue="200"/>
+            <dimension name="XTRA" xvalue="400"/>
+            <dimension name="XTSP" xvalue="0"/>
+            <dimension name="YOPQ" xvalue="155"/>
+            <dimension name="YTAS" xvalue="768"/>
+            <dimension name="YTDE" xvalue="-208"/>
+            <dimension name="YTFI" xvalue="743"/>
+            <dimension name="YTLC" xvalue="558"/>
+            <dimension name="YTOS" xvalue="30"/>
+            <dimension name="YTUC" xvalue="728"/>
+            <dimension name="YTTL" xvalue="25"/>
+            <dimension name="XTTW" xvalue="5"/>
+            <dimension name="XTUR" xvalue="463"/>
+            <dimension name="WDSP" xvalue="250"/>
+            <dimension name="BARS" xvalue="1000"/>
+            <dimension name="XTUD" xvalue="463"/>
+            <dimension name="STUI" xvalue="92"/>
+            <dimension name="STUO" xvalue="92"/>
+            <dimension name="STLI" xvalue="32"/>
+            <dimension name="STLO" xvalue="32"/>
         </output>
       </mapping>
       <mapping>
         <input>
-          <dimension name="Optical size" xvalue="8"/>
-          <dimension name="Slant" xvalue="0"/>
-          <dimension name="Weight" xvalue="100"/>
-          <dimension name="Width" xvalue="151"/>
+            <dimension name="Optical size" xvalue="8"/>
+            <dimension name="Slant" xvalue="0"/>
+            <dimension name="Weight" xvalue="100"/>
+            <dimension name="Width" xvalue="151"/>
         </input>
         <output>
-          <dimension name="VANG" xvalue="0"/>
-          <dimension name="VROT" xvalue="0"/>
-          <dimension name="SQRD" xvalue="0"/>
-          <dimension name="XOPQ" xvalue="60"/>
-          <dimension name="XTRA" xvalue="584"/>
-          <dimension name="XTSP" xvalue="40"/>
-          <dimension name="YOPQ" xvalue="54"/>
-          <dimension name="YTAS" xvalue="768"/>
-          <dimension name="YTDE" xvalue="-208"/>
-          <dimension name="YTFI" xvalue="743"/>
-          <dimension name="YTLC" xvalue="545"/>
-          <dimension name="YTOS" xvalue="30"/>
-          <dimension name="YTUC" xvalue="728"/>
-          <dimension name="YTTL" xvalue="25"/>
-          <dimension name="XTTW" xvalue="5"/>
-          <dimension name="XTUR" xvalue="463"/>
-          <dimension name="WDSP" xvalue="250"/>
-          <dimension name="BARS" xvalue="1000"/>
-          <dimension name="XTUD" xvalue="463"/>
-          <dimension name="STUI" xvalue="92"/>
-          <dimension name="STUO" xvalue="92"/>
-          <dimension name="STLI" xvalue="32"/>
-          <dimension name="STLO" xvalue="32"/>
+            <dimension name="VANG" xvalue="0"/>
+            <dimension name="VROT" xvalue="0"/>
+            <dimension name="XOPQ" xvalue="60"/>
+            <dimension name="XTRA" xvalue="584"/>
+            <dimension name="XTSP" xvalue="40"/>
+            <dimension name="YOPQ" xvalue="54"/>
+            <dimension name="YTAS" xvalue="768"/>
+            <dimension name="YTDE" xvalue="-208"/>
+            <dimension name="YTFI" xvalue="743"/>
+            <dimension name="YTLC" xvalue="545"/>
+            <dimension name="YTOS" xvalue="30"/>
+            <dimension name="YTUC" xvalue="728"/>
+            <dimension name="YTTL" xvalue="25"/>
+            <dimension name="XTTW" xvalue="5"/>
+            <dimension name="XTUR" xvalue="463"/>
+            <dimension name="WDSP" xvalue="250"/>
+            <dimension name="BARS" xvalue="1000"/>
+            <dimension name="XTUD" xvalue="463"/>
+            <dimension name="STUI" xvalue="92"/>
+            <dimension name="STUO" xvalue="92"/>
+            <dimension name="STLI" xvalue="32"/>
+            <dimension name="STLO" xvalue="32"/>
         </output>
       </mapping>
       <mapping>
         <input>
-          <dimension name="Optical size" xvalue="8"/>
-          <dimension name="Slant" xvalue="0"/>
-          <dimension name="Weight" xvalue="400"/>
-          <dimension name="Width" xvalue="151"/>
+            <dimension name="Optical size" xvalue="8"/>
+            <dimension name="Slant" xvalue="0"/>
+            <dimension name="Weight" xvalue="400"/>
+            <dimension name="Width" xvalue="151"/>
         </input>
         <output>
-          <dimension name="VANG" xvalue="0"/>
-          <dimension name="VROT" xvalue="0"/>
-          <dimension name="SQRD" xvalue="0"/>
-          <dimension name="XOPQ" xvalue="108"/>
-          <dimension name="XTRA" xvalue="530"/>
-          <dimension name="XTSP" xvalue="30"/>
-          <dimension name="YOPQ" xvalue="88"/>
-          <dimension name="YTAS" xvalue="768"/>
-          <dimension name="YTDE" xvalue="-208"/>
-          <dimension name="YTFI" xvalue="743"/>
-          <dimension name="YTLC" xvalue="545"/>
-          <dimension name="YTOS" xvalue="30"/>
-          <dimension name="YTUC" xvalue="728"/>
-          <dimension name="YTTL" xvalue="25"/>
-          <dimension name="XTTW" xvalue="5"/>
-          <dimension name="XTUR" xvalue="463"/>
-          <dimension name="WDSP" xvalue="250"/>
-          <dimension name="BARS" xvalue="1000"/>
-          <dimension name="XTUD" xvalue="463"/>
-          <dimension name="STUI" xvalue="92"/>
-          <dimension name="STUO" xvalue="92"/>
-          <dimension name="STLI" xvalue="32"/>
-          <dimension name="STLO" xvalue="32"/>
+            <dimension name="VANG" xvalue="0"/>
+            <dimension name="VROT" xvalue="0"/>
+            <dimension name="XOPQ" xvalue="108"/>
+            <dimension name="XTRA" xvalue="530"/>
+            <dimension name="XTSP" xvalue="30"/>
+            <dimension name="YOPQ" xvalue="88"/>
+            <dimension name="YTAS" xvalue="768"/>
+            <dimension name="YTDE" xvalue="-208"/>
+            <dimension name="YTFI" xvalue="743"/>
+            <dimension name="YTLC" xvalue="545"/>
+            <dimension name="YTOS" xvalue="30"/>
+            <dimension name="YTUC" xvalue="728"/>
+            <dimension name="YTTL" xvalue="25"/>
+            <dimension name="XTTW" xvalue="5"/>
+            <dimension name="XTUR" xvalue="463"/>
+            <dimension name="WDSP" xvalue="250"/>
+            <dimension name="BARS" xvalue="1000"/>
+            <dimension name="XTUD" xvalue="463"/>
+            <dimension name="STUI" xvalue="92"/>
+            <dimension name="STUO" xvalue="92"/>
+            <dimension name="STLI" xvalue="32"/>
+            <dimension name="STLO" xvalue="32"/>
         </output>
       </mapping>
       <mapping>
         <input>
-          <dimension name="Optical size" xvalue="8"/>
-          <dimension name="Slant" xvalue="0"/>
-          <dimension name="Weight" xvalue="1000"/>
-          <dimension name="Width" xvalue="151"/>
+            <dimension name="Optical size" xvalue="8"/>
+            <dimension name="Slant" xvalue="0"/>
+            <dimension name="Weight" xvalue="1000"/>
+            <dimension name="Width" xvalue="151"/>
         </input>
         <output>
-          <dimension name="VANG" xvalue="0"/>
-          <dimension name="VROT" xvalue="0"/>
-          <dimension name="SQRD" xvalue="0"/>
-          <dimension name="XOPQ" xvalue="210"/>
-          <dimension name="XTRA" xvalue="414"/>
-          <dimension name="XTSP" xvalue="10"/>
-          <dimension name="YOPQ" xvalue="158"/>
-          <dimension name="YTAS" xvalue="768"/>
-          <dimension name="YTDE" xvalue="-208"/>
-          <dimension name="YTFI" xvalue="743"/>
-          <dimension name="YTLC" xvalue="566"/>
-          <dimension name="YTOS" xvalue="30"/>
-          <dimension name="YTUC" xvalue="728"/>
-          <dimension name="YTTL" xvalue="25"/>
-          <dimension name="XTTW" xvalue="5"/>
-          <dimension name="XTUR" xvalue="463"/>
-          <dimension name="WDSP" xvalue="257"/>
-          <dimension name="BARS" xvalue="1000"/>
-          <dimension name="XTUD" xvalue="463"/>
-          <dimension name="STUI" xvalue="92"/>
-          <dimension name="STUO" xvalue="92"/>
-          <dimension name="STLI" xvalue="32"/>
-          <dimension name="STLO" xvalue="32"/>
+            <dimension name="VANG" xvalue="0"/>
+            <dimension name="VROT" xvalue="0"/>
+            <dimension name="XOPQ" xvalue="210"/>
+            <dimension name="XTRA" xvalue="414"/>
+            <dimension name="XTSP" xvalue="10"/>
+            <dimension name="YOPQ" xvalue="158"/>
+            <dimension name="YTAS" xvalue="768"/>
+            <dimension name="YTDE" xvalue="-208"/>
+            <dimension name="YTFI" xvalue="743"/>
+            <dimension name="YTLC" xvalue="566"/>
+            <dimension name="YTOS" xvalue="30"/>
+            <dimension name="YTUC" xvalue="728"/>
+            <dimension name="YTTL" xvalue="25"/>
+            <dimension name="XTTW" xvalue="5"/>
+            <dimension name="XTUR" xvalue="463"/>
+            <dimension name="WDSP" xvalue="257"/>
+            <dimension name="BARS" xvalue="1000"/>
+            <dimension name="XTUD" xvalue="463"/>
+            <dimension name="STUI" xvalue="92"/>
+            <dimension name="STUO" xvalue="92"/>
+            <dimension name="STLI" xvalue="32"/>
+            <dimension name="STLO" xvalue="32"/>
         </output>
       </mapping>
       <mapping>
         <input>
-          <dimension name="Optical size" xvalue="14"/>
-          <dimension name="Slant" xvalue="0"/>
-          <dimension name="Weight" xvalue="100"/>
-          <dimension name="Width" xvalue="25"/>
+            <dimension name="Optical size" xvalue="14"/>
+            <dimension name="Slant" xvalue="0"/>
+            <dimension name="Weight" xvalue="100"/>
+            <dimension name="Width" xvalue="25"/>
         </input>
         <output>
-	      <dimension name="VANG" xvalue="0"/>
-	      <dimension name="VROT" xvalue="0"/>
-	      <dimension name="SQRD" xvalue="0"/>
-	      <dimension name="XOPQ" xvalue="44"/>
-	      <dimension name="XTRA" xvalue="463"/>
-	      <dimension name="XTSP" xvalue="0"/>
-	      <dimension name="YOPQ" xvalue="42"/>
-	      <dimension name="YTAS" xvalue="768"/>
-	      <dimension name="YTDE" xvalue="-208"/>
-	      <dimension name="YTFI" xvalue="743"/>
-	      <dimension name="YTLC" xvalue="526"/>
-	      <dimension name="YTOS" xvalue="30"/>
-	      <dimension name="YTUC" xvalue="728"/>
-	      <dimension name="YTTL" xvalue="25"/>
-	      <dimension name="XTTW" xvalue="5"/>
-	      <dimension name="XTUR" xvalue="463"/>
-	      <dimension name="WDSP" xvalue="250"/>
-	      <dimension name="BARS" xvalue="1000"/>
-          <dimension name="XTUD" xvalue="463"/>
-          <dimension name="STUI" xvalue="92"/>
-          <dimension name="STUO" xvalue="92"/>
-          <dimension name="STLI" xvalue="32"/>
-          <dimension name="STLO" xvalue="32"/>
+            <dimension name="VANG" xvalue="0"/>
+            <dimension name="VROT" xvalue="0"/>
+            <dimension name="XOPQ" xvalue="44"/>
+            <dimension name="XTRA" xvalue="463"/>
+            <dimension name="XTSP" xvalue="0"/>
+            <dimension name="YOPQ" xvalue="42"/>
+            <dimension name="YTAS" xvalue="768"/>
+            <dimension name="YTDE" xvalue="-208"/>
+            <dimension name="YTFI" xvalue="743"/>
+            <dimension name="YTLC" xvalue="526"/>
+            <dimension name="YTOS" xvalue="30"/>
+            <dimension name="YTUC" xvalue="728"/>
+            <dimension name="YTTL" xvalue="25"/>
+            <dimension name="XTTW" xvalue="5"/>
+            <dimension name="XTUR" xvalue="463"/>
+            <dimension name="WDSP" xvalue="250"/>
+            <dimension name="BARS" xvalue="1000"/>
+            <dimension name="XTUD" xvalue="463"/>
+            <dimension name="STUI" xvalue="92"/>
+            <dimension name="STUO" xvalue="92"/>
+            <dimension name="STLI" xvalue="32"/>
+            <dimension name="STLO" xvalue="32"/>
         </output>
       </mapping>
       <mapping>
         <input>
-          <dimension name="Optical size" xvalue="14"/>
-          <dimension name="Slant" xvalue="0"/>
-          <dimension name="Weight" xvalue="400"/>
-          <dimension name="Width" xvalue="25"/>
+            <dimension name="Optical size" xvalue="14"/>
+            <dimension name="Slant" xvalue="0"/>
+            <dimension name="Weight" xvalue="400"/>
+            <dimension name="Width" xvalue="25"/>
         </input>
         <output>
-	        <dimension name="VANG" xvalue="0"/>
-	        <dimension name="VROT" xvalue="0"/>
-	        <dimension name="SQRD" xvalue="0"/>
-	        <dimension name="XOPQ" xvalue="92"/>
-	        <dimension name="XTRA" xvalue="420"/>
-	        <dimension name="XTSP" xvalue="0"/>
-	        <dimension name="YOPQ" xvalue="78"/>
-	        <dimension name="YTAS" xvalue="768"/>
-	        <dimension name="YTDE" xvalue="-208"/>
-	        <dimension name="YTFI" xvalue="743"/>
-	        <dimension name="YTLC" xvalue="526"/>
-	        <dimension name="YTOS" xvalue="30"/>
-	        <dimension name="YTUC" xvalue="728"/>
-	        <dimension name="YTTL" xvalue="25"/>
-	        <dimension name="XTTW" xvalue="5"/>
-	        <dimension name="XTUR" xvalue="463"/>
-	        <dimension name="WDSP" xvalue="250"/>
-	        <dimension name="BARS" xvalue="1000"/>
-          <dimension name="XTUD" xvalue="463"/>
-          <dimension name="STUI" xvalue="92"/>
-          <dimension name="STUO" xvalue="92"/>
-          <dimension name="STLI" xvalue="32"/>
-          <dimension name="STLO" xvalue="32"/>
+            <dimension name="VANG" xvalue="0"/>
+            <dimension name="VROT" xvalue="0"/>
+            <dimension name="XOPQ" xvalue="92"/>
+            <dimension name="XTRA" xvalue="420"/>
+            <dimension name="XTSP" xvalue="0"/>
+            <dimension name="YOPQ" xvalue="78"/>
+            <dimension name="YTAS" xvalue="768"/>
+            <dimension name="YTDE" xvalue="-208"/>
+            <dimension name="YTFI" xvalue="743"/>
+            <dimension name="YTLC" xvalue="526"/>
+            <dimension name="YTOS" xvalue="30"/>
+            <dimension name="YTUC" xvalue="728"/>
+            <dimension name="YTTL" xvalue="25"/>
+            <dimension name="XTTW" xvalue="5"/>
+            <dimension name="XTUR" xvalue="463"/>
+            <dimension name="WDSP" xvalue="250"/>
+            <dimension name="BARS" xvalue="1000"/>
+            <dimension name="XTUD" xvalue="463"/>
+            <dimension name="STUI" xvalue="92"/>
+            <dimension name="STUO" xvalue="92"/>
+            <dimension name="STLI" xvalue="32"/>
+            <dimension name="STLO" xvalue="32"/>
         </output>
       </mapping>
       <mapping>
         <input>
-          <dimension name="Optical size" xvalue="14"/>
-          <dimension name="Slant" xvalue="0"/>
-          <dimension name="Weight" xvalue="1000"/>
-          <dimension name="Width" xvalue="25"/>
+            <dimension name="Optical size" xvalue="14"/>
+            <dimension name="Slant" xvalue="0"/>
+            <dimension name="Weight" xvalue="1000"/>
+            <dimension name="Width" xvalue="25"/>
         </input>
         <output>
-	        <dimension name="VANG" xvalue="0"/>
-	        <dimension name="VROT" xvalue="0"/>
-	        <dimension name="SQRD" xvalue="0"/>
-	        <dimension name="XOPQ" xvalue="206"/>
-	        <dimension name="XTRA" xvalue="327"/>
-	        <dimension name="XTSP" xvalue="-30"/>
-	        <dimension name="YOPQ" xvalue="154"/>
-	        <dimension name="YTAS" xvalue="768"/>
-	        <dimension name="YTDE" xvalue="-208"/>
-	        <dimension name="YTFI" xvalue="743"/>
-	        <dimension name="YTLC" xvalue="526"/>
-	        <dimension name="YTOS" xvalue="30"/>
-	        <dimension name="YTUC" xvalue="728"/>
-	        <dimension name="YTTL" xvalue="25"/>
-	        <dimension name="XTTW" xvalue="5"/>
-	        <dimension name="XTUR" xvalue="463"/>
-	        <dimension name="WDSP" xvalue="257"/>
-	        <dimension name="BARS" xvalue="1000"/>
-          <dimension name="XTUD" xvalue="463"/>
-          <dimension name="STUI" xvalue="92"/>
-          <dimension name="STUO" xvalue="92"/>
-          <dimension name="STLI" xvalue="32"/>
-          <dimension name="STLO" xvalue="32"/>
+            <dimension name="VANG" xvalue="0"/>
+            <dimension name="VROT" xvalue="0"/>
+            <dimension name="XOPQ" xvalue="206"/>
+            <dimension name="XTRA" xvalue="327"/>
+            <dimension name="XTSP" xvalue="-30"/>
+            <dimension name="YOPQ" xvalue="154"/>
+            <dimension name="YTAS" xvalue="768"/>
+            <dimension name="YTDE" xvalue="-208"/>
+            <dimension name="YTFI" xvalue="743"/>
+            <dimension name="YTLC" xvalue="526"/>
+            <dimension name="YTOS" xvalue="30"/>
+            <dimension name="YTUC" xvalue="728"/>
+            <dimension name="YTTL" xvalue="25"/>
+            <dimension name="XTTW" xvalue="5"/>
+            <dimension name="XTUR" xvalue="463"/>
+            <dimension name="WDSP" xvalue="257"/>
+            <dimension name="BARS" xvalue="1000"/>
+            <dimension name="XTUD" xvalue="463"/>
+            <dimension name="STUI" xvalue="92"/>
+            <dimension name="STUO" xvalue="92"/>
+            <dimension name="STLI" xvalue="32"/>
+            <dimension name="STLO" xvalue="32"/>
         </output>
       </mapping>
       <mapping>
         <input>
-          <dimension name="Optical size" xvalue="14"/>
-          <dimension name="Slant" xvalue="0"/>
-          <dimension name="Weight" xvalue="100"/>
-          <dimension name="Width" xvalue="100"/>
+            <dimension name="Optical size" xvalue="14"/>
+            <dimension name="Slant" xvalue="0"/>
+            <dimension name="Weight" xvalue="100"/>
+            <dimension name="Width" xvalue="100"/>
         </input>
         <output>
-	        <dimension name="VANG" xvalue="0"/>
-	        <dimension name="VROT" xvalue="0"/>
-	        <dimension name="SQRD" xvalue="0"/>
-	        <dimension name="XOPQ" xvalue="47"/>
-	        <dimension name="XTRA" xvalue="516"/>
-	        <dimension name="XTSP" xvalue="10"/>
-	        <dimension name="YOPQ" xvalue="44"/>
-	        <dimension name="YTAS" xvalue="768"/>
-	        <dimension name="YTDE" xvalue="-208"/>
-	        <dimension name="YTFI" xvalue="743"/>
-	        <dimension name="YTLC" xvalue="526"/>
-	        <dimension name="YTOS" xvalue="30"/>
-	        <dimension name="YTUC" xvalue="728"/>
-	        <dimension name="YTTL" xvalue="25"/>
-	        <dimension name="XTTW" xvalue="5"/>
-	       <dimension name="XTUR" xvalue="463"/>
-	       <dimension name="WDSP" xvalue="250"/>
-	       <dimension name="BARS" xvalue="1000"/>
-          <dimension name="XTUD" xvalue="463"/>
-          <dimension name="STUI" xvalue="92"/>
-          <dimension name="STUO" xvalue="92"/>
-          <dimension name="STLI" xvalue="32"/>
-          <dimension name="STLO" xvalue="32"/>
+            <dimension name="VANG" xvalue="0"/>
+            <dimension name="VROT" xvalue="0"/>
+            <dimension name="XOPQ" xvalue="47"/>
+            <dimension name="XTRA" xvalue="516"/>
+            <dimension name="XTSP" xvalue="10"/>
+            <dimension name="YOPQ" xvalue="44"/>
+            <dimension name="YTAS" xvalue="768"/>
+            <dimension name="YTDE" xvalue="-208"/>
+            <dimension name="YTFI" xvalue="743"/>
+            <dimension name="YTLC" xvalue="526"/>
+            <dimension name="YTOS" xvalue="30"/>
+            <dimension name="YTUC" xvalue="728"/>
+            <dimension name="YTTL" xvalue="25"/>
+            <dimension name="XTTW" xvalue="5"/>
+            <dimension name="XTUR" xvalue="463"/>
+            <dimension name="WDSP" xvalue="250"/>
+            <dimension name="BARS" xvalue="1000"/>
+            <dimension name="XTUD" xvalue="463"/>
+            <dimension name="STUI" xvalue="92"/>
+            <dimension name="STUO" xvalue="92"/>
+            <dimension name="STLI" xvalue="32"/>
+            <dimension name="STLO" xvalue="32"/>
         </output>
       </mapping>
       <mapping>
         <input>
-          <dimension name="Optical size" xvalue="14"/>
-          <dimension name="Slant" xvalue="0"/>
-          <dimension name="Weight" xvalue="400"/>
-          <dimension name="Width" xvalue="100"/>
+            <dimension name="Optical size" xvalue="14"/>
+            <dimension name="Slant" xvalue="0"/>
+            <dimension name="Weight" xvalue="400"/>
+            <dimension name="Width" xvalue="100"/>
         </input>
         <output>
-	        <dimension name="VANG" xvalue="0"/>
-	        <dimension name="VROT" xvalue="0"/>
-	        <dimension name="SQRD" xvalue="0"/>
-	        <dimension name="XOPQ" xvalue="96"/>
-	        <dimension name="XTRA" xvalue="463"/>
-	        <dimension name="XTSP" xvalue="0"/>
-	        <dimension name="YOPQ" xvalue="79"/>
-	        <dimension name="YTAS" xvalue="768"/>
-	        <dimension name="YTDE" xvalue="-208"/>
-	        <dimension name="YTFI" xvalue="743"/>
-	        <dimension name="YTLC" xvalue="526"/>
-	        <dimension name="YTOS" xvalue="30"/>
-	        <dimension name="YTUC" xvalue="728"/>
-	        <dimension name="YTTL" xvalue="25"/>
-	        <dimension name="XTTW" xvalue="5"/>
-	        <dimension name="XTUR" xvalue="463"/>
-	        <dimension name="WDSP" xvalue="246"/>
-	        <dimension name="BARS" xvalue="1000"/>
-          <dimension name="XTUD" xvalue="463"/>
-          <dimension name="STUI" xvalue="92"/>
-          <dimension name="STUO" xvalue="92"/>
-          <dimension name="STLI" xvalue="32"/>
-          <dimension name="STLO" xvalue="32"/>
+            <dimension name="VANG" xvalue="0"/>
+            <dimension name="VROT" xvalue="0"/>
+            <dimension name="XOPQ" xvalue="96"/>
+            <dimension name="XTRA" xvalue="463"/>
+            <dimension name="XTSP" xvalue="0"/>
+            <dimension name="YOPQ" xvalue="79"/>
+            <dimension name="YTAS" xvalue="768"/>
+            <dimension name="YTDE" xvalue="-208"/>
+            <dimension name="YTFI" xvalue="743"/>
+            <dimension name="YTLC" xvalue="526"/>
+            <dimension name="YTOS" xvalue="30"/>
+            <dimension name="YTUC" xvalue="728"/>
+            <dimension name="YTTL" xvalue="25"/>
+            <dimension name="XTTW" xvalue="5"/>
+            <dimension name="XTUR" xvalue="463"/>
+            <dimension name="WDSP" xvalue="246"/>
+            <dimension name="BARS" xvalue="1000"/>
+            <dimension name="XTUD" xvalue="463"/>
+            <dimension name="STUI" xvalue="92"/>
+            <dimension name="STUO" xvalue="92"/>
+            <dimension name="STLI" xvalue="32"/>
+            <dimension name="STLO" xvalue="32"/>
         </output>
       </mapping>
       <mapping>
         <input>
-          <dimension name="Optical size" xvalue="14"/>
-          <dimension name="Slant" xvalue="0"/>
-          <dimension name="Weight" xvalue="1000"/>
-          <dimension name="Width" xvalue="100"/>
+            <dimension name="Optical size" xvalue="14"/>
+            <dimension name="Slant" xvalue="0"/>
+            <dimension name="Weight" xvalue="1000"/>
+            <dimension name="Width" xvalue="100"/>
         </input>
         <output>
-	        <dimension name="VANG" xvalue="0"/>
-	        <dimension name="VROT" xvalue="0"/>
-	        <dimension name="SQRD" xvalue="0"/>
-	        <dimension name="XOPQ" xvalue="210"/>
-	        <dimension name="XTRA" xvalue="380"/>
-	        <dimension name="XTSP" xvalue="-30"/>
-	        <dimension name="YOPQ" xvalue="156"/>
-	        <dimension name="YTAS" xvalue="768"/>
-	        <dimension name="YTDE" xvalue="-208"/>
-	        <dimension name="YTFI" xvalue="743"/>
-	        <dimension name="YTLC" xvalue="526"/>
-	        <dimension name="YTOS" xvalue="30"/>
-	        <dimension name="YTUC" xvalue="728"/>
-	        <dimension name="YTTL" xvalue="25"/>
-	        <dimension name="XTTW" xvalue="5"/>
-	        <dimension name="XTUR" xvalue="463"/>
-	        <dimension name="WDSP" xvalue="250"/>
-	        <dimension name="BARS" xvalue="1000"/>
-          <dimension name="XTUD" xvalue="463"/>
-          <dimension name="STUI" xvalue="92"/>
-          <dimension name="STUO" xvalue="92"/>
-          <dimension name="STLI" xvalue="32"/>
-          <dimension name="STLO" xvalue="32"/>
+            <dimension name="VANG" xvalue="0"/>
+            <dimension name="VROT" xvalue="0"/>
+            <dimension name="XOPQ" xvalue="210"/>
+            <dimension name="XTRA" xvalue="380"/>
+            <dimension name="XTSP" xvalue="-30"/>
+            <dimension name="YOPQ" xvalue="156"/>
+            <dimension name="YTAS" xvalue="768"/>
+            <dimension name="YTDE" xvalue="-208"/>
+            <dimension name="YTFI" xvalue="743"/>
+            <dimension name="YTLC" xvalue="526"/>
+            <dimension name="YTOS" xvalue="30"/>
+            <dimension name="YTUC" xvalue="728"/>
+            <dimension name="YTTL" xvalue="25"/>
+            <dimension name="XTTW" xvalue="5"/>
+            <dimension name="XTUR" xvalue="463"/>
+            <dimension name="WDSP" xvalue="250"/>
+            <dimension name="BARS" xvalue="1000"/>
+            <dimension name="XTUD" xvalue="463"/>
+            <dimension name="STUI" xvalue="92"/>
+            <dimension name="STUO" xvalue="92"/>
+            <dimension name="STLI" xvalue="32"/>
+            <dimension name="STLO" xvalue="32"/>
         </output>
       </mapping>
       <mapping>
         <input>
-          <dimension name="Optical size" xvalue="14"/>
-          <dimension name="Slant" xvalue="0"/>
-          <dimension name="Weight" xvalue="100"/>
-          <dimension name="Width" xvalue="151"/>
+            <dimension name="Optical size" xvalue="14"/>
+            <dimension name="Slant" xvalue="0"/>
+            <dimension name="Weight" xvalue="100"/>
+            <dimension name="Width" xvalue="151"/>
         </input>
         <output>
-	        <dimension name="VANG" xvalue="0"/>
-	        <dimension name="VROT" xvalue="0"/>
-	        <dimension name="SQRD" xvalue="0"/>
-	        <dimension name="XOPQ" xvalue="53"/>
-	        <dimension name="XTRA" xvalue="566"/>
-	        <dimension name="XTSP" xvalue="10"/>
-	        <dimension name="YOPQ" xvalue="46"/>
-	        <dimension name="YTAS" xvalue="768"/>
-	        <dimension name="YTDE" xvalue="-208"/>
-	        <dimension name="YTFI" xvalue="743"/>
-	        <dimension name="YTLC" xvalue="526"/>
-	        <dimension name="YTOS" xvalue="30"/>
-	        <dimension name="YTUC" xvalue="728"/>
-	        <dimension name="YTTL" xvalue="25"/>
-	        <dimension name="XTTW" xvalue="5"/>
-	        <dimension name="XTUR" xvalue="463"/>
-	        <dimension name="WDSP" xvalue="250"/>
-	        <dimension name="BARS" xvalue="1000"/>
-          <dimension name="XTUD" xvalue="463"/>
-          <dimension name="STUI" xvalue="92"/>
-          <dimension name="STUO" xvalue="92"/>
-          <dimension name="STLI" xvalue="32"/>
-          <dimension name="STLO" xvalue="32"/>
+            <dimension name="VANG" xvalue="0"/>
+            <dimension name="VROT" xvalue="0"/>
+            <dimension name="XOPQ" xvalue="53"/>
+            <dimension name="XTRA" xvalue="566"/>
+            <dimension name="XTSP" xvalue="10"/>
+            <dimension name="YOPQ" xvalue="46"/>
+            <dimension name="YTAS" xvalue="768"/>
+            <dimension name="YTDE" xvalue="-208"/>
+            <dimension name="YTFI" xvalue="743"/>
+            <dimension name="YTLC" xvalue="526"/>
+            <dimension name="YTOS" xvalue="30"/>
+            <dimension name="YTUC" xvalue="728"/>
+            <dimension name="YTTL" xvalue="25"/>
+            <dimension name="XTTW" xvalue="5"/>
+            <dimension name="XTUR" xvalue="463"/>
+            <dimension name="WDSP" xvalue="250"/>
+            <dimension name="BARS" xvalue="1000"/>
+            <dimension name="XTUD" xvalue="463"/>
+            <dimension name="STUI" xvalue="92"/>
+            <dimension name="STUO" xvalue="92"/>
+            <dimension name="STLI" xvalue="32"/>
+            <dimension name="STLO" xvalue="32"/>
         </output>
       </mapping>
       <mapping>
         <input>
-          <dimension name="Optical size" xvalue="14"/>
-          <dimension name="Slant" xvalue="0"/>
-          <dimension name="Weight" xvalue="400"/>
-          <dimension name="Width" xvalue="151"/>
+            <dimension name="Optical size" xvalue="14"/>
+            <dimension name="Slant" xvalue="0"/>
+            <dimension name="Weight" xvalue="400"/>
+            <dimension name="Width" xvalue="151"/>
         </input>
         <output>
-	        <dimension name="VANG" xvalue="0"/>
-	        <dimension name="VROT" xvalue="0"/>
-	        <dimension name="SQRD" xvalue="0"/>
-	        <dimension name="XOPQ" xvalue="100"/>
-	        <dimension name="XTRA" xvalue="514"/>
-	        <dimension name="XTSP" xvalue="0"/>
-	        <dimension name="YOPQ" xvalue="80"/>
-	        <dimension name="YTAS" xvalue="768"/>
-	        <dimension name="YTDE" xvalue="-208"/>
-	        <dimension name="YTFI" xvalue="743"/>
-	        <dimension name="YTLC" xvalue="526"/>
-	        <dimension name="YTOS" xvalue="30"/>
-	        <dimension name="YTUC" xvalue="728"/>
-	        <dimension name="YTTL" xvalue="25"/>
-	        <dimension name="XTTW" xvalue="5"/>
-	        <dimension name="XTUR" xvalue="463"/>
-	        <dimension name="WDSP" xvalue="250"/>
-	        <dimension name="BARS" xvalue="1000"/>
-          <dimension name="XTUD" xvalue="463"/>
-          <dimension name="STUI" xvalue="92"/>
-          <dimension name="STUO" xvalue="92"/>
-          <dimension name="STLI" xvalue="32"/>
-          <dimension name="STLO" xvalue="32"/>
+            <dimension name="VANG" xvalue="0"/>
+            <dimension name="VROT" xvalue="0"/>
+            <dimension name="XOPQ" xvalue="100"/>
+            <dimension name="XTRA" xvalue="514"/>
+            <dimension name="XTSP" xvalue="0"/>
+            <dimension name="YOPQ" xvalue="80"/>
+            <dimension name="YTAS" xvalue="768"/>
+            <dimension name="YTDE" xvalue="-208"/>
+            <dimension name="YTFI" xvalue="743"/>
+            <dimension name="YTLC" xvalue="526"/>
+            <dimension name="YTOS" xvalue="30"/>
+            <dimension name="YTUC" xvalue="728"/>
+            <dimension name="YTTL" xvalue="25"/>
+            <dimension name="XTTW" xvalue="5"/>
+            <dimension name="XTUR" xvalue="463"/>
+            <dimension name="WDSP" xvalue="250"/>
+            <dimension name="BARS" xvalue="1000"/>
+            <dimension name="XTUD" xvalue="463"/>
+            <dimension name="STUI" xvalue="92"/>
+            <dimension name="STUO" xvalue="92"/>
+            <dimension name="STLI" xvalue="32"/>
+            <dimension name="STLO" xvalue="32"/>
         </output>
       </mapping>
       <mapping>
         <input>
-          <dimension name="Optical size" xvalue="14"/>
-          <dimension name="Slant" xvalue="0"/>
-          <dimension name="Weight" xvalue="1000"/>
-          <dimension name="Width" xvalue="151"/>
+            <dimension name="Optical size" xvalue="14"/>
+            <dimension name="Slant" xvalue="0"/>
+            <dimension name="Weight" xvalue="1000"/>
+            <dimension name="Width" xvalue="151"/>
         </input>
         <output>
-	        <dimension name="VANG" xvalue="0"/>
-	        <dimension name="VROT" xvalue="0"/>
-	        <dimension name="SQRD" xvalue="0"/>
-	        <dimension name="XOPQ" xvalue="214"/>
-	        <dimension name="XTRA" xvalue="415"/>
-	        <dimension name="XTSP" xvalue="-10"/>
-	        <dimension name="YOPQ" xvalue="158"/>
-	        <dimension name="YTAS" xvalue="768"/>
-	        <dimension name="YTDE" xvalue="-208"/>
-	        <dimension name="YTFI" xvalue="743"/>
-	        <dimension name="YTLC" xvalue="526"/>
-	        <dimension name="YTOS" xvalue="30"/>
-	        <dimension name="YTUC" xvalue="728"/>
-	        <dimension name="YTTL" xvalue="25"/>
-	        <dimension name="XTTW" xvalue="5"/>
-	        <dimension name="XTUR" xvalue="463"/>
-	        <dimension name="WDSP" xvalue="257"/>
-	        <dimension name="BARS" xvalue="1000"/>
-          <dimension name="XTUD" xvalue="463"/>
-          <dimension name="STUI" xvalue="92"/>
-          <dimension name="STUO" xvalue="92"/>
-          <dimension name="STLI" xvalue="32"/>
-          <dimension name="STLO" xvalue="32"/>
+            <dimension name="VANG" xvalue="0"/>
+            <dimension name="VROT" xvalue="0"/>
+            <dimension name="XOPQ" xvalue="214"/>
+            <dimension name="XTRA" xvalue="415"/>
+            <dimension name="XTSP" xvalue="-10"/>
+            <dimension name="YOPQ" xvalue="158"/>
+            <dimension name="YTAS" xvalue="768"/>
+            <dimension name="YTDE" xvalue="-208"/>
+            <dimension name="YTFI" xvalue="743"/>
+            <dimension name="YTLC" xvalue="526"/>
+            <dimension name="YTOS" xvalue="30"/>
+            <dimension name="YTUC" xvalue="728"/>
+            <dimension name="YTTL" xvalue="25"/>
+            <dimension name="XTTW" xvalue="5"/>
+            <dimension name="XTUR" xvalue="463"/>
+            <dimension name="WDSP" xvalue="257"/>
+            <dimension name="BARS" xvalue="1000"/>
+            <dimension name="XTUD" xvalue="463"/>
+            <dimension name="STUI" xvalue="92"/>
+            <dimension name="STUO" xvalue="92"/>
+            <dimension name="STLI" xvalue="32"/>
+            <dimension name="STLO" xvalue="32"/>
         </output>
       </mapping>
       <mapping>
         <input>
-          <dimension name="Optical size" xvalue="144"/>
-          <dimension name="Slant" xvalue="0"/>
-          <dimension name="Weight" xvalue="100"/>
-          <dimension name="Width" xvalue="25"/>
+            <dimension name="Optical size" xvalue="144"/>
+            <dimension name="Slant" xvalue="0"/>
+            <dimension name="Weight" xvalue="100"/>
+            <dimension name="Width" xvalue="25"/>
         </input>
         <output>
-	        <dimension name="VANG" xvalue="0"/>
-	        <dimension name="VROT" xvalue="0"/>
-	        <dimension name="SQRD" xvalue="0"/>
-	        <dimension name="XOPQ" xvalue="2"/>
-	        <dimension name="XTRA" xvalue="278"/>
-	        <dimension name="XTSP" xvalue="-75"/>
-	        <dimension name="YOPQ" xvalue="2"/>
-	        <dimension name="YTAS" xvalue="728"/>
-	        <dimension name="YTDE" xvalue="-208"/>
-	        <dimension name="YTFI" xvalue="743"/>
-	        <dimension name="YTLC" xvalue="458"/>
-	        <dimension name="YTOS" xvalue="2"/>
-	        <dimension name="YTUC" xvalue="728"/>
-	        <dimension name="YTTL" xvalue="25"/>
-	        <dimension name="XTTW" xvalue="0"/>
-	        <dimension name="XTUR" xvalue="463"/>
-	        <dimension name="WDSP" xvalue="53"/>
-	        <dimension name="BARS" xvalue="1000"/>
-          <dimension name="XTUD" xvalue="463"/>
-          <dimension name="STUI" xvalue="92"/>
-          <dimension name="STUO" xvalue="92"/>
-          <dimension name="STLI" xvalue="32"/>
-          <dimension name="STLO" xvalue="32"/>
+            <dimension name="VANG" xvalue="0"/>
+            <dimension name="VROT" xvalue="0"/>
+            <dimension name="XOPQ" xvalue="2"/>
+            <dimension name="XTRA" xvalue="278"/>
+            <dimension name="XTSP" xvalue="-75"/>
+            <dimension name="YOPQ" xvalue="2"/>
+            <dimension name="YTAS" xvalue="728"/>
+            <dimension name="YTDE" xvalue="-208"/>
+            <dimension name="YTFI" xvalue="743"/>
+            <dimension name="YTLC" xvalue="458"/>
+            <dimension name="YTOS" xvalue="2"/>
+            <dimension name="YTUC" xvalue="728"/>
+            <dimension name="YTTL" xvalue="25"/>
+            <dimension name="XTTW" xvalue="0"/>
+            <dimension name="XTUR" xvalue="463"/>
+            <dimension name="WDSP" xvalue="53"/>
+            <dimension name="BARS" xvalue="1000"/>
+            <dimension name="XTUD" xvalue="463"/>
+            <dimension name="STUI" xvalue="92"/>
+            <dimension name="STUO" xvalue="92"/>
+            <dimension name="STLI" xvalue="32"/>
+            <dimension name="STLO" xvalue="32"/>
         </output>
       </mapping>
       <mapping>
         <input>
-          <dimension name="Optical size" xvalue="144"/>
-          <dimension name="Slant" xvalue="0"/>
-          <dimension name="Weight" xvalue="400"/>
-          <dimension name="Width" xvalue="25"/>
+            <dimension name="Optical size" xvalue="144"/>
+            <dimension name="Slant" xvalue="0"/>
+            <dimension name="Weight" xvalue="400"/>
+            <dimension name="Width" xvalue="25"/>
         </input>
         <output>
-	        <dimension name="VANG" xvalue="0"/>
-	        <dimension name="VROT" xvalue="0"/>
-	        <dimension name="SQRD" xvalue="0"/>
-	        <dimension name="XOPQ" xvalue="48"/>
-	        <dimension name="XTRA" xvalue="267"/>
-	        <dimension name="XTSP" xvalue="-70"/>
-	        <dimension name="YOPQ" xvalue="48"/>
-	        <dimension name="YTAS" xvalue="728"/>
-	        <dimension name="YTDE" xvalue="-208"/>
-	        <dimension name="YTFI" xvalue="743"/>
-	        <dimension name="YTLC" xvalue="458"/>
-	        <dimension name="YTOS" xvalue="5"/>
-	        <dimension name="YTUC" xvalue="728"/>
-	        <dimension name="YTTL" xvalue="25"/>
-	        <dimension name="XTTW" xvalue="0"/>
-	        <dimension name="XTUR" xvalue="463"/>
-	        <dimension name="WDSP" xvalue="94"/>
-	        <dimension name="BARS" xvalue="1000"/>
-          <dimension name="XTUD" xvalue="463"/>
-          <dimension name="STUI" xvalue="92"/>
-          <dimension name="STUO" xvalue="92"/>
-          <dimension name="STLI" xvalue="32"/>
-          <dimension name="STLO" xvalue="32"/>
+            <dimension name="VANG" xvalue="0"/>
+            <dimension name="VROT" xvalue="0"/>
+            <dimension name="XOPQ" xvalue="48"/>
+            <dimension name="XTRA" xvalue="267"/>
+            <dimension name="XTSP" xvalue="-70"/>
+            <dimension name="YOPQ" xvalue="48"/>
+            <dimension name="YTAS" xvalue="728"/>
+            <dimension name="YTDE" xvalue="-208"/>
+            <dimension name="YTFI" xvalue="743"/>
+            <dimension name="YTLC" xvalue="458"/>
+            <dimension name="YTOS" xvalue="5"/>
+            <dimension name="YTUC" xvalue="728"/>
+            <dimension name="YTTL" xvalue="25"/>
+            <dimension name="XTTW" xvalue="0"/>
+            <dimension name="XTUR" xvalue="463"/>
+            <dimension name="WDSP" xvalue="94"/>
+            <dimension name="BARS" xvalue="1000"/>
+            <dimension name="XTUD" xvalue="463"/>
+            <dimension name="STUI" xvalue="92"/>
+            <dimension name="STUO" xvalue="92"/>
+            <dimension name="STLI" xvalue="32"/>
+            <dimension name="STLO" xvalue="32"/>
         </output>
       </mapping>
       <mapping>
         <input>
-          <dimension name="Optical size" xvalue="144"/>
-          <dimension name="Slant" xvalue="0"/>
-          <dimension name="Weight" xvalue="1000"/>
-          <dimension name="Width" xvalue="25"/>
+            <dimension name="Optical size" xvalue="144"/>
+            <dimension name="Slant" xvalue="0"/>
+            <dimension name="Weight" xvalue="1000"/>
+            <dimension name="Width" xvalue="25"/>
         </input>
         <output>
-	        <dimension name="VANG" xvalue="0"/>
-	        <dimension name="VROT" xvalue="0"/>
-	        <dimension name="SQRD" xvalue="0"/>
-	        <dimension name="XOPQ" xvalue="248"/>
-	        <dimension name="XTRA" xvalue="244"/>
-	        <dimension name="XTSP" xvalue="-100"/>
-	        <dimension name="YOPQ" xvalue="228"/>
-	        <dimension name="YTAS" xvalue="728"/>
-	        <dimension name="YTDE" xvalue="-208"/>
-	        <dimension name="YTFI" xvalue="743"/>
-	        <dimension name="YTLC" xvalue="458"/>
-	        <dimension name="YTOS" xvalue="10"/>
-	        <dimension name="YTUC" xvalue="728"/>
-	        <dimension name="YTTL" xvalue="25"/>
-	        <dimension name="XTTW" xvalue="0"/>
-	        <dimension name="XTUR" xvalue="463"/>
-	        <dimension name="WDSP" xvalue="255"/>
-	        <dimension name="BARS" xvalue="1000"/>
-          <dimension name="XTUD" xvalue="463"/>
-          <dimension name="STUI" xvalue="92"/>
-          <dimension name="STUO" xvalue="92"/>
-          <dimension name="STLI" xvalue="32"/>
-          <dimension name="STLO" xvalue="32"/>
+            <dimension name="VANG" xvalue="0"/>
+            <dimension name="VROT" xvalue="0"/>
+            <dimension name="XOPQ" xvalue="248"/>
+            <dimension name="XTRA" xvalue="244"/>
+            <dimension name="XTSP" xvalue="-100"/>
+            <dimension name="YOPQ" xvalue="228"/>
+            <dimension name="YTAS" xvalue="728"/>
+            <dimension name="YTDE" xvalue="-208"/>
+            <dimension name="YTFI" xvalue="743"/>
+            <dimension name="YTLC" xvalue="458"/>
+            <dimension name="YTOS" xvalue="10"/>
+            <dimension name="YTUC" xvalue="728"/>
+            <dimension name="YTTL" xvalue="25"/>
+            <dimension name="XTTW" xvalue="0"/>
+            <dimension name="XTUR" xvalue="463"/>
+            <dimension name="WDSP" xvalue="255"/>
+            <dimension name="BARS" xvalue="1000"/>
+            <dimension name="XTUD" xvalue="515"/>
+            <dimension name="STUI" xvalue="92"/>
+            <dimension name="STUO" xvalue="92"/>
+            <dimension name="STLI" xvalue="32"/>
+            <dimension name="STLO" xvalue="32"/>
         </output>
       </mapping>
       <mapping>
         <input>
-          <dimension name="Optical size" xvalue="144"/>
-          <dimension name="Slant" xvalue="0"/>
-          <dimension name="Weight" xvalue="100"/>
-          <dimension name="Width" xvalue="100"/>
+            <dimension name="Optical size" xvalue="144"/>
+            <dimension name="Slant" xvalue="0"/>
+            <dimension name="Weight" xvalue="100"/>
+            <dimension name="Width" xvalue="100"/>
         </input>
         <output>
-	        <dimension name="VANG" xvalue="0"/>
-	        <dimension name="VROT" xvalue="0"/>
-	        <dimension name="SQRD" xvalue="0"/>
-	        <dimension name="XOPQ" xvalue="4"/>
-	        <dimension name="XTRA" xvalue="506"/>
-	        <dimension name="XTSP" xvalue="-10"/>
-	        <dimension name="YOPQ" xvalue="4"/>
-	        <dimension name="YTAS" xvalue="728"/>
-	        <dimension name="YTDE" xvalue="-208"/>
-	        <dimension name="YTFI" xvalue="743"/>
-	        <dimension name="YTLC" xvalue="458"/>
-	        <dimension name="YTOS" xvalue="10"/>
-	        <dimension name="YTUC" xvalue="728"/>
-	        <dimension name="YTTL" xvalue="25"/>
-	        <dimension name="XTTW" xvalue="0"/>
-	        <dimension name="XTUR" xvalue="463"/>
-	        <dimension name="WDSP" xvalue="162"/>
-	        <dimension name="BARS" xvalue="1000"/>
-          <dimension name="XTUD" xvalue="463"/>
-          <dimension name="STUI" xvalue="92"/>
-          <dimension name="STUO" xvalue="92"/>
-          <dimension name="STLI" xvalue="32"/>
-          <dimension name="STLO" xvalue="32"/>
+            <dimension name="VANG" xvalue="0"/>
+            <dimension name="VROT" xvalue="0"/>
+            <dimension name="XOPQ" xvalue="4"/>
+            <dimension name="XTRA" xvalue="506"/>
+            <dimension name="XTSP" xvalue="-10"/>
+            <dimension name="YOPQ" xvalue="4"/>
+            <dimension name="YTAS" xvalue="728"/>
+            <dimension name="YTDE" xvalue="-208"/>
+            <dimension name="YTFI" xvalue="743"/>
+            <dimension name="YTLC" xvalue="458"/>
+            <dimension name="YTOS" xvalue="10"/>
+            <dimension name="YTUC" xvalue="728"/>
+            <dimension name="YTTL" xvalue="25"/>
+            <dimension name="XTTW" xvalue="0"/>
+            <dimension name="XTUR" xvalue="463"/>
+            <dimension name="WDSP" xvalue="162"/>
+            <dimension name="BARS" xvalue="1000"/>
+            <dimension name="XTUD" xvalue="463"/>
+            <dimension name="STUI" xvalue="92"/>
+            <dimension name="STUO" xvalue="92"/>
+            <dimension name="STLI" xvalue="32"/>
+            <dimension name="STLO" xvalue="32"/>
         </output>
       </mapping>
       <mapping>
         <input>
-          <dimension name="Optical size" xvalue="144"/>
-          <dimension name="Slant" xvalue="0"/>
-          <dimension name="Weight" xvalue="400"/>
-          <dimension name="Width" xvalue="100"/>
+            <dimension name="Optical size" xvalue="144"/>
+            <dimension name="Slant" xvalue="0"/>
+            <dimension name="Weight" xvalue="400"/>
+            <dimension name="Width" xvalue="100"/>
         </input>
         <output>
-	        <dimension name="VANG" xvalue="0"/>
-	        <dimension name="VROT" xvalue="0"/>
-	        <dimension name="SQRD" xvalue="0"/>
-	        <dimension name="XOPQ" xvalue="55"/>
-	        <dimension name="XTRA" xvalue="449"/>
-	        <dimension name="XTSP" xvalue="-24.9"/>
-	        <dimension name="YOPQ" xvalue="49"/>
-	        <dimension name="YTAS" xvalue="728"/>
-	        <dimension name="YTDE" xvalue="-208"/>
-	        <dimension name="YTFI" xvalue="743"/>
-	        <dimension name="YTLC" xvalue="458"/>
-	        <dimension name="YTOS" xvalue="20"/>
-	        <dimension name="YTUC" xvalue="728"/>
-	        <dimension name="YTTL" xvalue="0"/>
-	        <dimension name="XTTW" xvalue="0"/>
-	        <dimension name="XTUR" xvalue="463"/>
-	        <dimension name="WDSP" xvalue="175"/>
-	        <dimension name="BARS" xvalue="1000"/>
-          <dimension name="XTUD" xvalue="463"/>
-          <dimension name="STUI" xvalue="92"/>
-          <dimension name="STUO" xvalue="92"/>
-          <dimension name="STLI" xvalue="32"/>
-          <dimension name="STLO" xvalue="32"/>
+            <dimension name="VANG" xvalue="0"/>
+            <dimension name="VROT" xvalue="0"/>
+            <dimension name="XOPQ" xvalue="55"/>
+            <dimension name="XTRA" xvalue="449"/>
+            <dimension name="XTSP" xvalue="-24.9"/>
+            <dimension name="YOPQ" xvalue="49"/>
+            <dimension name="YTAS" xvalue="728"/>
+            <dimension name="YTDE" xvalue="-208"/>
+            <dimension name="YTFI" xvalue="743"/>
+            <dimension name="YTLC" xvalue="458"/>
+            <dimension name="YTOS" xvalue="20"/>
+            <dimension name="YTUC" xvalue="728"/>
+            <dimension name="YTTL" xvalue="0"/>
+            <dimension name="XTTW" xvalue="0"/>
+            <dimension name="XTUR" xvalue="463"/>
+            <dimension name="WDSP" xvalue="175"/>
+            <dimension name="BARS" xvalue="1000"/>
+            <dimension name="XTUD" xvalue="463"/>
+            <dimension name="STUI" xvalue="92"/>
+            <dimension name="STUO" xvalue="92"/>
+            <dimension name="STLI" xvalue="32"/>
+            <dimension name="STLO" xvalue="32"/>
         </output>
       </mapping>
 
 <!--  THIS IS 1444 100 1000  -->
       <mapping>
         <input>
-          <dimension name="Optical size" xvalue="144"/>
-          <dimension name="Slant" xvalue="0"/>
-          <dimension name="Weight" xvalue="1000"/>
-          <dimension name="Width" xvalue="100"/>
+            <dimension name="Optical size" xvalue="144"/>
+            <dimension name="Slant" xvalue="0"/>
+            <dimension name="Weight" xvalue="1000"/>
+            <dimension name="Width" xvalue="100"/>
         </input>
         <output>
-	        <dimension name="VANG" xvalue="0"/>
-	        <dimension name="VROT" xvalue="0"/>
-	        <dimension name="SQRD" xvalue="0"/>
-	        <dimension name="XOPQ" xvalue="300"/>
-	        <dimension name="XTRA" xvalue="262"/>
-	        <dimension name="XTSP" xvalue="-80"/>
-	        <dimension name="YOPQ" xvalue="228"/>
-	        <dimension name="YTAS" xvalue="728"/>
-	        <dimension name="YTDE" xvalue="-208"/>
-	        <dimension name="YTFI" xvalue="743"/>
-	        <dimension name="YTLC" xvalue="458"/>
-	        <dimension name="YTOS" xvalue="30"/>
-	        <dimension name="YTUC" xvalue="728"/>
-	        <dimension name="YTTL" xvalue="25"/>
-	        <dimension name="XTTW" xvalue="0"/>
-	        <dimension name="XTUR" xvalue="463"/>
-	        <dimension name="WDSP" xvalue="306"/>
-	        <!-- BARS EXCEPTION TO OPEN BARS FOR $¢Øø -->
-	        <dimension name="BARS" xvalue="0"/>
-	        <!-- XTUD EXCEPTION TO OPEN TRANSPARENCY FOR UPPERCASE DIAGONALS -->
+            <dimension name="VANG" xvalue="0"/>
+            <dimension name="VROT" xvalue="0"/>
+            <dimension name="XOPQ" xvalue="300"/>
+            <dimension name="XTRA" xvalue="262"/>
+            <dimension name="XTSP" xvalue="-80"/>
+            <dimension name="YOPQ" xvalue="228"/>
+            <dimension name="YTAS" xvalue="728"/>
+            <dimension name="YTDE" xvalue="-208"/>
+            <dimension name="YTFI" xvalue="743"/>
+            <dimension name="YTLC" xvalue="458"/>
+            <dimension name="YTOS" xvalue="30"/>
+            <dimension name="YTUC" xvalue="728"/>
+            <dimension name="YTTL" xvalue="25"/>
+            <dimension name="XTTW" xvalue="0"/>
+            <dimension name="XTUR" xvalue="463"/>
+            <dimension name="WDSP" xvalue="306"/>
+              <!-- BARS EXCEPTION TO OPEN BARS FOR $¢Øø -->
+            <dimension name="BARS" xvalue="0"/>
+              <!-- XTUD EXCEPTION TO OPEN TRANSPARENCY FOR UPPERCASE DIAGONALS -->
             <dimension name="XTUD" xvalue="550"/>
             <dimension name="STUI" xvalue="92"/>
-          <dimension name="STUO" xvalue="92"/>
-          <dimension name="STLI" xvalue="32"/>
-          <dimension name="STLO" xvalue="32"/>
+            <dimension name="STUO" xvalue="92"/>
+            <dimension name="STLI" xvalue="32"/>
+            <dimension name="STLO" xvalue="32"/>
         </output>
       </mapping>
       
       <mapping>
         <input>
-          <dimension name="Optical size" xvalue="144"/>
-          <dimension name="Slant" xvalue="0"/>
-          <dimension name="Weight" xvalue="100"/>
-          <dimension name="Width" xvalue="151"/>
+            <dimension name="Optical size" xvalue="144"/>
+            <dimension name="Slant" xvalue="0"/>
+            <dimension name="Weight" xvalue="100"/>
+            <dimension name="Width" xvalue="151"/>
         </input>
         <output>
-	        <dimension name="VANG" xvalue="0"/>
-	        <dimension name="VROT" xvalue="0"/>
-	        <dimension name="SQRD" xvalue="0"/>
-	        <dimension name="XOPQ" xvalue="4"/>
-	        <dimension name="XTRA" xvalue="658"/>
-	        <dimension name="XTSP" xvalue="65"/>
-	        <dimension name="YOPQ" xvalue="4"/>
-	        <dimension name="YTAS" xvalue="728"/>
-	        <dimension name="YTDE" xvalue="-208"/>
-	        <dimension name="YTFI" xvalue="743"/>
-	        <dimension name="YTLC" xvalue="458"/>
-	        <dimension name="YTOS" xvalue="20"/>
-	        <dimension name="YTUC" xvalue="728"/>
-	        <dimension name="YTTL" xvalue="25"/>
-	        <dimension name="XTTW" xvalue="0"/>
-	        <dimension name="XTUR" xvalue="532"/>
-	        <dimension name="WDSP" xvalue="250"/>
-	        <dimension name="BARS" xvalue="1000"/>
-          <dimension name="XTUD" xvalue="463"/>
-          <dimension name="STUI" xvalue="92"/>
-          <dimension name="STUO" xvalue="92"/>
-          <dimension name="STLI" xvalue="32"/>
-          <dimension name="STLO" xvalue="32"/>
+            <dimension name="VANG" xvalue="0"/>
+            <dimension name="VROT" xvalue="0"/>
+            <dimension name="XOPQ" xvalue="4"/>
+            <dimension name="XTRA" xvalue="658"/>
+            <dimension name="XTSP" xvalue="65"/>
+            <dimension name="YOPQ" xvalue="4"/>
+            <dimension name="YTAS" xvalue="728"/>
+            <dimension name="YTDE" xvalue="-208"/>
+            <dimension name="YTFI" xvalue="743"/>
+            <dimension name="YTLC" xvalue="458"/>
+            <dimension name="YTOS" xvalue="20"/>
+            <dimension name="YTUC" xvalue="728"/>
+            <dimension name="YTTL" xvalue="25"/>
+            <dimension name="XTTW" xvalue="0"/>
+            <dimension name="XTUR" xvalue="532"/>
+            <dimension name="WDSP" xvalue="250"/>
+            <dimension name="BARS" xvalue="1000"/>
+            <dimension name="XTUD" xvalue="463"/>
+            <dimension name="STUI" xvalue="92"/>
+            <dimension name="STUO" xvalue="92"/>
+            <dimension name="STLI" xvalue="32"/>
+            <dimension name="STLO" xvalue="32"/>
         </output>
       </mapping>
       <mapping>
         <input>
-          <dimension name="Optical size" xvalue="144"/>
-          <dimension name="Slant" xvalue="0"/>
-          <dimension name="Weight" xvalue="400"/>
-          <dimension name="Width" xvalue="151"/>
+            <dimension name="Optical size" xvalue="144"/>
+            <dimension name="Slant" xvalue="0"/>
+            <dimension name="Weight" xvalue="400"/>
+            <dimension name="Width" xvalue="151"/>
         </input>
         <output>
-	        <dimension name="VANG" xvalue="0"/>
-	        <dimension name="VROT" xvalue="0"/>
-	        <dimension name="SQRD" xvalue="0"/>
-	        <dimension name="XOPQ" xvalue="53"/>
-	        <dimension name="XTRA" xvalue="600"/>
-	        <dimension name="XTSP" xvalue="50"/>
-	        <dimension name="YOPQ" xvalue="50"/>
-	        <dimension name="YTAS" xvalue="728"/>
-	        <dimension name="YTDE" xvalue="-208"/>
-	        <dimension name="YTFI" xvalue="743"/>
-	        <dimension name="YTLC" xvalue="458"/>
-	        <dimension name="YTOS" xvalue="20"/>
-	        <dimension name="YTUC" xvalue="728"/>
-	        <dimension name="YTTL" xvalue="25"/>
-	        <dimension name="XTTW" xvalue="5"/>
-	        <dimension name="XTUR" xvalue="542"/>
-	        <dimension name="WDSP" xvalue="285"/>
-	        <dimension name="BARS" xvalue="1000"/>
-          <dimension name="XTUD" xvalue="463"/>
-          <dimension name="STUI" xvalue="92"/>
-          <dimension name="STUO" xvalue="92"/>
-          <dimension name="STLI" xvalue="32"/>
-          <dimension name="STLO" xvalue="32"/>
+            <dimension name="VANG" xvalue="0"/>
+            <dimension name="VROT" xvalue="0"/>
+            <dimension name="XOPQ" xvalue="53"/>
+            <dimension name="XTRA" xvalue="600"/>
+            <dimension name="XTSP" xvalue="50"/>
+            <dimension name="YOPQ" xvalue="50"/>
+            <dimension name="YTAS" xvalue="728"/>
+            <dimension name="YTDE" xvalue="-208"/>
+            <dimension name="YTFI" xvalue="743"/>
+            <dimension name="YTLC" xvalue="458"/>
+            <dimension name="YTOS" xvalue="20"/>
+            <dimension name="YTUC" xvalue="728"/>
+            <dimension name="YTTL" xvalue="25"/>
+            <dimension name="XTTW" xvalue="5"/>
+            <dimension name="XTUR" xvalue="542"/>
+            <dimension name="WDSP" xvalue="285"/>
+            <dimension name="BARS" xvalue="1000"/>
+            <dimension name="XTUD" xvalue="463"/>
+            <dimension name="STUI" xvalue="92"/>
+            <dimension name="STUO" xvalue="92"/>
+            <dimension name="STLI" xvalue="32"/>
+            <dimension name="STLO" xvalue="32"/>
         </output>
       </mapping>
       <mapping>
         <input>
-          <dimension name="Optical size" xvalue="144"/>
-          <dimension name="Slant" xvalue="0"/>
-          <dimension name="Weight" xvalue="1000"/>
-          <dimension name="Width" xvalue="151"/>
+            <dimension name="Optical size" xvalue="144"/>
+            <dimension name="Slant" xvalue="0"/>
+            <dimension name="Weight" xvalue="1000"/>
+            <dimension name="Width" xvalue="151"/>
         </input>
         <output>
-	        <dimension name="VANG" xvalue="0"/>
-	        <dimension name="VROT" xvalue="0"/>
-	        <dimension name="SQRD" xvalue="0"/>
-	        <dimension name="XOPQ" xvalue="300"/>
-	        <dimension name="XTRA" xvalue="390"/>
-	        <dimension name="XTSP" xvalue="-21"/>
-	        <dimension name="YOPQ" xvalue="250"/>
-	        <dimension name="YTAS" xvalue="728"/>
-	        <dimension name="YTDE" xvalue="-208"/>
-	        <dimension name="YTFI" xvalue="743"/>
-	        <dimension name="YTLC" xvalue="458"/>
-	        <dimension name="YTOS" xvalue="40"/>
-	        <dimension name="YTUC" xvalue="728"/>
-	        <dimension name="YTTL" xvalue="25"/>
-	        <dimension name="XTTW" xvalue="0"/>
-	        <dimension name="XTUR" xvalue="552"/>
-	        <dimension name="WDSP" xvalue="384"/>
-	        <dimension name="BARS" xvalue="1000"/>
-          <dimension name="XTUD" xvalue="463"/>
-          <dimension name="STUI" xvalue="92"/>
-          <dimension name="STUO" xvalue="92"/>
-          <dimension name="STLI" xvalue="32"/>
-          <dimension name="STLO" xvalue="32"/>
+            <dimension name="VANG" xvalue="0"/>
+            <dimension name="VROT" xvalue="0"/>
+            <dimension name="XOPQ" xvalue="300"/>
+            <dimension name="XTRA" xvalue="390"/>
+            <dimension name="XTSP" xvalue="-21"/>
+            <dimension name="YOPQ" xvalue="250"/>
+            <dimension name="YTAS" xvalue="728"/>
+            <dimension name="YTDE" xvalue="-208"/>
+            <dimension name="YTFI" xvalue="743"/>
+            <dimension name="YTLC" xvalue="458"/>
+            <dimension name="YTOS" xvalue="40"/>
+            <dimension name="YTUC" xvalue="728"/>
+            <dimension name="YTTL" xvalue="25"/>
+            <dimension name="XTTW" xvalue="0"/>
+            <dimension name="XTUR" xvalue="552"/>
+            <dimension name="WDSP" xvalue="384"/>
+            <dimension name="BARS" xvalue="1000"/>
+            <dimension name="XTUD" xvalue="463"/>
+            <dimension name="STUI" xvalue="92"/>
+            <dimension name="STUO" xvalue="92"/>
+            <dimension name="STLI" xvalue="32"/>
+            <dimension name="STLO" xvalue="32"/>
         </output>
       </mapping>
       <mapping>
         <input>
-          <dimension name="Slant" xvalue="13"/>
+            <dimension name="Slant" xvalue="13"/>
         </input>
         <output>
-          <dimension name="VANG" xvalue="13"/>
-          <dimension name="VROT" xvalue="4"/>
-          <dimension name="SQRD" xvalue="0"/>
-          <dimension name="XOPQ" xvalue="96"/>
-          <dimension name="XTRA" xvalue="463"/>
-          <dimension name="XTSP" xvalue="0"/>
-          <dimension name="YOPQ" xvalue="79"/>
-          <dimension name="YTAS" xvalue="768"/>
-          <dimension name="YTDE" xvalue="-208"/>
-          <dimension name="YTFI" xvalue="743"/>
-          <dimension name="YTLC" xvalue="526"/>
-          <dimension name="YTOS" xvalue="30"/>
-          <dimension name="YTUC" xvalue="728"/>
-          <dimension name="YTTL" xvalue="25"/>
-          <dimension name="XTTW" xvalue="5"/>
-          <dimension name="XTUR" xvalue="463"/>
-          <dimension name="WDSP" xvalue="246"/>
-          <dimension name="BARS" xvalue="1000"/>
-          <dimension name="XTUD" xvalue="463"/>
-          <dimension name="STUI" xvalue="92"/>
-          <dimension name="STUO" xvalue="92"/>
-          <dimension name="STLI" xvalue="32"/>
-          <dimension name="STLO" xvalue="32"/>
+            <dimension name="VANG" xvalue="13"/>
+            <dimension name="VROT" xvalue="4"/>
+            <dimension name="XOPQ" xvalue="96"/>
+            <dimension name="XTRA" xvalue="463"/>
+            <dimension name="XTSP" xvalue="0"/>
+            <dimension name="YOPQ" xvalue="79"/>
+            <dimension name="YTAS" xvalue="768"/>
+            <dimension name="YTDE" xvalue="-208"/>
+            <dimension name="YTFI" xvalue="743"/>
+            <dimension name="YTLC" xvalue="526"/>
+            <dimension name="YTOS" xvalue="30"/>
+            <dimension name="YTUC" xvalue="728"/>
+            <dimension name="YTTL" xvalue="25"/>
+            <dimension name="XTTW" xvalue="5"/>
+            <dimension name="XTUR" xvalue="463"/>
+            <dimension name="WDSP" xvalue="246"/>
+            <dimension name="BARS" xvalue="1000"/>
+            <dimension name="XTUD" xvalue="463"/>
+            <dimension name="STUI" xvalue="92"/>
+            <dimension name="STUO" xvalue="92"/>
+            <dimension name="STLI" xvalue="32"/>
+            <dimension name="STLO" xvalue="32"/>
         </output>
       </mapping>
       
@@ -972,257 +943,8 @@
         <dimension name="Width" xvalue="100"/>
         <dimension name="VANG" xvalue="0"/>
         <dimension name="VROT" xvalue="0"/>
-        <dimension name="SQRD" xvalue="0"/>
         <dimension name="XOPQ" xvalue="96"/>
         <dimension name="XTRA" xvalue="463"/>
-        <dimension name="XTSP" xvalue="0"/>
-        <dimension name="YOPQ" xvalue="79"/>
-        <dimension name="YTAS" xvalue="768"/>
-        <dimension name="YTDE" xvalue="-208"/>
-        <dimension name="YTFI" xvalue="743"/>
-        <dimension name="YTLC" xvalue="526"/>
-        <dimension name="YTOS" xvalue="30"/>
-        <dimension name="YTUC" xvalue="728"/>
-        <dimension name="YTTL" xvalue="25"/>
-        <dimension name="XTTW" xvalue="5"/>
-        <dimension name="XTUR" xvalue="463"/>
-        <dimension name="WDSP" xvalue="246"/>
-        <dimension name="BARS" xvalue="1000"/>
-        <dimension name="XTUD" xvalue="463"/>
-        <dimension name="STUI" xvalue="92"/>
-        <dimension name="STUO" xvalue="92"/>
-        <dimension name="STLI" xvalue="32"/>
-        <dimension name="STLO" xvalue="32"/>
-      </location>
-    </source>
-    <source filename="RobotoAvar2-wght400-SQRD1.ufo" familyname="RobotoAvar2" stylename="wght400-SQRD1">
-      <location>
-        <dimension name="Optical size" xvalue="14"/>
-        <dimension name="Slant" xvalue="0"/>
-        <dimension name="Weight" xvalue="400"/>
-        <dimension name="Width" xvalue="100"/>
-        <dimension name="VANG" xvalue="0"/>
-        <dimension name="VROT" xvalue="0"/>
-        <dimension name="SQRD" xvalue="1"/>
-        <dimension name="XOPQ" xvalue="96"/>
-        <dimension name="XTRA" xvalue="463"/>
-        <dimension name="XTSP" xvalue="0"/>
-        <dimension name="YOPQ" xvalue="79"/>
-        <dimension name="YTAS" xvalue="768"/>
-        <dimension name="YTDE" xvalue="-208"/>
-        <dimension name="YTFI" xvalue="743"/>
-        <dimension name="YTLC" xvalue="526"/>
-        <dimension name="YTOS" xvalue="30"/>
-        <dimension name="YTUC" xvalue="728"/>
-        <dimension name="YTTL" xvalue="25"/>
-        <dimension name="XTTW" xvalue="5"/>
-        <dimension name="XTUR" xvalue="463"/>
-        <dimension name="WDSP" xvalue="246"/>
-        <dimension name="BARS" xvalue="1000"/>
-        <dimension name="XTUD" xvalue="463"/>
-        <dimension name="STUI" xvalue="92"/>
-        <dimension name="STUO" xvalue="92"/>
-        <dimension name="STLI" xvalue="32"/>
-        <dimension name="STLO" xvalue="32"/>
-      </location>
-    </source>
-    <source filename="RobotoAvar2-VANG13-SQRD1.ufo" familyname="RobotoAvar2" stylename="VANG13-SQRD1">
-      <location>
-        <dimension name="Optical size" xvalue="14"/>
-        <dimension name="Slant" xvalue="0"/>
-        <dimension name="Weight" xvalue="400"/>
-        <dimension name="Width" xvalue="100"/>
-        <dimension name="VANG" xvalue="13"/>
-        <dimension name="VROT" xvalue="0"/>
-        <dimension name="SQRD" xvalue="1"/>
-        <dimension name="XOPQ" xvalue="96"/>
-        <dimension name="XTRA" xvalue="463"/>
-        <dimension name="XTSP" xvalue="0"/>
-        <dimension name="YOPQ" xvalue="79"/>
-        <dimension name="YTAS" xvalue="768"/>
-        <dimension name="YTDE" xvalue="-208"/>
-        <dimension name="YTFI" xvalue="743"/>
-        <dimension name="YTLC" xvalue="526"/>
-        <dimension name="YTOS" xvalue="30"/>
-        <dimension name="YTUC" xvalue="728"/>
-        <dimension name="YTTL" xvalue="25"/>
-        <dimension name="XTTW" xvalue="5"/>
-        <dimension name="XTUR" xvalue="463"/>
-        <dimension name="WDSP" xvalue="246"/>
-        <dimension name="BARS" xvalue="1000"/>
-        <dimension name="XTUD" xvalue="463"/>
-        <dimension name="STUI" xvalue="92"/>
-        <dimension name="STUO" xvalue="92"/>
-        <dimension name="STLI" xvalue="32"/>
-        <dimension name="STLO" xvalue="32"/>
-      </location>
-    </source>
-    <source filename="RobotoAvar2-XTRA244.ufo" familyname="RobotoAvar2" stylename="SQRD1-XTRA244">
-      <location>
-        <dimension name="Optical size" xvalue="14"/>
-        <dimension name="Slant" xvalue="0"/>
-        <dimension name="Weight" xvalue="400"/>
-        <dimension name="Width" xvalue="100"/>
-        <dimension name="VANG" xvalue="0"/>
-        <dimension name="VROT" xvalue="0"/>
-        <dimension name="SQRD" xvalue="1"/>
-        <dimension name="XOPQ" xvalue="96"/>
-        <dimension name="XTRA" xvalue="244"/>
-        <dimension name="XTSP" xvalue="0"/>
-        <dimension name="YOPQ" xvalue="79"/>
-        <dimension name="YTAS" xvalue="768"/>
-        <dimension name="YTDE" xvalue="-208"/>
-        <dimension name="YTFI" xvalue="743"/>
-        <dimension name="YTLC" xvalue="526"/>
-        <dimension name="YTOS" xvalue="30"/>
-        <dimension name="YTUC" xvalue="728"/>
-        <dimension name="YTTL" xvalue="25"/>
-        <dimension name="XTTW" xvalue="5"/>
-        <dimension name="XTUR" xvalue="463"/>
-        <dimension name="WDSP" xvalue="246"/>
-        <dimension name="BARS" xvalue="1000"/>
-        <dimension name="XTUD" xvalue="463"/>
-        <dimension name="STUI" xvalue="92"/>
-        <dimension name="STUO" xvalue="92"/>
-        <dimension name="STLI" xvalue="32"/>
-        <dimension name="STLO" xvalue="32"/>
-      </location>
-    </source>
-    <source filename="RobotoAvar2-VANG13-SQRD1-XTRA244.ufo" familyname="RobotoAvar2" stylename="VANG13-SQRD1-XTRA244" layer="public.default">
-      <location>
-        <dimension name="Optical size" xvalue="14"/>
-        <dimension name="Slant" xvalue="0"/>
-        <dimension name="Weight" xvalue="400"/>
-        <dimension name="Width" xvalue="100"/>
-        <dimension name="VANG" xvalue="13"/>
-        <dimension name="VROT" xvalue="0"/>
-        <dimension name="SQRD" xvalue="1"/>
-        <dimension name="XOPQ" xvalue="96"/>
-        <dimension name="XTRA" xvalue="244"/>
-        <dimension name="XTSP" xvalue="0"/>
-        <dimension name="YOPQ" xvalue="79"/>
-        <dimension name="YTAS" xvalue="768"/>
-        <dimension name="YTDE" xvalue="-208"/>
-        <dimension name="YTFI" xvalue="743"/>
-        <dimension name="YTLC" xvalue="526"/>
-        <dimension name="YTOS" xvalue="30"/>
-        <dimension name="YTUC" xvalue="728"/>
-        <dimension name="YTTL" xvalue="25"/>
-        <dimension name="XTTW" xvalue="5"/>
-        <dimension name="XTUR" xvalue="463"/>
-        <dimension name="WDSP" xvalue="246"/>
-        <dimension name="BARS" xvalue="1000"/>
-        <dimension name="XTUD" xvalue="463"/>
-        <dimension name="STUI" xvalue="92"/>
-        <dimension name="STUO" xvalue="92"/>
-        <dimension name="STLI" xvalue="32"/>
-        <dimension name="STLO" xvalue="32"/>
-      </location>
-    </source>
-    <source filename="RobotoAvar2-VANG13-SQRD1-XTRA244.ufo" familyname="RobotoAvar2" stylename="VANG13-SQRD0-XTRA244" layer="public.default">
-      <location>
-        <dimension name="Optical size" xvalue="14"/>
-        <dimension name="Slant" xvalue="0"/>
-        <dimension name="Weight" xvalue="400"/>
-        <dimension name="Width" xvalue="100"/>
-        <dimension name="VANG" xvalue="13"/>
-        <dimension name="VROT" xvalue="0"/>
-        <dimension name="SQRD" xvalue="0"/>
-        <dimension name="XOPQ" xvalue="96"/>
-        <dimension name="XTRA" xvalue="244"/>
-        <dimension name="XTSP" xvalue="0"/>
-        <dimension name="YOPQ" xvalue="79"/>
-        <dimension name="YTAS" xvalue="768"/>
-        <dimension name="YTDE" xvalue="-208"/>
-        <dimension name="YTFI" xvalue="743"/>
-        <dimension name="YTLC" xvalue="526"/>
-        <dimension name="YTOS" xvalue="30"/>
-        <dimension name="YTUC" xvalue="728"/>
-        <dimension name="YTTL" xvalue="25"/>
-        <dimension name="XTTW" xvalue="5"/>
-        <dimension name="XTUR" xvalue="463"/>
-        <dimension name="WDSP" xvalue="246"/>
-        <dimension name="BARS" xvalue="1000"/>
-        <dimension name="XTUD" xvalue="463"/>
-        <dimension name="STUI" xvalue="92"/>
-        <dimension name="STUO" xvalue="92"/>
-        <dimension name="STLI" xvalue="32"/>
-        <dimension name="STLO" xvalue="32"/>
-      </location>
-    </source>
-    <source filename="RobotoAvar2-VANG-3-SQRD1.ufo" familyname="RobotoAvar2" stylename="VANG-3-SQRD1">
-      <location>
-        <dimension name="Optical size" xvalue="14"/>
-        <dimension name="Slant" xvalue="0"/>
-        <dimension name="Weight" xvalue="400"/>
-        <dimension name="Width" xvalue="100"/>
-        <dimension name="VANG" xvalue="-3"/>
-        <dimension name="VROT" xvalue="0"/>
-        <dimension name="SQRD" xvalue="1"/>
-        <dimension name="XOPQ" xvalue="96"/>
-        <dimension name="XTRA" xvalue="463"/>
-        <dimension name="XTSP" xvalue="0"/>
-        <dimension name="YOPQ" xvalue="79"/>
-        <dimension name="YTAS" xvalue="768"/>
-        <dimension name="YTDE" xvalue="-208"/>
-        <dimension name="YTFI" xvalue="743"/>
-        <dimension name="YTLC" xvalue="526"/>
-        <dimension name="YTOS" xvalue="30"/>
-        <dimension name="YTUC" xvalue="728"/>
-        <dimension name="YTTL" xvalue="25"/>
-        <dimension name="XTTW" xvalue="5"/>
-        <dimension name="XTUR" xvalue="463"/>
-        <dimension name="WDSP" xvalue="246"/>
-        <dimension name="BARS" xvalue="1000"/>
-        <dimension name="XTUD" xvalue="463"/>
-        <dimension name="STUI" xvalue="92"/>
-        <dimension name="STUO" xvalue="92"/>
-        <dimension name="STLI" xvalue="32"/>
-        <dimension name="STLO" xvalue="32"/>
-      </location>
-    </source>
-    <source filename="RobotoAvar2-VANG-3-SQRD1-XTRA244.ufo" familyname="RobotoAvar2" stylename="VANG-3-SQRD1-XTRA244" layer="public.default">
-      <location>
-        <dimension name="Optical size" xvalue="14"/>
-        <dimension name="Slant" xvalue="0"/>
-        <dimension name="Weight" xvalue="400"/>
-        <dimension name="Width" xvalue="100"/>
-        <dimension name="VANG" xvalue="-3"/>
-        <dimension name="VROT" xvalue="0"/>
-        <dimension name="SQRD" xvalue="1"/>
-        <dimension name="XOPQ" xvalue="96"/>
-        <dimension name="XTRA" xvalue="244"/>
-        <dimension name="XTSP" xvalue="0"/>
-        <dimension name="YOPQ" xvalue="79"/>
-        <dimension name="YTAS" xvalue="768"/>
-        <dimension name="YTDE" xvalue="-208"/>
-        <dimension name="YTFI" xvalue="743"/>
-        <dimension name="YTLC" xvalue="526"/>
-        <dimension name="YTOS" xvalue="30"/>
-        <dimension name="YTUC" xvalue="728"/>
-        <dimension name="YTTL" xvalue="25"/>
-        <dimension name="XTTW" xvalue="5"/>
-        <dimension name="XTUR" xvalue="463"/>
-        <dimension name="WDSP" xvalue="246"/>
-        <dimension name="BARS" xvalue="1000"/>
-        <dimension name="XTUD" xvalue="463"/>
-        <dimension name="STUI" xvalue="92"/>
-        <dimension name="STUO" xvalue="92"/>
-        <dimension name="STLI" xvalue="32"/>
-        <dimension name="STLO" xvalue="32"/>
-      </location>
-    </source>
-    <source filename="RobotoAvar2-VANG-3-SQRD1-XTRA244.ufo" familyname="RobotoAvar2" stylename="VANG-3-SQRD0-XTRA244" layer="public.default">
-      <location>
-        <dimension name="Optical size" xvalue="14"/>
-        <dimension name="Slant" xvalue="0"/>
-        <dimension name="Weight" xvalue="400"/>
-        <dimension name="Width" xvalue="100"/>
-        <dimension name="VANG" xvalue="-3"/>
-        <dimension name="VROT" xvalue="0"/>
-        <dimension name="SQRD" xvalue="0"/>
-        <dimension name="XOPQ" xvalue="96"/>
-        <dimension name="XTRA" xvalue="244"/>
         <dimension name="XTSP" xvalue="0"/>
         <dimension name="YOPQ" xvalue="79"/>
         <dimension name="YTAS" xvalue="768"/>
@@ -1251,7 +973,6 @@
         <dimension name="Width" xvalue="100"/>
         <dimension name="VANG" xvalue="-3"/>
         <dimension name="VROT" xvalue="0"/>
-        <dimension name="SQRD" xvalue="0"/>
         <dimension name="XOPQ" xvalue="96"/>
         <dimension name="XTRA" xvalue="463"/>
         <dimension name="XTSP" xvalue="0"/>
@@ -1282,7 +1003,6 @@
         <dimension name="Width" xvalue="100"/>
         <dimension name="VANG" xvalue="13"/>
         <dimension name="VROT" xvalue="0"/>
-        <dimension name="SQRD" xvalue="0"/>
         <dimension name="XOPQ" xvalue="96"/>
         <dimension name="XTRA" xvalue="463"/>
         <dimension name="XTSP" xvalue="0"/>
@@ -1313,7 +1033,6 @@
         <dimension name="Width" xvalue="100"/>
         <dimension name="VANG" xvalue="13"/>
         <dimension name="VROT" xvalue="13"/>
-        <dimension name="SQRD" xvalue="0"/>
         <dimension name="XOPQ" xvalue="96"/>
         <dimension name="XTRA" xvalue="463"/>
         <dimension name="XTSP" xvalue="0"/>
@@ -1344,7 +1063,6 @@
         <dimension name="Width" xvalue="100"/>
         <dimension name="VANG" xvalue="0"/>
         <dimension name="VROT" xvalue="0"/>
-        <dimension name="SQRD" xvalue="0"/>
         <dimension name="XOPQ" xvalue="2"/>
         <dimension name="XTRA" xvalue="463"/>
         <dimension name="XTSP" xvalue="0"/>
@@ -1375,7 +1093,6 @@
         <dimension name="Width" xvalue="100"/>
         <dimension name="VANG" xvalue="0"/>
         <dimension name="VROT" xvalue="0"/>
-        <dimension name="SQRD" xvalue="0"/>
         <dimension name="XOPQ" xvalue="310"/>
         <dimension name="XTRA" xvalue="463"/>
         <dimension name="XTSP" xvalue="0"/>
@@ -1406,7 +1123,6 @@
         <dimension name="Width" xvalue="100"/>
         <dimension name="VANG" xvalue="0"/>
         <dimension name="VROT" xvalue="0"/>
-        <dimension name="SQRD" xvalue="0"/>
         <dimension name="XOPQ" xvalue="96"/>
         <dimension name="XTRA" xvalue="244"/>
         <dimension name="XTSP" xvalue="0"/>
@@ -1437,7 +1153,6 @@
         <dimension name="Width" xvalue="100"/>
         <dimension name="VANG" xvalue="0"/>
         <dimension name="VROT" xvalue="0"/>
-        <dimension name="SQRD" xvalue="0"/>
         <dimension name="XOPQ" xvalue="96"/>
         <dimension name="XTRA" xvalue="741"/>
         <dimension name="XTSP" xvalue="0"/>
@@ -1468,7 +1183,6 @@
         <dimension name="Width" xvalue="100"/>
         <dimension name="VANG" xvalue="0"/>
         <dimension name="VROT" xvalue="0"/>
-        <dimension name="SQRD" xvalue="0"/>
         <dimension name="XOPQ" xvalue="96"/>
         <dimension name="XTRA" xvalue="463"/>
         <dimension name="XTSP" xvalue="-100"/>
@@ -1499,7 +1213,6 @@
         <dimension name="Width" xvalue="100"/>
         <dimension name="VANG" xvalue="0"/>
         <dimension name="VROT" xvalue="0"/>
-        <dimension name="SQRD" xvalue="0"/>
         <dimension name="XOPQ" xvalue="96"/>
         <dimension name="XTRA" xvalue="463"/>
         <dimension name="XTSP" xvalue="100"/>
@@ -1530,7 +1243,6 @@
         <dimension name="Width" xvalue="100"/>
         <dimension name="VANG" xvalue="0"/>
         <dimension name="VROT" xvalue="0"/>
-        <dimension name="SQRD" xvalue="0"/>
         <dimension name="XOPQ" xvalue="96"/>
         <dimension name="XTRA" xvalue="463"/>
         <dimension name="XTSP" xvalue="0"/>
@@ -1561,7 +1273,6 @@
         <dimension name="Width" xvalue="100"/>
         <dimension name="VANG" xvalue="0"/>
         <dimension name="VROT" xvalue="0"/>
-        <dimension name="SQRD" xvalue="0"/>
         <dimension name="XOPQ" xvalue="96"/>
         <dimension name="XTRA" xvalue="463"/>
         <dimension name="XTSP" xvalue="0"/>
@@ -1592,7 +1303,6 @@
         <dimension name="Width" xvalue="100"/>
         <dimension name="VANG" xvalue="0"/>
         <dimension name="VROT" xvalue="0"/>
-        <dimension name="SQRD" xvalue="0"/>
         <dimension name="XOPQ" xvalue="96"/>
         <dimension name="XTRA" xvalue="463"/>
         <dimension name="XTSP" xvalue="0"/>
@@ -1623,7 +1333,6 @@
         <dimension name="Width" xvalue="100"/>
         <dimension name="VANG" xvalue="0"/>
         <dimension name="VROT" xvalue="0"/>
-        <dimension name="SQRD" xvalue="0"/>
         <dimension name="XOPQ" xvalue="96"/>
         <dimension name="XTRA" xvalue="463"/>
         <dimension name="XTSP" xvalue="0"/>
@@ -1654,7 +1363,6 @@
         <dimension name="Width" xvalue="100"/>
         <dimension name="VANG" xvalue="0"/>
         <dimension name="VROT" xvalue="0"/>
-        <dimension name="SQRD" xvalue="0"/>
         <dimension name="XOPQ" xvalue="96"/>
         <dimension name="XTRA" xvalue="463"/>
         <dimension name="XTSP" xvalue="0"/>
@@ -1685,7 +1393,6 @@
         <dimension name="Width" xvalue="100"/>
         <dimension name="VANG" xvalue="0"/>
         <dimension name="VROT" xvalue="0"/>
-        <dimension name="SQRD" xvalue="0"/>
         <dimension name="XOPQ" xvalue="96"/>
         <dimension name="XTRA" xvalue="463"/>
         <dimension name="XTSP" xvalue="0"/>
@@ -1716,7 +1423,6 @@
         <dimension name="Width" xvalue="100"/>
         <dimension name="VANG" xvalue="0"/>
         <dimension name="VROT" xvalue="0"/>
-        <dimension name="SQRD" xvalue="0"/>
         <dimension name="XOPQ" xvalue="96"/>
         <dimension name="XTRA" xvalue="463"/>
         <dimension name="XTSP" xvalue="0"/>
@@ -1747,7 +1453,6 @@
         <dimension name="Width" xvalue="100"/>
         <dimension name="VANG" xvalue="0"/>
         <dimension name="VROT" xvalue="0"/>
-        <dimension name="SQRD" xvalue="0"/>
         <dimension name="XOPQ" xvalue="96"/>
         <dimension name="XTRA" xvalue="463"/>
         <dimension name="XTSP" xvalue="0"/>
@@ -1778,7 +1483,6 @@
         <dimension name="Width" xvalue="100"/>
         <dimension name="VANG" xvalue="0"/>
         <dimension name="VROT" xvalue="0"/>
-        <dimension name="SQRD" xvalue="0"/>
         <dimension name="XOPQ" xvalue="96"/>
         <dimension name="XTRA" xvalue="463"/>
         <dimension name="XTSP" xvalue="0"/>
@@ -1809,7 +1513,6 @@
         <dimension name="Width" xvalue="100"/>
         <dimension name="VANG" xvalue="0"/>
         <dimension name="VROT" xvalue="0"/>
-        <dimension name="SQRD" xvalue="0"/>
         <dimension name="XOPQ" xvalue="96"/>
         <dimension name="XTRA" xvalue="463"/>
         <dimension name="XTSP" xvalue="0"/>
@@ -1840,7 +1543,6 @@
         <dimension name="Width" xvalue="100"/>
         <dimension name="VANG" xvalue="0"/>
         <dimension name="VROT" xvalue="0"/>
-        <dimension name="SQRD" xvalue="0"/>
         <dimension name="XOPQ" xvalue="96"/>
         <dimension name="XTRA" xvalue="463"/>
         <dimension name="XTSP" xvalue="0"/>
@@ -1871,7 +1573,6 @@
         <dimension name="Width" xvalue="100"/>
         <dimension name="VANG" xvalue="0"/>
         <dimension name="VROT" xvalue="0"/>
-        <dimension name="SQRD" xvalue="0"/>
         <dimension name="XOPQ" xvalue="96"/>
         <dimension name="XTRA" xvalue="463"/>
         <dimension name="XTSP" xvalue="0"/>
@@ -1902,7 +1603,6 @@
         <dimension name="Width" xvalue="100"/>
         <dimension name="VANG" xvalue="0"/>
         <dimension name="VROT" xvalue="0"/>
-        <dimension name="SQRD" xvalue="0"/>
         <dimension name="XOPQ" xvalue="96"/>
         <dimension name="XTRA" xvalue="463"/>
         <dimension name="XTSP" xvalue="0"/>
@@ -1933,7 +1633,6 @@
         <dimension name="Width" xvalue="100"/>
         <dimension name="VANG" xvalue="0"/>
         <dimension name="VROT" xvalue="0"/>
-        <dimension name="SQRD" xvalue="0"/>
         <dimension name="XOPQ" xvalue="96"/>
         <dimension name="XTRA" xvalue="463"/>
         <dimension name="XTSP" xvalue="0"/>
@@ -1964,7 +1663,6 @@
         <dimension name="Width" xvalue="100"/>
         <dimension name="VANG" xvalue="0"/>
         <dimension name="VROT" xvalue="0"/>
-        <dimension name="SQRD" xvalue="0"/>
         <dimension name="XOPQ" xvalue="96"/>
         <dimension name="XTRA" xvalue="463"/>
         <dimension name="XTSP" xvalue="0"/>
@@ -1995,7 +1693,6 @@
         <dimension name="Width" xvalue="100"/>
         <dimension name="VANG" xvalue="0"/>
         <dimension name="VROT" xvalue="0"/>
-        <dimension name="SQRD" xvalue="0"/>
         <dimension name="XOPQ" xvalue="96"/>
         <dimension name="XTRA" xvalue="463"/>
         <dimension name="XTSP" xvalue="0"/>
@@ -2026,7 +1723,6 @@
         <dimension name="Width" xvalue="100"/>
         <dimension name="VANG" xvalue="0"/>
         <dimension name="VROT" xvalue="0"/>
-        <dimension name="SQRD" xvalue="0"/>
         <dimension name="XOPQ" xvalue="96"/>
         <dimension name="XTRA" xvalue="463"/>
         <dimension name="XTSP" xvalue="0"/>
@@ -2057,7 +1753,6 @@
         <dimension name="Width" xvalue="100"/>
         <dimension name="VANG" xvalue="0"/>
         <dimension name="VROT" xvalue="0"/>
-        <dimension name="SQRD" xvalue="0"/>
         <dimension name="XOPQ" xvalue="96"/>
         <dimension name="XTRA" xvalue="463"/>
         <dimension name="XTSP" xvalue="0"/>
@@ -2088,7 +1783,6 @@
         <dimension name="Width" xvalue="100"/>
         <dimension name="VANG" xvalue="0"/>
         <dimension name="VROT" xvalue="0"/>
-        <dimension name="SQRD" xvalue="0"/>
         <dimension name="XOPQ" xvalue="96"/>
         <dimension name="XTRA" xvalue="463"/>
         <dimension name="XTSP" xvalue="0"/>
@@ -2119,7 +1813,6 @@
         <dimension name="Width" xvalue="100"/>
         <dimension name="VANG" xvalue="0"/>
         <dimension name="VROT" xvalue="0"/>
-        <dimension name="SQRD" xvalue="0"/>
         <dimension name="XOPQ" xvalue="96"/>
         <dimension name="XTRA" xvalue="463"/>
         <dimension name="XTSP" xvalue="0"/>
@@ -2150,7 +1843,6 @@
         <dimension name="Width" xvalue="100"/>
         <dimension name="VANG" xvalue="0"/>
         <dimension name="VROT" xvalue="0"/>
-        <dimension name="SQRD" xvalue="0"/>
         <dimension name="XOPQ" xvalue="96"/>
         <dimension name="XTRA" xvalue="463"/>
         <dimension name="XTSP" xvalue="0"/>
@@ -2181,7 +1873,6 @@
         <dimension name="Width" xvalue="100"/>
         <dimension name="VANG" xvalue="0"/>
         <dimension name="VROT" xvalue="0"/>
-        <dimension name="SQRD" xvalue="0"/>
         <dimension name="XOPQ" xvalue="96"/>
         <dimension name="XTRA" xvalue="463"/>
         <dimension name="XTSP" xvalue="0"/>
@@ -2212,7 +1903,6 @@
         <dimension name="Width" xvalue="100"/>
         <dimension name="VANG" xvalue="0"/>
         <dimension name="VROT" xvalue="0"/>
-        <dimension name="SQRD" xvalue="0"/>
         <dimension name="XOPQ" xvalue="96"/>
         <dimension name="XTRA" xvalue="463"/>
         <dimension name="XTSP" xvalue="0"/>
@@ -2243,7 +1933,6 @@
         <dimension name="Width" xvalue="100"/>
         <dimension name="VANG" xvalue="0"/>
         <dimension name="VROT" xvalue="0"/>
-        <dimension name="SQRD" xvalue="0"/>
         <dimension name="XOPQ" xvalue="96"/>
         <dimension name="XTRA" xvalue="463"/>
         <dimension name="XTSP" xvalue="0"/>
@@ -2274,7 +1963,6 @@
         <dimension name="Width" xvalue="100"/>
         <dimension name="VANG" xvalue="0"/>
         <dimension name="VROT" xvalue="0"/>
-        <dimension name="SQRD" xvalue="0"/>
         <dimension name="XOPQ" xvalue="96"/>
         <dimension name="XTRA" xvalue="463"/>
         <dimension name="XTSP" xvalue="0"/>
@@ -2305,7 +1993,6 @@
         <dimension name="Width" xvalue="100"/>
         <dimension name="VANG" xvalue="0"/>
         <dimension name="VROT" xvalue="0"/>
-        <dimension name="SQRD" xvalue="0"/>
         <dimension name="XOPQ" xvalue="96"/>
         <dimension name="XTRA" xvalue="463"/>
         <dimension name="XTSP" xvalue="0"/>
@@ -2336,7 +2023,6 @@
         <dimension name="Width" xvalue="100"/>
         <dimension name="VANG" xvalue="0"/>
         <dimension name="VROT" xvalue="0"/>
-        <dimension name="SQRD" xvalue="0"/>
         <dimension name="XOPQ" xvalue="96"/>
         <dimension name="XTRA" xvalue="463"/>
         <dimension name="XTSP" xvalue="0"/>
@@ -2367,7 +2053,6 @@
         <dimension name="Width" xvalue="100"/>
         <dimension name="VANG" xvalue="0"/>
         <dimension name="VROT" xvalue="0"/>
-        <dimension name="SQRD" xvalue="0"/>
         <dimension name="XOPQ" xvalue="96"/>
         <dimension name="XTRA" xvalue="463"/>
         <dimension name="XTSP" xvalue="0"/>
@@ -2398,7 +2083,6 @@
         <dimension name="Width" xvalue="100"/>
         <dimension name="VANG" xvalue="0"/>
         <dimension name="VROT" xvalue="0"/>
-        <dimension name="SQRD" xvalue="0"/>
         <dimension name="XOPQ" xvalue="96"/>
         <dimension name="XTRA" xvalue="463"/>
         <dimension name="XTSP" xvalue="0"/>
@@ -2429,7 +2113,6 @@
         <dimension name="Width" xvalue="100"/>
         <dimension name="VANG" xvalue="0"/>
         <dimension name="VROT" xvalue="0"/>
-        <dimension name="SQRD" xvalue="0"/>
         <dimension name="XOPQ" xvalue="96"/>
         <dimension name="XTRA" xvalue="463"/>
         <dimension name="XTSP" xvalue="0"/>
@@ -2460,7 +2143,6 @@
         <dimension name="Width" xvalue="100"/>
         <dimension name="VANG" xvalue="0"/>
         <dimension name="VROT" xvalue="0"/>
-        <dimension name="SQRD" xvalue="0"/>
         <dimension name="XOPQ" xvalue="96"/>
         <dimension name="XTRA" xvalue="463"/>
         <dimension name="XTSP" xvalue="0"/>
