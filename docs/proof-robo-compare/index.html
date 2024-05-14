@@ -14,8 +14,8 @@
         font-weight: normal;
       }
       @font-face {
-        font-family: "RobotoAvar2";
-        src: url('../../fonts/LGCAlpha/RobotoA2-avar2-clean-VF.ttf') format('truetype');
+        font-family: "RobotoA2";
+        src: url('../../fonts/LGCAlpha/RobotoA2-avar2-VF.ttf') format('truetype');
         font-style: normal;
         font-weight: normal;
       }
@@ -23,7 +23,7 @@
         font-family: "RobotoFlex";
       }
       .RobotoA2 {
-        font-family: "RobotoAvar2";
+        font-family: "RobotoA2";
       }
       .sample {
         font-size: 14pt;
@@ -31,8 +31,6 @@
         -webkit-font-smoothing: antialiased;
         -moz-osx-font-smoothing: grayscale;
         font-optical-sizing: none;
-        font-style: normal;
-        font-kerning:none;
       }
       ._hide {
         display: none;
@@ -50,8 +48,8 @@
           <small>
             This is a test page comparing:
             <ul>
-              <li>RobotoA2 (top)</li>
-              <li>RobotoFlex (bottom)</li>
+              <li>RobotoA2 (avar2) (top)</li>
+              <li>RobotoFlex (avar1) (bottom)</li>
             </ul>
           </small>
 
@@ -119,9 +117,20 @@
           <div class="row">
             <div class='col-12'>
               <div class="form-check">
-                <input class="form-check-input" type="checkbox" value="" id="synchFontSize">
+                <input class="form-check-input" type="checkbox" checked="checked" value="" id="synchFontSize">
                 <label class="form-check-label" for="synchFontSize">
                   <small>font size = optical size</small>
+                </label>
+              </div>
+            </div>
+          </div>
+
+          <div class="row">
+            <div class='col-12'>
+              <div class="form-check">
+                <input class="form-check-input" type="checkbox" checked="checked" value="" id="kerning">
+                <label class="form-check-label" for="kerning">
+                  <small>kerning</small>
                 </label>
               </div>
             </div>
@@ -136,10 +145,10 @@
               <label for="opsz" class="form-label"><small>optical size</small></label>
             </div>
             <div class="col-6">
-              <input type="range" class="form-range axis" min="8" max="144" value='18' id="opsz">
+              <input type="range" class="form-range axis" min="8" max="144" value='14' id="opsz">
             </div>
             <div class="col-2">
-              <output class="form-control border-0 bg-transparent" id='opsz_value'><small>18</small></output>
+              <output class="form-control border-0 bg-transparent" id='opsz_value'><small>14</small></output>
             </div>
           </div>
 
@@ -234,6 +243,7 @@
         lineheight_slider  = document.getElementById("lineheight");
         opsz_slider        = document.getElementById("opsz");
         link_fontsize      = document.getElementById("synchFontSize");
+        kerning            = document.getElementById("kerning");
         language_selector  = document.getElementById("language");
         colormode_selector = document.getElementById("colormode");
         font_samples       = document.querySelectorAll(".sample");
@@ -293,6 +303,16 @@
           fontsize_slider_changed()
         }
 
+        function kerning_changed (checkbox) {
+          for (var i = 0; i < font_samples.length; i++) {
+            if (kerning.checked) {
+              font_samples[i].style.fontKerning = 'normal';
+            } else {
+              font_samples[i].style.fontKerning = 'none';
+            }
+          }
+        }
+
         function language_changed() {
           var lang = language_selector.value;
           $('.sample').children().addClass('_hide');
@@ -316,6 +336,7 @@
         link_fontsize.addEventListener('input', link_fontsize_changed)
         language_selector.addEventListener('input', language_changed)
         colormode_selector.addEventListener('input', colormode_changed)
+        kerning.addEventListener('input', kerning_changed)
 
         axis_sliders.forEach(function(slider) {
           slider.addEventListener('input', axis_sliders_changed)
