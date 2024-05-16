@@ -1,9 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Q" format="2">
-  <advance width="1086"/>
+  <advance width="500"/>
   <unicode hex="0051"/>
-  <anchor x="543" y="0" name="bottom"/>
-  <anchor x="543" y="1456" name="top"/>
   <outline>
     <contour>
       <point x="115" y="682" type="qcurve" smooth="yes"/>
@@ -38,10 +36,10 @@
       <point x="122" y="774" type="qcurve" smooth="yes"/>
     </contour>
     <contour>
-      <point x="939" y="-181" type="line"/>
-      <point x="661" y="30" type="line"/>
-      <point x="665" y="36" type="line"/>
-      <point x="943" y="-176" type="line"/>
+      <point x="900" y="-250" type="line"/>
+      <point x="550" y="30" type="line"/>
+      <point x="675" y="155" type="line"/>
+      <point x="1030" y="-120" type="line"/>
     </contour>
   </outline>
 </glyph>
