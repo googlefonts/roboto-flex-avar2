@@ -6,7 +6,7 @@
   <anchor x="610" y="1456" name="top"/>
   <outline>
     <contour>
-      <point x="90" y="204" type="qcurve" smooth="yes"/>
+      <point x="90" y="239" type="qcurve" smooth="yes"/>
       <point x="90" y="410" type="line"/>
       <point x="282" y="410" type="line"/>
       <point x="282" y="398" type="line" smooth="yes"/>
@@ -26,8 +26,8 @@
       <point x="380" y="1486"/>
       <point x="610" y="1486" type="qcurve" smooth="yes"/>
       <point x="840" y="1486"/>
-      <point x="1112" y="1356"/>
-      <point x="1112" y="1255" type="qcurve" smooth="yes"/>
+      <point x="1112" y="1248"/>
+      <point x="1112" y="1144" type="qcurve" smooth="yes"/>
       <point x="1112" y="1052" type="line"/>
       <point x="920" y="1052" type="line"/>
       <point x="920" y="1064" type="line" smooth="yes"/>
@@ -47,7 +47,7 @@
       <point x="860" y="-30"/>
       <point x="620" y="-30" type="qcurve" smooth="yes"/>
       <point x="380" y="-30"/>
-      <point x="90" y="96"/>
+      <point x="90" y="131"/>
     </contour>
   </outline>
 </glyph>
