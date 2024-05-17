@@ -3,5 +3,23 @@
   <advance width="1138"/>
   <unicode hex="006E"/>
   <outline>
+    <contour>
+      <point x="241" y="567" type="qcurve"/>
+      <point x="241" y="746" type="line"/>
+      <point x="312" y="932"/>
+      <point x="533" y="1072"/>
+      <point x="652" y="1072" type="qcurve" smooth="yes"/>
+      <point x="811" y="1072"/>
+      <point x="1000" y="891"/>
+      <point x="1000" y="679" type="qcurve" smooth="yes"/>
+      <point x="1000" y="0" type="line"/>
+      <point x="814" y="0" type="line"/>
+      <point x="814" y="681" type="line" smooth="yes"/>
+      <point x="814" y="807"/>
+      <point x="700" y="916"/>
+      <point x="596" y="916" type="qcurve" smooth="yes"/>
+      <point x="505" y="916"/>
+      <point x="345" y="800"/>
+    </contour>
   </outline>
 </glyph>

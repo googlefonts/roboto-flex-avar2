@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="n" format="2">
-  <advance width="688"/>
+  <advance width="730"/>
   <unicode hex="006E"/>
   <anchor x="354" y="0" name="bottom"/>
   <anchor x="354" y="1052" name="top"/>
@@ -16,8 +16,8 @@
     <contour>
       <point x="241" y="577" type="qcurve"/>
       <point x="241" y="756" type="line"/>
-      <point x="277" y="908"/>
-      <point x="384" y="1072"/>
+      <point x="255" y="905"/>
+      <point x="364" y="1072"/>
       <point x="443" y="1072" type="qcurve" smooth="yes"/>
       <point x="519" y="1072"/>
       <point x="592" y="891"/>
@@ -25,11 +25,11 @@
       <point x="592" y="0" type="line"/>
       <point x="406" y="0" type="line"/>
       <point x="406" y="681" type="line" smooth="yes"/>
-      <point x="406" y="787"/>
+      <point x="406" y="802"/>
       <point x="380" y="916"/>
       <point x="345" y="916" type="qcurve" smooth="yes"/>
-      <point x="320" y="916"/>
-      <point x="277" y="765"/>
+      <point x="310" y="916"/>
+      <point x="257" y="757"/>
     </contour>
   </outline>
 </glyph>
