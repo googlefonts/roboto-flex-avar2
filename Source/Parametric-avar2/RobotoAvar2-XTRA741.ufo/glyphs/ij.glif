@@ -1,12 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="ij" format="2">
-  <advance width="1349"/>
+  <advance width="1000"/>
   <unicode hex="0133"/>
   <outline>
     <component base="idotless"/>
-    <component base="idot" xOffset="263"/>
-    <component base="jdotless" xOffset="525"/>
-    <component base="idot" xOffset="1087"/>
+    <component base="idot" xOffset="250"/>
+    <component base="jdotless" xOffset="500"/>
+    <component base="idot" xOffset="750"/>
   </outline>
   <lib>
     <dict>

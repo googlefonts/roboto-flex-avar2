@@ -1,26 +1,26 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="diagonalbarO" format="2">
-  <advance width="705"/>
+  <advance width="623"/>
   <outline>
     <contour>
-      <point x="44.17589679278679" y="-129.0" type="line"/>
-      <point x="96.17589679278679" y="72.00000000000004" type="line"/>
-      <point x="115.17589679278679" y="67.0" type="line"/>
-      <point x="305.1758967927868" y="793.0" type="line"/>
-      <point x="423.17589679278694" y="752.0000000000003" type="line"/>
-      <point x="238.17589679278677" y="40.0" type="line"/>
-      <point x="257.1758967927868" y="35.0" type="line"/>
-      <point x="214.1758967927869" y="-129.0" type="line"/>
+      <point x="3" y="-129" type="line"/>
+      <point x="55" y="72" type="line"/>
+      <point x="74" y="67" type="line"/>
+      <point x="264" y="793" type="line"/>
+      <point x="382" y="752" type="line"/>
+      <point x="197" y="40" type="line"/>
+      <point x="216" y="35" type="line"/>
+      <point x="173" y="-129" type="line"/>
     </contour>
     <contour>
-      <point x="493.17589679278694" y="1598.0" type="line"/>
-      <point x="664.1758967927868" y="1598.0" type="line"/>
-      <point x="614.1758967927868" y="1403.0" type="line"/>
-      <point x="594.1758967927868" y="1407.0000000000007" type="line"/>
-      <point x="423.17589679278694" y="752.0000000000003" type="line"/>
-      <point x="305.1758967927868" y="793.0" type="line"/>
-      <point x="471.17589679278694" y="1435.0000000000007" type="line"/>
-      <point x="450.17589679278694" y="1439.0" type="line"/>
+      <point x="452" y="1598" type="line"/>
+      <point x="623" y="1598" type="line"/>
+      <point x="573" y="1403" type="line"/>
+      <point x="553" y="1407" type="line"/>
+      <point x="382" y="752" type="line"/>
+      <point x="264" y="793" type="line"/>
+      <point x="430" y="1435" type="line"/>
+      <point x="409" y="1439" type="line"/>
     </contour>
   </outline>
 </glyph>

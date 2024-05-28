@@ -1,15 +1,15 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="hadescender" format="2">
-  <advance width="1562"/>
+  <advance width="1440"/>
   <unicode hex="04B3"/>
   <outline>
     <component base="x"/>
-    <component base="cy-descendercomb" xOffset="835"/>
+    <component base="cy-descendercomb" xOffset="1232"/>
   </outline>
   <lib>
     <dict>
       <key>public.markColor</key>
-      <string>0,0,1,0.5</string>
+      <string>0.0676,0,0.9997,1</string>
     </dict>
   </lib>
 </glyph>

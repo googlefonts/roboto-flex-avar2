@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="ohm" format="2">
-  <advance width="1531"/>
+  <advance width="1478"/>
   <unicode hex="2126"/>
   <outline>
     <component base="Omega"/>
@@ -8,7 +8,7 @@
   <lib>
     <dict>
       <key>public.markColor</key>
-      <string>1,1,0,0.5</string>
+      <string>0.0676,0,0.9997,1</string>
     </dict>
   </lib>
 </glyph>
