@@ -1,18 +1,18 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="f_f_ij" format="2">
-  <advance width="3579"/>
+  <advance width="3325"/>
   <outline>
     <component base="f"/>
-    <component base="f" xOffset="1115"/>
-    <component base="idotless" xOffset="2230"/>
-    <component base="idot" xOffset="2481"/>
-    <component base="jdotless" xOffset="2755"/>
-    <component base="idot" xOffset="3305"/>
+    <component base="f" xOffset="988"/>
+    <component base="idotless" xOffset="1976"/>
+    <component base="idot" xOffset="2239"/>
+    <component base="jdotless" xOffset="2501"/>
+    <component base="idot" xOffset="3063"/>
   </outline>
   <lib>
     <dict>
       <key>public.markColor</key>
-      <string>0,0,1,0.5</string>
+      <string>0.0676,0,0.9997,1</string>
     </dict>
   </lib>
 </glyph>

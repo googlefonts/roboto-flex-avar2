@@ -1,14 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="idotaccent" format="2">
-  <advance width="527"/>
+  <advance width="525"/>
   <outline>
-    <component base="idotless" xOffset="-33"/>
-    <component base="dotaccentcomb" xOffset="271"/>
+    <component base="idotless"/>
+    <component base="dotaccentcomb" xOffset="260"/>
   </outline>
   <lib>
     <dict>
       <key>public.markColor</key>
-      <string>0,0,1,0.5</string>
+      <string>0.0676,0,0.9997,1</string>
     </dict>
   </lib>
 </glyph>
