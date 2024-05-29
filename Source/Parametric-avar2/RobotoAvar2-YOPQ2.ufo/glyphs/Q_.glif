@@ -23,24 +23,24 @@
     </contour>
     <contour>
       <point x="309" y="682" type="line" smooth="yes"/>
-      <point x="309" y="356"/>
-      <point x="540" y="-23"/>
+      <point x="309" y="353"/>
+      <point x="537" y="-23"/>
       <point x="730" y="-23" type="qcurve" smooth="yes"/>
-      <point x="920" y="-23"/>
-      <point x="1151" y="356"/>
+      <point x="923" y="-23"/>
+      <point x="1151" y="353"/>
       <point x="1151" y="682" type="qcurve" smooth="yes"/>
       <point x="1151" y="774" type="line" smooth="yes"/>
-      <point x="1151" y="1100"/>
-      <point x="920" y="1479"/>
+      <point x="1151" y="1102"/>
+      <point x="923" y="1479"/>
       <point x="730" y="1479" type="qcurve" smooth="yes"/>
-      <point x="540" y="1479"/>
-      <point x="309" y="1100"/>
+      <point x="537" y="1479"/>
+      <point x="309" y="1102"/>
       <point x="309" y="774" type="qcurve" smooth="yes"/>
     </contour>
     <contour>
       <point x="1200" y="-250" type="line"/>
-      <point x="889" y="-1" type="line"/>
-      <point x="1049" y="96" type="line"/>
+      <point x="850" y="30" type="line"/>
+      <point x="975" y="155" type="line"/>
       <point x="1330" y="-120" type="line"/>
     </contour>
   </outline>

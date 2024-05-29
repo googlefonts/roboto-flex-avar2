@@ -1,24 +1,24 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="arrowup" format="2">
-  <advance width="1311"/>
+  <advance width="1286"/>
   <unicode hex="2191"/>
-  <guideline x="676.0000000000003" y="924.0" angle="0" identifier="tThH8atjx1"/>
+  <guideline x="676" y="924" angle="0" identifier="tThH8atjx1"/>
   <outline>
     <contour>
-      <point x="569" y="-6" type="line"/>
-      <point x="569" y="1048" type="line"/>
-      <point x="651" y="1048" type="line"/>
-      <point x="741" y="1048" type="line"/>
-      <point x="741" y="-6" type="line"/>
+      <point x="556" y="0" type="line"/>
+      <point x="556" y="1054" type="line"/>
+      <point x="641" y="1054" type="line"/>
+      <point x="728" y="1054" type="line"/>
+      <point x="728" y="0" type="line"/>
     </contour>
     <contour>
-      <point x="200" y="743" type="line"/>
-      <point x="629" y="1395" type="line"/>
-      <point x="680" y="1395" type="line"/>
-      <point x="1111" y="743" type="line"/>
-      <point x="1059" y="703" type="line"/>
-      <point x="654" y="975" type="line"/>
-      <point x="251" y="703" type="line"/>
+      <point x="200" y="749" type="line"/>
+      <point x="617" y="1383" type="line"/>
+      <point x="667" y="1383" type="line"/>
+      <point x="1086" y="749" type="line"/>
+      <point x="1038" y="715" type="line"/>
+      <point x="641" y="981" type="line"/>
+      <point x="246" y="715" type="line"/>
     </contour>
   </outline>
 </glyph>

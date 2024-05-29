@@ -13,7 +13,28 @@
     <key>familyName</key>
     <string>RobotoAvar2</string>
     <key>guidelines</key>
-    <array/>
+    <array>
+      <dict>
+        <key>angle</key>
+        <integer>0</integer>
+        <key>identifier</key>
+        <string>mC7wRUDwF9</string>
+        <key>x</key>
+        <integer>123</integer>
+        <key>y</key>
+        <integer>729</integer>
+      </dict>
+      <dict>
+        <key>angle</key>
+        <integer>0</integer>
+        <key>identifier</key>
+        <string>eMFfjdEiiB</string>
+        <key>x</key>
+        <integer>124</integer>
+        <key>y</key>
+        <integer>727</integer>
+      </dict>
+    </array>
     <key>italicAngle</key>
     <integer>0</integer>
     <key>macintoshFONDName</key>

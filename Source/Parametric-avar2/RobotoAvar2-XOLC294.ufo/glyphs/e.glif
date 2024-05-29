@@ -7,17 +7,17 @@
   <anchor x="976" y="1052" name="top"/>
   <outline>
     <contour>
-      <point x="85" y="525" type="qcurve" smooth="yes"/>
-      <point x="85" y="536" type="line" smooth="yes"/>
-      <point x="85" y="778"/>
+      <point x="85" y="510" type="qcurve" smooth="yes"/>
+      <point x="85" y="542" type="line" smooth="yes"/>
+      <point x="85" y="780"/>
       <point x="574" y="1082"/>
       <point x="977" y="1082" type="qcurve" smooth="yes"/>
       <point x="1379" y="1082"/>
       <point x="1814" y="800"/>
       <point x="1814" y="560" type="qcurve" smooth="yes"/>
       <point x="1814" y="484" type="line"/>
-      <point x="410" y="484" type="line"/>
-      <point x="410" y="632" type="line"/>
+      <point x="383" y="484" type="line"/>
+      <point x="383" y="632" type="line"/>
       <point x="1227" y="632" type="line"/>
       <point x="1227" y="656" type="line" smooth="yes"/>
       <point x="1227" y="770"/>
@@ -38,7 +38,7 @@
       <point x="1314" y="-30"/>
       <point x="1033" y="-30" type="qcurve" smooth="yes"/>
       <point x="574" y="-30"/>
-      <point x="85" y="273"/>
+      <point x="85" y="272"/>
     </contour>
   </outline>
 </glyph>

@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dieresiscombstack.case" format="2">
+  <anchor x="0" y="1536" name="_top"/>
+  <anchor x="0" y="1841" name="top"/>
+  <outline>
+    <contour>
+      <point x="-197" y="1699" type="qcurve" smooth="yes"/>
+      <point x="-197" y="1733"/>
+      <point x="-152" y="1782"/>
+      <point x="-109" y="1782" type="qcurve" smooth="yes"/>
+      <point x="-66" y="1782"/>
+      <point x="-20" y="1733"/>
+      <point x="-20" y="1699" type="qcurve" smooth="yes"/>
+      <point x="-20" y="1663"/>
+      <point x="-66" y="1614"/>
+      <point x="-109" y="1614" type="qcurve" smooth="yes"/>
+      <point x="-152" y="1614"/>
+      <point x="-197" y="1663"/>
+    </contour>
+    <contour>
+      <point x="19" y="1699" type="qcurve" smooth="yes"/>
+      <point x="19" y="1733"/>
+      <point x="64" y="1782"/>
+      <point x="107" y="1782" type="qcurve" smooth="yes"/>
+      <point x="150" y="1782"/>
+      <point x="196" y="1733"/>
+      <point x="196" y="1699" type="qcurve" smooth="yes"/>
+      <point x="196" y="1663"/>
+      <point x="150" y="1614"/>
+      <point x="107" y="1614" type="qcurve" smooth="yes"/>
+      <point x="64" y="1614"/>
+      <point x="19" y="1663"/>
+    </contour>
+  </outline>
+</glyph>
