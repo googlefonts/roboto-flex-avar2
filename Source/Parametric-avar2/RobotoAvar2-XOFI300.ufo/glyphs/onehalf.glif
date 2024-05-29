@@ -2,7 +2,7 @@
 <glyph name="onehalf" format="2">
   <advance width="1536"/>
   <unicode hex="00BD"/>
-  <guideline y="2079" identifier="ZZEoUYP2Rx"/>
+  <guideline x="0" y="2079" angle="0" identifier="ZZEoUYP2Rx"/>
   <outline>
     <component base="onesuperior"/>
     <component base="fraction" xOffset="558"/>
@@ -13,7 +13,7 @@
       <key>com.typemytype.robofont.guideline.magnetic.ZZEoUYP2Rx</key>
       <integer>5</integer>
       <key>public.markColor</key>
-      <string>0.884,0.8791,0.0317,1</string>
+      <string>0,0,1,0.5</string>
     </dict>
   </lib>
 </glyph>

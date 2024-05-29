@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="J" format="2">
-  <advance width="1861"/>
+  <advance width="1888"/>
   <unicode hex="004A"/>
   <anchor x="845" y="0" name="bottom"/>
   <anchor x="1437" y="1456" name="top"/>
@@ -18,12 +18,12 @@
       <point x="1112" y="425" type="qcurve" smooth="yes"/>
       <point x="1112" y="1456" type="line"/>
       <point x="1733" y="1456" type="line"/>
-      <point x="1733" y="425" type="line" smooth="yes"/>
-      <point x="1733" y="206"/>
+      <point x="1733" y="425" type="line"/>
+      <point x="1733" y="215"/>
       <point x="1258" y="-30"/>
-      <point x="817" y="-30" type="qcurve" smooth="yes"/>
+      <point x="845" y="-30" type="qcurve" smooth="yes"/>
       <point x="437" y="-30"/>
-      <point x="28" y="193"/>
+      <point x="28" y="201"/>
     </contour>
   </outline>
 </glyph>
