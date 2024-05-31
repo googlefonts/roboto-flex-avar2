@@ -17,13 +17,13 @@
     <contour>
       <point x="1719" y="0" type="line"/>
       <point x="1155" y="756" type="line"/>
-      <point x="1279" y="890" type="line"/>
-      <point x="1955" y="0" type="line"/>
+      <point x="1274" y="890" type="line"/>
+      <point x="1950" y="0" type="line"/>
     </contour>
     <contour>
-      <point x="16" y="1456" type="line"/>
-      <point x="251" y="1456" type="line"/>
-      <point x="954" y="641" type="line"/>
+      <point x="15" y="1456" type="line"/>
+      <point x="247" y="1456" type="line"/>
+      <point x="954" y="636" type="line"/>
       <point x="954" y="399" type="line"/>
     </contour>
     <contour>
@@ -33,4 +33,10 @@
       <point x="972" y="636" type="line"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.9882,0.0471,0.2471,1</string>
+    </dict>
+  </lib>
 </glyph>
