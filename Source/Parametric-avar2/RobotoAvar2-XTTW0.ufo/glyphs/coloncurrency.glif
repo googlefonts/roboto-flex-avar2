@@ -22,13 +22,13 @@
       <point x="459" y="1332"/>
       <point x="271" y="1085"/>
       <point x="271" y="844" type="qcurve" smooth="yes"/>
-      <point x="271" y="592" type="line" smooth="yes"/>
+      <point x="271" y="612" type="line" smooth="yes"/>
       <point x="271" y="369"/>
       <point x="469" y="114"/>
       <point x="631" y="114" type="qcurve" smooth="yes"/>
       <point x="794" y="114"/>
       <point x="946" y="291"/>
-      <point x="946" y="412" type="qcurve" smooth="yes"/>
+      <point x="946" y="426" type="qcurve" smooth="yes"/>
       <point x="946" y="466" type="line"/>
       <point x="1133" y="466" type="line"/>
       <point x="1133" y="426" type="line" smooth="yes"/>
@@ -81,8 +81,8 @@
   </outline>
   <lib>
     <dict>
-      <key>com.typemytype.robofont.guideline.magnetic.0DwZ2nfhdf</key>
-      <integer>5</integer>
+      <key>public.markColor</key>
+      <string>0.0676,0,0.9997,1</string>
     </dict>
   </lib>
 </glyph>

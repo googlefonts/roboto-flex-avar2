@@ -2,7 +2,7 @@
 <glyph name="kaverticalstrokecyr" format="2">
   <advance width="1210"/>
   <unicode hex="049D"/>
-  <guideline x="547" y="651" angle="90" identifier="ATaXbxe4rK"/>
+  <guideline x="547" y="651" angle="90.0" identifier="ATaXbxe4rK"/>
   <outline>
     <contour>
       <point x="629" y="852" type="line"/>
@@ -18,8 +18,8 @@
     </contour>
     <contour>
       <point x="1009" y="0" type="line"/>
-      <point x="629" y="465" type="line"/>
-      <point x="744" y="591" type="line"/>
+      <point x="615" y="481" type="line"/>
+      <point x="730" y="607" type="line"/>
       <point x="1235" y="0" type="line"/>
     </contour>
     <contour>
