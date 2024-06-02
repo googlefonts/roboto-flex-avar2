@@ -13,15 +13,15 @@
     </contour>
     <contour>
       <point x="275" y="226" type="line"/>
-      <point x="275" y="734" type="line"/>
-      <point x="633" y="734" type="line" smooth="yes"/>
-      <point x="793" y="734"/>
-      <point x="935" y="734"/>
+      <point x="275" y="714" type="line"/>
+      <point x="633" y="714" type="line" smooth="yes"/>
+      <point x="793" y="714"/>
+      <point x="935" y="729"/>
       <point x="935" y="739" type="qcurve" smooth="yes"/>
-      <point x="935" y="744"/>
-      <point x="793" y="744"/>
-      <point x="633" y="744" type="qcurve" smooth="yes"/>
-      <point x="275" y="744" type="line"/>
+      <point x="935" y="748"/>
+      <point x="793" y="758"/>
+      <point x="633" y="754" type="qcurve" smooth="yes"/>
+      <point x="275" y="754" type="line"/>
       <point x="275" y="1258" type="line"/>
       <point x="633" y="1258" type="line" smooth="yes"/>
       <point x="868" y="1258"/>
