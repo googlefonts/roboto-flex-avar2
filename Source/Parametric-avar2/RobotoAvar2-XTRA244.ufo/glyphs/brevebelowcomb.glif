@@ -5,7 +5,7 @@
   <anchor x="0" y="-463" name="bottom"/>
   <outline>
     <contour>
-      <point x="99" y="-143" type="qcurve"/>
+      <point x="41" y="-143" type="qcurve"/>
       <point x="142" y="-197" type="line"/>
       <point x="127" y="-296"/>
       <point x="53" y="-463"/>
@@ -13,12 +13,12 @@
       <point x="-47" y="-463"/>
       <point x="-123" y="-309"/>
       <point x="-141" y="-195" type="qcurve"/>
-      <point x="-99" y="-143" type="line"/>
-      <point x="-84" y="-200"/>
-      <point x="-33" y="-299"/>
+      <point x="-41" y="-143" type="line"/>
+      <point x="-34" y="-200"/>
+      <point x="-14" y="-299"/>
       <point x="0" y="-299" type="qcurve" smooth="yes"/>
-      <point x="36" y="-299"/>
-      <point x="84" y="-204"/>
+      <point x="15" y="-299"/>
+      <point x="34" y="-204"/>
     </contour>
   </outline>
 </glyph>
