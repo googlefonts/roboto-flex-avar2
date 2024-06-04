@@ -3,8 +3,8 @@
   <advance width="650"/>
   <unicode hex="0167"/>
   <outline>
-    <component base="t"/>
-    <component base="horizontalbarlc" xOffset="-7.5" yOffset="-110"/>
+    <component base="t" yOffset="1"/>
+    <component base="horizontalbarlc" xOffset="-7" yOffset="-110"/>
   </outline>
   <lib>
     <dict>
