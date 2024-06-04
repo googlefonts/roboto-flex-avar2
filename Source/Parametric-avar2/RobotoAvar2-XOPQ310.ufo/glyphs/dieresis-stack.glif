@@ -1,8 +1,8 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="dieresis-stack" format="2">
-  <advance width="1024"/>
+  <advance width="1216"/>
   <outline>
-    <component base="dieresiscomb-stack" xOffset="512"/>
+    <component base="dieresiscomb-stack" xOffset="608"/>
   </outline>
   <lib>
     <dict>

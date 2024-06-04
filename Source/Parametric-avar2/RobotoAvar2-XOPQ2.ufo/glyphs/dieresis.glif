@@ -1,9 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="dieresis" format="2">
-  <advance width="1024"/>
+  <advance width="856"/>
   <unicode hex="00A8"/>
   <outline>
-    <component base="dieresiscomb" xOffset="512"/>
+    <component base="dieresiscomb" xOffset="428"/>
   </outline>
   <lib>
     <dict>
