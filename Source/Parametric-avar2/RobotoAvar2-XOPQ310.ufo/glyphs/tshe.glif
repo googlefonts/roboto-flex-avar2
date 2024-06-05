@@ -1,10 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="tshe" format="2">
-  <advance width="1938"/>
+  <advance width="1989"/>
   <unicode hex="045B"/>
   <outline>
-    <component base="h"/>
-    <component base="horizontalbarlc" xOffset="-62.5" yOffset="598"/>
+    <component base="h" xOffset="51"/>
+    <component base="horizontalbarlc" xOffset="-12" yOffset="598"/>
   </outline>
   <lib>
     <dict>

@@ -1,14 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="horizontalbar" format="2">
-  <advance width="1045"/>
+  <advance width="1093"/>
   <unicode hex="2015"/>
-  <anchor x="521" y="708" name="_center"/>
+  <anchor x="541" y="708" name="_center"/>
   <outline>
     <contour>
       <point x="20" y="626" type="line"/>
       <point x="20" y="792" type="line"/>
-      <point x="1025" y="792" type="line"/>
-      <point x="1025" y="626" type="line"/>
+      <point x="1062" y="792" type="line"/>
+      <point x="1062" y="626" type="line"/>
     </contour>
   </outline>
 </glyph>

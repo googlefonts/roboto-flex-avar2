@@ -1,9 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="dotaccent" format="2">
-  <advance width="1024"/>
+  <advance width="822"/>
   <unicode hex="02D9"/>
   <outline>
-    <component base="dotaccentcomb" xOffset="512"/>
+    <component base="dotaccentcomb" xOffset="411"/>
   </outline>
   <lib>
     <dict>
