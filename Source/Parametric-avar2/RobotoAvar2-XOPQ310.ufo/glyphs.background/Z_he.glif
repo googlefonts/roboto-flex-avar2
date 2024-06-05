@@ -1,8 +1,6 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Zhe" format="2">
-  <advance width="500"/>
-  <anchor x="1471" y="1456" name="top"/>
-  <anchor x="2653" y="1" name="cy_descender"/>
-  <outline>
-  </outline>
+	<advance width="500"/>
+	<anchor name="top" x="1471" y="1456"/>
+	<anchor name="cy_descender" x="2653" y="1"/>
 </glyph>

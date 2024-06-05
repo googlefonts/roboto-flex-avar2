@@ -1,12 +1,10 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="phi" format="2">
-  <advance width="1992"/>
-  <unicode hex="03C6"/>
-  <anchor x="994" y="0" name="bottom"/>
-  <anchor x="995" y="526" name="center"/>
-  <anchor x="1309" y="0" name="ogonek"/>
-  <anchor x="995" y="1052" name="top"/>
-  <anchor x="1303" y="1052" name="topright"/>
-  <outline>
-  </outline>
+	<unicode hex="03C6"/>
+	<advance width="1992"/>
+	<anchor name="bottom" x="994" y="0"/>
+	<anchor name="center" x="995" y="526"/>
+	<anchor name="ogonek" x="1309" y="0"/>
+	<anchor name="top" x="995" y="1052"/>
+	<anchor name="topright" x="1303" y="1052"/>
 </glyph>

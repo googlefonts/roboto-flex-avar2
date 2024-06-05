@@ -1,24 +1,24 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="arrowdown" format="2">
-  <advance width="1686"/>
-  <unicode hex="2193"/>
-  <guideline x="669" y="459" angle="0" identifier="F0Pg9tvdQE"/>
-  <outline>
-    <contour>
-      <point x="815" y="-180" type="line"/>
-      <point x="200" y="745" type="line"/>
-      <point x="319" y="870" type="line"/>
-      <point x="844" y="513" type="line"/>
-      <point x="1372" y="871" type="line"/>
-      <point x="1486" y="745" type="line"/>
-      <point x="870" y="-180" type="line"/>
-    </contour>
-    <contour>
-      <point x="759" y="440" type="line"/>
-      <point x="759" y="1494" type="line"/>
-      <point x="931" y="1494" type="line"/>
-      <point x="931" y="440" type="line"/>
-      <point x="844" y="440" type="line"/>
-    </contour>
-  </outline>
+	<unicode hex="2193"/>
+	<advance width="1686"/>
+	<outline>
+		<contour>
+			<point x="815" y="-180" type="line"/>
+			<point x="200" y="745" type="line"/>
+			<point x="319" y="870" type="line"/>
+			<point x="844" y="513" type="line"/>
+			<point x="1372" y="871" type="line"/>
+			<point x="1486" y="745" type="line"/>
+			<point x="870" y="-180" type="line"/>
+		</contour>
+		<contour>
+			<point x="759" y="440" type="line"/>
+			<point x="759" y="1494" type="line"/>
+			<point x="931" y="1494" type="line"/>
+			<point x="931" y="440" type="line"/>
+			<point x="844" y="440" type="line"/>
+		</contour>
+	</outline>
+	<guideline x="669" y="459" angle="0" identifier="F0Pg9tvdQE"/>
 </glyph>

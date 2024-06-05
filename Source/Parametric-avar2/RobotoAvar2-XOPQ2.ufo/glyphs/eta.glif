@@ -1,34 +1,34 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="eta" format="2">
-  <advance width="780"/>
-  <unicode hex="03B7"/>
-  <anchor x="408" y="0" name="bottom"/>
-  <anchor x="410" y="1052" name="top"/>
-  <outline>
-    <contour>
-      <point x="148" y="0" type="line"/>
-      <point x="148" y="1052" type="line"/>
-      <point x="155" y="1052" type="line"/>
-      <point x="155" y="742" type="line"/>
-      <point x="155" y="0" type="line"/>
-    </contour>
-    <contour>
-      <point x="152" y="744" type="qcurve"/>
-      <point x="152" y="916" type="line"/>
-      <point x="207" y="989"/>
-      <point x="368" y="1072"/>
-      <point x="459" y="1072" type="qcurve"/>
-      <point x="549" y="1072"/>
-      <point x="642" y="929"/>
-      <point x="642" y="706" type="qcurve" smooth="yes"/>
-      <point x="642" y="-416" type="line"/>
-      <point x="635" y="-416" type="line"/>
-      <point x="635" y="707" type="line" smooth="yes"/>
-      <point x="635" y="801"/>
-      <point x="523" y="916"/>
-      <point x="418" y="916" type="qcurve"/>
-      <point x="328" y="916"/>
-      <point x="193" y="818"/>
-    </contour>
-  </outline>
+	<unicode hex="03B7"/>
+	<advance width="780"/>
+	<outline>
+		<contour>
+			<point x="148" y="0" type="line"/>
+			<point x="148" y="1052" type="line"/>
+			<point x="155" y="1052" type="line"/>
+			<point x="155" y="742" type="line"/>
+			<point x="155" y="0" type="line"/>
+		</contour>
+		<contour>
+			<point x="152" y="744" type="qcurve"/>
+			<point x="152" y="916" type="line"/>
+			<point x="207" y="989"/>
+			<point x="368" y="1072"/>
+			<point x="459" y="1072" type="qcurve"/>
+			<point x="549" y="1072"/>
+			<point x="642" y="929"/>
+			<point x="642" y="706" type="qcurve" smooth="yes"/>
+			<point x="642" y="-416" type="line"/>
+			<point x="635" y="-416" type="line"/>
+			<point x="635" y="707" type="line" smooth="yes"/>
+			<point x="635" y="801"/>
+			<point x="523" y="916"/>
+			<point x="418" y="916" type="qcurve"/>
+			<point x="328" y="916"/>
+			<point x="193" y="818"/>
+		</contour>
+	</outline>
+	<anchor name="bottom" x="408" y="0"/>
+	<anchor name="top" x="410" y="1052"/>
 </glyph>
