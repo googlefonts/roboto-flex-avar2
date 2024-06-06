@@ -5,7 +5,7 @@ PATH = '../source/Parametric-avar2/'
 DEFAULT = 'RobotoAvar2-wght400.ufo'
 
 SOURCES = [                        # 'RobotoAvar2-XOPQ2.ufo',            # 'RobotoAvar2-XOPQ310.ufo',
-            # 'RobotoAvar2-XTRA244.ufo',             'RobotoAvar2-XTRA741.ufo',            # 'RobotoAvar2-YOPQ2.ufo',            # 'RobotoAvar2-YOPQ280.ufo',
+            # 'RobotoAvar2-XTRA244.ufo',            # 'RobotoAvar2-XTRA741.ufo',             'RobotoAvar2-YOPQ2.ufo',             'RobotoAvar2-YOPQ280.ufo',
             
         ]
 
@@ -15,7 +15,7 @@ asciiGlyphs = 'space exclam quotedbl numbersign dollar percent ampersand quotesi
 glyphExceptions = [ ]
 
 
-def checkSedebearings(fonts):
+def checkSedebearings(fonts, checkWidths):
     
     for font in fonts:
         
@@ -26,26 +26,34 @@ def checkSedebearings(fonts):
         font2 = OpenFont(fontName2, showInterface=False)
 
         strDifferences = ''
-
-
-        for glyph in font2.glyphOrder:
-            
-            if ( glyph.find('comb') < 0 ) or ( glyph in glyphExceptions ):
-            
-                if font1[glyph].leftMargin != font2[glyph].leftMargin:
-                
-                    strDifferences += 'LEFT Sidebearing difference in :' + glyph + ',' + str(font1[glyph].leftMargin) + ' ' + str(font2[glyph].leftMargin) + '\n'
-                
-                    #font2[glyph].leftMargin = font1[glyph].leftMargin
-                
-                if font1[glyph].rightMargin != font2[glyph].rightMargin:
         
-                    strDifferences += 'RIGHT Sidebearing difference in :' + glyph + ',' + str(font1[glyph].rightMargin) + ' ' + str(font2[glyph].rightMargin) + '\n'
+        if checkWidths:
+            
+            for glyph in font2.glyphOrder:
                 
-                    #font2[glyph].rightMargin = font1[glyph].rightMargin
+                if font2[glyph].width != font1[glyph].width:
                     
+                    strDifferences += 'WIDTH difference in :' + glyph + ',' + str(font1[glyph].width) + ' ' + str(font2[glyph].width) + '\n'
+            
+        else:
 
-        #font2.save()
+
+            for glyph in font2.glyphOrder:
+            
+                if ( glyph.find('comb') < 0 ) or ( glyph in glyphExceptions ):
+            
+                    if font1[glyph].leftMargin != font2[glyph].leftMargin:
+                
+                        strDifferences += 'LEFT Sidebearing difference in :' + glyph + ',' + str(font1[glyph].leftMargin) + ' ' + str(font2[glyph].leftMargin) + '\n'
+                
+                        #font2[glyph].leftMargin = font1[glyph].leftMargin
+                
+                    if font1[glyph].rightMargin != font2[glyph].rightMargin:
+        
+                        strDifferences += 'RIGHT Sidebearing difference in :' + glyph + ',' + str(font1[glyph].rightMargin) + ' ' + str(font2[glyph].rightMargin) + '\n'
+                
+                        #font2[glyph].rightMargin = font1[glyph].rightMargin
+                    
         
         if len(strDifferences) == 0:
     
@@ -61,10 +69,12 @@ def checkSedebearings(fonts):
         font1.close()
         #font2.save()
         font2.close()
-            
+        
+    
+    
+    
 
-
-checkSedebearings(SOURCES)
+checkSedebearings(SOURCES, True)
 
 
 

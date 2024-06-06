@@ -1,30 +1,30 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Ka" format="2">
-  <advance width="1426"/>
-  <unicode hex="041A"/>
-  <guideline x="480" y="796" angle="90" identifier="LxfLwWU0sJ"/>
-  <anchor x="657" y="1456" name="top"/>
-  <anchor x="1053" y="0" name="cy_descender"/>
-  <outline>
-    <contour>
-      <point x="1130" y="0" type="line"/>
-      <point x="555" y="673" type="line"/>
-      <point x="675" y="807" type="line"/>
-      <point x="1366" y="0" type="line"/>
-    </contour>
-    <contour>
-      <point x="266" y="913" type="line"/>
-      <point x="526" y="913" type="line"/>
-      <point x="995" y="1456" type="line"/>
-      <point x="1672" y="1456" type="line"/>
-      <point x="828" y="472" type="line"/>
-      <point x="266" y="472" type="line"/>
-    </contour>
-    <contour>
-      <point x="170" y="0" type="line"/>
-      <point x="170" y="1456" type="line"/>
-      <point x="362" y="1456" type="line"/>
-      <point x="362" y="0" type="line"/>
-    </contour>
-  </outline>
+	<unicode hex="041A"/>
+	<advance width="1426"/>
+	<outline>
+		<contour>
+			<point x="1130" y="0" type="line"/>
+			<point x="555" y="673" type="line"/>
+			<point x="675" y="807" type="line"/>
+			<point x="1366" y="0" type="line"/>
+		</contour>
+		<contour>
+			<point x="266" y="913" type="line"/>
+			<point x="526" y="913" type="line"/>
+			<point x="995" y="1456" type="line"/>
+			<point x="1672" y="1456" type="line"/>
+			<point x="828" y="472" type="line"/>
+			<point x="266" y="472" type="line"/>
+		</contour>
+		<contour>
+			<point x="170" y="0" type="line"/>
+			<point x="170" y="1456" type="line"/>
+			<point x="362" y="1456" type="line"/>
+			<point x="362" y="0" type="line"/>
+		</contour>
+	</outline>
+	<anchor name="top" x="657" y="1456"/>
+	<anchor name="cy_descender" x="1053" y="0"/>
+	<guideline x="480" y="796" angle="90" identifier="LxfLwWU0sJ"/>
 </glyph>

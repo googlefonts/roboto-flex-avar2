@@ -1,15 +1,15 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Iotatonos" format="2">
-  <advance width="717"/>
-  <unicode hex="038A"/>
-  <outline>
-    <component base="I" xOffset="175"/>
-    <component base="tonoscomb.case" xOffset="64" yOffset="22"/>
-  </outline>
-  <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>0.0676,0,0.9997,1</string>
-    </dict>
-  </lib>
+	<unicode hex="038A"/>
+	<advance width="790"/>
+	<outline>
+		<component base="I" xOffset="248"/>
+		<component base="tonoscomb.case" xOffset="137" yOffset="22"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>public.markColor</key>
+			<string>0.0676,0,0.9997,1</string>
+		</dict>
+	</lib>
 </glyph>
