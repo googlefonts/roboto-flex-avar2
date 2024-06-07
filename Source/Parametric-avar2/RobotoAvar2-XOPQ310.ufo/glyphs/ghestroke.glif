@@ -1,15 +1,15 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="ghestroke" format="2">
-	<unicode hex="0493"/>
-	<advance width="1236"/>
-	<outline>
-		<component base="ghe" xOffset="-28"/>
-		<component base="horizontalbarlc" xOffset="-29" yOffset="-203"/>
-	</outline>
-	<lib>
-		<dict>
-			<key>public.markColor</key>
-			<string>0.0676,0,0.9997,1</string>
-		</dict>
-	</lib>
+  <advance width="1264"/>
+  <unicode hex="0493"/>
+  <outline>
+    <component base="ghe"/>
+    <component base="horizontalbarlc" xOffset="4.4638375828921025e-14" yOffset="-203"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.0676,0,0.9997,1</string>
+    </dict>
+  </lib>
 </glyph>

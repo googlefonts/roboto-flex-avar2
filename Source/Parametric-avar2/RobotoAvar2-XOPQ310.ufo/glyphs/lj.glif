@@ -1,16 +1,16 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="lj" format="2">
-	<unicode hex="01C9"/>
-	<advance width="1798"/>
-	<outline>
-		<component base="l"/>
-		<component base="jdotless" xOffset="898"/>
-		<component base="idot" xOffset="1348"/>
-	</outline>
-	<lib>
-		<dict>
-			<key>public.markColor</key>
-			<string>0.0676,0,0.9997,1</string>
-		</dict>
-	</lib>
+  <advance width="1798"/>
+  <unicode hex="01C9"/>
+  <outline>
+    <component base="l"/>
+    <component base="jdotless" xOffset="898"/>
+    <component base="idot" xOffset="1348"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.0676,0,0.9997,1</string>
+    </dict>
+  </lib>
 </glyph>
