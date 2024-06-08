@@ -18,7 +18,11 @@ YTDE = [ 'g', 'j', 'p', 'q', 'y', 'jdotless', 'thorn', 'engtail', 'beta', 'gamma
 
 YTOS = ['C', 'G', 'J', 'O', 'Q', 'S', 'U', 'a', 'b', 'c', 'd', 'e', 'g', 'h', 'm', 'n', 'o', 'p', 'q', 'r', 's', 'u', 'dollar', 'zero', 'two', 'three', 'five', 'six', 'eight', 'nine', 'percent', 'question', 'at', ]
 
-YTTL = YTTW = [ 'A', 'M', 'N', 'V', 'W', 'Y', 'v', 'w', 'y' ]
+XTTW = YTTL = [ 'A', 'M', 'N', 'V', 'W', 'Y', 'v', 'w', 'y' ]
+
+STLI = STLO = [ 'a', 'b', 'c', 'd', 'e', 'g', 'h', 'm', 'n', 'o', 'p', 'q', 's', 'u' ]
+
+STUI = STUO = [ 'C', 'D', 'G', 'J', 'O', 'Q', 'S', 'U' ]
 
 def makeGlyphs(src_font, dst_font, glyphs, in_set):
 
@@ -87,16 +91,29 @@ def makeGlyphs(src_font, dst_font, glyphs, in_set):
 # makeGlyphs('RobotoAvar2-wght400.ufo', 'RobotoAvar2-YTOS0.ufo', YTOS, False)
 # makeGlyphs('RobotoAvar2-wght400.ufo', 'RobotoAvar2-YTOS50.ufo', YTOS, False)
 
+# # # XTTW
+# makeGlyphs('RobotoAvar2-wght400.ufo', 'RobotoAvar2-XTTW0.ufo', XTTW, False)
+# makeGlyphs('RobotoAvar2-wght400.ufo', 'RobotoAvar2-XTTW30.ufo', XTTW, False)
+
 # # # YTTL
 # makeGlyphs('RobotoAvar2-wght400.ufo', 'RobotoAvar2-YTTL0.ufo', YTTL, False)
 # makeGlyphs('RobotoAvar2-wght400.ufo', 'RobotoAvar2-YTTL50.ufo', YTTL, False)
 
-# # # YTTW
-# makeGlyphs('RobotoAvar2-wght400.ufo', 'RobotoAvar2-X TTW0.ufo', YTTW, False)
-# makeGlyphs('RobotoAvar2-wght400.ufo', 'RobotoAvar2-XTTW30.ufo', YTTW, False)
+# # # STLI
+# makeGlyphs('RobotoAvar2-wght400.ufo', 'RobotoAvar2-STLI2.ufo', STLI, False)
+# makeGlyphs('RobotoAvar2-wght400.ufo', 'RobotoAvar2-STLI412.ufo', STLI, False)
 
+# # # STLO
+# makeGlyphs('RobotoAvar2-wght400.ufo', 'RobotoAvar2-STLO2.ufo', STLO, False)
+# makeGlyphs('RobotoAvar2-wght400.ufo', 'RobotoAvar2-STLO426.ufo', STLO, False)
 
+# # # STUI
+# makeGlyphs('RobotoAvar2-wght400.ufo', 'RobotoAvar2-STUI2.ufo', STUI, False)
+# makeGlyphs('RobotoAvar2-wght400.ufo', 'RobotoAvar2-STUI736.ufo', STUI, False)
 
+# # # STUO
+# makeGlyphs('RobotoAvar2-wght400.ufo', 'RobotoAvar2-STUO2.ufo', STUO, False)
+# makeGlyphs('RobotoAvar2-wght400.ufo', 'RobotoAvar2-STUO722.ufo', STUO, False)
 
 
 
