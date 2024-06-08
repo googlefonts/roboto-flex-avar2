@@ -13,23 +13,23 @@
     </contour>
     <contour>
       <point x="1245" y="0" type="line"/>
-      <point x="914" y="472" type="line"/>
-      <point x="1034" y="591" type="line"/>
-      <point x="1455" y="0" type="line"/>
+      <point x="891" y="508" type="line"/>
+      <point x="1012" y="616" type="line"/>
+      <point x="1450" y="0" type="line"/>
     </contour>
     <contour>
       <point x="730" y="610" type="line"/>
       <point x="909" y="610" type="line"/>
       <point x="1214" y="1052" type="line"/>
-      <point x="1418" y="1052" type="line"/>
-      <point x="1006" y="465" type="line"/>
+      <point x="1420" y="1052" type="line"/>
+      <point x="1008" y="465" type="line"/>
       <point x="730" y="465" type="line"/>
     </contour>
     <contour>
       <point x="215" y="0" type="line"/>
       <point x="10" y="0" type="line"/>
-      <point x="431" y="591" type="line"/>
-      <point x="544" y="472" type="line"/>
+      <point x="448" y="616" type="line"/>
+      <point x="569" y="508" type="line"/>
     </contour>
     <contour>
       <point x="730" y="610" type="line"/>
@@ -40,4 +40,10 @@
       <point x="551" y="610" type="line"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.9882,0.0471,0.2471,1</string>
+    </dict>
+  </lib>
 </glyph>

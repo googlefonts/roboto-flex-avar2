@@ -4,14 +4,14 @@
   <unicode hex="006C"/>
   <anchor x="103" y="0" name="bottom"/>
   <anchor x="103" y="791" name="center"/>
-  <anchor x="103" y="1536" name="top"/>
+  <anchor x="103" y="1456" name="top"/>
   <anchor x="296" y="1052" name="topright"/>
   <anchor x="103" y="542" name="yu_dash"/>
   <outline>
     <contour>
       <point x="10" y="0" type="line"/>
-      <point x="10" y="1536" type="line"/>
-      <point x="196" y="1536" type="line"/>
+      <point x="10" y="1456" type="line"/>
+      <point x="196" y="1456" type="line"/>
       <point x="196" y="0" type="line"/>
     </contour>
   </outline>
