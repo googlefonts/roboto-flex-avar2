@@ -8,16 +8,22 @@
   <anchor x="420.0" y="0" name="cy_descender"/>
   <outline>
     <contour>
-      <point x="324" y="0" type="line"/>
-      <point x="642" y="1377" type="line"/>
-      <point x="834" y="1377" type="line"/>
-      <point x="516" y="0" type="line"/>
+      <point x="324.0" y="0.0" type="line"/>
+      <point x="641.9054991799004" y="1377.0" type="line"/>
+      <point x="833.9054991799004" y="1377.0" type="line"/>
+      <point x="516.0" y="0.0" type="line"/>
     </contour>
     <contour>
-      <point x="156" y="1298" type="line"/>
-      <point x="193" y="1456" type="line"/>
-      <point x="1321" y="1456" type="line"/>
-      <point x="1284" y="1298" type="line"/>
+      <point x="155.66691208098092" y="1298.0" type="line"/>
+      <point x="192.14408627881988" y="1456.0" type="line"/>
+      <point x="1320.14408627882" y="1456.0" type="line"/>
+      <point x="1283.6669120809809" y="1298.0" type="line"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0,0.1,1,0.2</string>
+    </dict>
+  </lib>
 </glyph>

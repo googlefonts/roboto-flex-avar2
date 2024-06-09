@@ -4,8 +4,8 @@
   <unicode hex="1EB2"/>
   <outline>
     <component base="A"/>
-    <component base="brevecomb-stack.case" xOffset="640.0000000001455"/>
-    <component base="hookabovecomb-stack" xOffset="819.1537163135799" yOffset="776"/>
+    <component base="brevecomb-stack.case" xOffset="640"/>
+    <component base="hookabovecomb-stack" xOffset="640" yOffset="776"/>
   </outline>
   <lib>
     <dict>

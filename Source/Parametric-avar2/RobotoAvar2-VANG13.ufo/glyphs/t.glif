@@ -2,7 +2,7 @@
 <glyph name="t" format="2">
   <advance width="650"/>
   <unicode hex="0074"/>
-  <anchor x="230.0" y="0" name="bottom"/>
+  <anchor x="220.0" y="0" name="bottom"/>
   <anchor x="299.9074103067236" y="619" name="center"/>
   <anchor x="459.8990667567389" y="1312" name="top"/>
   <anchor x="774.8733370640924" y="1052" name="topright"/>
@@ -34,4 +34,10 @@
       <point x="45.39550102381193" y="110.0"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0,0.1,1,0.2</string>
+    </dict>
+  </lib>
 </glyph>

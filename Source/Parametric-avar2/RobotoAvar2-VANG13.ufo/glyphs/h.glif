@@ -3,15 +3,15 @@
   <advance width="1138"/>
   <unicode hex="0068"/>
   <anchor x="401.0" y="0" name="bottom"/>
-  <anchor x="458.3620896236223" y="1327" name="center"/>
-  <anchor x="430.613541568865" y="1536" name="top"/>
+  <anchor x="445.89520730284187" y="1273" name="center"/>
+  <anchor x="409.14408627881994" y="1456" name="top"/>
   <anchor x="739.0" y="0" name="engtail"/>
   <outline>
     <contour>
       <point x="166.0" y="0.0" type="line"/>
       <point x="-20.0" y="0.0" type="line"/>
-      <point x="334.61354156886495" y="1536.0" type="line"/>
-      <point x="520.613541568865" y="1536.0" type="line"/>
+      <point x="316.1440862788199" y="1456.0" type="line"/>
+      <point x="502.14408627881994" y="1456.0" type="line"/>
     </contour>
     <contour>
       <point x="254.69326641581813" y="787.0" type="line"/>
@@ -32,4 +32,10 @@
       <point x="206.67268266170106" y="579.0" type="qcurve"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0,0.1,1,0.2</string>
+    </dict>
+  </lib>
 </glyph>

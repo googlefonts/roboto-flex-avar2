@@ -3,15 +3,15 @@
   <advance width="1170"/>
   <unicode hex="0062"/>
   <anchor x="417.0" y="0" name="bottom"/>
-  <anchor x="771.613541568865" y="1536" name="top"/>
+  <anchor x="753" y="1456" name="top"/>
   <outline>
     <contour>
-      <point x="-20.0" y="0.0" type="line"/>
-      <point x="334.61354156886495" y="1536.0" type="line"/>
-      <point x="520.613541568865" y="1536.0" type="line"/>
-      <point x="250" y="364" type="line"/>
-      <point x="240" y="364" type="line"/>
-      <point x="148.0" y="0.0" type="line"/>
+      <point x="-20" y="0" type="line"/>
+      <point x="316" y="1456" type="line"/>
+      <point x="502" y="1456" type="line"/>
+      <point x="198" y="137" type="line"/>
+      <point x="188" y="137" type="line"/>
+      <point x="148" y="0" type="line"/>
     </contour>
     <contour>
       <point x="578" y="136" type="qcurve" smooth="yes"/>

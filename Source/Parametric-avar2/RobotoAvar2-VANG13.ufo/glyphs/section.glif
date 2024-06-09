@@ -40,8 +40,8 @@
       <point x="870" y="133"/>
     </contour>
     <contour>
-      <point x="537" y="894" type="qcurve"/>
-      <point x="536" y="756" type="line"/>
+      <point x="546" y="894" type="qcurve"/>
+      <point x="546" y="756" type="line"/>
       <point x="425" y="756"/>
       <point x="301" y="649"/>
       <point x="301" y="567" type="qcurve" smooth="yes"/>
@@ -56,7 +56,7 @@
       <point x="599" y="-509" type="qcurve" smooth="yes"/>
       <point x="404" y="-509"/>
       <point x="131" y="-303"/>
-      <point x="131" y="-72" type="qcurve"/>
+      <point x="131" y="-70" type="qcurve"/>
       <point x="295" y="-70" type="line"/>
       <point x="295" y="-230"/>
       <point x="493" y="-355"/>
@@ -74,12 +74,4 @@
       <point x="375" y="894"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.typemytype.robofont.guideline.magnetic.9Hxjf2sdFw</key>
-      <integer>5</integer>
-      <key>com.typemytype.robofont.guideline.magnetic.QzZ5gIiCyn</key>
-      <integer>5</integer>
-    </dict>
-  </lib>
 </glyph>

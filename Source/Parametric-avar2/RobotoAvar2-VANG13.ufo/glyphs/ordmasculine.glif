@@ -7,17 +7,17 @@
     <contour>
       <point x="196.79552334396232" y="1043.0" type="qcurve"/>
       <point x="215.49584682513296" y="1124.0" type="line"/>
-      <point x="254.49584682513296" y="1294.0"/>
-      <point x="469" y="1477"/>
-      <point x="629" y="1477" type="qcurve" smooth="yes"/>
-      <point x="787" y="1477"/>
+      <point x="251.04954825846966" y="1278.0"/>
+      <point x="481.99231829245673" y="1477.0"/>
+      <point x="638.9923182924567" y="1477.0" type="qcurve" smooth="yes"/>
+      <point x="796.9923182924567" y="1477.0"/>
       <point x="935.0495482584697" y="1278.0"/>
       <point x="899.495846825133" y="1124.0" type="qcurve"/>
       <point x="880.7955233439623" y="1043.0" type="line"/>
-      <point x="841.7955233439623" y="873.0"/>
-      <point x="628" y="691"/>
-      <point x="469" y="691" type="qcurve" smooth="yes"/>
-      <point x="311" y="691"/>
+      <point x="845.2418219106256" y="889.0"/>
+      <point x="616.5299200677641" y="691.0"/>
+      <point x="459.5299200677641" y="691.0" type="qcurve" smooth="yes"/>
+      <point x="301.5299200677641" y="691.0"/>
       <point x="161.24182191062562" y="889.0"/>
     </contour>
     <contour>
@@ -26,21 +26,23 @@
       <point x="338.7865179515361" y="952.0"/>
       <point x="399.62059863421734" y="830.0"/>
       <point x="491.62059863421734" y="830.0" type="qcurve" smooth="yes"/>
-      <point x="577.6205986342173" y="830.0"/>
-      <point x="694.7955233439623" y="940.0"/>
+      <point x="580.6205986342173" y="830.0"/>
+      <point x="697.7865179515361" y="952.0"/>
       <point x="718.7955233439623" y="1043.0" type="qcurve"/>
       <point x="737.495846825133" y="1124.0" type="line"/>
       <point x="758.0431158353081" y="1213.0"/>
       <point x="696.4399033437523" y="1336.0"/>
       <point x="606.4399033437523" y="1336.0" type="qcurve" smooth="yes"/>
-      <point x="520.4399033437523" y="1336.0"/>
-      <point x="402.49584682513296" y="1226.0"/>
+      <point x="516.4399033437523" y="1336.0"/>
+      <point x="399.0431158353081" y="1213.0"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.typemytype.robofont.guideline.magnetic.Jnt0R9CyOf</key>
       <integer>5</integer>
+      <key>public.markColor</key>
+      <string>0,0.1,1,0.2</string>
     </dict>
   </lib>
 </glyph>

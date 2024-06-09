@@ -19,9 +19,9 @@
       <point x="589.6289421842022" y="137.0" type="line"/>
       <point x="583.6289421842022" y="137.0" type="line"/>
       <point x="528.6225097610405" y="72.0"/>
-      <point x="372" y="-20"/>
-      <point x="281" y="-20" type="qcurve" smooth="yes"/>
-      <point x="82" y="-20"/>
+      <point x="352.38263617748873" y="-20.0"/>
+      <point x="261.38263617748873" y="-20.0" type="qcurve" smooth="yes"/>
+      <point x="62.382636177488735" y="-20.0"/>
       <point x="-95.05208402748366" y="251.0"/>
     </contour>
     <contour>
@@ -53,4 +53,10 @@
       <point x="773.4488715359279" y="-128.0" type="line"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0,0.1,1,0.2</string>
+    </dict>
+  </lib>
 </glyph>
