@@ -1207,60 +1207,6 @@
           <dimension name="XTSP" xvalue="20"/>
         </output>
       </mapping>
-      
-      
-      
-<!--       CUSTOM MAPPINGS / DESIGNSPACE LIMITATIONS-->
-
-<!--       OPSZ14 WDTH25 WGHT400-->
-<!--       XTRA MIN CUSTOM FENCE -->
-<!--
-	  <mapping description="XTRA MIN fence">
-        <input>
-          <dimension name="Optical size" xvalue="14"/>
-          <dimension name="Weight" xvalue="400"/>
-          <dimension name="Width" xvalue="25"/>
-          <dimension name="XTRA" xvalue="400"/>
-        </input>
-        <output>
-          <dimension name="Optical size" xvalue="14"/>
-          <dimension name="Weight" xvalue="400"/>
-          <dimension name="Width" xvalue="25"/>
-          <dimension name="XTRA" xvalue="400"/>
-        </output>
-      </mapping>
-      <mapping>
-        <input>
-          <dimension name="Optical size" xvalue="14"/>
-          <dimension name="Weight" xvalue="400"/>
-          <dimension name="Width" xvalue="25"/>
-          <dimension name="XTRA" xvalue="244"/>
-        </input>
-        <output>
-          <dimension name="Optical size" xvalue="14"/>
-          <dimension name="Weight" xvalue="400"/>
-          <dimension name="Width" xvalue="25"/>
-          <dimension name="XTRA" xvalue="400"/>
-        </output>
-      </mapping>
-      
-      <mapping description="RE-MAP GLOBAL XTRA MIN fence">
-        <input>
-          <dimension name="Optical size" xvalue="14"/>
-          <dimension name="Weight" xvalue="400"/>
-          <dimension name="Width" xvalue="25"/>
-          <dimension name="XTRA" xvalue="390"/>
-        </input>
-        <output>
-          <dimension name="Optical size" xvalue="14"/>
-          <dimension name="Weight" xvalue="400"/>
-          <dimension name="Width" xvalue="25"/>
-          <dimension name="XTRA" xvalue="400"/>
-        </output>
-      </mapping>
--->
-
-
 
 <!--       OPSZ8 WDTH100 WGHT400 -->
 <!--       XTRA FENCES -->
@@ -1350,7 +1296,7 @@
           <dimension name="XTRA" xvalue="520"/>
         </output>
       </mapping>
-
+      
 <!--       XOPQ FENCES-->
 <!--       MIN FENCE-->
       <mapping description="XOPQ MIN fence">
@@ -1677,60 +1623,6 @@
 
 <!--       OPSZ144 -->
 <!--       THIS USE THE AXIS MIN, SO NO MAPPING NEEDED -->
-<!--       XTRA MIN -->
-      <mapping>
-        <input>
-          <dimension name="Optical size" xvalue="144"/>
-          <dimension name="Weight" xvalue="400"/>
-          <dimension name="Width" xvalue="100"/>
-          <dimension name="XTRA" xvalue="244"/>
-        </input>
-        <output>
-          <dimension name="Optical size" xvalue="144"/>
-          <dimension name="Slant" xvalue="0"/>
-          <dimension name="Weight" xvalue="400"/>
-          <dimension name="Width" xvalue="100"/>
-          <dimension name="XOPQ" xvalue="55"/>
-          <dimension name="XTRA" xvalue="244"/>
-          <dimension name="XTSP" xvalue="-40"/>
-          <dimension name="YOPQ" xvalue="49"/>
-          <dimension name="YTAS" xvalue="728"/>
-          <dimension name="YTDE" xvalue="-208"/>
-          <dimension name="YTFI" xvalue="743"/>
-          <dimension name="YTLC" xvalue="458"/>
-          <dimension name="YTOS" xvalue="30"/>
-          <dimension name="YTUC" xvalue="728"/>
-          <dimension name="YTTL" xvalue="25"/>
-          <dimension name="XTTW" xvalue="5"/>
-        </output>
-      </mapping>
-<!--       XTRA MAX -->
-      <mapping>
-        <input>
-          <dimension name="Optical size" xvalue="144"/>
-          <dimension name="Weight" xvalue="400"/>
-          <dimension name="Width" xvalue="100"/>
-          <dimension name="XTRA" xvalue="741"/>
-        </input>
-        <output>
-          <dimension name="Optical size" xvalue="144"/>
-          <dimension name="Slant" xvalue="0"/>
-          <dimension name="Weight" xvalue="400"/>
-          <dimension name="Width" xvalue="100"/>
-          <dimension name="XOPQ" xvalue="55"/>
-          <dimension name="XTRA" xvalue="741"/>
-          <dimension name="XTSP" xvalue="-40"/>
-          <dimension name="YOPQ" xvalue="49"/>
-          <dimension name="YTAS" xvalue="728"/>
-          <dimension name="YTDE" xvalue="-208"/>
-          <dimension name="YTFI" xvalue="743"/>
-          <dimension name="YTLC" xvalue="458"/>
-          <dimension name="YTOS" xvalue="30"/>
-          <dimension name="YTUC" xvalue="728"/>
-          <dimension name="YTTL" xvalue="25"/>
-          <dimension name="XTTW" xvalue="5"/>
-        </output>
-      </mapping>
 <!--       XOPQ MIN -->
       <mapping>
         <input>
@@ -1773,6 +1665,60 @@
           <dimension name="Width" xvalue="100"/>
           <dimension name="XOPQ" xvalue="310"/>
           <dimension name="XTRA" xvalue="447"/>
+          <dimension name="XTSP" xvalue="-40"/>
+          <dimension name="YOPQ" xvalue="49"/>
+          <dimension name="YTAS" xvalue="728"/>
+          <dimension name="YTDE" xvalue="-208"/>
+          <dimension name="YTFI" xvalue="743"/>
+          <dimension name="YTLC" xvalue="458"/>
+          <dimension name="YTOS" xvalue="30"/>
+          <dimension name="YTUC" xvalue="728"/>
+          <dimension name="YTTL" xvalue="25"/>
+          <dimension name="XTTW" xvalue="5"/>
+        </output>
+      </mapping>
+<!--       XTRA MIN -->
+      <mapping>
+        <input>
+          <dimension name="Optical size" xvalue="144"/>
+          <dimension name="Weight" xvalue="400"/>
+          <dimension name="Width" xvalue="100"/>
+          <dimension name="XTRA" xvalue="244"/>
+        </input>
+        <output>
+          <dimension name="Optical size" xvalue="144"/>
+          <dimension name="Slant" xvalue="0"/>
+          <dimension name="Weight" xvalue="400"/>
+          <dimension name="Width" xvalue="100"/>
+          <dimension name="XOPQ" xvalue="55"/>
+          <dimension name="XTRA" xvalue="244"/>
+          <dimension name="XTSP" xvalue="-40"/>
+          <dimension name="YOPQ" xvalue="49"/>
+          <dimension name="YTAS" xvalue="728"/>
+          <dimension name="YTDE" xvalue="-208"/>
+          <dimension name="YTFI" xvalue="743"/>
+          <dimension name="YTLC" xvalue="458"/>
+          <dimension name="YTOS" xvalue="30"/>
+          <dimension name="YTUC" xvalue="728"/>
+          <dimension name="YTTL" xvalue="25"/>
+          <dimension name="XTTW" xvalue="5"/>
+        </output>
+      </mapping>
+<!--       XTRA MAX -->
+      <mapping>
+        <input>
+          <dimension name="Optical size" xvalue="144"/>
+          <dimension name="Weight" xvalue="400"/>
+          <dimension name="Width" xvalue="100"/>
+          <dimension name="XTRA" xvalue="741"/>
+        </input>
+        <output>
+          <dimension name="Optical size" xvalue="144"/>
+          <dimension name="Slant" xvalue="0"/>
+          <dimension name="Weight" xvalue="400"/>
+          <dimension name="Width" xvalue="100"/>
+          <dimension name="XOPQ" xvalue="55"/>
+          <dimension name="XTRA" xvalue="741"/>
           <dimension name="XTSP" xvalue="-40"/>
           <dimension name="YOPQ" xvalue="49"/>
           <dimension name="YTAS" xvalue="728"/>
@@ -1828,7 +1774,7 @@
           <dimension name="XOPQ" xvalue="55"/>
           <dimension name="XTRA" xvalue="447"/>
           <dimension name="XTSP" xvalue="-40"/>
-          <dimension name="YOPQ" xvalue="280"/>
+          <dimension name="YOPQ" xvalue="220"/>
           <dimension name="YTAS" xvalue="728"/>
           <dimension name="YTDE" xvalue="-208"/>
           <dimension name="YTFI" xvalue="743"/>
@@ -1838,7 +1784,7 @@
           <dimension name="YTTL" xvalue="25"/>
           <dimension name="XTTW" xvalue="5"/>
         </output>
-      </mapping>      
+      </mapping>
       <!--       XTSP MIN -->
       <mapping>
         <input>
@@ -1893,166 +1839,149 @@
           <dimension name="XTTW" xvalue="5"/>
         </output>
       </mapping>
-      
+
 <!--       OPSZ144 WDTH100 WGHT100 -->
-      
-      
+
 <!--       XOPQ MAX -->
-      <mapping description="XOPQ MAX fence for wght100">
-        <input>
-          <dimension name="Optical size" xvalue="144"/>
-          <dimension name="Width" xvalue="100"/>
-          <dimension name="Weight" xvalue="100"/>
-          <dimension name="XOPQ" xvalue="20"/>
-        </input>
-        <output>
-          <dimension name="Optical size" xvalue="144"/>
-          <dimension name="Slant" xvalue="0"/>
-          <dimension name="Weight" xvalue="100"/>
-          <dimension name="Width" xvalue="100"/>
-          <dimension name="XOPQ" xvalue="20"/>
-          <dimension name="XTRA" xvalue="506"/>
-          <dimension name="XTSP" xvalue="-40"/>
+      <mapping>
+	    <input>
+	      <dimension name="Optical size" xvalue="144"/>
+	      <dimension name="Weight" xvalue="100"/>
+	      <dimension name="Width" xvalue="100"/>
+	      <dimension name="XOPQ" xvalue="20"/>
+	    </input>
+	    <output>
+	      <dimension name="Optical size" xvalue="144"/>
+	      <dimension name="Weight" xvalue="100"/>
+	      <dimension name="Width" xvalue="100"/>
+	      <dimension name="XOPQ" xvalue="20"/>
+	      <dimension name="XTRA" xvalue="506"/>
+          <dimension name="XTSP" xvalue="-10"/>
           <dimension name="YOPQ" xvalue="4"/>
           <dimension name="YTAS" xvalue="728"/>
           <dimension name="YTDE" xvalue="-208"/>
           <dimension name="YTFI" xvalue="743"/>
           <dimension name="YTLC" xvalue="458"/>
-          <dimension name="YTOS" xvalue="30"/>
+          <dimension name="YTOS" xvalue="10"/>
           <dimension name="YTUC" xvalue="728"/>
           <dimension name="YTTL" xvalue="25"/>
-          <dimension name="XTTW" xvalue="5"/>
+          <dimension name="XTTW" xvalue="0"/>
+          <dimension name="XTUR" xvalue="463"/>
+          <dimension name="WDSP" xvalue="162"/>
+          <dimension name="BARS" xvalue="1000"/>
+          <dimension name="XTUD" xvalue="463"/>
+          <dimension name="STUI" xvalue="92"/>
+          <dimension name="STUO" xvalue="92"/>
+          <dimension name="STLI" xvalue="32"/>
+          <dimension name="STLO" xvalue="32"/>
+	    </output>
+	  </mapping>
+	  <mapping>
+	    <input>
+	      <dimension name="Optical size" xvalue="144"/>
+	      <dimension name="Weight" xvalue="100"/>
+	      <dimension name="Width" xvalue="100"/>
+	      <dimension name="XOPQ" xvalue="310"/>
+	    </input>
+	    <output>
+	      <dimension name="Optical size" xvalue="144"/>
+	      <dimension name="Weight" xvalue="100"/>
+	      <dimension name="Width" xvalue="100"/>
+	      <dimension name="XOPQ" xvalue="20"/>
+	      <dimension name="XTRA" xvalue="506"/>
+          <dimension name="XTSP" xvalue="-10"/>
+          <dimension name="YOPQ" xvalue="4"/>
+          <dimension name="YTAS" xvalue="728"/>
+          <dimension name="YTDE" xvalue="-208"/>
+          <dimension name="YTFI" xvalue="743"/>
+          <dimension name="YTLC" xvalue="458"/>
+          <dimension name="YTOS" xvalue="10"/>
+          <dimension name="YTUC" xvalue="728"/>
+          <dimension name="YTTL" xvalue="25"/>
+          <dimension name="XTTW" xvalue="0"/>
+          <dimension name="XTUR" xvalue="463"/>
+          <dimension name="WDSP" xvalue="162"/>
+          <dimension name="BARS" xvalue="1000"/>
+          <dimension name="XTUD" xvalue="463"/>
+          <dimension name="STUI" xvalue="92"/>
+          <dimension name="STUO" xvalue="92"/>
+          <dimension name="STLI" xvalue="32"/>
+          <dimension name="STLO" xvalue="32"/>
+	    </output>
+	  </mapping>
+	  
+<!--       OPSZ144 WDTH100 WGHT1000 -->
+
+<!--       YOPQ MAX -->
+
+      <mapping>
+        <input>
+            <dimension name="Optical size" xvalue="144"/>
+            <dimension name="Slant" xvalue="0"/>
+            <dimension name="Weight" xvalue="1000"/>
+            <dimension name="Width" xvalue="100"/>
+            <dimension name="YOPQ" xvalue="230"/>
+        </input>
+        <output>
+            <dimension name="VANG" xvalue="0"/>
+            <dimension name="VROT" xvalue="0"/>
+            <dimension name="XOPQ" xvalue="300"/>
+            <dimension name="XTRA" xvalue="262"/>
+            <dimension name="XTSP" xvalue="-80"/>
+            <dimension name="YOPQ" xvalue="230"/>
+            <dimension name="YTAS" xvalue="728"/>
+            <dimension name="YTDE" xvalue="-208"/>
+            <dimension name="YTFI" xvalue="743"/>
+            <dimension name="YTLC" xvalue="458"/>
+            <dimension name="YTOS" xvalue="30"/>
+            <dimension name="YTUC" xvalue="728"/>
+            <dimension name="YTTL" xvalue="25"/>
+            <dimension name="XTTW" xvalue="0"/>
+            <dimension name="XTUR" xvalue="463"/>
+            <dimension name="WDSP" xvalue="306"/>
+            <!-- BARS EXCEPTION TO OPEN BARS FOR $¢Øø -->
+            <dimension name="BARS" xvalue="0"/>
+            <!-- XTUD EXCEPTION TO OPEN TRANSPARENCY FOR UPPERCASE DIAGONALS -->
+            <dimension name="XTUD" xvalue="550"/>
+            <dimension name="STUI" xvalue="92"/>
+            <dimension name="STUO" xvalue="92"/>
+            <dimension name="STLI" xvalue="32"/>
+            <dimension name="STLO" xvalue="32"/>
         </output>
       </mapping>
       <mapping>
         <input>
-          <dimension name="Optical size" xvalue="144"/>
-          <dimension name="Width" xvalue="100"/>
-          <dimension name="Weight" xvalue="100"/>
-          <dimension name="XOPQ" xvalue="310"/>
+            <dimension name="Optical size" xvalue="144"/>
+            <dimension name="Slant" xvalue="0"/>
+            <dimension name="Weight" xvalue="1000"/>
+            <dimension name="Width" xvalue="100"/>
+            <dimension name="YOPQ" xvalue="280"/>
         </input>
         <output>
-          <dimension name="Optical size" xvalue="144"/>
-          <dimension name="Slant" xvalue="0"/>
-          <dimension name="Weight" xvalue="100"/>
-          <dimension name="Width" xvalue="100"/>
-          <dimension name="XOPQ" xvalue="20"/>
-          <dimension name="XTRA" xvalue="506"/>
-          <dimension name="XTSP" xvalue="-40"/>
-          <dimension name="YOPQ" xvalue="4"/>
-          <dimension name="YTAS" xvalue="728"/>
-          <dimension name="YTDE" xvalue="-208"/>
-          <dimension name="YTFI" xvalue="743"/>
-          <dimension name="YTLC" xvalue="458"/>
-          <dimension name="YTOS" xvalue="30"/>
-          <dimension name="YTUC" xvalue="728"/>
-          <dimension name="YTTL" xvalue="25"/>
-          <dimension name="XTTW" xvalue="5"/>
-        </output>
-      </mapping>
-<!--       RE-MAP GLOBAL FENCE TO CUSTOM FENCE -->
-      <mapping>
-        <input>
-          <dimension name="Optical size" xvalue="144"/>
-          <dimension name="Width" xvalue="100"/>
-          <dimension name="Weight" xvalue="100"/>
-          <dimension name="XOPQ" xvalue="47"/>
-        </input>
-        <output>
-          <dimension name="Optical size" xvalue="144"/>
-          <dimension name="Slant" xvalue="0"/>
-          <dimension name="Weight" xvalue="100"/>
-          <dimension name="Width" xvalue="100"/>
-          <dimension name="XOPQ" xvalue="20"/>
-          <dimension name="XTRA" xvalue="506"/>
-          <dimension name="XTSP" xvalue="-40"/>
-          <dimension name="YOPQ" xvalue="4"/>
-          <dimension name="YTAS" xvalue="728"/>
-          <dimension name="YTDE" xvalue="-208"/>
-          <dimension name="YTFI" xvalue="743"/>
-          <dimension name="YTLC" xvalue="458"/>
-          <dimension name="YTOS" xvalue="30"/>
-          <dimension name="YTUC" xvalue="728"/>
-          <dimension name="YTTL" xvalue="25"/>
-          <dimension name="XTTW" xvalue="5"/>
-        </output>
-      </mapping>
-      <mapping>
-        <input>
-          <dimension name="Optical size" xvalue="144"/>
-          <dimension name="Width" xvalue="100"/>
-          <dimension name="Weight" xvalue="100"/>
-          <dimension name="XOPQ" xvalue="80"/>
-        </input>
-        <output>
-          <dimension name="Optical size" xvalue="144"/>
-          <dimension name="Slant" xvalue="0"/>
-          <dimension name="Weight" xvalue="100"/>
-          <dimension name="Width" xvalue="100"/>
-          <dimension name="XOPQ" xvalue="20"/>
-          <dimension name="XTRA" xvalue="506"/>
-          <dimension name="XTSP" xvalue="-40"/>
-          <dimension name="YOPQ" xvalue="4"/>
-          <dimension name="YTAS" xvalue="728"/>
-          <dimension name="YTDE" xvalue="-208"/>
-          <dimension name="YTFI" xvalue="743"/>
-          <dimension name="YTLC" xvalue="458"/>
-          <dimension name="YTOS" xvalue="30"/>
-          <dimension name="YTUC" xvalue="728"/>
-          <dimension name="YTTL" xvalue="25"/>
-          <dimension name="XTTW" xvalue="5"/>
-        </output>
-      </mapping>
-      <mapping>
-        <input>
-          <dimension name="Optical size" xvalue="144"/>
-          <dimension name="Width" xvalue="100"/>
-          <dimension name="Weight" xvalue="100"/>
-          <dimension name="XOPQ" xvalue="96"/>
-        </input>
-        <output>
-          <dimension name="Optical size" xvalue="144"/>
-          <dimension name="Slant" xvalue="0"/>
-          <dimension name="Weight" xvalue="100"/>
-          <dimension name="Width" xvalue="100"/>
-          <dimension name="XOPQ" xvalue="20"/>
-          <dimension name="XTRA" xvalue="506"/>
-          <dimension name="XTSP" xvalue="-40"/>
-          <dimension name="YOPQ" xvalue="4"/>
-          <dimension name="YTAS" xvalue="728"/>
-          <dimension name="YTDE" xvalue="-208"/>
-          <dimension name="YTFI" xvalue="743"/>
-          <dimension name="YTLC" xvalue="458"/>
-          <dimension name="YTOS" xvalue="30"/>
-          <dimension name="YTUC" xvalue="728"/>
-          <dimension name="YTTL" xvalue="25"/>
-          <dimension name="XTTW" xvalue="5"/>
-        </output>
-      </mapping>
-      <mapping>
-        <input>
-          <dimension name="Optical size" xvalue="144"/>
-          <dimension name="Width" xvalue="100"/>
-          <dimension name="Weight" xvalue="100"/>
-          <dimension name="XOPQ" xvalue="210"/>
-        </input>
-        <output>
-          <dimension name="Optical size" xvalue="144"/>
-          <dimension name="Slant" xvalue="0"/>
-          <dimension name="Weight" xvalue="100"/>
-          <dimension name="Width" xvalue="100"/>
-          <dimension name="XOPQ" xvalue="20"/>
-          <dimension name="XTRA" xvalue="506"/>
-          <dimension name="XTSP" xvalue="-40"/>
-          <dimension name="YOPQ" xvalue="4"/>
-          <dimension name="YTAS" xvalue="728"/>
-          <dimension name="YTDE" xvalue="-208"/>
-          <dimension name="YTFI" xvalue="743"/>
-          <dimension name="YTLC" xvalue="458"/>
-          <dimension name="YTOS" xvalue="30"/>
-          <dimension name="YTUC" xvalue="728"/>
-          <dimension name="YTTL" xvalue="25"/>
-          <dimension name="XTTW" xvalue="5"/>
+            <dimension name="VANG" xvalue="0"/>
+            <dimension name="VROT" xvalue="0"/>
+            <dimension name="XOPQ" xvalue="300"/>
+            <dimension name="XTRA" xvalue="262"/>
+            <dimension name="XTSP" xvalue="-80"/>
+            <dimension name="YOPQ" xvalue="230"/>
+            <dimension name="YTAS" xvalue="728"/>
+            <dimension name="YTDE" xvalue="-208"/>
+            <dimension name="YTFI" xvalue="743"/>
+            <dimension name="YTLC" xvalue="458"/>
+            <dimension name="YTOS" xvalue="30"/>
+            <dimension name="YTUC" xvalue="728"/>
+            <dimension name="YTTL" xvalue="25"/>
+            <dimension name="XTTW" xvalue="0"/>
+            <dimension name="XTUR" xvalue="463"/>
+            <dimension name="WDSP" xvalue="306"/>
+            <!-- BARS EXCEPTION TO OPEN BARS FOR $¢Øø -->
+            <dimension name="BARS" xvalue="0"/>
+            <!-- XTUD EXCEPTION TO OPEN TRANSPARENCY FOR UPPERCASE DIAGONALS -->
+            <dimension name="XTUD" xvalue="550"/>
+            <dimension name="STUI" xvalue="92"/>
+            <dimension name="STUO" xvalue="92"/>
+            <dimension name="STLI" xvalue="32"/>
+            <dimension name="STLO" xvalue="32"/>
         </output>
       </mapping>
       
