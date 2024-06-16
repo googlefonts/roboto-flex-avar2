@@ -2,27 +2,27 @@
 <glyph name="paragraph" format="2">
   <advance width="1261"/>
   <unicode hex="00B6"/>
-  <guideline x="0" y="901" angle="0" identifier="27539Lsr1A"/>
-  <guideline x="0" y="555" angle="0" identifier="e34wUdCmXR"/>
+  <guideline x="-9.219409134020609" y="901" angle="0" identifier="27539Lsr1A"/>
+  <guideline x="8.913682497911832" y="555" angle="0" identifier="e34wUdCmXR"/>
   <outline>
     <contour>
-      <point x="733" y="-146" type="line"/>
-      <point x="547" y="-146" type="line"/>
-      <point x="547" y="696" type="line"/>
-      <point x="460" y="696" type="line" smooth="yes"/>
-      <point x="265" y="696"/>
-      <point x="56" y="912"/>
-      <point x="56" y="1076" type="qcurve" smooth="yes"/>
-      <point x="56" y="1238"/>
-      <point x="265" y="1456"/>
-      <point x="460" y="1456" type="qcurve" smooth="yes"/>
-      <point x="733" y="1456" type="line"/>
+      <point x="778.6515357753241" y="-146.0" type="line"/>
+      <point x="592.6515357753241" y="-146.0" type="line"/>
+      <point x="548.524185619003" y="696.0" type="line"/>
+      <point x="461.52418561900294" y="696.0" type="line" smooth="yes"/>
+      <point x="266.52418561900294" y="696.0"/>
+      <point x="46.20410529386593" y="912.0"/>
+      <point x="37.60922949144708" y="1076.0" type="qcurve" smooth="yes"/>
+      <point x="29.119169247594314" y="1238.0"/>
+      <point x="226.69427336389123" y="1456.0"/>
+      <point x="421.6942733638912" y="1456.0" type="qcurve" smooth="yes"/>
+      <point x="694.6942733638912" y="1456.0" type="line"/>
     </contour>
     <contour>
-      <point x="875" y="1459" type="line"/>
-      <point x="1061" y="1459" type="line"/>
-      <point x="1061" y="-146" type="line"/>
-      <point x="875" y="-146" type="line"/>
+      <point x="836.5370500260422" y="1459.0" type="line"/>
+      <point x="1022.5370500260422" y="1459.0" type="line"/>
+      <point x="1106.6515357753242" y="-146.0" type="line"/>
+      <point x="920.6515357753241" y="-146.0" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -31,6 +31,8 @@
       <integer>5</integer>
       <key>com.typemytype.robofont.guideline.magnetic.e34wUdCmXR</key>
       <integer>5</integer>
+      <key>public.markColor</key>
+      <string>0,0.1,1,0.2</string>
     </dict>
   </lib>
 </glyph>

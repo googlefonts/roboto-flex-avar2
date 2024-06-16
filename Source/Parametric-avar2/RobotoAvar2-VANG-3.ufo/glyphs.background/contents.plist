@@ -10,10 +10,10 @@
     <string>D_zcaron.glif</string>
     <key>Iemacroncyr</key>
     <string>I_emacroncyr.glif</string>
-    <key>K</key>
-    <string>K_.glif</string>
     <key>Kaisymbol</key>
     <string>K_aisymbol.glif</string>
+    <key>M</key>
+    <string>M_.glif</string>
     <key>Oslashacute</key>
     <string>O_slashacute.glif</string>
     <key>Schwa</key>
@@ -22,14 +22,14 @@
     <string>U_hornacute.glif</string>
     <key>Uhorngrave</key>
     <string>U_horngrave.glif</string>
+    <key>Yi-dieresiscomb.case</key>
+    <string>Y_i-dieresiscomb.case.glif</string>
     <key>Yu</key>
     <string>Y_u.glif</string>
     <key>Zhe</key>
     <string>Z_he.glif</string>
     <key>Zhedescender</key>
     <string>Z_hedescender.glif</string>
-    <key>a</key>
-    <string>a.glif</string>
     <key>alpha</key>
     <string>alpha.glif</string>
     <key>arrowleft</key>
@@ -46,16 +46,22 @@
     <string>de.glif</string>
     <key>diagonalbarO</key>
     <string>diagonalbarO_.glif</string>
+    <key>dieresistonoscomb</key>
+    <string>dieresistonoscomb.glif</string>
     <key>dzcaron</key>
     <string>dzcaron.glif</string>
     <key>ef</key>
     <string>ef.glif</string>
+    <key>eth</key>
+    <string>eth.glif</string>
     <key>foursuperior</key>
     <string>foursuperior.glif</string>
     <key>g</key>
     <string>g.glif</string>
     <key>h</key>
     <string>h.glif</string>
+    <key>hryvnia.rvrn</key>
+    <string>hryvnia.rvrn.glif</string>
     <key>iemacroncyr</key>
     <string>iemacroncyr.glif</string>
     <key>m</key>
@@ -70,6 +76,8 @@
     <string>p.glif</string>
     <key>q</key>
     <string>q.glif</string>
+    <key>quotedbl</key>
+    <string>quotedbl.glif</string>
     <key>r</key>
     <string>r.glif</string>
     <key>rho</key>
@@ -78,6 +86,8 @@
     <string>sha.bgr.glif</string>
     <key>shcha.bgr</key>
     <string>shcha.bgr.glif</string>
+    <key>soft.bgr</key>
+    <string>soft.bgr.glif</string>
     <key>thorn</key>
     <string>thorn.glif</string>
     <key>tse.bgr</key>

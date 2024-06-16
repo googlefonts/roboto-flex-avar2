@@ -2,7 +2,7 @@
 <designspace format="5.1">
   <axes>
     <axis tag="opsz" name="Optical size" minimum="8" maximum="144" default="14"/>
-    <axis tag="slnt" name="Slant" minimum="0" maximum="13" default="0"/>
+    <axis tag="slnt" name="Slant" minimum="-3" maximum="13" default="0"/>
     <axis tag="wght" name="Weight" minimum="100" maximum="1000" default="400"/>
     <axis tag="wdth" name="Width" minimum="25" maximum="151" default="100"/>
     <axis tag="VANG" name="VANG" minimum="-3" maximum="13" default="0"/>
@@ -971,7 +971,35 @@
             <dimension name="STLO" xvalue="32"/>
         </output>
       </mapping>
-
+      <mapping>
+        <input>
+            <dimension name="Slant" xvalue="-3"/>
+        </input>
+        <output>
+            <dimension name="VANG" xvalue="-3"/>
+            <dimension name="VROT" xvalue="4"/>
+            <dimension name="XOPQ" xvalue="96"/>
+            <dimension name="XTRA" xvalue="463"/>
+            <dimension name="XTSP" xvalue="0"/>
+            <dimension name="YOPQ" xvalue="79"/>
+            <dimension name="YTAS" xvalue="728"/>
+            <dimension name="YTDE" xvalue="-208"/>
+            <dimension name="YTFI" xvalue="743"/>
+            <dimension name="YTLC" xvalue="526"/>
+            <dimension name="YTOS" xvalue="30"/>
+            <dimension name="YTUC" xvalue="728"/>
+            <dimension name="YTTL" xvalue="25"/>
+            <dimension name="XTTW" xvalue="5"/>
+            <dimension name="XTUR" xvalue="463"/>
+            <dimension name="WDSP" xvalue="246"/>
+            <dimension name="BARS" xvalue="1000"/>
+            <dimension name="XTUD" xvalue="463"/>
+            <dimension name="STUI" xvalue="92"/>
+            <dimension name="STUO" xvalue="92"/>
+            <dimension name="STLI" xvalue="32"/>
+            <dimension name="STLO" xvalue="32"/>
+        </output>
+      </mapping>
       
       
       

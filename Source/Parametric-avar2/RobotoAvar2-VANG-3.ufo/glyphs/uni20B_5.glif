@@ -40,9 +40,9 @@
       <point x="304.174447764683" y="1485.0"/>
       <point x="523.174447764683" y="1485.0" type="qcurve" smooth="yes"/>
       <point x="740.174447764683" y="1485.0"/>
-      <point x="973.2239848061604" y="1236.0"/>
+      <point x="982.2239848061604" y="1236.0"/>
       <point x="993.019987338467" y="1030.0" type="qcurve" smooth="yes"/>
-      <point x="995.27777404126" y="1006.0" type="line"/>
+      <point x="994.27777404126" y="1006.0" type="line"/>
       <point x="801.27777404126" y="1006.0" type="line"/>
       <point x="800.019987338467" y="1030.0" type="line" smooth="yes"/>
       <point x="794.0455005002002" y="1144.0"/>
@@ -54,15 +54,13 @@
       <point x="309.6827904126686" y="464.0" type="line" smooth="yes"/>
       <point x="318.3824817736536" y="298.0"/>
       <point x="460.6062509274689" y="122.0"/>
-      <point x="610.6062509274689" y="122.0" type="qcurve" smooth="yes"/>
+      <point x="596.6062509274689" y="122.0" type="qcurve" smooth="yes"/>
       <point x="728.6062509274689" y="122.0"/>
       <point x="843.1728506565214" y="302.0"/>
     </contour>
   </outline>
   <lib>
     <dict>
-      <key>com.typemytype.robofont.guideline.magnetic.1Am3eQoiKr</key>
-      <integer>5</integer>
       <key>public.markColor</key>
       <string>0,0.1,1,0.2</string>
     </dict>

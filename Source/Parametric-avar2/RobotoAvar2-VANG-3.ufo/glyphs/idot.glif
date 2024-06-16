@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="idot" format="2">
-  <anchor x="-17.132983805759913" y="1052" name="_top"/>
+  <anchor x="-17" y="1052" name="_top"/>
   <outline>
     <contour>
       <point x="-144" y="1370" type="qcurve" smooth="yes"/>
@@ -17,10 +17,4 @@
       <point x="-144" y="1323"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>0,0.1,1,0.2</string>
-    </dict>
-  </lib>
 </glyph>

@@ -1046,13 +1046,16 @@
           <string>Hacyr-stroke</string>
           <string>obarcyr-stroke</string>
           <string>hacyr-stroke</string>
+          <string>Yu-dash.case</string>
+          <string>yu-dash</string>
+          <string>idot</string>
         </array>
         <key>type</key>
         <string>glyphList</string>
       </dict>
     </array>
     <key>com.typemytype.glyphBuilder.lastSavedFileName</key>
-    <string>RobotoFlex-Regular-Greek</string>
+    <string>RobotoFlex-Regular-Cyrillic</string>
     <key>com.typemytype.robofont.Roboto-Regular.layerShow</key>
     <false/>
     <key>com.typemytype.robofont.Roboto-Regular.layerStrokeColor</key>
@@ -1104,14 +1107,6 @@
       <real>0.6924212208</real>
       <real>0.3</real>
     </array>
-    <key>com.typemytype.robofont.guideline.magnetic.8PaiWxCayf</key>
-    <real>5.0</real>
-    <key>com.typemytype.robofont.guideline.magnetic.OQ70JAesKa</key>
-    <real>5.0</real>
-    <key>com.typemytype.robofont.guideline.showMeasurements.8PaiWxCayf</key>
-    <false/>
-    <key>com.typemytype.robofont.guideline.showMeasurements.OQ70JAesKa</key>
-    <false/>
     <key>com.typemytype.robofont.italicSlantOffset</key>
     <integer>0</integer>
     <key>com.typemytype.robofont.segmentType</key>
