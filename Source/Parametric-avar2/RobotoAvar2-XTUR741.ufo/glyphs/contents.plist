@@ -14,6 +14,12 @@
     <string>C_circumflex.glif</string>
     <key>Cdotaccent</key>
     <string>C_dotaccent.glif</string>
+    <key>Dze</key>
+    <string>D_ze.glif</string>
+    <key>Es</key>
+    <string>E_s.glif</string>
+    <key>Esdescendercyr</key>
+    <string>E_sdescendercyr.glif</string>
     <key>G</key>
     <string>G_.glif</string>
     <key>Gbreve</key>
@@ -26,12 +32,18 @@
     <string>G_commaaccent.glif</string>
     <key>Gdotaccent</key>
     <string>G_dotaccent.glif</string>
+    <key>I</key>
+    <string>I_.glif</string>
     <key>O</key>
     <string>O_.glif</string>
     <key>OE</key>
     <string>O_E_.glif</string>
     <key>Oacute</key>
     <string>O_acute.glif</string>
+    <key>Obarcyr</key>
+    <string>O_barcyr.glif</string>
+    <key>Obarcyr-stroke</key>
+    <string>O_barcyr-stroke.glif</string>
     <key>Obreve</key>
     <string>O_breve.glif</string>
     <key>Ocircumflex</key>
@@ -46,10 +58,14 @@
     <string>O_circumflexhookabove.glif</string>
     <key>Ocircumflextilde</key>
     <string>O_circumflextilde.glif</string>
+    <key>Ocyr</key>
+    <string>O_cyr.glif</string>
     <key>Odblgrave</key>
     <string>O_dblgrave.glif</string>
     <key>Odieresis</key>
     <string>O_dieresis.glif</string>
+    <key>Odieresiscyr</key>
+    <string>O_dieresiscyr.glif</string>
     <key>Odieresismacron</key>
     <string>O_dieresismacron.glif</string>
     <key>Odotaccentmacron</key>
@@ -78,6 +94,10 @@
     <string>O_invertedbreve.glif</string>
     <key>Omacron</key>
     <string>O_macron.glif</string>
+    <key>Omicron</key>
+    <string>O_micron.glif</string>
+    <key>Omicrontonos</key>
+    <string>O_microntonos.glif</string>
     <key>Oogonek</key>
     <string>O_ogonek.glif</string>
     <key>Oslash</key>
@@ -102,6 +122,10 @@
     <string>S_circumflex.glif</string>
     <key>Scommaaccent</key>
     <string>S_commaaccent.glif</string>
+    <key>Yu</key>
+    <string>Y_u.glif</string>
+    <key>Yu-dash.case</key>
+    <string>Y_u-dash.case.glif</string>
     <key>acute-stack.case</key>
     <string>acute-stack.case.glif</string>
     <key>acute.case</key>
@@ -266,5 +290,7 @@
     <string>tildecomb.case.glif</string>
     <key>tildecombstack.case</key>
     <string>tildecombstack.case.glif</string>
+    <key>tonoscomb.case</key>
+    <string>tonoscomb.case.glif</string>
   </dict>
 </plist>
