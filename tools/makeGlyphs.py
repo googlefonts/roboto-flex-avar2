@@ -24,6 +24,10 @@ STLI = STLO = [ 'a', 'b', 'c', 'd', 'e', 'g', 'h', 'm', 'n', 'o', 'p', 'q', 's',
 
 STUI = STUO = [ 'C', 'D', 'G', 'J', 'O', 'Q', 'S', 'U' ]
 
+XTUD = [ 'A', 'I', 'J', 'K', 'L', 'M', 'N', 'V', 'W', 'j', 'Agrave', 'Aacute', 'Acircumflex', 'Atilde', 'Adieresis', 'Aring', 'AE', 'Ntilde', 'Amacron', 'Abreve', 'Aogonek', 'IJ', 'Jcircumflex', 'LJ', 'Lj', 'Kcommaaccent', 'Lacute', 'Lcommaaccent', 'Lcaron', 'Ldot', 'Lslash', 'IJacute', 'Jacute.loclNLD', 'Nacute', 'Ncommaaccent', 'Ncaron', 'Eng', 'Wcircumflex', 'NJ', 'Nj', 'Aringacute', 'AEacute', 'Adblgrave', 'Ainvertedbreve', 'Adotbelow', 'Ahookabove', 'Acircumflexacute', 'Acircumflexgrave', 'Acircumflexhookabove', 'Acircumflextilde', 'Acircumflexdotbelow', 'Abreveacute', 'Abrevegrave', 'Abrevehookabove', 'Abrevetilde', 'Abrevedotbelow', 'Wgrave', 'Wacute', 'Wdieresis', 'grave.case', 'acute.case', 'dieresis.case', 'macron.case', 'cedilla.case', 'circumflex.case', 'caron.case', 'breve.case', 'dotaccent.case', 'ring.case', 'ogonek.case', 'tilde.case', 'hungarumlaut.case', 'hookabove.case', 'breveinverted.case', 'dblgrave.case', 'horn.case', 'dotbelow.case', 'dieresisbelow.case', 'commaaccent.case', 'brevebelow.case', 'macronbelow.case', 'gravecomb.case', 'acutecomb.case', 'dieresiscomb.case', 'macroncomb.case', 'cedillacomb.case', 'circumflexcomb.case', 'caroncomb.case', 'brevecomb.case', 'dotaccentcomb.case', 'ringcomb.case', 'ogonekcomb.case', 'tildecomb.case', 'hungarumlautcomb.case', 'hookabovecomb.case', 'breveinvertedcomb.case', 'dblgravecomb.case', 'horncomb.case', 'dotbelowcomb.case', 'dieresisbelowcomb.case', 'commaaccentcomb.case', 'brevebelowcomb.case', 'macronbelowcomb.case', 'gravecombstack.case', 'acutecombstack.case', 'dieresiscombstack.case', 'macroncombstack.case', 'circumflexcombstack.case', 'brevecombstack.case', 'dotaccentcombstack.case', 'tildecombstack.case', 'hookabovecombstack.case', 'grave-stack.case', 'acute-stack.case', 'dieresis-stack.case', 'macron-stack.case', 'circumflex-stack.case', 'caron-stack.case', 'breve-stack.case', 'dotaccent-stack.case', 'ring-stack.case', 'tilde-stack.case', 'hungarumlaut-stack.case', 'hook-stack.case', 'breveinverted-stack.case', 'dblgrave-stack.case', 'gravecomb-stack.case', 'acutecomb-stack.case', 'dieresiscomb-stack.case', 'macroncomb-stack.case', 'circumflexcomb-stack.case', 'caroncomb-stack.case', 'brevecomb-stack.case', 'dotaccentcomb-stack.case', 'ringcomb-stack.case', 'tildecomb-stack.case', 'hungarumlautcomb-stack.case', 'hookcomb-stack.case', 'breveinvertedcomb-stack.case', 'dblgravecomb-stack.case', 'jdotless', 'diagonalbarO', 'idot', 'engtail', 'hookabovecomb-stack', 'caroncomb.alt', 'diagonalbarl', 'Alpha', 'Alphatonos', 'Kappa', 'Mu', 'Nu', 'tonoscomb.case', 'Je', 'Acyr', 'Abrevecyr', 'Adieresiscyr', 'Kje', 'Em', 'Ka.bgr', ]
+
+XTUR = [ 'C', 'G', 'I', 'O', 'Q', 'S', 'Ccedilla', 'Ograve', 'Oacute', 'Ocircumflex', 'Otilde', 'Odieresis', 'Oslash', 'Cacute', 'Ccircumflex', 'Cdotaccent', 'Ccaron', 'Gcircumflex', 'Gbreve', 'Gdotaccent', 'Gcommaaccent', 'Omacron', 'Obreve', 'Ohungarumlaut', 'OE', 'Sacute', 'Scircumflex', 'Scedilla', 'Scaron', 'Ohorn', 'Gcaron', 'Oogonek', 'Oslashacute', 'Odblgrave', 'Oinvertedbreve', 'Scommaaccent', 'Odieresismacron', 'Otildemacron', 'Odotaccentmacron', 'Odotbelow', 'Ohookabove', 'Ocircumflexacute', 'Ocircumflexgrave', 'Ocircumflexhookabove', 'Ocircumflextilde', 'Ocircumflexdotbelow', 'Ohornacute', 'Ohorngrave', 'Ohornhookabove', 'Ohorntilde', 'Ohorndotbelow', 'grave.case', 'acute.case', 'dieresis.case', 'macron.case', 'cedilla.case', 'circumflex.case', 'caron.case', 'breve.case', 'dotaccent.case', 'ring.case', 'ogonek.case', 'tilde.case', 'hungarumlaut.case', 'hookabove.case', 'breveinverted.case', 'dblgrave.case', 'horn.case', 'dotbelow.case', 'dieresisbelow.case', 'commaaccent.case', 'brevebelow.case', 'macronbelow.case', 'gravecomb.case', 'acutecomb.case', 'dieresiscomb.case', 'macroncomb.case', 'cedillacomb.case', 'circumflexcomb.case', 'caroncomb.case', 'brevecomb.case', 'dotaccentcomb.case', 'ringcomb.case', 'ogonekcomb.case', 'tildecomb.case', 'hungarumlautcomb.case', 'hookabovecomb.case', 'breveinvertedcomb.case', 'dblgravecomb.case', 'horncomb.case', 'dotbelowcomb.case', 'dieresisbelowcomb.case', 'commaaccentcomb.case', 'brevebelowcomb.case', 'macronbelowcomb.case', 'gravecombstack.case', 'acutecombstack.case', 'dieresiscombstack.case', 'macroncombstack.case', 'circumflexcombstack.case', 'brevecombstack.case', 'dotaccentcombstack.case', 'tildecombstack.case', 'hookabovecombstack.case', 'grave-stack.case', 'acute-stack.case', 'dieresis-stack.case', 'macron-stack.case', 'circumflex-stack.case', 'caron-stack.case', 'breve-stack.case', 'dotaccent-stack.case', 'ring-stack.case', 'tilde-stack.case', 'hungarumlaut-stack.case', 'hook-stack.case', 'breveinverted-stack.case', 'dblgrave-stack.case', 'gravecomb-stack.case', 'acutecomb-stack.case', 'dieresiscomb-stack.case', 'macroncomb-stack.case', 'circumflexcomb-stack.case', 'caroncomb-stack.case', 'brevecomb-stack.case', 'dotaccentcomb-stack.case', 'ringcomb-stack.case', 'tildecomb-stack.case', 'hungarumlautcomb-stack.case', 'hookcomb-stack.case', 'breveinvertedcomb-stack.case', 'dblgravecomb-stack.case', 'diagonalbarO', 'Omicron', 'Omicrontonos', 'tonoscomb.case', 'Dze', 'Ocyr', 'Odieresiscyr', 'Es', 'Yu', 'Esdescendercyr', 'Obarcyr', 'Obarcyr-stroke', 'Yu-dash.case',  ]
+
 def makeGlyphs(src_font, dst_font, glyphs, in_set):
 
     src_fontName = SRC_PATH + src_font
@@ -51,21 +55,21 @@ def makeGlyphs(src_font, dst_font, glyphs, in_set):
     print('Fixed glyphs at ' + dst_fontName)
 
 
-# # XOPQs
-# makeGlyphs('RobotoAvar2-XOPQ2.ufo', 'RobotoAvar2-XOFI2.ufo', XOFI)
-# makeGlyphs('RobotoAvar2-XOPQ310.ufo', 'RobotoAvar2-XOFI300.ufo', XOFI)
-# makeGlyphs('RobotoAvar2-XOPQ2.ufo', 'RobotoAvar2-XOLC2.ufo', XOLC)
-# makeGlyphs('RobotoAvar2-XOPQ310.ufo', 'RobotoAvar2-XOLC294.ufo', XOLC)
-# makeGlyphs('RobotoAvar2-XOPQ2.ufo', 'RobotoAvar2-XOUC2.ufo', XOUC)
-# makeGlyphs('RobotoAvar2-XOPQ310.ufo', 'RobotoAvar2-XOUC310.ufo', XOUC)
+# # # XOPQs
+# makeGlyphs('RobotoAvar2-XOPQ2.ufo', 'RobotoAvar2-XOFI2.ufo', XOFI, True)
+# makeGlyphs('RobotoAvar2-XOPQ310.ufo', 'RobotoAvar2-XOFI300.ufo', XOFI, True)
+# makeGlyphs('RobotoAvar2-XOPQ2.ufo', 'RobotoAvar2-XOLC2.ufo', XOLC, True)
+# makeGlyphs('RobotoAvar2-XOPQ310.ufo', 'RobotoAvar2-XOLC294.ufo', XOLC, True)
+# makeGlyphs('RobotoAvar2-XOPQ2.ufo', 'RobotoAvar2-XOUC2.ufo', XOUC, True)
+# makeGlyphs('RobotoAvar2-XOPQ310.ufo', 'RobotoAvar2-XOUC310.ufo', XOUC, True)
 
-# # XTRAs
-# makeGlyphs('RobotoAvar2-XTRA244.ufo', 'RobotoAvar2-XTFI244.ufo', XTFI)
-# makeGlyphs('RobotoAvar2-XTRA741.ufo', 'RobotoAvar2-XTFI741.ufo', XTFI)
-# makeGlyphs('RobotoAvar2-XTRA244.ufo', 'RobotoAvar2-XTLC244.ufo', XTLC)
-# makeGlyphs('RobotoAvar2-XTRA741.ufo', 'RobotoAvar2-XTLC741.ufo', XTLC)
-# makeGlyphs('RobotoAvar2-XTRA244.ufo', 'RobotoAvar2-XTUC244.ufo', XTUC)
-# makeGlyphs('RobotoAvar2-XTRA741.ufo', 'RobotoAvar2-XTUC741.ufo', XTUC)
+# # # XTRAs
+# # makeGlyphs('RobotoAvar2-XTRA244.ufo', 'RobotoAvar2-XTFI244.ufo', XTFI, True)
+# # makeGlyphs('RobotoAvar2-XTRA741.ufo', 'RobotoAvar2-XTFI741.ufo', XTFI, True)
+# # makeGlyphs('RobotoAvar2-XTRA244.ufo', 'RobotoAvar2-XTLC244.ufo', XTLC, True)
+# # makeGlyphs('RobotoAvar2-XTRA741.ufo', 'RobotoAvar2-XTLC741.ufo', XTLC, True)
+# # makeGlyphs('RobotoAvar2-XTRA244.ufo', 'RobotoAvar2-XTUC244.ufo', XTUC, True)
+# # makeGlyphs('RobotoAvar2-XTRA741.ufo', 'RobotoAvar2-XTUC741.ufo', XTUC, True)
 
 # # # YTAS
 # makeGlyphs('RobotoAvar2-wght400.ufo', 'RobotoAvar2-YTAS665.ufo', YTAS, False)
@@ -115,6 +119,10 @@ def makeGlyphs(src_font, dst_font, glyphs, in_set):
 # makeGlyphs('RobotoAvar2-wght400.ufo', 'RobotoAvar2-STUO2.ufo', STUO, False)
 # makeGlyphs('RobotoAvar2-wght400.ufo', 'RobotoAvar2-STUO722.ufo', STUO, False)
 
+# # # XTUD
+# makeGlyphs('RobotoAvar2-XTRA741.ufo', 'RobotoAvar2-XTUD741.ufo', XTUD, True)
 
+# # # XTUR
+# makeGlyphs('RobotoAvar2-XTRA741.ufo', 'RobotoAvar2-XTUR741.ufo', XTUR, True)
 
 
