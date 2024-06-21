@@ -2000,6 +2000,7 @@
       </mapping>
 <!--       START DRAGGING BACK ALL PREVIOUS DEFINED XOPQ MAX FENCES -->
 
+<!--
       <mapping>
         <input>
           <dimension name="Optical size" xvalue="144"/>
@@ -2033,7 +2034,7 @@
           <dimension name="STLO" xvalue="32"/>
         </output>
       </mapping>
-<!--      <mapping>
+     <mapping>
         <input>
           <dimension name="Optical size" xvalue="144"/>
           <dimension name="Weight" xvalue="100"/>
@@ -2066,7 +2067,6 @@
           <dimension name="STLO" xvalue="32"/>
         </output>
       </mapping>
--->
       <mapping>
         <input>
           <dimension name="Optical size" xvalue="144"/>
@@ -2100,6 +2100,7 @@
           <dimension name="STLO" xvalue="32"/>
         </output>
       </mapping>
+-->
       
 <!--       OPSZ144 WDTH100 WGHT1000 -->
 
