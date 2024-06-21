@@ -2000,6 +2000,7 @@
       </mapping>
 <!--       START DRAGGING BACK ALL PREVIOUS DEFINED XOPQ MAX FENCES -->
 
+<!--
       <mapping>
         <input>
           <dimension name="Optical size" xvalue="144"/>
@@ -2033,7 +2034,7 @@
           <dimension name="STLO" xvalue="32"/>
         </output>
       </mapping>
-<!--      <mapping>
+     <mapping>
         <input>
           <dimension name="Optical size" xvalue="144"/>
           <dimension name="Weight" xvalue="100"/>
@@ -2066,7 +2067,6 @@
           <dimension name="STLO" xvalue="32"/>
         </output>
       </mapping>
--->
       <mapping>
         <input>
           <dimension name="Optical size" xvalue="144"/>
@@ -2100,6 +2100,7 @@
           <dimension name="STLO" xvalue="32"/>
         </output>
       </mapping>
+-->
       
 <!--       OPSZ144 WDTH100 WGHT1000 -->
 
@@ -2112,6 +2113,42 @@
           <dimension name="Weight" xvalue="1000"/>
           <dimension name="Width" xvalue="100"/>
           <dimension name="YOPQ" xvalue="230"/>
+        </input>
+        <output>
+          <dimension name="Optical size" xvalue="144"/>
+          <dimension name="Weight" xvalue="1000"/>
+          <dimension name="Width" xvalue="100"/>
+          <dimension name="VANG" xvalue="0"/>
+          <dimension name="VROT" xvalue="0"/>
+          <dimension name="XOPQ" xvalue="300"/>
+          <dimension name="XTRA" xvalue="262"/>
+          <dimension name="XTSP" xvalue="-80"/>
+          <dimension name="YOPQ" xvalue="230"/>
+          <dimension name="YTAS" xvalue="728"/>
+          <dimension name="YTDE" xvalue="-155"/>
+          <dimension name="YTFI" xvalue="743"/>
+          <dimension name="YTLC" xvalue="458"/>
+          <dimension name="YTOS" xvalue="30"/>
+          <dimension name="YTUC" xvalue="728"/>
+          <dimension name="YTTL" xvalue="0"/>
+          <dimension name="XTTW" xvalue="0"/>
+          <dimension name="XTUR" xvalue="463"/>
+          <dimension name="WDSP" xvalue="306"/>
+          <dimension name="BARS" xvalue="0"/>
+          <dimension name="XTUD" xvalue="550"/>
+          <dimension name="STUI" xvalue="92"/>
+          <dimension name="STUO" xvalue="92"/>
+          <dimension name="STLI" xvalue="32"/>
+          <dimension name="STLO" xvalue="32"/>
+        </output>
+      </mapping>
+      <mapping>
+        <input>
+          <dimension name="Optical size" xvalue="144"/>
+          <dimension name="Slant" xvalue="0"/>
+          <dimension name="Weight" xvalue="1000"/>
+          <dimension name="Width" xvalue="100"/>
+          <dimension name="YOPQ" xvalue="280"/>
         </input>
         <output>
           <dimension name="Optical size" xvalue="144"/>
