@@ -27,20 +27,20 @@
       <point x="115" y="346"/>
     </contour>
     <contour>
-      <point x="309" y="368" type="line" smooth="yes"/>
-      <point x="309" y="263"/>
+      <point x="309" y="347" type="line" smooth="yes"/>
+      <point x="309" y="242"/>
       <point x="506" y="134"/>
       <point x="730" y="134" type="qcurve" smooth="yes"/>
       <point x="950" y="134"/>
-      <point x="1151" y="263"/>
-      <point x="1151" y="368" type="qcurve" smooth="yes"/>
-      <point x="1151" y="1089" type="line" smooth="yes"/>
-      <point x="1151" y="1194"/>
+      <point x="1151" y="242"/>
+      <point x="1151" y="347" type="qcurve" smooth="yes"/>
+      <point x="1151" y="1109" type="line" smooth="yes"/>
+      <point x="1151" y="1214"/>
       <point x="956" y="1322"/>
       <point x="730" y="1322" type="qcurve" smooth="yes"/>
       <point x="504" y="1322"/>
-      <point x="309" y="1194"/>
-      <point x="309" y="1089" type="qcurve" smooth="yes"/>
+      <point x="309" y="1214"/>
+      <point x="309" y="1109" type="qcurve" smooth="yes"/>
     </contour>
   </outline>
 </glyph>
