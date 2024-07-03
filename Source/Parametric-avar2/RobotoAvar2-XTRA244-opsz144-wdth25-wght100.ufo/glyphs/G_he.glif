@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Ghe" format="2">
+  <advance width="487"/>
+  <unicode hex="0413"/>
+  <anchor x="315" y="1456" name="top"/>
+  <anchor x="272" y="708" name="center"/>
+  <outline>
+    <component base="Gamma"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.884,0.8791,0.0317,1</string>
+    </dict>
+  </lib>
+</glyph>
