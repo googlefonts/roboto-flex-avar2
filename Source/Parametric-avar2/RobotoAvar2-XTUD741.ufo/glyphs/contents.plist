@@ -72,18 +72,6 @@
     <string>E_ng.glif</string>
     <key>I</key>
     <string>I_.glif</string>
-    <key>IJ</key>
-    <string>I_J_.glif</string>
-    <key>IJacute</key>
-    <string>I_J_acute.glif</string>
-    <key>J</key>
-    <string>J_.glif</string>
-    <key>Jacute.loclNLD</key>
-    <string>J_acute.loclN_L_D_.glif</string>
-    <key>Jcircumflex</key>
-    <string>J_circumflex.glif</string>
-    <key>Je</key>
-    <string>J_e.glif</string>
     <key>K</key>
     <string>K_.glif</string>
     <key>Ka.bgr</key>
@@ -96,8 +84,6 @@
     <string>K_je.glif</string>
     <key>L</key>
     <string>L_.glif</string>
-    <key>LJ</key>
-    <string>L_J_.glif</string>
     <key>Lacute</key>
     <string>L_acute.glif</string>
     <key>Lcaron</key>
@@ -116,8 +102,6 @@
     <string>M_u.glif</string>
     <key>N</key>
     <string>N_.glif</string>
-    <key>NJ</key>
-    <string>N_J_.glif</string>
     <key>Nacute</key>
     <string>N_acute.glif</string>
     <key>Ncaron</key>
@@ -200,8 +184,12 @@
     <string>circumflexcomb.case.glif</string>
     <key>circumflexcombstack.case</key>
     <string>circumflexcombstack.case.glif</string>
+    <key>commaaccent</key>
+    <string>commaaccent.glif</string>
     <key>commaaccent.case</key>
     <string>commaaccent.case.glif</string>
+    <key>commaaccentcomb</key>
+    <string>commaaccentcomb.glif</string>
     <key>commaaccentcomb.case</key>
     <string>commaaccentcomb.case.glif</string>
     <key>dblgrave-stack.case</key>

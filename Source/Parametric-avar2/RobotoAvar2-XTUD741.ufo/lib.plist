@@ -17,6 +17,7 @@
           <string>V</string>
           <string>W</string>
           <string>j</string>
+          <string>k</string>
           <string>Agrave</string>
           <string>Aacute</string>
           <string>Acircumflex</string>
@@ -41,6 +42,7 @@
           <string>IJacute</string>
           <string>Jacute.loclNLD</string>
           <string>Nacute</string>
+          <string>kcommaaccent</string>
           <string>Ncommaaccent</string>
           <string>Ncaron</string>
           <string>Eng</string>
@@ -66,6 +68,8 @@
           <string>Wgrave</string>
           <string>Wacute</string>
           <string>Wdieresis</string>
+          <string>commaaccent</string>
+          <string>commaaccentcomb</string>
           <string>grave.case</string>
           <string>acute.case</string>
           <string>dieresis.case</string>
@@ -154,6 +158,20 @@
           <string>hookabovecomb-stack</string>
           <string>caroncomb.alt</string>
           <string>diagonalbarl</string>
+          <string>Alpha</string>
+          <string>Alphatonos</string>
+          <string>Kappa</string>
+          <string>Mu</string>
+          <string>Nu</string>
+          <string>tonoscomb.case</string>
+          <string>Je</string>
+          <string>Acyr</string>
+          <string>Abrevecyr</string>
+          <string>Adieresiscyr</string>
+          <string>Kje</string>
+          <string>Em</string>
+          <string>Ka.bgr</string>
+          <string>breve.cyrcomb.case</string>
         </array>
         <key>type</key>
         <string>glyphList</string>
@@ -777,7 +795,6 @@
     <array>
       <string>A</string>
       <string>I</string>
-      <string>J</string>
       <string>K</string>
       <string>L</string>
       <string>M</string>
@@ -796,9 +813,6 @@
       <string>Amacron</string>
       <string>Abreve</string>
       <string>Aogonek</string>
-      <string>IJ</string>
-      <string>Jcircumflex</string>
-      <string>LJ</string>
       <string>Lj</string>
       <string>Kcommaaccent</string>
       <string>Lacute</string>
@@ -806,14 +820,11 @@
       <string>Lcaron</string>
       <string>Ldot</string>
       <string>Lslash</string>
-      <string>IJacute</string>
-      <string>Jacute.loclNLD</string>
       <string>Nacute</string>
       <string>Ncommaaccent</string>
       <string>Ncaron</string>
       <string>Eng</string>
       <string>Wcircumflex</string>
-      <string>NJ</string>
       <string>Nj</string>
       <string>Aringacute</string>
       <string>AEacute</string>
@@ -834,6 +845,8 @@
       <string>Wgrave</string>
       <string>Wacute</string>
       <string>Wdieresis</string>
+      <string>commaaccent</string>
+      <string>commaaccentcomb</string>
       <string>grave.case</string>
       <string>acute.case</string>
       <string>dieresis.case</string>
@@ -928,7 +941,6 @@
       <string>Mu</string>
       <string>Nu</string>
       <string>tonoscomb.case</string>
-      <string>Je</string>
       <string>Acyr</string>
       <string>Abrevecyr</string>
       <string>Adieresiscyr</string>
