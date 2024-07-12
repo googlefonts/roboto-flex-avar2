@@ -690,12 +690,12 @@
             <dimension name="XOPQ" xvalue="248"/>
             <dimension name="XTRA" xvalue="244"/>
             <dimension name="XTSP" xvalue="-100"/>
-            <dimension name="YOPQ" xvalue="228"/>
+            <dimension name="YOPQ" xvalue="200"/>
             <dimension name="YTAS" xvalue="728"/>
             <dimension name="YTDE" xvalue="-155"/>
             <dimension name="YTFI" xvalue="743"/>
             <dimension name="YTLC" xvalue="458"/>
-            <dimension name="YTOS" xvalue="10"/>
+            <dimension name="YTOS" xvalue="30"/>
             <dimension name="YTUC" xvalue="728"/>
             <dimension name="YTTL" xvalue="0"/>
             <dimension name="XTTW" xvalue="0"/>
@@ -705,10 +705,10 @@
             <dimension name="BARS" xvalue="0"/>
             <!-- XTUD EXCEPTION TO OPEN TRANSPARENCY FOR UPPERCASE DIAGONALS -->
             <dimension name="XTUD" xvalue="515"/>
-            <dimension name="STUI" xvalue="92"/>
-            <dimension name="STUO" xvalue="92"/>
+            <dimension name="STUI" xvalue="180"/>
+            <dimension name="STUO" xvalue="256"/>
             <dimension name="STLI" xvalue="32"/>
-            <dimension name="STLO" xvalue="32"/>
+            <dimension name="STLO" xvalue="80"/>
         </output>
       </mapping>
       <mapping>
@@ -820,9 +820,9 @@
             <dimension name="VANG" xvalue="0"/>
             <dimension name="VROT" xvalue="0"/>
             <dimension name="XOPQ" xvalue="300"/>
-            <dimension name="XTRA" xvalue="262"/>
+            <dimension name="XTRA" xvalue="270"/>
             <dimension name="XTSP" xvalue="-80"/>
-            <dimension name="YOPQ" xvalue="228"/>
+            <dimension name="YOPQ" xvalue="200"/>
             <dimension name="YTAS" xvalue="728"/>
             <dimension name="YTDE" xvalue="-155"/>
             <dimension name="YTFI" xvalue="743"/>
@@ -837,7 +837,7 @@
             <dimension name="BARS" xvalue="0"/>
             <!-- XTUD EXCEPTION TO OPEN TRANSPARENCY FOR UPPERCASE DIAGONALS -->
             <dimension name="XTUD" xvalue="550"/>
-            <dimension name="STUI" xvalue="92"/>
+            <dimension name="STUI" xvalue="444"/>
             <dimension name="STUO" xvalue="92"/>
             <dimension name="STLI" xvalue="32"/>
             <dimension name="STLO" xvalue="32"/>
@@ -856,7 +856,7 @@
             <dimension name="VROT" xvalue="0"/>
             <dimension name="XOPQ" xvalue="4"/>
             <dimension name="XTRA" xvalue="658"/>
-            <dimension name="XTSP" xvalue="65"/>
+            <dimension name="XTSP" xvalue="20"/>
             <dimension name="YOPQ" xvalue="4"/>
             <dimension name="YTAS" xvalue="728"/>
             <dimension name="YTDE" xvalue="-155"/>
@@ -921,7 +921,7 @@
             <dimension name="XOPQ" xvalue="300"/>
             <dimension name="XTRA" xvalue="390"/>
             <dimension name="XTSP" xvalue="-21"/>
-            <dimension name="YOPQ" xvalue="215"/>
+            <dimension name="YOPQ" xvalue="205"/>
             <dimension name="YTAS" xvalue="728"/>
             <dimension name="YTDE" xvalue="-155"/>
             <dimension name="YTFI" xvalue="743"/>
