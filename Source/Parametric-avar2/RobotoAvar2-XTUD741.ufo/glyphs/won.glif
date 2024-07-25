@@ -1,6 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<glyph name="won.rvrn" format="2">
+<glyph name="won" format="2">
   <advance width="2625"/>
+  <unicode hex="20A9"/>
   <outline>
     <contour>
       <point x="729" y="-10" type="line"/>
@@ -27,42 +28,42 @@
       <point x="897" y="-10" type="line"/>
     </contour>
     <contour>
-      <point x="2245" y="1007" type="line"/>
+      <point x="1337" y="1007" type="line"/>
       <point x="2255" y="1007" type="line"/>
       <point x="2255" y="1017" type="line"/>
       <point x="2577" y="1019" type="line"/>
       <point x="2577" y="882" type="line"/>
       <point x="2255" y="880" type="line"/>
       <point x="2255" y="885" type="line"/>
-      <point x="2245" y="885" type="line"/>
+      <point x="1337" y="885" type="line"/>
     </contour>
     <contour>
       <point x="48" y="880" type="line"/>
       <point x="48" y="1017" type="line"/>
       <point x="403" y="1017" type="line"/>
       <point x="403" y="1007" type="line"/>
-      <point x="413" y="1007" type="line"/>
-      <point x="413" y="885" type="line"/>
+      <point x="1337" y="1007" type="line"/>
+      <point x="1337" y="885" type="line"/>
       <point x="403" y="885" type="line"/>
       <point x="403" y="880" type="line"/>
     </contour>
     <contour>
-      <point x="2106" y="652" type="line"/>
+      <point x="1335" y="652" type="line"/>
       <point x="2116" y="652" type="line"/>
       <point x="2116" y="657" type="line"/>
       <point x="2478" y="659" type="line"/>
       <point x="2478" y="522" type="line"/>
       <point x="2116" y="520" type="line"/>
       <point x="2116" y="530" type="line"/>
-      <point x="2106" y="530" type="line"/>
+      <point x="1335" y="530" type="line"/>
     </contour>
     <contour>
       <point x="149" y="520" type="line"/>
       <point x="149" y="657" type="line"/>
       <point x="564" y="657" type="line"/>
       <point x="564" y="652" type="line"/>
-      <point x="586" y="652" type="line"/>
-      <point x="586" y="530" type="line"/>
+      <point x="1335" y="652" type="line"/>
+      <point x="1335" y="530" type="line"/>
       <point x="564" y="530" type="line"/>
       <point x="564" y="520" type="line"/>
     </contour>
