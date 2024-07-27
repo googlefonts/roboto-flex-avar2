@@ -1,7 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<glyph name="coloncurrency" format="2">
+<glyph name="coloncurrency.rvrn" format="2">
   <advance width="1154"/>
-  <unicode hex="20A1"/>
   <guideline x="0" y="1570" angle="0" identifier="0DwZ2nfhdf"/>
   <outline>
     <contour>
@@ -79,10 +78,4 @@
       <point x="804" y="1570" type="line"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>0.0676,0,0.9997,1</string>
-    </dict>
-  </lib>
 </glyph>
