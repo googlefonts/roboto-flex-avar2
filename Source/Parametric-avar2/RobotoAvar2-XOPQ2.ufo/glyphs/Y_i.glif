@@ -1,15 +1,15 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Yi" format="2">
-	<unicode hex="0407"/>
-	<advance width="357"/>
-	<outline>
-		<component base="I"/>
-		<component base="Yi-dieresiscomb.case" xOffset="179"/>
-	</outline>
-	<lib>
-		<dict>
-			<key>public.markColor</key>
-			<string>0.0676,0,0.9997,1</string>
-		</dict>
-	</lib>
+  <advance width="357"/>
+  <unicode hex="0407"/>
+  <outline>
+    <component base="I"/>
+    <component base="Yi-dieresiscomb.case" xOffset="179"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.0676,0,0.9997,1</string>
+    </dict>
+  </lib>
 </glyph>
