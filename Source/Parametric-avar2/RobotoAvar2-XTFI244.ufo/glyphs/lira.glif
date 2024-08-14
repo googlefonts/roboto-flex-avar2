@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="lira" format="2">
-  <advance width="1024"/>
+  <advance width="468"/>
   <unicode hex="20A4"/>
   <outline>
     <contour>
@@ -34,16 +34,16 @@
       <point x="461" y="166" type="line"/>
     </contour>
     <contour>
-      <point x="446" y="431" type="line"/>
-      <point x="42" y="431" type="line"/>
-      <point x="42" y="590" type="line"/>
-      <point x="446" y="590" type="line"/>
+      <point x="426" y="431" type="line"/>
+      <point x="22" y="431" type="line"/>
+      <point x="22" y="590" type="line"/>
+      <point x="426" y="590" type="line"/>
     </contour>
     <contour>
-      <point x="446" y="756" type="line"/>
-      <point x="42" y="756" type="line"/>
-      <point x="42" y="916" type="line"/>
-      <point x="446" y="916" type="line"/>
+      <point x="426" y="756" type="line"/>
+      <point x="22" y="756" type="line"/>
+      <point x="22" y="916" type="line"/>
+      <point x="426" y="916" type="line"/>
     </contour>
   </outline>
 </glyph>

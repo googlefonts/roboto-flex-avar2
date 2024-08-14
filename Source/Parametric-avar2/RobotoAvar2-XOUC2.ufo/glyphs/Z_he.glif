@@ -1,43 +1,43 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Zhe" format="2">
-  <advance width="1590"/>
+  <advance width="1530"/>
   <unicode hex="0416"/>
-  <anchor x="797" y="1456" name="top"/>
-  <anchor x="1398" y="0" name="cy_descender"/>
+  <anchor x="767" y="1456" name="top"/>
+  <anchor x="1368" y="0" name="cy_descender"/>
   <outline>
     <contour>
-      <point x="794" y="0" type="line"/>
-      <point x="794" y="1456" type="line"/>
-      <point x="801" y="1456" type="line"/>
-      <point x="801" y="0" type="line"/>
+      <point x="764" y="0" type="line"/>
+      <point x="764" y="1456" type="line"/>
+      <point x="771" y="1456" type="line"/>
+      <point x="771" y="0" type="line"/>
     </contour>
     <contour>
-      <point x="1476" y="0" type="line"/>
-      <point x="938" y="740" type="line"/>
-      <point x="885" y="823" type="line"/>
-      <point x="1484" y="0" type="line"/>
+      <point x="1446" y="0" type="line"/>
+      <point x="908" y="740" type="line"/>
+      <point x="855" y="823" type="line"/>
+      <point x="1454" y="0" type="line"/>
     </contour>
     <contour>
-      <point x="796" y="830" type="line"/>
-      <point x="906" y="830" type="line"/>
-      <point x="1363" y="1456" type="line"/>
-      <point x="1580" y="1456" type="line"/>
-      <point x="990" y="673" type="line"/>
-      <point x="796" y="673" type="line"/>
+      <point x="766" y="830" type="line"/>
+      <point x="876" y="830" type="line"/>
+      <point x="1333" y="1456" type="line"/>
+      <point x="1550" y="1456" type="line"/>
+      <point x="960" y="673" type="line"/>
+      <point x="766" y="673" type="line"/>
     </contour>
     <contour>
-      <point x="110" y="0" type="line"/>
-      <point x="708" y="823" type="line"/>
-      <point x="656" y="740" type="line"/>
-      <point x="118" y="0" type="line"/>
+      <point x="80" y="0" type="line"/>
+      <point x="678" y="823" type="line"/>
+      <point x="626" y="740" type="line"/>
+      <point x="88" y="0" type="line"/>
     </contour>
     <contour>
-      <point x="796" y="830" type="line"/>
-      <point x="796" y="673" type="line"/>
-      <point x="599" y="673" type="line"/>
-      <point x="10" y="1456" type="line"/>
-      <point x="229" y="1456" type="line"/>
-      <point x="686" y="830" type="line"/>
+      <point x="766" y="830" type="line"/>
+      <point x="766" y="673" type="line"/>
+      <point x="569" y="673" type="line"/>
+      <point x="-20" y="1456" type="line"/>
+      <point x="199" y="1456" type="line"/>
+      <point x="656" y="830" type="line"/>
     </contour>
   </outline>
 </glyph>

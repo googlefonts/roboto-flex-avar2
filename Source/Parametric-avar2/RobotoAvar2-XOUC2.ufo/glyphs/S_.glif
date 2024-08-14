@@ -2,7 +2,7 @@
 <glyph name="S" format="2">
   <advance width="852"/>
   <unicode hex="0053"/>
-  <anchor x="435" y="0" name="bottom"/>
+  <anchor x="425" y="0" name="bottom"/>
   <anchor x="425" y="1456" name="top"/>
   <outline>
     <contour>
@@ -11,9 +11,9 @@
       <point x="97" y="410" type="line"/>
       <point x="97" y="398" type="line" smooth="yes"/>
       <point x="97" y="266"/>
-      <point x="275" y="134"/>
+      <point x="276" y="134"/>
       <point x="435" y="134" type="qcurve" smooth="yes"/>
-      <point x="596" y="134"/>
+      <point x="586" y="134"/>
       <point x="765" y="269"/>
       <point x="765" y="371" type="qcurve" smooth="yes"/>
       <point x="765" y="532"/>
@@ -23,18 +23,18 @@
       <point x="118" y="980"/>
       <point x="118" y="1090" type="qcurve" smooth="yes"/>
       <point x="118" y="1265"/>
-      <point x="270" y="1486"/>
+      <point x="274" y="1486"/>
       <point x="425" y="1486" type="qcurve" smooth="yes"/>
-      <point x="583" y="1486"/>
+      <point x="580" y="1486"/>
       <point x="742" y="1258"/>
       <point x="742" y="1064" type="qcurve" smooth="yes"/>
       <point x="742" y="1052" type="line"/>
       <point x="735" y="1052" type="line"/>
       <point x="735" y="1064" type="line" smooth="yes"/>
       <point x="735" y="1180"/>
-      <point x="579" y="1322"/>
+      <point x="576" y="1322"/>
       <point x="425" y="1322" type="qcurve" smooth="yes"/>
-      <point x="271" y="1322"/>
+      <point x="276" y="1322"/>
       <point x="125" y="1200"/>
       <point x="125" y="1095" type="qcurve" smooth="yes"/>
       <point x="125" y="981"/>
@@ -44,9 +44,9 @@
       <point x="772" y="535"/>
       <point x="772" y="371" type="qcurve" smooth="yes"/>
       <point x="772" y="200"/>
-      <point x="598" y="-30"/>
+      <point x="597" y="-30"/>
       <point x="435" y="-30" type="qcurve" smooth="yes"/>
-      <point x="273" y="-30"/>
+      <point x="275" y="-30"/>
       <point x="90" y="201"/>
     </contour>
   </outline>

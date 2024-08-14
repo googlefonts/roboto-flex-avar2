@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Aringacute" format="2">
-  <advance width="2354"/>
+  <advance width="2271"/>
   <unicode hex="01FA"/>
   <outline>
     <component base="A"/>
-    <component base="ringcomb-stack.case" xOffset="1173"/>
-    <component base="acutecomb-stack.case" xOffset="1173" yOffset="514"/>
+    <component base="ringcomb-stack.case" xOffset="1129"/>
+    <component base="acutecomb-stack.case" xOffset="1129" yOffset="514"/>
   </outline>
   <lib>
     <dict>

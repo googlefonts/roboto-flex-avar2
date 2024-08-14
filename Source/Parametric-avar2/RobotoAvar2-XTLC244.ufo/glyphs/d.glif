@@ -3,13 +3,13 @@
   <advance width="639"/>
   <unicode hex="0064"/>
   <anchor x="305" y="0" name="bottom"/>
-  <anchor x="379" y="1313" name="center"/>
-  <anchor x="305" y="1536" name="top"/>
+  <anchor x="379" y="1273" name="center"/>
+  <anchor x="305" y="1456" name="top"/>
   <anchor x="521" y="1052" name="topright"/>
   <outline>
     <contour>
-      <point x="305" y="1536" type="line"/>
-      <point x="491" y="1536" type="line"/>
+      <point x="305" y="1456" type="line"/>
+      <point x="491" y="1456" type="line"/>
       <point x="491" y="0" type="line"/>
       <point x="323" y="0" type="line"/>
       <point x="315" y="77" type="line"/>
@@ -25,19 +25,19 @@
       <point x="280" y="132"/>
       <point x="297" y="132" type="qcurve" smooth="yes"/>
       <point x="326" y="132"/>
-      <point x="348" y="348"/>
-      <point x="348" y="521" type="qcurve" smooth="yes"/>
-      <point x="348" y="549" type="line" smooth="yes"/>
-      <point x="348" y="698"/>
+      <point x="348" y="354"/>
+      <point x="348" y="503" type="qcurve" smooth="yes"/>
+      <point x="348" y="531" type="line" smooth="yes"/>
+      <point x="348" y="704"/>
       <point x="331" y="920"/>
     </contour>
     <contour>
       <point x="250" y="1072" type="qcurve" smooth="yes"/>
       <point x="354" y="1072"/>
-      <point x="415" y="765"/>
-      <point x="415" y="554" type="qcurve" smooth="yes"/>
-      <point x="415" y="520" type="line" smooth="yes"/>
-      <point x="415" y="265"/>
+      <point x="415" y="776"/>
+      <point x="415" y="531" type="qcurve" smooth="yes"/>
+      <point x="415" y="505" type="line" smooth="yes"/>
+      <point x="415" y="282"/>
       <point x="343" y="-20"/>
       <point x="250" y="-20" type="qcurve" smooth="yes"/>
       <point x="150" y="-20"/>

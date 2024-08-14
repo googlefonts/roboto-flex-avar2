@@ -1,26 +1,26 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uni20B2.rvrn" format="2">
-  <advance width="1840"/>
+  <advance width="1824"/>
   <outline>
     <contour>
-      <point x="879" y="-190" type="line"/>
-      <point x="879" y="57" type="line"/>
-      <point x="897" y="71" type="line"/>
-      <point x="897" y="108" type="line"/>
-      <point x="1027" y="108" type="line"/>
-      <point x="1027" y="70" type="line"/>
-      <point x="1049" y="60" type="line"/>
-      <point x="1049" y="-190" type="line"/>
+      <point x="809" y="-190" type="line"/>
+      <point x="809" y="57" type="line"/>
+      <point x="827" y="71" type="line"/>
+      <point x="827" y="71" type="line"/>
+      <point x="1097" y="71" type="line"/>
+      <point x="1097" y="70" type="line"/>
+      <point x="1119" y="60" type="line"/>
+      <point x="1119" y="-190" type="line"/>
     </contour>
     <contour>
-      <point x="897" y="1368" type="line"/>
-      <point x="897" y="1392" type="line"/>
-      <point x="882" y="1402" type="line"/>
-      <point x="882" y="1632" type="line"/>
-      <point x="1042" y="1632" type="line"/>
-      <point x="1042" y="1402" type="line"/>
-      <point x="1027" y="1389" type="line"/>
-      <point x="1027" y="1368" type="line"/>
+      <point x="827" y="1389" type="line"/>
+      <point x="827" y="1392" type="line"/>
+      <point x="812" y="1402" type="line"/>
+      <point x="812" y="1632" type="line"/>
+      <point x="1112" y="1632" type="line"/>
+      <point x="1112" y="1402" type="line"/>
+      <point x="1097" y="1389" type="line"/>
+      <point x="1097" y="1389" type="line"/>
     </contour>
     <contour>
       <point x="1795" y="745" type="line"/>
@@ -50,8 +50,8 @@
       <point x="688" y="544" type="line" smooth="yes"/>
       <point x="688" y="356"/>
       <point x="842" y="153"/>
-      <point x="985" y="153" type="qcurve" smooth="yes"/>
-      <point x="1100" y="153"/>
+      <point x="971" y="153" type="qcurve" smooth="yes"/>
+      <point x="1104" y="153"/>
       <point x="1223" y="298"/>
       <point x="1223" y="433" type="qcurve" smooth="yes"/>
       <point x="1223" y="589" type="line"/>
