@@ -26,6 +26,12 @@
       .RobotoA2 {
         font-family: "RobotoAvar2";
       }
+      .overlay .RobotoFlex {
+        color: #33ff3355;
+      }
+      .overlay .RobotoA2 {
+        color: #ff333355;
+      }
       .sample {
         font-size: 14pt;
         line-height: 1.2em;
@@ -128,6 +134,16 @@
             </div>
           </div>
 
+          <div class="row">
+            <div class='col-12'>
+              <div class="form-check">
+                <input class="form-check-input" type="checkbox" value="" id="overlaySamples">
+                <label class="form-check-label" for="overlaySamples">
+                  <small>Overlay text samples</small>
+                </label>
+              </div>
+            </div>
+          </div>
           <hr/>
 
           <!-- variation axes -->
@@ -235,6 +251,7 @@
         lineheight_slider  = document.getElementById("lineheight");
         opsz_slider        = document.getElementById("opsz");
         link_fontsize      = document.getElementById("synchFontSize");
+        overlay_samples    = document.getElementById("overlaySamples");
         language_selector  = document.getElementById("language");
         colormode_selector = document.getElementById("colormode");
         font_samples       = document.querySelectorAll(".sample");
@@ -293,6 +310,17 @@
         function link_fontsize_changed (checkbox) {
           fontsize_slider_changed()
         }
+        function overlay_samples_changed (checkbox) {
+          if (overlay_samples.checked == true) {
+            document.documentElement.classList.add("overlay")
+            document.getElementById("avar1_container").classList.remove("top-50")
+            document.getElementById("avar1_container").classList.remove("bg-body")
+          } else {
+            document.documentElement.classList.remove("overlay")
+            document.getElementById("avar1_container").classList.add("top-50")
+            document.getElementById("avar1_container").classList.add("bg-body")
+          }
+        }
 
         function language_changed() {
           var lang = language_selector.value;
@@ -315,6 +343,7 @@
         lineheight_slider.addEventListener('input', lineheight_slider_changed)
         opsz_slider.addEventListener('input', opsz_slider_changed)
         link_fontsize.addEventListener('input', link_fontsize_changed)
+        overlay_samples.addEventListener('input', overlay_samples_changed)
         language_selector.addEventListener('input', language_changed)
         colormode_selector.addEventListener('input', colormode_changed)
 
