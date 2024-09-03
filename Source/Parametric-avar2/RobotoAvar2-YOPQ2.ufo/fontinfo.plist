@@ -13,7 +13,28 @@
     <key>familyName</key>
     <string>RobotoAvar2</string>
     <key>guidelines</key>
-    <array/>
+    <array>
+      <dict>
+        <key>angle</key>
+        <integer>0</integer>
+        <key>identifier</key>
+        <string>e3lNPDkQQu</string>
+        <key>x</key>
+        <integer>305</integer>
+        <key>y</key>
+        <integer>757</integer>
+      </dict>
+      <dict>
+        <key>angle</key>
+        <integer>0</integer>
+        <key>identifier</key>
+        <string>gbrUOFqCeE</string>
+        <key>x</key>
+        <real>285.03464942323996</real>
+        <key>y</key>
+        <real>162.0576389086014</real>
+      </dict>
+    </array>
     <key>italicAngle</key>
     <integer>0</integer>
     <key>note</key>
