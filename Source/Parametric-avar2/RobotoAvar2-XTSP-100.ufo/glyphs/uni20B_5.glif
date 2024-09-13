@@ -40,9 +40,9 @@
       <point x="252" y="1485"/>
       <point x="471" y="1485" type="qcurve" smooth="yes"/>
       <point x="688" y="1485"/>
-      <point x="908" y="1236"/>
+      <point x="917" y="1236"/>
       <point x="917" y="1030" type="qcurve" smooth="yes"/>
-      <point x="918" y="1006" type="line"/>
+      <point x="917" y="1006" type="line"/>
       <point x="724" y="1006" type="line"/>
       <point x="724" y="1030" type="line" smooth="yes"/>
       <point x="724" y="1144"/>
@@ -54,15 +54,9 @@
       <point x="204" y="464" type="line" smooth="yes"/>
       <point x="204" y="298"/>
       <point x="337" y="122"/>
-      <point x="487" y="122" type="qcurve" smooth="yes"/>
+      <point x="473" y="122" type="qcurve" smooth="yes"/>
       <point x="605" y="122"/>
       <point x="729" y="302"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.typemytype.robofont.guideline.magnetic.1Am3eQoiKr</key>
-      <integer>5</integer>
-    </dict>
-  </lib>
 </glyph>
