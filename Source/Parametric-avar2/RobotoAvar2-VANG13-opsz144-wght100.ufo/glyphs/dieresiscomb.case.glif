@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dieresiscomb.case" format="2">
+  <anchor x="168.14408627881988" y="1456" name="_top"/>
+  <anchor x="270.8804313296955" y="1901" name="top"/>
+  <outline>
+    <contour>
+      <point x="-128" y="1787" type="qcurve" smooth="yes"/>
+      <point x="-128" y="1842"/>
+      <point x="-68" y="1901"/>
+      <point x="-12" y="1901" type="qcurve" smooth="yes"/>
+      <point x="41" y="1901"/>
+      <point x="104" y="1838"/>
+      <point x="104" y="1787" type="qcurve" smooth="yes"/>
+      <point x="104" y="1733"/>
+      <point x="45" y="1674"/>
+      <point x="-12" y="1674" type="qcurve" smooth="yes"/>
+      <point x="-65" y="1674"/>
+      <point x="-128" y="1736"/>
+    </contour>
+    <contour>
+      <point x="332" y="1787" type="qcurve" smooth="yes"/>
+      <point x="332" y="1842"/>
+      <point x="392" y="1901"/>
+      <point x="448" y="1901" type="qcurve" smooth="yes"/>
+      <point x="501" y="1901"/>
+      <point x="564" y="1838"/>
+      <point x="564" y="1787" type="qcurve" smooth="yes"/>
+      <point x="564" y="1733"/>
+      <point x="505" y="1674"/>
+      <point x="448" y="1674" type="qcurve" smooth="yes"/>
+      <point x="395" y="1674"/>
+      <point x="332" y="1736"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0,0.1,1,0.2</string>
+    </dict>
+  </lib>
+</glyph>

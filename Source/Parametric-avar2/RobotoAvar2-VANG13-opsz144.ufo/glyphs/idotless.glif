@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="idotless" format="2">
+  <advance width="500"/>
+  <unicode hex="0131"/>
+  <anchor x="324.8733370640924" y="1052" name="top"/>
+  <anchor x="82.0" y="0" name="bottom"/>
+  <anchor x="141.0" y="0" name="ogonek"/>
+  <anchor x="209.1305595900552" y="542" name="yu_dash"/>
+  <outline>
+    <contour>
+      <point x="-11.0" y="0.0" type="line"/>
+      <point x="231.87333706409242" y="1052.0" type="line"/>
+      <point x="417.8733370640924" y="1052.0" type="line"/>
+      <point x="175.0" y="0.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0,0.1,1,0.2</string>
+    </dict>
+  </lib>
+</glyph>

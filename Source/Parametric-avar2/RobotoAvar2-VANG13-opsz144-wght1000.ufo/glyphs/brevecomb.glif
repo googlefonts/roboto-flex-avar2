@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="brevecomb" format="2">
+  <unicode hex="0306"/>
+  <anchor x="74.8733370640924" y="1052" name="_top"/>
+  <anchor x="182.45791412860478" y="1518" name="top"/>
+  <outline>
+    <contour>
+      <point x="418.22704593747926" y="1517.0" type="qcurve"/>
+      <point x="506.76016361669883" y="1463.0" type="line"/>
+      <point x="448.90421269526814" y="1364.0"/>
+      <point x="234.34922477729907" y="1197.0"/>
+      <point x="108.34922477729907" y="1197.0" type="qcurve" smooth="yes"/>
+      <point x="-4.650775222700929" y="1197.0"/>
+      <point x="-150.09707378936423" y="1351.0"/>
+      <point x="-165.77810000105006" y="1465.0" type="qcurve"/>
+      <point x="-53.77295406252074" y="1517.0" type="line"/>
+      <point x="-31.93244095667785" y="1460.0"/>
+      <point x="67.2116081218914" y="1361.0"/>
+      <point x="146.2116081218914" y="1361.0" type="qcurve" smooth="yes"/>
+      <point x="230.2116081218914" y="1361.0"/>
+      <point x="368.14408627881994" y="1456.0"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0,0.1,1,0.2</string>
+    </dict>
+  </lib>
+</glyph>

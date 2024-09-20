@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="yu-dash" format="2">
+  <advance width="396"/>
+  <anchor x="-44.25464955669817" y="536" name="_yu_dash"/>
+  <anchor x="351.74535044330185" y="536" name="yu_dash"/>
+  <outline>
+    <contour>
+      <point x="-60.64629112661315" y="465.0" type="line"/>
+      <point x="-27.17040341340649" y="610.0" type="line"/>
+      <point x="368.82959658659354" y="610.0" type="line"/>
+      <point x="335.35370887338684" y="465.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0,0.1,1,0.2</string>
+    </dict>
+  </lib>
+</glyph>

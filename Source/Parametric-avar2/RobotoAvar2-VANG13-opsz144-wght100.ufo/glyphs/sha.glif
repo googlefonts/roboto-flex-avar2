@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="sha" format="2">
+  <advance width="1674"/>
+  <unicode hex="0448"/>
+  <anchor x="1262.0" y="0" name="cy_descender"/>
+  <outline>
+    <contour>
+      <point x="-20.0" y="0.0" type="line"/>
+      <point x="222.87333706409242" y="1052.0" type="line"/>
+      <point x="408.8733370640924" y="1052.0" type="line"/>
+      <point x="199.47588771320665" y="145.0" type="line"/>
+      <point x="609.4758877132067" y="145.0" type="line"/>
+      <point x="818.8733370640924" y="1052.0" type="line"/>
+      <point x="1004.8733370640923" y="1052.0" type="line"/>
+      <point x="795.4758877132067" y="145.0" type="line"/>
+      <point x="1205.4758877132067" y="145.0" type="line"/>
+      <point x="1414.8733370640923" y="1052.0" type="line"/>
+      <point x="1600.8733370640923" y="1052.0" type="line"/>
+      <point x="1358.0" y="0.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0,0.1,1,0.2</string>
+    </dict>
+  </lib>
+</glyph>

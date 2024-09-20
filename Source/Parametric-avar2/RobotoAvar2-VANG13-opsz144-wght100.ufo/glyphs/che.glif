@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="che" format="2">
+  <advance width="1095"/>
+  <unicode hex="0447"/>
+  <guideline x="805.8971184296649" y="515" angle="103.0" identifier="GGEFes61Q6"/>
+  <anchor x="687.0" y="0" name="cy_descender"/>
+  <outline>
+    <contour>
+      <point x="321.4611117400603" y="773.0" type="line" smooth="yes"/>
+      <point x="291.21737870261154" y="642.0"/>
+      <point x="367.1305595900552" y="542.0"/>
+      <point x="490.1305595900552" y="542.0" type="qcurve" smooth="yes"/>
+      <point x="579.1305595900552" y="542.0"/>
+      <point x="729.1331325593198" y="568.0"/>
+      <point x="822.2122327640823" y="590.0" type="qcurve"/>
+      <point x="788.50547685975" y="444.0" type="line"/>
+      <point x="699.1189812283643" y="425.0"/>
+      <point x="544.423803685723" y="396.0"/>
+      <point x="420.423803685723" y="396.0" type="qcurve" smooth="yes"/>
+      <point x="224.423803685723" y="396.0"/>
+      <point x="91.59615542620327" y="583.0"/>
+      <point x="135.4611117400603" y="773.0" type="qcurve" smooth="yes"/>
+      <point x="199.87333706409242" y="1052.0" type="line"/>
+      <point x="385.8733370640924" y="1052.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="1021.8733370640923" y="1052.0" type="line"/>
+      <point x="779.0" y="0.0" type="line"/>
+      <point x="593.0" y="0.0" type="line"/>
+      <point x="835.8733370640924" y="1052.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0,0.1,1,0.2</string>
+    </dict>
+  </lib>
+</glyph>

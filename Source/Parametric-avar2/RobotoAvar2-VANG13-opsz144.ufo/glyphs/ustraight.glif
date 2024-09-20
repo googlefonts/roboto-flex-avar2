@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ustraight" format="2">
+  <advance width="942"/>
+  <unicode hex="04AF"/>
+  <outline>
+    <contour>
+      <point x="113.95883249176575" y="-416.0" type="line"/>
+      <point x="210.0" y="0.0" type="line"/>
+      <point x="74.8733370640924" y="1052.0" type="line"/>
+      <point x="254.87333706409242" y="1052.0" type="line"/>
+      <point x="332.72090723528777" y="289.0" type="line" smooth="yes"/>
+      <point x="336.48617959026524" y="249.0"/>
+      <point x="340.3254062114758" y="179.0"/>
+      <point x="339.70804238896454" y="159.0" type="qcurve"/>
+      <point x="345.7080423889645" y="159.0" type="line"/>
+      <point x="354.32540621147575" y="179.0"/>
+      <point x="390.48617959026524" y="249.0"/>
+      <point x="412.72090723528777" y="289.0" type="qcurve" smooth="yes"/>
+      <point x="840.8733370640924" y="1052.0" type="line"/>
+      <point x="1016.8733370640923" y="1052.0" type="line"/>
+      <point x="396.0" y="0.0" type="line"/>
+      <point x="299.95883249176575" y="-416.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0,0.1,1,0.2</string>
+    </dict>
+  </lib>
+</glyph>

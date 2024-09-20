@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="circumflexcomb-stack" format="2">
+  <anchor x="169.29842723444773" y="1461" name="top"/>
+  <anchor x="75.10420525521795" y="1053" name="_top"/>
+  <anchor x="495.6591931731871" y="1220" name="topright"/>
+  <outline>
+    <contour>
+      <point x="247.6109685996003" y="1510.0" type="line"/>
+      <point x="445.6591931731871" y="1220.0" type="line"/>
+      <point x="280.659193173187" y="1220.0" type="line"/>
+      <point x="145.28813535738914" y="1357.0" type="line"/>
+      <point x="-53.34080682681298" y="1220.0" type="line"/>
+      <point x="-220.34080682681298" y="1220.0" type="line"/>
+      <point x="103.61096859960031" y="1510.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0,0.1,1,0.2</string>
+    </dict>
+  </lib>
+</glyph>
