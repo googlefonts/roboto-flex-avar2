@@ -981,8 +981,8 @@
             <dimension name="Slant" xvalue="13"/>
         </input>
         <output>
-            <dimension name="VANG" xvalue="13"/>
-            <dimension name="VROT" xvalue="4"/>
+            <dimension name="VANG" xvalue="0"/>
+            <dimension name="VROT" xvalue="0"/>
             <dimension name="XOPQ" xvalue="96"/>
             <dimension name="XTRA" xvalue="463"/>
             <dimension name="XTSP" xvalue="0"/>
@@ -2218,6 +2218,113 @@
       
     </mappings>
   </axes>
+  
+  <rules>
+    <rule>
+      <conditionset>
+        <condition name="Slant" minimum="6" maximum="13"/>
+      </conditionset>
+      <sub name="exclam" with="exclam.ital"/>
+      <sub name="quotedbl" with="quotedbl.ital"/>
+      <sub name="numbersign" with="numbersign.ital"/>
+      <sub name="dollar" with="dollar.ital"/>
+      <sub name="percent" with="percent.ital"/>
+      <sub name="ampersand" with="ampersand.ital"/>
+      <sub name="quotesingle" with="quotesingle.ital"/>
+      <sub name="parenleft" with="parenleft.ital"/>
+      <sub name="parenright" with="parenright.ital"/>
+      <sub name="asterisk" with="asterisk.ital"/>
+      <sub name="plus" with="plus.ital"/>
+      <sub name="comma" with="comma.ital"/>
+      <sub name="hyphen" with="hyphen.ital"/>
+      <sub name="period" with="period.ital"/>
+      <sub name="slash" with="slash.ital"/>
+      <sub name="zero" with="zero.ital"/>
+      <sub name="one" with="one.ital"/>
+      <sub name="two" with="two.ital"/>
+      <sub name="three" with="three.ital"/>
+      <sub name="four" with="four.ital"/>
+      <sub name="five" with="five.ital"/>
+      <sub name="six" with="six.ital"/>
+      <sub name="seven" with="seven.ital"/>
+      <sub name="eight" with="eight.ital"/>
+      <sub name="nine" with="nine.ital"/>
+      <sub name="colon" with="colon.ital"/>
+      <sub name="semicolon" with="semicolon.ital"/>
+      <sub name="less" with="less.ital"/>
+      <sub name="equal" with="equal.ital"/>
+      <sub name="greater" with="greater.ital"/>
+      <sub name="question" with="question.ital"/>
+      <sub name="at" with="at.ital"/>
+      <sub name="A" with="A.ital"/>
+      <sub name="B" with="B.ital"/>
+      <sub name="C" with="C.ital"/>
+      <sub name="D" with="D.ital"/>
+      <sub name="E" with="E.ital"/>
+      <sub name="F" with="F.ital"/>
+      <sub name="G" with="G.ital"/>
+      <sub name="H" with="H.ital"/>
+      <sub name="I" with="I.ital"/>
+      <sub name="J" with="J.ital"/>
+      <sub name="K" with="K.ital"/>
+      <sub name="L" with="L.ital"/>
+      <sub name="M" with="M.ital"/>
+      <sub name="N" with="N.ital"/>
+      <sub name="O" with="O.ital"/>
+      <sub name="P" with="P.ital"/>
+      <sub name="Q" with="Q.ital"/>
+      <sub name="R" with="R.ital"/>
+      <sub name="S" with="S.ital"/>
+      <sub name="T" with="T.ital"/>
+      <sub name="U" with="U.ital"/>
+      <sub name="V" with="V.ital"/>
+      <sub name="W" with="W.ital"/>
+      <sub name="X" with="X.ital"/>
+      <sub name="Y" with="Y.ital"/>
+      <sub name="Z" with="Z.ital"/>
+      <sub name="bracketleft" with="bracketleft.ital"/>
+      <sub name="backslash" with="backslash.ital"/>
+      <sub name="bracketright" with="bracketright.ital"/>
+      <sub name="asciicircum" with="asciicircum.ital"/>
+      <sub name="underscore" with="underscore.ital"/>
+      <sub name="grave" with="grave.ital"/>
+      <sub name="a" with="a.ital"/>
+      <sub name="b" with="b.ital"/>
+      <sub name="c" with="c.ital"/>
+      <sub name="d" with="d.ital"/>
+      <sub name="e" with="e.ital"/>
+      <sub name="f" with="f.ital"/>
+      <sub name="g" with="g.ital"/>
+      <sub name="h" with="h.ital"/>
+      <sub name="i" with="i.ital"/>
+      <sub name="j" with="j.ital"/>
+      <sub name="k" with="k.ital"/>
+      <sub name="l" with="l.ital"/>
+      <sub name="m" with="m.ital"/>
+      <sub name="n" with="n.ital"/>
+      <sub name="o" with="o.ital"/>
+      <sub name="p" with="p.ital"/>
+      <sub name="q" with="q.ital"/>
+      <sub name="r" with="r.ital"/>
+      <sub name="s" with="s.ital"/>
+      <sub name="t" with="t.ital"/>
+      <sub name="u" with="u.ital"/>
+      <sub name="v" with="v.ital"/>
+      <sub name="w" with="w.ital"/>
+      <sub name="x" with="x.ital"/>
+      <sub name="y" with="y.ital"/>
+      <sub name="z" with="z.ital"/>
+      <sub name="braceleft" with="braceleft.ital"/>
+      <sub name="bar" with="bar.ital"/>
+      <sub name="braceright" with="braceright.ital"/>
+      <sub name="asciitilde" with="asciitilde.ital"/>
+      <sub name="zerosuperior" with="zerosuperior.ital"/>
+      <sub name="fraction" with="fraction.ital"/>
+      <sub name="gravecomb" with="gravecomb.ital"/>
+      <sub name="idotless" with="idotless.ital"/>
+      <sub name="jdotless" with="jdotless.ital"/>
+    </rule>
+  </rules>
   
   <sources>
     <source filename="RobotoAvar2-wght400.ufo" familyname="RobotoAvar2" stylename="Regular">
