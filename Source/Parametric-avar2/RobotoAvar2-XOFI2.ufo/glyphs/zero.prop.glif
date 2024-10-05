@@ -5,33 +5,33 @@
     <contour>
       <point x="110" y="460" type="qcurve" smooth="yes"/>
       <point x="110" y="996" type="line" smooth="yes"/>
-      <point x="110" y="1250"/>
-      <point x="249" y="1486"/>
+      <point x="110" y="1232"/>
+      <point x="255" y="1486"/>
       <point x="391" y="1486" type="qcurve" smooth="yes"/>
-      <point x="533" y="1486"/>
-      <point x="672" y="1250"/>
-      <point x="672" y="996" type="qcurve" smooth="yes"/>
-      <point x="672" y="460" type="line" smooth="yes"/>
-      <point x="672" y="210"/>
-      <point x="535" y="-30"/>
+      <point x="527" y="1486"/>
+      <point x="673" y="1232"/>
+      <point x="673" y="996" type="qcurve" smooth="yes"/>
+      <point x="673" y="460" type="line" smooth="yes"/>
+      <point x="673" y="240"/>
+      <point x="527" y="-30"/>
       <point x="391" y="-30" type="qcurve" smooth="yes"/>
-      <point x="247" y="-30"/>
-      <point x="110" y="210"/>
+      <point x="255" y="-30"/>
+      <point x="110" y="240"/>
     </contour>
     <contour>
       <point x="117" y="450" type="line" smooth="yes"/>
-      <point x="117" y="310"/>
-      <point x="251" y="128"/>
+      <point x="117" y="305"/>
+      <point x="259" y="128"/>
       <point x="391" y="128" type="qcurve" smooth="yes"/>
-      <point x="531" y="128"/>
-      <point x="665" y="310"/>
-      <point x="665" y="450" type="qcurve" smooth="yes"/>
-      <point x="665" y="1006" type="line" smooth="yes"/>
-      <point x="665" y="1146"/>
-      <point x="531" y="1328"/>
+      <point x="523" y="128"/>
+      <point x="666" y="305"/>
+      <point x="666" y="450" type="qcurve" smooth="yes"/>
+      <point x="666" y="1006" type="line" smooth="yes"/>
+      <point x="666" y="1153"/>
+      <point x="523" y="1328"/>
       <point x="391" y="1328" type="qcurve" smooth="yes"/>
-      <point x="251" y="1328"/>
-      <point x="117" y="1146"/>
+      <point x="259" y="1328"/>
+      <point x="117" y="1153"/>
       <point x="117" y="1006" type="qcurve" smooth="yes"/>
     </contour>
   </outline>
