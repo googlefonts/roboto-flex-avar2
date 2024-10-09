@@ -8,18 +8,18 @@
     <contour>
       <point x="1030" y="546" type="qcurve"/>
       <point x="1212" y="546" type="line"/>
-      <point x="1212" y="375"/>
-      <point x="977" y="205"/>
+      <point x="1212" y="297"/>
+      <point x="982" y="205"/>
       <point x="829" y="205" type="qcurve" smooth="yes"/>
-      <point x="642" y="205"/>
-      <point x="419" y="437"/>
+      <point x="637" y="205"/>
+      <point x="419" y="317"/>
       <point x="419" y="664" type="qcurve" smooth="yes"/>
       <point x="419" y="703" type="line" smooth="yes"/>
-      <point x="419" y="931"/>
-      <point x="643" y="1170"/>
+      <point x="419" y="1051"/>
+      <point x="638" y="1170"/>
       <point x="829" y="1170" type="qcurve" smooth="yes"/>
-      <point x="1017" y="1170"/>
-      <point x="1213" y="983"/>
+      <point x="1024" y="1170"/>
+      <point x="1213" y="1063"/>
       <point x="1213" y="829" type="qcurve"/>
       <point x="1031" y="829" type="line"/>
       <point x="1031" y="917"/>
@@ -64,12 +64,4 @@
       <point x="38" y="337"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.typemytype.robofont.guideline.magnetic.0Pjz0qKr8z</key>
-      <integer>5</integer>
-      <key>com.typemytype.robofont.guideline.magnetic.sJo8BlDiJ7</key>
-      <integer>5</integer>
-    </dict>
-  </lib>
 </glyph>
