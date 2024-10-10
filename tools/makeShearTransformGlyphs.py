@@ -95,7 +95,10 @@ def printRules(glyphs):
         print( '<sub name="' + glyph + '" with="' + glyph + '.ital"/>' )
 
 ## make glyphs wit shear transformations to ufoslist 
-makeShearTransformGlyphs(ufos, glyphs)
+#makeShearTransformGlyphs(ufos, glyphs)
+
+## XTUD SPARSE
+makeShearTransformGlyphs(['RobotoAvar2-XTUD741.ufo', ], ['A', 'I', 'K', 'L', 'M', 'N', 'V', 'W', 'AE', 'naira', 'won', 'naira.rvrn', 'won.rvrn', 'numero', 'J', ] )
 
 ## print designspace rules for inclusion
 #printRules(glyphs)

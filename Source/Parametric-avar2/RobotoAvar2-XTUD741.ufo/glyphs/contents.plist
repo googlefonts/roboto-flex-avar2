@@ -4,8 +4,12 @@
   <dict>
     <key>A</key>
     <string>A_.glif</string>
+    <key>A.ital</key>
+    <string>A_.ital.glif</string>
     <key>AE</key>
     <string>A_E_.glif</string>
+    <key>AE.ital</key>
+    <string>A_E_.ital.glif</string>
     <key>AEacute</key>
     <string>A_E_acute.glif</string>
     <key>Aacute</key>
@@ -72,12 +76,16 @@
     <string>E_ng.glif</string>
     <key>I</key>
     <string>I_.glif</string>
+    <key>I.ital</key>
+    <string>I_.ital.glif</string>
     <key>IJ</key>
     <string>I_J_.glif</string>
     <key>IJacute</key>
     <string>I_J_acute.glif</string>
     <key>J</key>
     <string>J_.glif</string>
+    <key>J.ital</key>
+    <string>J_.ital.glif</string>
     <key>Jacute.loclNLD</key>
     <string>J_acute.loclN_L_D_.glif</string>
     <key>Jcircumflex</key>
@@ -86,6 +94,8 @@
     <string>J_e.glif</string>
     <key>K</key>
     <string>K_.glif</string>
+    <key>K.ital</key>
+    <string>K_.ital.glif</string>
     <key>Ka.bgr</key>
     <string>K_a.bgr.glif</string>
     <key>Kappa</key>
@@ -96,6 +106,8 @@
     <string>K_je.glif</string>
     <key>L</key>
     <string>L_.glif</string>
+    <key>L.ital</key>
+    <string>L_.ital.glif</string>
     <key>LJ</key>
     <string>L_J_.glif</string>
     <key>Lacute</key>
@@ -112,10 +124,14 @@
     <string>L_slash.glif</string>
     <key>M</key>
     <string>M_.glif</string>
+    <key>M.ital</key>
+    <string>M_.ital.glif</string>
     <key>Mu</key>
     <string>M_u.glif</string>
     <key>N</key>
     <string>N_.glif</string>
+    <key>N.ital</key>
+    <string>N_.ital.glif</string>
     <key>NJ</key>
     <string>N_J_.glif</string>
     <key>Nacute</key>
@@ -132,8 +148,12 @@
     <string>N_u.glif</string>
     <key>V</key>
     <string>V_.glif</string>
+    <key>V.ital</key>
+    <string>V_.ital.glif</string>
     <key>W</key>
     <string>W_.glif</string>
+    <key>W.ital</key>
+    <string>W_.ital.glif</string>
     <key>Wacute</key>
     <string>W_acute.glif</string>
     <key>Wcircumflex</key>
@@ -306,10 +326,16 @@
     <string>macroncombstack.case.glif</string>
     <key>naira</key>
     <string>naira.glif</string>
+    <key>naira.ital</key>
+    <string>naira.ital.glif</string>
     <key>naira.rvrn</key>
     <string>naira.rvrn.glif</string>
+    <key>naira.rvrn.ital</key>
+    <string>naira.rvrn.ital.glif</string>
     <key>numero</key>
     <string>numero.glif</string>
+    <key>numero.ital</key>
+    <string>numero.ital.glif</string>
     <key>ogonek.case</key>
     <string>ogonek.case.glif</string>
     <key>ogonekcomb.case</key>
@@ -336,7 +362,11 @@
     <string>tonoscomb.case.glif</string>
     <key>won</key>
     <string>won.glif</string>
+    <key>won.ital</key>
+    <string>won.ital.glif</string>
     <key>won.rvrn</key>
     <string>won.rvrn.glif</string>
+    <key>won.rvrn.ital</key>
+    <string>won.rvrn.ital.glif</string>
   </dict>
 </plist>
