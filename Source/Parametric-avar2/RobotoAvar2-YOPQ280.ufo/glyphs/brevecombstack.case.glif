@@ -1,23 +1,23 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="brevecombstack.case" format="2">
-	<outline>
-		<contour>
-			<point x="255" y="1960" type="qcurve"/>
-			<point x="421" y="1849" type="line"/>
-			<point x="379" y="1759"/>
-			<point x="158" y="1608"/>
-			<point x="0" y="1608" type="qcurve" smooth="yes"/>
-			<point x="-140" y="1608"/>
-			<point x="-368" y="1746"/>
-			<point x="-420" y="1850" type="qcurve"/>
-			<point x="-248" y="1960" type="line"/>
-			<point x="-210" y="1890"/>
-			<point x="-83" y="1769"/>
-			<point x="0" y="1769" type="qcurve" smooth="yes"/>
-			<point x="89" y="1769"/>
-			<point x="217" y="1884"/>
-		</contour>
-	</outline>
-	<anchor name="_top" x="0" y="1536"/>
-	<anchor name="top" x="0" y="1910"/>
+  <anchor x="0" y="1536" name="_top"/>
+  <anchor x="0" y="1910" name="top"/>
+  <outline>
+    <contour>
+      <point x="0" y="1608" type="qcurve"/>
+      <point x="-140" y="1608"/>
+      <point x="-368" y="1746"/>
+      <point x="-420" y="1850" type="qcurve"/>
+      <point x="-248" y="1960" type="line"/>
+      <point x="-210" y="1890"/>
+      <point x="-83" y="1769"/>
+      <point x="0" y="1769" type="qcurve"/>
+      <point x="83" y="1769"/>
+      <point x="210" y="1890"/>
+      <point x="248" y="1960" type="qcurve"/>
+      <point x="420" y="1850" type="line"/>
+      <point x="368" y="1746"/>
+      <point x="140" y="1608"/>
+    </contour>
+  </outline>
 </glyph>

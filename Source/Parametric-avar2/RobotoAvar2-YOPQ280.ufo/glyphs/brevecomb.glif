@@ -1,24 +1,24 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="brevecomb" format="2">
-	<unicode hex="0306"/>
-	<outline>
-		<contour>
-			<point x="185" y="1534" type="qcurve"/>
-			<point x="375" y="1450" type="line"/>
-			<point x="336" y="1361"/>
-			<point x="140" y="1198"/>
-			<point x="0" y="1198" type="qcurve" smooth="yes"/>
-			<point x="-126" y="1198"/>
-			<point x="-328" y="1349"/>
-			<point x="-374" y="1452" type="qcurve"/>
-			<point x="-195" y="1534" type="line"/>
-			<point x="-173" y="1478"/>
-			<point x="-79" y="1361"/>
-			<point x="0" y="1361" type="qcurve" smooth="yes"/>
-			<point x="84" y="1361"/>
-			<point x="158" y="1476"/>
-		</contour>
-	</outline>
-	<anchor name="_top" x="0" y="1052"/>
-	<anchor name="top" x="0" y="1518"/>
+  <unicode hex="0306"/>
+  <anchor x="0" y="1052" name="_top"/>
+  <anchor x="0" y="1518" name="top"/>
+  <outline>
+    <contour>
+      <point x="0" y="1198" type="qcurve"/>
+      <point x="-126" y="1198"/>
+      <point x="-328" y="1349"/>
+      <point x="-374" y="1452" type="qcurve"/>
+      <point x="-195" y="1534" type="line"/>
+      <point x="-173" y="1478"/>
+      <point x="-79" y="1361"/>
+      <point x="0" y="1361" type="qcurve"/>
+      <point x="79" y="1361"/>
+      <point x="173" y="1478"/>
+      <point x="195" y="1534" type="qcurve"/>
+      <point x="374" y="1452" type="line"/>
+      <point x="328" y="1349"/>
+      <point x="126" y="1198"/>
+    </contour>
+  </outline>
 </glyph>
