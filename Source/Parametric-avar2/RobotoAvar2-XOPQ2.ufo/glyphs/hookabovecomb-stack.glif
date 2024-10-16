@@ -1,35 +1,35 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="hookabovecomb-stack" format="2">
-	<outline>
-		<contour>
-			<point x="-70" y="1220" type="line"/>
-			<point x="-70" y="1259" type="line" smooth="yes"/>
-			<point x="-70" y="1313"/>
-			<point x="-26" y="1370"/>
-			<point x="50" y="1386" type="qcurve" smooth="yes"/>
-			<point x="127" y="1402"/>
-			<point x="220" y="1436"/>
-			<point x="220" y="1453" type="qcurve" smooth="yes"/>
-			<point x="220" y="1545"/>
-			<point x="109" y="1650"/>
-			<point x="6" y="1650" type="qcurve" smooth="yes"/>
-			<point x="-47" y="1650"/>
-			<point x="-186" y="1612"/>
-			<point x="-226" y="1590" type="qcurve"/>
-			<point x="-229" y="1597" type="line"/>
-			<point x="-186" y="1620"/>
-			<point x="-46" y="1657"/>
-			<point x="6" y="1657" type="qcurve" smooth="yes"/>
-			<point x="112" y="1657"/>
-			<point x="227" y="1549"/>
-			<point x="227" y="1453" type="qcurve" smooth="yes"/>
-			<point x="227" y="1372"/>
-			<point x="195" y="1269"/>
-			<point x="52" y="1258" type="qcurve"/>
-			<point x="52" y="1220" type="line"/>
-		</contour>
-	</outline>
-	<anchor name="_top" x="0" y="1052"/>
-	<anchor name="top" x="0" y="1657"/>
-	<anchor name="_topright" x="0" y="1052"/>
+  <anchor x="0" y="1052" name="_top"/>
+  <anchor x="0" y="1657" name="top"/>
+  <anchor x="0" y="1052" name="_topright"/>
+  <outline>
+    <contour>
+      <point x="-4" y="1220" type="line"/>
+      <point x="-4" y="1259" type="line" smooth="yes"/>
+      <point x="-4" y="1280"/>
+      <point x="-2" y="1285"/>
+      <point x="33" y="1296" type="qcurve" smooth="yes"/>
+      <point x="132" y="1326"/>
+      <point x="219" y="1395"/>
+      <point x="219" y="1455" type="qcurve" smooth="yes"/>
+      <point x="219" y="1510"/>
+      <point x="126" y="1580"/>
+      <point x="49" y="1580" type="qcurve" smooth="yes"/>
+      <point x="-20" y="1580"/>
+      <point x="-112" y="1547"/>
+      <point x="-149" y="1520" type="qcurve"/>
+      <point x="-152" y="1527" type="line"/>
+      <point x="-116" y="1552"/>
+      <point x="-22" y="1587"/>
+      <point x="49" y="1587" type="qcurve" smooth="yes"/>
+      <point x="130" y="1587"/>
+      <point x="226" y="1513"/>
+      <point x="226" y="1455" type="qcurve" smooth="yes"/>
+      <point x="226" y="1393"/>
+      <point x="136" y="1319"/>
+      <point x="3" y="1280" type="qcurve"/>
+      <point x="3" y="1220" type="line"/>
+    </contour>
+  </outline>
 </glyph>
