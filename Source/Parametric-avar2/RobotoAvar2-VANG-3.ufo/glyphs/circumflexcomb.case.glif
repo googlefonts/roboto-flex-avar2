@@ -1,22 +1,16 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="circumflexcomb.case" format="2">
-  <anchor x="-38.30572663610877" y="1456" name="_top"/>
-  <anchor x="-65.50536408400744" y="1975" name="top"/>
+  <anchor x="0" y="1456" name="_top"/>
+  <anchor x="0" y="1975" name="top"/>
   <outline>
     <contour>
-      <point x="2.4946359159925606" y="1975.0" type="line"/>
-      <point x="285.31328087222676" y="1635.0" type="line"/>
-      <point x="118.31328087222674" y="1635.0" type="line"/>
-      <point x="-57.22493495728685" y="1817.0" type="line"/>
-      <point x="-207.68671912777324" y="1635.0" type="line"/>
-      <point x="-380.68671912777324" y="1635.0" type="line"/>
-      <point x="-141.50536408400745" y="1975.0" type="line"/>
+      <point x="-166" y="1635" type="line"/>
+      <point x="-333" y="1635" type="line"/>
+      <point x="-68" y="1975" type="line"/>
+      <point x="68" y="1975" type="line"/>
+      <point x="333" y="1635" type="line"/>
+      <point x="166" y="1635" type="line"/>
+      <point x="0" y="1817" type="line"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>0,0.1,1,0.2</string>
-    </dict>
-  </lib>
 </glyph>
