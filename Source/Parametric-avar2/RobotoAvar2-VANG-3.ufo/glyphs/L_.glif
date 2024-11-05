@@ -2,24 +2,19 @@
 <glyph name="L" format="2">
   <advance width="1106"/>
   <unicode hex="004C"/>
-  <anchor x="668.0" y="0" name="bottom"/>
-  <anchor x="859.8471366819456" y="728" name="center"/>
-  <anchor x="345.6942733638912" y="1456" name="top"/>
-  <anchor x="731.8670161942401" y="1052" name="topright"/>
+  <anchor x="630" y="0" name="bottom"/>
+  <anchor x="860" y="728" name="center"/>
+  <anchor x="384" y="1456" name="top"/>
+  <anchor x="749" y="1052" name="topright"/>
+  <anchor x="304" y="728" name="slash"/>
   <outline>
     <contour>
-      <point x="208.0" y="0.0" type="line"/>
-      <point x="131.69427336389123" y="1456.0" type="line"/>
-      <point x="323.6942733638912" y="1456.0" type="line"/>
-      <point x="391.7195708732794" y="158.0" type="line"/>
-      <point x="1081.7195708732795" y="158.0" type="line"/>
-      <point x="1090.0" y="0.0" type="line"/>
+      <point x="170" y="0" type="line"/>
+      <point x="170" y="1456" type="line"/>
+      <point x="362" y="1456" type="line"/>
+      <point x="362" y="158" type="line"/>
+      <point x="1052" y="158" type="line"/>
+      <point x="1052" y="0" type="line"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>0,0.1,1,0.2</string>
-    </dict>
-  </lib>
 </glyph>
