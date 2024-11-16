@@ -4,32 +4,32 @@
   <anchor x="0" y="1604" name="top"/>
   <outline>
     <contour>
-      <point x="-224" y="1437" type="qcurve" smooth="yes"/>
-      <point x="-224" y="1534"/>
-      <point x="-97" y="1658"/>
-      <point x="0" y="1658" type="qcurve" smooth="yes"/>
-      <point x="97" y="1658"/>
-      <point x="224" y="1534"/>
-      <point x="224" y="1437" type="qcurve" smooth="yes"/>
-      <point x="224" y="1340"/>
-      <point x="97" y="1215"/>
-      <point x="0" y="1215" type="qcurve"/>
-      <point x="-97" y="1215"/>
-      <point x="-224" y="1340"/>
+      <point x="-164" y="1380" type="qcurve" smooth="yes"/>
+      <point x="-164" y="1456"/>
+      <point x="-74" y="1546"/>
+      <point x="1" y="1546" type="qcurve" smooth="yes"/>
+      <point x="76" y="1546"/>
+      <point x="166" y="1456"/>
+      <point x="166" y="1380" type="qcurve" smooth="yes"/>
+      <point x="166" y="1305"/>
+      <point x="76" y="1215"/>
+      <point x="1" y="1215" type="qcurve" smooth="yes"/>
+      <point x="-74" y="1215"/>
+      <point x="-164" y="1305"/>
     </contour>
     <contour>
-      <point x="-106" y="1437" type="qcurve" smooth="yes"/>
-      <point x="-106" y="1387"/>
-      <point x="-49" y="1327"/>
-      <point x="0" y="1327" type="qcurve" smooth="yes"/>
-      <point x="52" y="1327"/>
-      <point x="106" y="1383"/>
-      <point x="106" y="1437" type="qcurve" smooth="yes"/>
-      <point x="106" y="1486"/>
-      <point x="49" y="1546"/>
-      <point x="0" y="1546" type="qcurve" smooth="yes"/>
-      <point x="-52" y="1546"/>
-      <point x="-106" y="1490"/>
+      <point x="-157" y="1380" type="qcurve" smooth="yes"/>
+      <point x="-157" y="1308"/>
+      <point x="-71" y="1222"/>
+      <point x="1" y="1222" type="qcurve" smooth="yes"/>
+      <point x="73" y="1222"/>
+      <point x="159" y="1308"/>
+      <point x="159" y="1380" type="qcurve" smooth="yes"/>
+      <point x="159" y="1452"/>
+      <point x="73" y="1539"/>
+      <point x="1" y="1539" type="qcurve" smooth="yes"/>
+      <point x="-71" y="1539"/>
+      <point x="-157" y="1452"/>
     </contour>
   </outline>
 </glyph>

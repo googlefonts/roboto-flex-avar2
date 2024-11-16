@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="kgreenlandic" format="2">
-  <advance width="1072"/>
+  <advance width="588"/>
   <unicode hex="0138"/>
   <outline>
     <contour>
@@ -10,18 +10,18 @@
       <point x="155" y="1052" type="line"/>
     </contour>
     <contour>
-      <point x="1027" y="1052" type="line"/>
-      <point x="517" y="462" type="line"/>
+      <point x="594" y="1052" type="line"/>
+      <point x="440" y="462" type="line"/>
       <point x="250" y="462" type="line"/>
       <point x="250" y="624" type="line"/>
-      <point x="432" y="624" type="line"/>
-      <point x="803" y="1052" type="line"/>
+      <point x="355" y="624" type="line"/>
+      <point x="390" y="1052" type="line"/>
     </contour>
     <contour>
-      <point x="854" y="0" type="line"/>
-      <point x="423" y="490" type="line"/>
-      <point x="542" y="624" type="line"/>
-      <point x="1088" y="0" type="line"/>
+      <point x="400" y="0" type="line"/>
+      <point x="355" y="490" type="line"/>
+      <point x="465" y="624" type="line"/>
+      <point x="604" y="0" type="line"/>
     </contour>
   </outline>
 </glyph>

@@ -3,7 +3,7 @@
   <advance width="2271"/>
   <unicode hex="0041"/>
   <anchor x="1131" y="0.0" name="bottom"/>
-  <anchor x="2102" y="0.0" name="ogonek"/>
+  <anchor x="2174" y="0.0" name="ogonek"/>
   <anchor x="1129" y="1456.0" name="top"/>
   <anchor x="281" y="1074.0" name="tonos"/>
   <outline>
@@ -24,9 +24,9 @@
       <point x="192" y="0" type="line"/>
     </contour>
     <contour>
-      <point x="375" y="381" type="line"/>
-      <point x="497" y="537" type="line"/>
-      <point x="1770" y="537" type="line"/>
+      <point x="388" y="381" type="line"/>
+      <point x="466" y="537" type="line"/>
+      <point x="1803" y="537" type="line"/>
       <point x="1879" y="381" type="line"/>
     </contour>
   </outline>
