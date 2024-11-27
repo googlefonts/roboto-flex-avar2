@@ -1,12 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="onehalf" format="2">
-  <advance width="2078"/>
+  <advance width="1536"/>
   <unicode hex="00BD"/>
   <guideline y="2079" identifier="ZZEoUYP2Rx"/>
   <outline>
     <component base="onesuperior"/>
-    <component base="fraction" xOffset="649"/>
-    <component base="twosuperior" xOffset="1353" yOffset="-697"/>
+    <component base="fraction" xOffset="651"/>
+    <component base="twosuperior" xOffset="904" yOffset="-697"/>
   </outline>
   <lib>
     <dict>
