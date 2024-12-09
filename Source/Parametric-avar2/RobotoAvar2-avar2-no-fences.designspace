@@ -8,16 +8,16 @@
       <map input="84" output="0.946000"/>
       <map input="144" output="1"/>
     </axis>
-    <axis tag="slnt" name="Slant" minimum="-3" maximum="13" default="0"/>
     <axis tag="wght" name="Weight" minimum="100" maximum="1000" default="400"/>
     <axis tag="wdth" name="Width" minimum="25" maximum="151" default="100"/>
-    <axis tag="VANG" name="VANG" minimum="-3" maximum="13" default="0"/>
-    <axis tag="VROT" name="VROT" minimum="0" maximum="13" default="0"/>
+    <axis tag="slnt" name="Slant" minimum="-3" maximum="13" default="0"/>
     <axis tag="XOPQ" name="XOPQ" minimum="2" maximum="310" default="96"/>
+    <axis tag="YOPQ" name="YOPQ" minimum="2" maximum="280" default="79"/>
     <axis tag="XTRA" name="XTRA" minimum="244" maximum="741" default="463"/>
     <axis tag="XTSP" name="XTSP" minimum="-100" maximum="100" default="0"/>
-    <axis tag="YOPE" name="YOPE" minimum="79" maximum="280" default="79"/>
-    <axis tag="YOPQ" name="YOPQ" minimum="2" maximum="280" default="79"/>
+    <axis tag="WDSP" name="WDSP" minimum="0" maximum="1000" default="246"/>
+    <axis tag="VANG" name="VANG" minimum="-3" maximum="13" default="0"/>
+    <axis tag="VROT" name="VROT" minimum="0" maximum="13" default="0"/>
     <axis tag="YTAS" name="YTAS" minimum="665" maximum="875" default="728"/>
     <axis tag="YTDE" name="YTDE" minimum="-310" maximum="-100" default="-208"/>
     <axis tag="YTFI" name="YTFI" minimum="270" maximum="793" default="743"/>
@@ -26,14 +26,14 @@
     <axis tag="YTUC" name="YTUC" minimum="528" maximum="778" default="728"/>
     <axis tag="YTTL" name="YTTL" minimum="0" maximum="50" default="25"/>
     <axis tag="XTTW" name="XTTW" minimum="0" maximum="30" default="5"/>
-    <axis tag="XTUR" name="XTUR" minimum="463" maximum="741" default="463"/>
-    <axis tag="WDSP" name="WDSP" minimum="0" maximum="1000" default="246"/>
-    <axis tag="BARS" name="BARS" minimum="0" maximum="1000" default="1000"/>
-    <axis tag="XTUD" name="XTUD" minimum="463" maximum="741" default="463"/>
     <axis tag="STUI" name="STUI" minimum="2" maximum="736" default="92"/>
     <axis tag="STUO" name="STUO" minimum="2" maximum="722" default="92"/>
     <axis tag="STLI" name="STLI" minimum="2" maximum="412" default="32"/>
     <axis tag="STLO" name="STLO" minimum="2" maximum="426" default="32"/>
+    <axis tag="BARS" name="BARS" minimum="0" maximum="1000" default="1000"/>
+    <axis tag="XTUD" name="XTUD" minimum="463" maximum="741" default="463"/>
+    <axis tag="XTUR" name="XTUR" minimum="463" maximum="741" default="463"/>
+    <axis tag="YOPE" name="YOPE" minimum="79" maximum="280" default="79"/>
     <mappings>
       
       <mapping>
