@@ -1,26 +1,20 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="hungarumlautcomb" format="2">
   <unicode hex="030B"/>
-  <anchor x="-17.132983805759913" y="1052" name="_top"/>
-  <anchor x="-44.856699046489" y="1581" name="top"/>
+  <anchor x="0" y="1052" name="_top"/>
+  <anchor x="0" y="1581" name="top"/>
   <outline>
     <contour>
-      <point x="-285.8680741715391" y="1295.0" type="line"/>
-      <point x="-60.856699046489" y="1581.0" type="line"/>
-      <point x="81.80334111607951" y="1473.0" type="line"/>
-      <point x="-183.83267516674485" y="1218.0" type="line"/>
+      <point x="-253" y="1301" type="line"/>
+      <point x="-16" y="1581" type="line"/>
+      <point x="121" y="1473" type="line"/>
+      <point x="-158" y="1215" type="line"/>
     </contour>
     <contour>
-      <point x="24.131925828460936" y="1295.0" type="line"/>
-      <point x="249.14330095351102" y="1581.0" type="line"/>
-      <point x="391.80334111607954" y="1473.0" type="line"/>
-      <point x="126.16732483325515" y="1218.0" type="line"/>
+      <point x="57" y="1301" type="line"/>
+      <point x="294" y="1581" type="line"/>
+      <point x="431" y="1473" type="line"/>
+      <point x="152" y="1215" type="line"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>0,0.1,1,0.2</string>
-    </dict>
-  </lib>
 </glyph>

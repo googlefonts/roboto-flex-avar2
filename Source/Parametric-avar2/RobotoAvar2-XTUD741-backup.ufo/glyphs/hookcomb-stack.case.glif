@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="hookcomb-stack.case" format="2">
+  <anchor x="0" y="1456" name="_top"/>
+  <anchor x="0" y="2014" name="top"/>
+  <anchor x="0" y="1456" name="_topright"/>
+  <outline>
+    <contour>
+      <point x="-80" y="1600" type="line"/>
+      <point x="-80" y="1647" type="line" smooth="yes"/>
+      <point x="-80" y="1691"/>
+      <point x="-25" y="1742"/>
+      <point x="54" y="1754" type="qcurve"/>
+      <point x="142" y="1767"/>
+      <point x="216" y="1792"/>
+      <point x="216" y="1824" type="qcurve" smooth="yes"/>
+      <point x="216" y="1856"/>
+      <point x="87" y="1878"/>
+      <point x="-14" y="1878" type="qcurve" smooth="yes"/>
+      <point x="-115" y="1878"/>
+      <point x="-273" y="1858"/>
+      <point x="-322" y="1843" type="qcurve"/>
+      <point x="-370" y="1962" type="line"/>
+      <point x="-302" y="1986"/>
+      <point x="-97" y="2012"/>
+      <point x="9" y="2012" type="qcurve" smooth="yes"/>
+      <point x="176" y="2012"/>
+      <point x="370" y="1914"/>
+      <point x="370" y="1831" type="qcurve" smooth="yes"/>
+      <point x="370" y="1743"/>
+      <point x="212" y="1655"/>
+      <point x="69" y="1643" type="qcurve"/>
+      <point x="69" y="1600" type="line"/>
+    </contour>
+  </outline>
+</glyph>

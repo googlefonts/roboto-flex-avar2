@@ -14,8 +14,12 @@
     <string>W_.glif</string>
     <key>Z</key>
     <string>Z_.glif</string>
+    <key>acutecomb.case</key>
+    <string>acutecomb.case.glif</string>
     <key>caroncomb-stack.case</key>
     <string>caroncomb-stack.case.glif</string>
+    <key>cedillacomb.case</key>
+    <string>cedillacomb.case.glif</string>
     <key>circumflexcomb-stack.case</key>
     <string>circumflexcomb-stack.case.glif</string>
     <key>currency</key>
@@ -32,6 +36,14 @@
     <string>h.glif</string>
     <key>hookabovecomb</key>
     <string>hookabovecomb.glif</string>
+    <key>hookabovecomb-stack</key>
+    <string>hookabovecomb-stack.glif</string>
+    <key>hookabovecomb.case</key>
+    <string>hookabovecomb.case.glif</string>
+    <key>hookcomb-stack.case</key>
+    <string>hookcomb-stack.case.glif</string>
+    <key>hungarumlautcomb</key>
+    <string>hungarumlautcomb.glif</string>
     <key>k</key>
     <string>k.glif</string>
     <key>m</key>
@@ -50,6 +62,10 @@
     <string>tildecomb.glif</string>
     <key>tildecomb-stack</key>
     <string>tildecomb-stack.glif</string>
+    <key>tildecomb-stack.case</key>
+    <string>tildecomb-stack.case.glif</string>
+    <key>tildecomb.case</key>
+    <string>tildecomb.case.glif</string>
     <key>two</key>
     <string>two.glif</string>
     <key>twosuperior</key>

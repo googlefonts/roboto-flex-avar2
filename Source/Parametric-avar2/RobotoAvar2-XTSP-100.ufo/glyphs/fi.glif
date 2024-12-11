@@ -1,16 +1,16 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="fi" format="2">
-  <advance width="811"/>
+  <advance width="781"/>
   <unicode hex="FB01"/>
   <outline>
     <component base="f"/>
-    <component base="idotless" xOffset="605"/>
-    <component base="idot" xOffset="708"/>
+    <component base="idotless" xOffset="575"/>
+    <component base="idot" xOffset="678"/>
   </outline>
   <lib>
     <dict>
       <key>public.markColor</key>
-      <string>0.0016,0,0.9984,1</string>
+      <string>0.0676,0,0.9997,1</string>
     </dict>
   </lib>
 </glyph>
