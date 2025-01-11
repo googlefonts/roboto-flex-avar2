@@ -1,24 +1,29 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="foursuperior" format="2">
-  <advance width="1151"/>
+  <advance width="1251"/>
   <unicode hex="2074"/>
   <outline>
     <contour>
       <point x="485" y="697" type="line"/>
       <point x="485" y="924" type="line"/>
       <point x="485" y="950" type="line"/>
-      <point x="485" y="1322" type="line"/>
+      <point x="485" y="1409" type="line"/>
+      <point x="485" y="1496" type="line"/>
+      <point x="1042" y="1496" type="line"/>
+      <point x="1042" y="697" type="line"/>
+    </contour>
+    <contour>
+      <point x="54" y="880" type="line"/>
+      <point x="54" y="982" type="line"/>
+      <point x="485" y="1496" type="line"/>
+      <point x="1042" y="1496" type="line"/>
+      <point x="1042" y="1322" type="line"/>
       <point x="485" y="1322" type="line"/>
       <point x="212" y="1010" type="line"/>
       <point x="554" y="1010" type="line"/>
       <point x="579" y="1010" type="line"/>
       <point x="1200" y="1010" type="line"/>
       <point x="1200" y="880" type="line"/>
-      <point x="54" y="880" type="line"/>
-      <point x="54" y="982" type="line"/>
-      <point x="482" y="1496" type="line"/>
-      <point x="1042" y="1496" type="line"/>
-      <point x="1042" y="697" type="line"/>
     </contour>
   </outline>
 </glyph>
