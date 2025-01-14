@@ -1,10 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Umacroncyr" format="2">
-  <advance width="1238"/>
+  <advance width="1978"/>
   <unicode hex="04EE"/>
   <outline>
     <component base="Ucyr"/>
-    <component base="macroncomb.case" xOffset="635"/>
+    <component base="macroncomb.case" xOffset="1005"/>
   </outline>
   <lib>
     <dict>

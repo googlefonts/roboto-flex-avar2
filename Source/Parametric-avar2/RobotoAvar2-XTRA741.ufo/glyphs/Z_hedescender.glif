@@ -1,10 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Zhedescender" format="2">
-  <advance width="1790"/>
+  <advance width="3270"/>
   <unicode hex="0496"/>
   <outline>
     <component base="Zhe"/>
-    <component base="cy-descendercomb" xOffset="1584"/>
+    <component base="cy-descendercomb" xOffset="3064"/>
   </outline>
   <lib>
     <dict>
