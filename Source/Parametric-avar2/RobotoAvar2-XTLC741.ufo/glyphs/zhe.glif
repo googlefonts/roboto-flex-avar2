@@ -1,29 +1,29 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="zhe" format="2">
-  <advance width="1400"/>
+  <advance width="2060"/>
   <unicode hex="0436"/>
-  <anchor x="701" y="1052" name="top"/>
-  <anchor x="1225" y="0" name="cy_descender"/>
+  <anchor x="1031" y="1052" name="top"/>
+  <anchor x="1885" y="0" name="cy_descender"/>
   <outline>
     <contour>
-      <point x="790" y="0" type="line"/>
-      <point x="610" y="0" type="line"/>
-      <point x="610" y="1052" type="line"/>
-      <point x="790" y="1052" type="line"/>
+      <point x="1120" y="0" type="line"/>
+      <point x="940" y="0" type="line"/>
+      <point x="940" y="1052" type="line"/>
+      <point x="1120" y="1052" type="line"/>
     </contour>
     <contour>
-      <point x="1215" y="0" type="line"/>
-      <point x="861" y="508" type="line"/>
-      <point x="982" y="616" type="line"/>
-      <point x="1420" y="0" type="line"/>
+      <point x="1875" y="0" type="line"/>
+      <point x="1521" y="508" type="line"/>
+      <point x="1642" y="616" type="line"/>
+      <point x="2080" y="0" type="line"/>
     </contour>
     <contour>
-      <point x="700" y="610" type="line"/>
-      <point x="879" y="610" type="line"/>
-      <point x="1184" y="1052" type="line"/>
-      <point x="1390" y="1052" type="line"/>
-      <point x="978" y="465" type="line"/>
-      <point x="700" y="465" type="line"/>
+      <point x="1030" y="610" type="line"/>
+      <point x="1539" y="610" type="line"/>
+      <point x="1844" y="1052" type="line"/>
+      <point x="2050" y="1052" type="line"/>
+      <point x="1638" y="465" type="line"/>
+      <point x="1030" y="465" type="line"/>
     </contour>
     <contour>
       <point x="185" y="0" type="line"/>
@@ -32,8 +32,8 @@
       <point x="539" y="508" type="line"/>
     </contour>
     <contour>
-      <point x="700" y="610" type="line"/>
-      <point x="700" y="465" type="line"/>
+      <point x="1030" y="610" type="line"/>
+      <point x="1030" y="465" type="line"/>
       <point x="422" y="465" type="line"/>
       <point x="10" y="1052" type="line"/>
       <point x="216" y="1052" type="line"/>
