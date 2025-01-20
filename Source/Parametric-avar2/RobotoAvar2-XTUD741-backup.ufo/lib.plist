@@ -796,7 +796,6 @@
       <string>A</string>
       <string>I</string>
       <string>K</string>
-      <string>L</string>
       <string>M</string>
       <string>N</string>
       <string>V</string>
@@ -813,13 +812,7 @@
       <string>Amacron</string>
       <string>Abreve</string>
       <string>Aogonek</string>
-      <string>Lj</string>
       <string>Kcommaaccent</string>
-      <string>Lacute</string>
-      <string>Lcommaaccent</string>
-      <string>Lcaron</string>
-      <string>Ldot</string>
-      <string>Lslash</string>
       <string>Nacute</string>
       <string>Ncommaaccent</string>
       <string>Ncaron</string>
@@ -870,18 +863,9 @@
       <string>naira.rvrn</string>
       <string>won.rvrn</string>
       <string>numero</string>
-      <string>J</string>
-      <string>IJ</string>
-      <string>Jcircumflex</string>
-      <string>LJ</string>
-      <string>IJacute</string>
-      <string>Jacute.loclNLD</string>
-      <string>NJ</string>
-      <string>Je</string>
       <string>A.ital</string>
       <string>I.ital</string>
       <string>K.ital</string>
-      <string>L.ital</string>
       <string>M.ital</string>
       <string>N.ital</string>
       <string>V.ital</string>
@@ -892,7 +876,6 @@
       <string>naira.rvrn.ital</string>
       <string>won.rvrn.ital</string>
       <string>numero.ital</string>
-      <string>J.ital</string>
       <string>gravecomb.case</string>
       <string>acutecomb.case</string>
       <string>dieresiscomb.case</string>
@@ -952,6 +935,43 @@
       <string>hookcomb-stack.case</string>
       <string>breveinvertedcomb-stack.case</string>
       <string>dblgravecomb-stack.case</string>
+      <string>J</string>
+      <string>L</string>
+      <string>IJ</string>
+      <string>Jcircumflex</string>
+      <string>LJ</string>
+      <string>Lj</string>
+      <string>Lacute</string>
+      <string>Lcommaaccent</string>
+      <string>Lcaron</string>
+      <string>Ldot</string>
+      <string>Lslash</string>
+      <string>IJacute</string>
+      <string>Jacute.loclNLD</string>
+      <string>NJ</string>
+      <string>grave.case</string>
+      <string>acute.case</string>
+      <string>dieresis.case</string>
+      <string>macron.case</string>
+      <string>cedilla.case</string>
+      <string>circumflex.case</string>
+      <string>caron.case</string>
+      <string>breve.case</string>
+      <string>dotaccent.case</string>
+      <string>ring.case</string>
+      <string>ogonek.case</string>
+      <string>tilde.case</string>
+      <string>hungarumlaut.case</string>
+      <string>hookabove.case</string>
+      <string>breveinverted.case</string>
+      <string>dblgrave.case</string>
+      <string>horn.case</string>
+      <string>dotbelow.case</string>
+      <string>dieresisbelow.case</string>
+      <string>commaaccent.case</string>
+      <string>brevebelow.case</string>
+      <string>macronbelow.case</string>
+      <string>Je</string>
     </array>
     <key>tnCurvePalet</key>
     <dict>
