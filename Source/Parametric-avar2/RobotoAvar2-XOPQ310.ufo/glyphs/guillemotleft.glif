@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="guillemotleft" format="2">
-  <advance width="1892"/>
+  <advance width="1992"/>
   <unicode hex="00AB"/>
   <guideline x="0" y="901" angle="0" identifier="ZftBQarVKw"/>
   <guideline x="0" y="555" angle="0" identifier="MVJpdoVRVd"/>
@@ -8,20 +8,20 @@
     <contour>
       <point x="108" y="522" type="line"/>
       <point x="108" y="581" type="line"/>
-      <point x="533" y="1149" type="line"/>
-      <point x="1095" y="1149" type="line"/>
+      <point x="503" y="1102" type="line"/>
+      <point x="1065" y="1102" type="line"/>
       <point x="707" y="551" type="line"/>
-      <point x="1095" y="-47" type="line"/>
-      <point x="533" y="-47" type="line"/>
+      <point x="1065" y="0" type="line"/>
+      <point x="503" y="0" type="line"/>
     </contour>
     <contour>
       <point x="948" y="522" type="line"/>
       <point x="948" y="581" type="line"/>
-      <point x="1373" y="1149" type="line"/>
-      <point x="1935" y="1149" type="line"/>
+      <point x="1343" y="1102" type="line"/>
+      <point x="1905" y="1102" type="line"/>
       <point x="1547" y="551" type="line"/>
-      <point x="1935" y="-47" type="line"/>
-      <point x="1373" y="-47" type="line"/>
+      <point x="1905" y="0" type="line"/>
+      <point x="1343" y="0" type="line"/>
     </contour>
   </outline>
   <lib>

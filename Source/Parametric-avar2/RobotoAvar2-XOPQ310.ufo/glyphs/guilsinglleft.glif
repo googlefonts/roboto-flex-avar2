@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="guilsinglleft" format="2">
-  <advance width="1182"/>
+  <advance width="1152"/>
   <unicode hex="2039"/>
   <guideline x="0" y="901" angle="0" identifier="Amp5Ormvx4"/>
   <guideline x="0" y="555" angle="0" identifier="JDX5vz3jKp"/>
@@ -8,11 +8,11 @@
     <contour>
       <point x="108" y="522" type="line"/>
       <point x="108" y="581" type="line"/>
-      <point x="533" y="1149" type="line"/>
-      <point x="1095" y="1149" type="line"/>
+      <point x="503" y="1102" type="line"/>
+      <point x="1065" y="1102" type="line"/>
       <point x="707" y="551" type="line"/>
-      <point x="1095" y="-47" type="line"/>
-      <point x="533" y="-47" type="line"/>
+      <point x="1065" y="0" type="line"/>
+      <point x="503" y="0" type="line"/>
     </contour>
   </outline>
 </glyph>

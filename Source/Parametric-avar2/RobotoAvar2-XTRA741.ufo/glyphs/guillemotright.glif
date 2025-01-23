@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="guillemotright" format="2">
-  <advance width="2008"/>
+  <advance width="1902"/>
   <unicode hex="00BB"/>
   <guideline x="0" y="98" angle="0" identifier="MTEldNnfdj"/>
   <guideline x="0" y="443" angle="0" identifier="G9bQni2n1K"/>
@@ -9,21 +9,21 @@
   <outline>
     <contour>
       <point x="87" y="153" type="line"/>
-      <point x="1121" y="551" type="line"/>
+      <point x="945" y="551" type="line"/>
       <point x="87" y="949" type="line"/>
-      <point x="248" y="949" type="line"/>
-      <point x="1320" y="581" type="line"/>
-      <point x="1320" y="522" type="line"/>
-      <point x="248" y="153" type="line"/>
+      <point x="319" y="949" type="line"/>
+      <point x="1214" y="581" type="line"/>
+      <point x="1214" y="522" type="line"/>
+      <point x="319" y="153" type="line"/>
     </contour>
     <contour>
       <point x="667" y="153" type="line"/>
-      <point x="1701" y="551" type="line"/>
+      <point x="1525" y="551" type="line"/>
       <point x="667" y="949" type="line"/>
-      <point x="828" y="949" type="line"/>
-      <point x="1900" y="581" type="line"/>
-      <point x="1900" y="522" type="line"/>
-      <point x="828" y="153" type="line"/>
+      <point x="899" y="949" type="line"/>
+      <point x="1794" y="581" type="line"/>
+      <point x="1794" y="522" type="line"/>
+      <point x="899" y="153" type="line"/>
     </contour>
   </outline>
   <lib>
