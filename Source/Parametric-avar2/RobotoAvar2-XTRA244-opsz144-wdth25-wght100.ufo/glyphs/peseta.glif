@@ -45,9 +45,9 @@
       <point x="804" y="-6"/>
       <point x="772" y="-20"/>
       <point x="743" y="-20" type="qcurve" smooth="yes"/>
-      <point x="661" y="-20"/>
+      <point x="691" y="-20"/>
       <point x="598" y="108"/>
-      <point x="598" y="269" type="qcurve"/>
+      <point x="598" y="269" type="qcurve" smooth="yes"/>
     </contour>
   </outline>
 </glyph>
