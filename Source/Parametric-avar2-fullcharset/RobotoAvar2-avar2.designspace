@@ -1,0 +1,3998 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<designspace format="5.1">
+  <axes>
+    <axis tag="opsz" name="Optical size" minimum="8" maximum="144" default="14">
+      <map input="8" output="-1"/>
+      <map input="14" output="0"/>
+      <map input="36" output="0.492000"/>
+      <map input="84" output="0.946000"/>
+      <map input="144" output="1"/>
+    </axis>
+    
+    <axis tag="wght" name="Weight" minimum="100" maximum="1000" default="400"/>
+    <axis tag="wdth" name="Width" minimum="25" maximum="151" default="100"/>
+    <axis tag="slnt" name="Slant" minimum="-3" maximum="13" default="0"/>
+    <axis tag="XOPQ" name="XOPQ" minimum="2" maximum="310" default="96"/>
+    <axis tag="YOPQ" name="YOPQ" minimum="2" maximum="280" default="79"/>
+    <axis tag="XTRA" name="XTRA" minimum="244" maximum="741" default="463"/>
+    <axis tag="XTSP" name="XTSP" minimum="-100" maximum="100" default="0"/>
+    <axis tag="WDSP" name="WDSP" minimum="0" maximum="1000" default="246"/>
+    <axis tag="VANG" name="VANG" minimum="-3" maximum="13" default="0"/>
+    <axis tag="VROT" name="VROT" minimum="0" maximum="13" default="0"/>
+    <axis tag="YTAS" name="YTAS" minimum="665" maximum="875" default="728"/>
+    <axis tag="YTDE" name="YTDE" minimum="-310" maximum="-100" default="-208"/>
+    <axis tag="YTFI" name="YTFI" minimum="270" maximum="793" default="743"/>
+    <axis tag="YTLC" name="YTLC" minimum="426" maximum="584" default="526"/>
+    <axis tag="YTOS" name="YTOS" minimum="0" maximum="50" default="30"/>
+    <axis tag="YTUC" name="YTUC" minimum="528" maximum="778" default="728"/>
+    <axis tag="YTTL" name="YTTL" minimum="0" maximum="50" default="25"/>
+    <axis tag="XTTW" name="XTTW" minimum="0" maximum="30" default="5"/>
+    <axis tag="STUI" name="STUI" minimum="2" maximum="736" default="92"/>
+    <axis tag="STUO" name="STUO" minimum="2" maximum="722" default="92"/>
+    <axis tag="STLI" name="STLI" minimum="2" maximum="412" default="32"/>
+    <axis tag="STLO" name="STLO" minimum="2" maximum="426" default="32"/>
+    <axis tag="BARS" name="BARS" minimum="0" maximum="1000" default="1000"/>
+    <axis tag="XTUD" name="XTUD" minimum="463" maximum="741" default="463"/>
+    <axis tag="XTUR" name="XTUR" minimum="463" maximum="741" default="463"/>
+    <axis tag="YOPE" name="YOPE" minimum="79" maximum="280" default="79"/>
+    
+    <mappings>
+      
+      <mapping>
+        <input>
+            <dimension name="Optical size" xvalue="-1"/>
+            <dimension name="Slant" xvalue="0"/>
+            <dimension name="Weight" xvalue="100"/>
+            <dimension name="Width" xvalue="25"/>
+        </input>
+        <output>
+            <dimension name="VANG" xvalue="0"/>
+            <dimension name="VROT" xvalue="0"/>
+            <dimension name="XOPQ" xvalue="50"/>
+            <dimension name="XTRA" xvalue="451"/>
+            <dimension name="XTSP" xvalue="0"/>
+            <dimension name="YOPE" xvalue="79"/>
+            <dimension name="YOPQ" xvalue="48"/>
+            <dimension name="YTAS" xvalue="768"/>
+            <dimension name="YTDE" xvalue="-208"/>
+            <dimension name="YTFI" xvalue="743"/>
+            <dimension name="YTLC" xvalue="545"/>
+            <dimension name="YTOS" xvalue="30"/>
+            <dimension name="YTUC" xvalue="728"/>
+            <dimension name="YTTL" xvalue="25"/>
+            <dimension name="XTTW" xvalue="5"/>
+            <dimension name="XTUR" xvalue="463"/>
+            <dimension name="WDSP" xvalue="250"/>
+            <dimension name="BARS" xvalue="1000"/>
+            <dimension name="XTUD" xvalue="463"/>
+            <dimension name="STUI" xvalue="92"/>
+            <dimension name="STUO" xvalue="92"/>
+            <dimension name="STLI" xvalue="32"/>
+            <dimension name="STLO" xvalue="32"/>
+        </output>
+      </mapping>
+      <mapping>
+        <input>
+            <dimension name="Optical size" xvalue="-1"/>
+            <dimension name="Slant" xvalue="0"/>
+            <dimension name="Weight" xvalue="400"/>
+            <dimension name="Width" xvalue="25"/>
+        </input>
+        <output>
+            <dimension name="VANG" xvalue="0"/>
+            <dimension name="VROT" xvalue="0"/>
+            <dimension name="XOPQ" xvalue="100"/>
+            <dimension name="XTRA" xvalue="430"/>
+            <dimension name="XTSP" xvalue="0"/>
+            <dimension name="YOPE" xvalue="79"/>
+            <dimension name="YOPQ" xvalue="85"/>
+            <dimension name="YTAS" xvalue="768"/>
+            <dimension name="YTDE" xvalue="-208"/>
+            <dimension name="YTFI" xvalue="743"/>
+            <dimension name="YTLC" xvalue="545"/>
+            <dimension name="YTOS" xvalue="30"/>
+            <dimension name="YTUC" xvalue="728"/>
+            <dimension name="YTTL" xvalue="25"/>
+            <dimension name="XTTW" xvalue="5"/>
+            <dimension name="XTUR" xvalue="463"/>
+            <dimension name="WDSP" xvalue="250"/>
+            <dimension name="BARS" xvalue="1000"/>
+            <dimension name="XTUD" xvalue="463"/>
+            <dimension name="STUI" xvalue="92"/>
+            <dimension name="STUO" xvalue="92"/>
+            <dimension name="STLI" xvalue="32"/>
+            <dimension name="STLO" xvalue="32"/>
+        </output>
+      </mapping>
+      <mapping>
+        <input>
+            <dimension name="Optical size" xvalue="-1"/>
+            <dimension name="Slant" xvalue="0"/>
+            <dimension name="Weight" xvalue="1000"/>
+            <dimension name="Width" xvalue="25"/>
+        </input>
+        <output>
+            <dimension name="VANG" xvalue="0"/>
+            <dimension name="VROT" xvalue="0"/>
+            <dimension name="XOPQ" xvalue="190"/>
+            <dimension name="XTRA" xvalue="350"/>
+            <dimension name="XTSP" xvalue="0"/>
+            <dimension name="YOPE" xvalue="79"/>
+            <dimension name="YOPQ" xvalue="145"/>
+            <dimension name="YTAS" xvalue="768"/>
+            <dimension name="YTDE" xvalue="-208"/>
+            <dimension name="YTFI" xvalue="743"/>
+            <dimension name="YTLC" xvalue="558"/>
+            <dimension name="YTOS" xvalue="30"/>
+            <dimension name="YTUC" xvalue="728"/>
+            <dimension name="YTTL" xvalue="25"/>
+            <dimension name="XTTW" xvalue="5"/>
+            <dimension name="XTUR" xvalue="463"/>
+            <dimension name="WDSP" xvalue="250"/>
+            <!-- BARS EXCEPTION TO OPEN BARS FOR $¢Øø -->
+            <dimension name="BARS" xvalue="0"/>
+            <dimension name="XTUD" xvalue="463"/>
+            <dimension name="STUI" xvalue="92"/>
+            <dimension name="STUO" xvalue="92"/>
+            <dimension name="STLI" xvalue="32"/>
+            <dimension name="STLO" xvalue="32"/>
+        </output>
+      </mapping>
+      <mapping>
+        <input>
+            <dimension name="Optical size" xvalue="-1"/>
+            <dimension name="Slant" xvalue="0"/>
+            <dimension name="Weight" xvalue="100"/>
+            <dimension name="Width" xvalue="100"/>
+        </input>
+        <output>
+            <dimension name="VANG" xvalue="0"/>
+            <dimension name="VROT" xvalue="0"/>
+            <dimension name="XOPQ" xvalue="54"/>
+            <dimension name="XTRA" xvalue="532"/>
+            <dimension name="XTSP" xvalue="20"/>
+            <dimension name="YOPE" xvalue="79"/>
+            <dimension name="YOPQ" xvalue="50"/>
+            <dimension name="YTAS" xvalue="768"/>
+            <dimension name="YTDE" xvalue="-208"/>
+            <dimension name="YTFI" xvalue="743"/>
+            <dimension name="YTLC" xvalue="545"/>
+            <dimension name="YTOS" xvalue="30"/>
+            <dimension name="YTUC" xvalue="728"/>
+            <dimension name="YTTL" xvalue="25"/>
+            <dimension name="XTTW" xvalue="5"/>
+            <dimension name="XTUR" xvalue="463"/>
+            <dimension name="WDSP" xvalue="250"/>
+            <dimension name="BARS" xvalue="1000"/>
+            <dimension name="XTUD" xvalue="463"/>
+            <dimension name="STUI" xvalue="92"/>
+            <dimension name="STUO" xvalue="92"/>
+            <dimension name="STLI" xvalue="32"/>
+            <dimension name="STLO" xvalue="32"/>
+        </output>
+      </mapping>
+      <mapping>
+        <input>
+            <dimension name="Optical size" xvalue="-1"/>
+            <dimension name="Slant" xvalue="0"/>
+            <dimension name="Weight" xvalue="400"/>
+            <dimension name="Width" xvalue="100"/>
+        </input>
+        <output>
+            <dimension name="VANG" xvalue="0"/>
+            <dimension name="VROT" xvalue="0"/>
+            <dimension name="XOPQ" xvalue="103"/>
+            <dimension name="XTRA" xvalue="480"/>
+            <dimension name="XTSP" xvalue="0"/>
+            <dimension name="YOPE" xvalue="79"/>
+            <dimension name="YOPQ" xvalue="86"/>
+            <dimension name="YTAS" xvalue="768"/>
+            <dimension name="YTDE" xvalue="-208"/>
+            <dimension name="YTFI" xvalue="743"/>
+            <dimension name="YTLC" xvalue="545"/>
+            <dimension name="YTOS" xvalue="30"/>
+            <dimension name="YTUC" xvalue="728"/>
+            <dimension name="YTTL" xvalue="25"/>
+            <dimension name="XTTW" xvalue="5"/>
+            <dimension name="XTUR" xvalue="463"/>
+            <dimension name="WDSP" xvalue="250"/>
+            <dimension name="BARS" xvalue="1000"/>
+            <dimension name="XTUD" xvalue="463"/>
+            <dimension name="STUI" xvalue="92"/>
+            <dimension name="STUO" xvalue="92"/>
+            <dimension name="STLI" xvalue="32"/>
+            <dimension name="STLO" xvalue="32"/>
+        </output>
+      </mapping>
+      <mapping>
+        <input>
+            <dimension name="Optical size" xvalue="-1"/>
+            <dimension name="Slant" xvalue="0"/>
+            <dimension name="Weight" xvalue="1000"/>
+            <dimension name="Width" xvalue="100"/>
+        </input>
+        <output>
+            <dimension name="VANG" xvalue="0"/>
+            <dimension name="VROT" xvalue="0"/>
+            <dimension name="XOPQ" xvalue="200"/>
+            <dimension name="XTRA" xvalue="400"/>
+            <dimension name="XTSP" xvalue="0"/>
+            <dimension name="YOPE" xvalue="79"/>
+            <dimension name="YOPQ" xvalue="155"/>
+            <dimension name="YTAS" xvalue="768"/>
+            <dimension name="YTDE" xvalue="-208"/>
+            <dimension name="YTFI" xvalue="743"/>
+            <dimension name="YTLC" xvalue="558"/>
+            <dimension name="YTOS" xvalue="30"/>
+            <dimension name="YTUC" xvalue="728"/>
+            <dimension name="YTTL" xvalue="25"/>
+            <dimension name="XTTW" xvalue="5"/>
+            <dimension name="XTUR" xvalue="463"/>
+            <dimension name="WDSP" xvalue="250"/>
+            <!-- BARS EXCEPTION TO OPEN BARS FOR $¢Øø -->
+            <dimension name="BARS" xvalue="0"/>
+            <dimension name="XTUD" xvalue="463"/>
+            <dimension name="STUI" xvalue="92"/>
+            <dimension name="STUO" xvalue="92"/>
+            <dimension name="STLI" xvalue="32"/>
+            <dimension name="STLO" xvalue="32"/>
+        </output>
+      </mapping>
+      <mapping>
+        <input>
+            <dimension name="Optical size" xvalue="-1"/>
+            <dimension name="Slant" xvalue="0"/>
+            <dimension name="Weight" xvalue="100"/>
+            <dimension name="Width" xvalue="151"/>
+        </input>
+        <output>
+            <dimension name="VANG" xvalue="0"/>
+            <dimension name="VROT" xvalue="0"/>
+            <dimension name="XOPQ" xvalue="60"/>
+            <dimension name="XTRA" xvalue="584"/>
+            <dimension name="XTSP" xvalue="40"/>
+            <dimension name="YOPE" xvalue="79"/>
+            <dimension name="YOPQ" xvalue="54"/>
+            <dimension name="YTAS" xvalue="768"/>
+            <dimension name="YTDE" xvalue="-208"/>
+            <dimension name="YTFI" xvalue="743"/>
+            <dimension name="YTLC" xvalue="545"/>
+            <dimension name="YTOS" xvalue="30"/>
+            <dimension name="YTUC" xvalue="728"/>
+            <dimension name="YTTL" xvalue="25"/>
+            <dimension name="XTTW" xvalue="5"/>
+            <dimension name="XTUR" xvalue="463"/>
+            <dimension name="WDSP" xvalue="250"/>
+            <dimension name="BARS" xvalue="1000"/>
+            <dimension name="XTUD" xvalue="463"/>
+            <dimension name="STUI" xvalue="92"/>
+            <dimension name="STUO" xvalue="92"/>
+            <dimension name="STLI" xvalue="32"/>
+            <dimension name="STLO" xvalue="32"/>
+        </output>
+      </mapping>
+      <mapping>
+        <input>
+            <dimension name="Optical size" xvalue="-1"/>
+            <dimension name="Slant" xvalue="0"/>
+            <dimension name="Weight" xvalue="400"/>
+            <dimension name="Width" xvalue="151"/>
+        </input>
+        <output>
+            <dimension name="VANG" xvalue="0"/>
+            <dimension name="VROT" xvalue="0"/>
+            <dimension name="XOPQ" xvalue="108"/>
+            <dimension name="XTRA" xvalue="530"/>
+            <dimension name="XTSP" xvalue="30"/>
+            <dimension name="YOPE" xvalue="79"/>
+            <dimension name="YOPQ" xvalue="88"/>
+            <dimension name="YTAS" xvalue="768"/>
+            <dimension name="YTDE" xvalue="-208"/>
+            <dimension name="YTFI" xvalue="743"/>
+            <dimension name="YTLC" xvalue="545"/>
+            <dimension name="YTOS" xvalue="30"/>
+            <dimension name="YTUC" xvalue="728"/>
+            <dimension name="YTTL" xvalue="25"/>
+            <dimension name="XTTW" xvalue="5"/>
+            <dimension name="XTUR" xvalue="463"/>
+            <dimension name="WDSP" xvalue="250"/>
+            <dimension name="BARS" xvalue="1000"/>
+            <dimension name="XTUD" xvalue="463"/>
+            <dimension name="STUI" xvalue="92"/>
+            <dimension name="STUO" xvalue="92"/>
+            <dimension name="STLI" xvalue="32"/>
+            <dimension name="STLO" xvalue="32"/>
+        </output>
+      </mapping>
+      <mapping>
+        <input>
+            <dimension name="Optical size" xvalue="-1"/>
+            <dimension name="Slant" xvalue="0"/>
+            <dimension name="Weight" xvalue="1000"/>
+            <dimension name="Width" xvalue="151"/>
+        </input>
+        <output>
+            <dimension name="VANG" xvalue="0"/>
+            <dimension name="VROT" xvalue="0"/>
+            <dimension name="XOPQ" xvalue="210"/>
+            <dimension name="XTRA" xvalue="414"/>
+            <dimension name="XTSP" xvalue="10"/>
+            <dimension name="YOPE" xvalue="79"/>
+            <dimension name="YOPQ" xvalue="158"/>
+            <dimension name="YTAS" xvalue="768"/>
+            <dimension name="YTDE" xvalue="-208"/>
+            <dimension name="YTFI" xvalue="743"/>
+            <dimension name="YTLC" xvalue="566"/>
+            <dimension name="YTOS" xvalue="30"/>
+            <dimension name="YTUC" xvalue="728"/>
+            <dimension name="YTTL" xvalue="25"/>
+            <dimension name="XTTW" xvalue="5"/>
+            <dimension name="XTUR" xvalue="463"/>
+            <dimension name="WDSP" xvalue="257"/>
+            <!-- BARS EXCEPTION TO OPEN BARS FOR $¢Øø -->
+            <dimension name="BARS" xvalue="0"/>
+            <dimension name="XTUD" xvalue="463"/>
+            <dimension name="STUI" xvalue="92"/>
+            <dimension name="STUO" xvalue="92"/>
+            <dimension name="STLI" xvalue="32"/>
+            <dimension name="STLO" xvalue="32"/>
+        </output>
+      </mapping>
+      <mapping>
+        <input>
+            <dimension name="Optical size" xvalue="0"/>
+            <dimension name="Slant" xvalue="0"/>
+            <dimension name="Weight" xvalue="100"/>
+            <dimension name="Width" xvalue="25"/>
+        </input>
+        <output>
+            <dimension name="VANG" xvalue="0"/>
+            <dimension name="VROT" xvalue="0"/>
+            <dimension name="XOPQ" xvalue="44"/>
+            <dimension name="XTRA" xvalue="463"/>
+            <dimension name="XTSP" xvalue="0"/>
+            <dimension name="YOPE" xvalue="79"/>
+            <dimension name="YOPQ" xvalue="42"/>
+            <dimension name="YTAS" xvalue="728"/>
+            <dimension name="YTDE" xvalue="-208"/>
+            <dimension name="YTFI" xvalue="743"/>
+            <dimension name="YTLC" xvalue="526"/>
+            <dimension name="YTOS" xvalue="30"/>
+            <dimension name="YTUC" xvalue="728"/>
+            <dimension name="YTTL" xvalue="25"/>
+            <dimension name="XTTW" xvalue="5"/>
+            <dimension name="XTUR" xvalue="463"/>
+            <dimension name="WDSP" xvalue="250"/>
+            <dimension name="BARS" xvalue="1000"/>
+            <dimension name="XTUD" xvalue="463"/>
+            <dimension name="STUI" xvalue="92"/>
+            <dimension name="STUO" xvalue="92"/>
+            <dimension name="STLI" xvalue="32"/>
+            <dimension name="STLO" xvalue="32"/>
+        </output>
+      </mapping>
+      <mapping>
+        <input>
+            <dimension name="Optical size" xvalue="0"/>
+            <dimension name="Slant" xvalue="0"/>
+            <dimension name="Weight" xvalue="400"/>
+            <dimension name="Width" xvalue="25"/>
+        </input>
+        <output>
+            <dimension name="VANG" xvalue="0"/>
+            <dimension name="VROT" xvalue="0"/>
+            <dimension name="XOPQ" xvalue="92"/>
+            <dimension name="XTRA" xvalue="420"/>
+            <dimension name="XTSP" xvalue="0"/>
+            <dimension name="YOPE" xvalue="79"/>
+            <dimension name="YOPQ" xvalue="78"/>
+            <dimension name="YTAS" xvalue="728"/>
+            <dimension name="YTDE" xvalue="-208"/>
+            <dimension name="YTFI" xvalue="743"/>
+            <dimension name="YTLC" xvalue="526"/>
+            <dimension name="YTOS" xvalue="30"/>
+            <dimension name="YTUC" xvalue="728"/>
+            <dimension name="YTTL" xvalue="25"/>
+            <dimension name="XTTW" xvalue="5"/>
+            <dimension name="XTUR" xvalue="463"/>
+            <dimension name="WDSP" xvalue="250"/>
+            <dimension name="BARS" xvalue="1000"/>
+            <dimension name="XTUD" xvalue="463"/>
+            <dimension name="STUI" xvalue="92"/>
+            <dimension name="STUO" xvalue="92"/>
+            <dimension name="STLI" xvalue="32"/>
+            <dimension name="STLO" xvalue="32"/>
+        </output>
+      </mapping>
+      <mapping>
+        <input>
+            <dimension name="Optical size" xvalue="0"/>
+            <dimension name="Slant" xvalue="0"/>
+            <dimension name="Weight" xvalue="1000"/>
+            <dimension name="Width" xvalue="25"/>
+        </input>
+        <output>
+            <dimension name="VANG" xvalue="0"/>
+            <dimension name="VROT" xvalue="0"/>
+            <dimension name="XOPQ" xvalue="206"/>
+            <dimension name="XTRA" xvalue="327"/>
+            <dimension name="XTSP" xvalue="-30"/>
+            <dimension name="YOPE" xvalue="79"/>
+            <dimension name="YOPQ" xvalue="154"/>
+            <dimension name="YTAS" xvalue="728"/>
+            <dimension name="YTDE" xvalue="-208"/>
+            <dimension name="YTFI" xvalue="743"/>
+            <dimension name="YTLC" xvalue="526"/>
+            <dimension name="YTOS" xvalue="30"/>
+            <dimension name="YTUC" xvalue="728"/>
+            <dimension name="YTTL" xvalue="25"/>
+            <dimension name="XTTW" xvalue="5"/>
+            <dimension name="XTUR" xvalue="463"/>
+            <dimension name="WDSP" xvalue="257"/>
+            <!-- BARS EXCEPTION TO OPEN BARS FOR $¢Øø -->
+            <dimension name="BARS" xvalue="0"/>
+            <dimension name="XTUD" xvalue="463"/>
+            <dimension name="STUI" xvalue="92"/>
+            <dimension name="STUO" xvalue="92"/>
+            <dimension name="STLI" xvalue="32"/>
+            <dimension name="STLO" xvalue="32"/>
+        </output>
+      </mapping>
+      <mapping>
+        <input>
+            <dimension name="Optical size" xvalue="0"/>
+            <dimension name="Slant" xvalue="0"/>
+            <dimension name="Weight" xvalue="100"/>
+            <dimension name="Width" xvalue="100"/>
+        </input>
+        <output>
+            <dimension name="VANG" xvalue="0"/>
+            <dimension name="VROT" xvalue="0"/>
+            <dimension name="XOPQ" xvalue="47"/>
+            <dimension name="XTRA" xvalue="516"/>
+            <dimension name="XTSP" xvalue="10"/>
+            <dimension name="YOPE" xvalue="79"/>
+            <dimension name="YOPQ" xvalue="44"/>
+            <dimension name="YTAS" xvalue="728"/>
+            <dimension name="YTDE" xvalue="-208"/>
+            <dimension name="YTFI" xvalue="743"/>
+            <dimension name="YTLC" xvalue="526"/>
+            <dimension name="YTOS" xvalue="30"/>
+            <dimension name="YTUC" xvalue="728"/>
+            <dimension name="YTTL" xvalue="25"/>
+            <dimension name="XTTW" xvalue="5"/>
+            <dimension name="XTUR" xvalue="463"/>
+            <dimension name="WDSP" xvalue="250"/>
+            <dimension name="BARS" xvalue="1000"/>
+            <dimension name="XTUD" xvalue="463"/>
+            <dimension name="STUI" xvalue="92"/>
+            <dimension name="STUO" xvalue="92"/>
+            <dimension name="STLI" xvalue="32"/>
+            <dimension name="STLO" xvalue="32"/>
+        </output>
+      </mapping>
+      <mapping>
+        <input>
+            <dimension name="Optical size" xvalue="0"/>
+            <dimension name="Slant" xvalue="0"/>
+            <dimension name="Weight" xvalue="400"/>
+            <dimension name="Width" xvalue="100"/>
+        </input>
+        <output>
+            <dimension name="VANG" xvalue="0"/>
+            <dimension name="VROT" xvalue="0"/>
+            <dimension name="XOPQ" xvalue="96"/>
+            <dimension name="XTRA" xvalue="463"/>
+            <dimension name="XTSP" xvalue="0"/>
+            <dimension name="YOPE" xvalue="79"/>
+            <dimension name="YOPQ" xvalue="79"/>
+            <dimension name="YTAS" xvalue="728"/>
+            <dimension name="YTDE" xvalue="-208"/>
+            <dimension name="YTFI" xvalue="743"/>
+            <dimension name="YTLC" xvalue="526"/>
+            <dimension name="YTOS" xvalue="30"/>
+            <dimension name="YTUC" xvalue="728"/>
+            <dimension name="YTTL" xvalue="25"/>
+            <dimension name="XTTW" xvalue="5"/>
+            <dimension name="XTUR" xvalue="463"/>
+            <dimension name="WDSP" xvalue="246"/>
+            <dimension name="BARS" xvalue="1000"/>
+            <dimension name="XTUD" xvalue="463"/>
+            <dimension name="STUI" xvalue="92"/>
+            <dimension name="STUO" xvalue="92"/>
+            <dimension name="STLI" xvalue="32"/>
+            <dimension name="STLO" xvalue="32"/>
+        </output>
+      </mapping>
+      <mapping>
+        <input>
+            <dimension name="Optical size" xvalue="0"/>
+            <dimension name="Slant" xvalue="0"/>
+            <dimension name="Weight" xvalue="1000"/>
+            <dimension name="Width" xvalue="100"/>
+        </input>
+        <output>
+            <dimension name="VANG" xvalue="0"/>
+            <dimension name="VROT" xvalue="0"/>
+            <dimension name="XOPQ" xvalue="210"/>
+            <dimension name="XTRA" xvalue="380"/>
+            <dimension name="XTSP" xvalue="-30"/>
+            <dimension name="YOPE" xvalue="79"/>
+            <dimension name="YOPQ" xvalue="156"/>
+            <dimension name="YTAS" xvalue="728"/>
+            <dimension name="YTDE" xvalue="-208"/>
+            <dimension name="YTFI" xvalue="743"/>
+            <dimension name="YTLC" xvalue="526"/>
+            <dimension name="YTOS" xvalue="30"/>
+            <dimension name="YTUC" xvalue="728"/>
+            <dimension name="YTTL" xvalue="25"/>
+            <dimension name="XTTW" xvalue="5"/>
+            <dimension name="XTUR" xvalue="463"/>
+            <dimension name="WDSP" xvalue="250"/>
+            <!-- BARS EXCEPTION TO OPEN BARS FOR $¢Øø -->
+            <dimension name="BARS" xvalue="0"/>
+            <dimension name="XTUD" xvalue="463"/>
+            <dimension name="STUI" xvalue="92"/>
+            <dimension name="STUO" xvalue="92"/>
+            <dimension name="STLI" xvalue="32"/>
+            <dimension name="STLO" xvalue="32"/>
+        </output>
+      </mapping>
+      <mapping>
+        <input>
+            <dimension name="Optical size" xvalue="0"/>
+            <dimension name="Slant" xvalue="0"/>
+            <dimension name="Weight" xvalue="100"/>
+            <dimension name="Width" xvalue="151"/>
+        </input>
+        <output>
+            <dimension name="VANG" xvalue="0"/>
+            <dimension name="VROT" xvalue="0"/>
+            <dimension name="XOPQ" xvalue="53"/>
+            <dimension name="XTRA" xvalue="566"/>
+            <dimension name="XTSP" xvalue="10"/>
+            <dimension name="YOPE" xvalue="79"/>
+            <dimension name="YOPQ" xvalue="46"/>
+            <dimension name="YTAS" xvalue="728"/>
+            <dimension name="YTDE" xvalue="-208"/>
+            <dimension name="YTFI" xvalue="743"/>
+            <dimension name="YTLC" xvalue="526"/>
+            <dimension name="YTOS" xvalue="30"/>
+            <dimension name="YTUC" xvalue="728"/>
+            <dimension name="YTTL" xvalue="25"/>
+            <dimension name="XTTW" xvalue="5"/>
+            <dimension name="XTUR" xvalue="463"/>
+            <dimension name="WDSP" xvalue="250"/>
+            <dimension name="BARS" xvalue="1000"/>
+            <dimension name="XTUD" xvalue="463"/>
+            <dimension name="STUI" xvalue="92"/>
+            <dimension name="STUO" xvalue="92"/>
+            <dimension name="STLI" xvalue="32"/>
+            <dimension name="STLO" xvalue="32"/>
+        </output>
+      </mapping>
+      <mapping>
+        <input>
+            <dimension name="Optical size" xvalue="0"/>
+            <dimension name="Slant" xvalue="0"/>
+            <dimension name="Weight" xvalue="400"/>
+            <dimension name="Width" xvalue="151"/>
+        </input>
+        <output>
+            <dimension name="VANG" xvalue="0"/>
+            <dimension name="VROT" xvalue="0"/>
+            <dimension name="XOPQ" xvalue="100"/>
+            <dimension name="XTRA" xvalue="514"/>
+            <dimension name="XTSP" xvalue="0"/>
+            <dimension name="YOPE" xvalue="79"/>
+            <dimension name="YOPQ" xvalue="80"/>
+            <dimension name="YTAS" xvalue="728"/>
+            <dimension name="YTDE" xvalue="-208"/>
+            <dimension name="YTFI" xvalue="743"/>
+            <dimension name="YTLC" xvalue="526"/>
+            <dimension name="YTOS" xvalue="30"/>
+            <dimension name="YTUC" xvalue="728"/>
+            <dimension name="YTTL" xvalue="25"/>
+            <dimension name="XTTW" xvalue="5"/>
+            <dimension name="XTUR" xvalue="463"/>
+            <dimension name="WDSP" xvalue="250"/>
+            <dimension name="BARS" xvalue="1000"/>
+            <dimension name="XTUD" xvalue="463"/>
+            <dimension name="STUI" xvalue="92"/>
+            <dimension name="STUO" xvalue="92"/>
+            <dimension name="STLI" xvalue="32"/>
+            <dimension name="STLO" xvalue="32"/>
+        </output>
+      </mapping>
+      <mapping>
+        <input>
+            <dimension name="Optical size" xvalue="0"/>
+            <dimension name="Slant" xvalue="0"/>
+            <dimension name="Weight" xvalue="1000"/>
+            <dimension name="Width" xvalue="151"/>
+        </input>
+        <output>
+            <dimension name="VANG" xvalue="0"/>
+            <dimension name="VROT" xvalue="0"/>
+            <dimension name="XOPQ" xvalue="214"/>
+            <dimension name="XTRA" xvalue="415"/>
+            <dimension name="XTSP" xvalue="-10"/>
+            <dimension name="YOPE" xvalue="79"/>
+            <dimension name="YOPQ" xvalue="158"/>
+            <dimension name="YTAS" xvalue="728"/>
+            <dimension name="YTDE" xvalue="-208"/>
+            <dimension name="YTFI" xvalue="743"/>
+            <dimension name="YTLC" xvalue="526"/>
+            <dimension name="YTOS" xvalue="30"/>
+            <dimension name="YTUC" xvalue="728"/>
+            <dimension name="YTTL" xvalue="25"/>
+            <dimension name="XTTW" xvalue="5"/>
+            <dimension name="XTUR" xvalue="463"/>
+            <dimension name="WDSP" xvalue="257"/>
+            <!-- BARS EXCEPTION TO OPEN BARS FOR $¢Øø -->
+            <dimension name="BARS" xvalue="0"/>
+            <dimension name="XTUD" xvalue="463"/>
+            <dimension name="STUI" xvalue="92"/>
+            <dimension name="STUO" xvalue="92"/>
+            <dimension name="STLI" xvalue="32"/>
+            <dimension name="STLO" xvalue="32"/>
+        </output>
+      </mapping>
+      <mapping>
+        <input>
+            <dimension name="Optical size" xvalue="1"/>
+            <dimension name="Slant" xvalue="0"/>
+            <dimension name="Weight" xvalue="100"/>
+            <dimension name="Width" xvalue="25"/>
+        </input>
+        <output>
+            <dimension name="VANG" xvalue="0"/>
+            <dimension name="VROT" xvalue="0"/>
+            <dimension name="XOPQ" xvalue="2"/>
+            <dimension name="XTRA" xvalue="278"/>
+            <dimension name="XTSP" xvalue="-75"/>
+            <dimension name="YOPE" xvalue="79"/>
+            <dimension name="YOPQ" xvalue="2"/>
+            <dimension name="YTAS" xvalue="728"/>
+            <dimension name="YTDE" xvalue="-155"/>
+            <dimension name="YTFI" xvalue="743"/>
+            <dimension name="YTLC" xvalue="458"/>
+            <dimension name="YTOS" xvalue="2"/>
+            <dimension name="YTUC" xvalue="728"/>
+            <dimension name="YTTL" xvalue="0"/>
+            <dimension name="XTTW" xvalue="0"/>
+            <dimension name="XTUR" xvalue="463"/>
+            <dimension name="WDSP" xvalue="53"/>
+            <!-- BARS EXCEPTION TO OPEN BARS FOR $¢Øø -->
+            <dimension name="BARS" xvalue="1000"/>
+            <dimension name="XTUD" xvalue="463"/>
+            <dimension name="STUI" xvalue="736"/>
+            <dimension name="STUO" xvalue="722"/>
+            <dimension name="STLI" xvalue="412"/>
+            <dimension name="STLO" xvalue="426"/>
+        </output>
+      </mapping>
+      <mapping>
+        <input>
+            <dimension name="Optical size" xvalue="1"/>
+            <dimension name="Slant" xvalue="0"/>
+            <dimension name="Weight" xvalue="400"/>
+            <dimension name="Width" xvalue="25"/>
+        </input>
+        <output>
+            <dimension name="VANG" xvalue="0"/>
+            <dimension name="VROT" xvalue="0"/>
+            <dimension name="XOPQ" xvalue="48"/>
+            <dimension name="XTRA" xvalue="267"/>
+            <dimension name="XTSP" xvalue="-70"/>
+            <dimension name="YOPE" xvalue="79"/>
+            <dimension name="YOPQ" xvalue="48"/>
+            <dimension name="YTAS" xvalue="728"/>
+            <dimension name="YTDE" xvalue="-155"/>
+            <dimension name="YTFI" xvalue="743"/>
+            <dimension name="YTLC" xvalue="458"/>
+            <dimension name="YTOS" xvalue="5"/>
+            <dimension name="YTUC" xvalue="728"/>
+            <dimension name="YTTL" xvalue="0"/>
+            <dimension name="XTTW" xvalue="0"/>
+            <dimension name="XTUR" xvalue="463"/>
+            <dimension name="WDSP" xvalue="94"/>
+            <!-- BARS EXCEPTION TO OPEN BARS FOR $¢Øø -->
+            <dimension name="BARS" xvalue="0"/>
+            <dimension name="XTUD" xvalue="463"/>
+            <dimension name="STUI" xvalue="566"/>
+            <dimension name="STUO" xvalue="722"/>
+            <dimension name="STLI" xvalue="330"/>
+            <dimension name="STLO" xvalue="340"/>
+        </output>
+      </mapping>
+      <mapping>
+        <input>
+            <dimension name="Optical size" xvalue="1"/>
+            <dimension name="Slant" xvalue="0"/>
+            <dimension name="Weight" xvalue="1000"/>
+            <dimension name="Width" xvalue="25"/>
+        </input>
+        <output>
+            <dimension name="VANG" xvalue="0"/>
+            <dimension name="VROT" xvalue="0"/>
+            <dimension name="XOPQ" xvalue="248"/>
+            <dimension name="XTRA" xvalue="244"/>
+            <dimension name="XTSP" xvalue="-100"/>
+            <dimension name="YOPE" xvalue="116"/>
+            <dimension name="YOPQ" xvalue="200"/>
+            <dimension name="YTAS" xvalue="728"/>
+            <dimension name="YTDE" xvalue="-155"/>
+            <dimension name="YTFI" xvalue="743"/>
+            <dimension name="YTLC" xvalue="458"/>
+            <dimension name="YTOS" xvalue="30"/>
+            <dimension name="YTUC" xvalue="728"/>
+            <dimension name="YTTL" xvalue="0"/>
+            <dimension name="XTTW" xvalue="0"/>
+            <dimension name="XTUR" xvalue="463"/>
+            <dimension name="WDSP" xvalue="255"/>
+            <!-- BARS EXCEPTION TO OPEN BARS FOR $¢Øø -->
+            <dimension name="BARS" xvalue="0"/>
+            <!-- XTUD EXCEPTION TO OPEN TRANSPARENCY FOR UPPERCASE DIAGONALS -->
+            <dimension name="XTUD" xvalue="515"/>
+            <dimension name="STUI" xvalue="180"/>
+            <dimension name="STUO" xvalue="256"/>
+            <dimension name="STLI" xvalue="32"/>
+            <dimension name="STLO" xvalue="80"/>
+        </output>
+      </mapping>
+      <mapping>
+        <input>
+            <dimension name="Optical size" xvalue="1"/>
+            <dimension name="Slant" xvalue="0"/>
+            <dimension name="Weight" xvalue="100"/>
+            <dimension name="Width" xvalue="100"/>
+        </input>
+        <output>
+            <dimension name="VANG" xvalue="0"/>
+            <dimension name="VROT" xvalue="0"/>
+            <dimension name="XOPQ" xvalue="4"/>
+            <dimension name="XTRA" xvalue="506"/>
+            <dimension name="XTSP" xvalue="-10"/>
+            <dimension name="YOPE" xvalue="79"/>
+            <dimension name="YOPQ" xvalue="4"/>
+            <dimension name="YTAS" xvalue="728"/>
+            <dimension name="YTDE" xvalue="-155"/>
+            <dimension name="YTFI" xvalue="743"/>
+            <dimension name="YTLC" xvalue="458"/>
+            <dimension name="YTOS" xvalue="10"/>
+            <dimension name="YTUC" xvalue="728"/>
+            <dimension name="YTTL" xvalue="0"/>
+            <dimension name="XTTW" xvalue="0"/>
+            <dimension name="XTUR" xvalue="463"/>
+            <dimension name="WDSP" xvalue="162"/>
+            <dimension name="BARS" xvalue="1000"/>
+            <dimension name="XTUD" xvalue="463"/>
+            <dimension name="STUI" xvalue="92"/>
+            <dimension name="STUO" xvalue="92"/>
+            <dimension name="STLI" xvalue="32"/>
+            <dimension name="STLO" xvalue="32"/>
+        </output>
+      </mapping>
+      <mapping>
+        <input>
+            <dimension name="Optical size" xvalue="1"/>
+            <dimension name="Slant" xvalue="0"/>
+            <dimension name="Weight" xvalue="400"/>
+            <dimension name="Width" xvalue="100"/>
+        </input>
+        <output>
+            <dimension name="VANG" xvalue="0"/>
+            <dimension name="VROT" xvalue="0"/>
+            <dimension name="XOPQ" xvalue="55"/>
+            <dimension name="XTRA" xvalue="449"/>
+            <dimension name="XTSP" xvalue="-24.9"/>
+            <dimension name="YOPE" xvalue="79"/>
+            <dimension name="YOPQ" xvalue="49"/>
+            <dimension name="YTAS" xvalue="728"/>
+            <dimension name="YTDE" xvalue="-155"/>
+            <dimension name="YTFI" xvalue="743"/>
+            <dimension name="YTLC" xvalue="458"/>
+            <dimension name="YTOS" xvalue="20"/>
+            <dimension name="YTUC" xvalue="728"/>
+            <dimension name="YTTL" xvalue="0"/>
+            <dimension name="XTTW" xvalue="0"/>
+            <dimension name="XTUR" xvalue="463"/>
+            <dimension name="WDSP" xvalue="175"/>
+            <dimension name="BARS" xvalue="1000"/>
+            <dimension name="XTUD" xvalue="463"/>
+            <dimension name="STUI" xvalue="92"/>
+            <dimension name="STUO" xvalue="92"/>
+            <dimension name="STLI" xvalue="32"/>
+            <dimension name="STLO" xvalue="32"/>
+        </output>
+      </mapping>
+      <!--  THIS IS 1444 100 500 TO SMOOTH WEIGHT PROGRESSION  -->
+      <mapping>
+        <input>
+          <dimension name="Optical size" xvalue="1"/>
+          <dimension name="Slant" xvalue="0"/>
+          <dimension name="Weight" xvalue="500"/>
+          <dimension name="Width" xvalue="100"/>
+        </input>
+        <output>
+          <dimension name="VANG" xvalue="0"/>
+          <dimension name="VROT" xvalue="0"/>
+          <dimension name="XOPQ" xvalue="96"/>
+          <dimension name="XTRA" xvalue="418"/>
+          <dimension name="XTSP" xvalue="-40"/>
+          <dimension name="YOPQ" xvalue="82"/>
+          <dimension name="YTAS" xvalue="728"/>
+          <dimension name="YTDE" xvalue="-155"/>
+          <dimension name="YTFI" xvalue="743"/>
+          <dimension name="YTLC" xvalue="458"/>
+          <dimension name="YTOS" xvalue="20"/>
+          <dimension name="YTUC" xvalue="728"/>
+          <dimension name="YTTL" xvalue="0"/>
+          <dimension name="XTTW" xvalue="0"/>
+          <dimension name="XTUR" xvalue="463"/>
+          <dimension name="WDSP" xvalue="250"/>
+          <dimension name="BARS" xvalue="1000"/>
+          <dimension name="XTUD" xvalue="463"/>
+          <dimension name="STUI" xvalue="92"/>
+          <dimension name="STUO" xvalue="92"/>
+          <dimension name="STLI" xvalue="32"/>
+          <dimension name="STLO" xvalue="32"/>
+        </output>
+      </mapping>
+<!--  THIS IS 1444 100 1000  -->
+      <mapping>
+        <input>
+            <dimension name="Optical size" xvalue="1"/>
+            <dimension name="Slant" xvalue="0"/>
+            <dimension name="Weight" xvalue="1000"/>
+            <dimension name="Width" xvalue="100"/>
+        </input>
+        <output>
+            <dimension name="VANG" xvalue="0"/>
+            <dimension name="VROT" xvalue="0"/>
+            <dimension name="XOPQ" xvalue="300"/>
+            <dimension name="XTRA" xvalue="270"/>
+            <dimension name="XTSP" xvalue="-80"/>
+            <dimension name="YOPE" xvalue="96"/>
+            <dimension name="YOPQ" xvalue="200"/>
+            <dimension name="YTAS" xvalue="728"/>
+            <dimension name="YTDE" xvalue="-155"/>
+            <dimension name="YTFI" xvalue="743"/>
+            <dimension name="YTLC" xvalue="458"/>
+            <dimension name="YTOS" xvalue="30"/>
+            <dimension name="YTUC" xvalue="728"/>
+            <dimension name="YTTL" xvalue="0"/>
+            <dimension name="XTTW" xvalue="0"/>
+            <dimension name="XTUR" xvalue="463"/>
+            <dimension name="WDSP" xvalue="306"/>
+            <!-- BARS EXCEPTION TO OPEN BARS FOR $¢Øø -->
+            <dimension name="BARS" xvalue="0"/>
+            <!-- XTUD EXCEPTION TO OPEN TRANSPARENCY FOR UPPERCASE DIAGONALS -->
+            <dimension name="XTUD" xvalue="550"/>
+            <dimension name="STUI" xvalue="444"/>
+            <dimension name="STUO" xvalue="92"/>
+            <dimension name="STLI" xvalue="32"/>
+            <dimension name="STLO" xvalue="32"/>
+        </output>
+      </mapping>
+      
+      <mapping>
+        <input>
+            <dimension name="Optical size" xvalue="1"/>
+            <dimension name="Slant" xvalue="0"/>
+            <dimension name="Weight" xvalue="100"/>
+            <dimension name="Width" xvalue="151"/>
+        </input>
+        <output>
+            <dimension name="VANG" xvalue="0"/>
+            <dimension name="VROT" xvalue="0"/>
+            <dimension name="XOPQ" xvalue="4"/>
+            <dimension name="XTRA" xvalue="658"/>
+            <dimension name="XTSP" xvalue="20"/>
+            <dimension name="YOPE" xvalue="79"/>
+            <dimension name="YOPQ" xvalue="4"/>
+            <dimension name="YTAS" xvalue="728"/>
+            <dimension name="YTDE" xvalue="-155"/>
+            <dimension name="YTFI" xvalue="743"/>
+            <dimension name="YTLC" xvalue="458"/>
+            <dimension name="YTOS" xvalue="20"/>
+            <dimension name="YTUC" xvalue="728"/>
+            <dimension name="YTTL" xvalue="0"/>
+            <dimension name="XTTW" xvalue="0"/>
+            <dimension name="XTUR" xvalue="532"/>
+            <dimension name="WDSP" xvalue="250"/>
+            <dimension name="BARS" xvalue="1000"/>
+            <dimension name="XTUD" xvalue="463"/>
+            <dimension name="STUI" xvalue="92"/>
+            <dimension name="STUO" xvalue="92"/>
+            <dimension name="STLI" xvalue="32"/>
+            <dimension name="STLO" xvalue="32"/>
+        </output>
+      </mapping>
+      <mapping>
+        <input>
+            <dimension name="Optical size" xvalue="1"/>
+            <dimension name="Slant" xvalue="0"/>
+            <dimension name="Weight" xvalue="400"/>
+            <dimension name="Width" xvalue="151"/>
+        </input>
+        <output>
+            <dimension name="VANG" xvalue="0"/>
+            <dimension name="VROT" xvalue="0"/>
+            <dimension name="XOPQ" xvalue="53"/>
+            <dimension name="XTRA" xvalue="600"/>
+            <dimension name="XTSP" xvalue="20"/>
+            <dimension name="YOPE" xvalue="79"/>
+            <dimension name="YOPQ" xvalue="50"/>
+            <dimension name="YTAS" xvalue="728"/>
+            <dimension name="YTDE" xvalue="-155"/>
+            <dimension name="YTFI" xvalue="743"/>
+            <dimension name="YTLC" xvalue="458"/>
+            <dimension name="YTOS" xvalue="20"/>
+            <dimension name="YTUC" xvalue="728"/>
+            <dimension name="YTTL" xvalue="0"/>
+            <dimension name="XTTW" xvalue="0"/>
+            <dimension name="XTUR" xvalue="542"/>
+            <dimension name="WDSP" xvalue="285"/>
+            <dimension name="BARS" xvalue="1000"/>
+            <dimension name="XTUD" xvalue="463"/>
+            <dimension name="STUI" xvalue="92"/>
+            <dimension name="STUO" xvalue="92"/>
+            <dimension name="STLI" xvalue="32"/>
+            <dimension name="STLO" xvalue="32"/>
+        </output>
+      </mapping>
+      <mapping>
+        <input>
+            <dimension name="Optical size" xvalue="1"/>
+            <dimension name="Slant" xvalue="0"/>
+            <dimension name="Weight" xvalue="1000"/>
+            <dimension name="Width" xvalue="151"/>
+        </input>
+        <output>
+            <dimension name="VANG" xvalue="0"/>
+            <dimension name="VROT" xvalue="0"/>
+            <dimension name="XOPQ" xvalue="300"/>
+            <dimension name="XTRA" xvalue="390"/>
+            <dimension name="XTSP" xvalue="-50"/>
+            <dimension name="YOPE" xvalue="86"/>
+            <dimension name="YOPQ" xvalue="205"/>
+            <dimension name="YTAS" xvalue="728"/>
+            <dimension name="YTDE" xvalue="-155"/>
+            <dimension name="YTFI" xvalue="743"/>
+            <dimension name="YTLC" xvalue="458"/>
+            <dimension name="YTOS" xvalue="40"/>
+            <dimension name="YTUC" xvalue="728"/>
+            <dimension name="YTTL" xvalue="0"/>
+            <dimension name="XTTW" xvalue="0"/>
+            <!-- XTUR EXCEPTION TO OPEN TRANSPARENCY FOR UPPERCASE ROUND COQS -->
+            <dimension name="XTUR" xvalue="480"/>
+            <dimension name="WDSP" xvalue="384"/>
+            <!-- BARS EXCEPTION TO OPEN BARS FOR $¢Øø -->
+            <dimension name="BARS" xvalue="0"/>
+            <dimension name="XTUD" xvalue="463"/>
+            <dimension name="STUI" xvalue="92"/>
+            <dimension name="STUO" xvalue="92"/>
+            <dimension name="STLI" xvalue="2"/>
+            <dimension name="STLO" xvalue="32"/>
+        </output>
+      </mapping>
+      <mapping>
+        <input>
+            <dimension name="Slant" xvalue="13"/>
+        </input>
+        <output>
+            <dimension name="VANG" xvalue="0"/>
+            <dimension name="VROT" xvalue="0"/>
+            <dimension name="XOPQ" xvalue="96"/>
+            <dimension name="XTRA" xvalue="463"/>
+            <dimension name="XTSP" xvalue="0"/>
+            <dimension name="YOPE" xvalue="79"/>
+            <dimension name="YOPQ" xvalue="79"/>
+            <dimension name="YTAS" xvalue="728"/>
+            <dimension name="YTDE" xvalue="-208"/>
+            <dimension name="YTFI" xvalue="743"/>
+            <dimension name="YTLC" xvalue="526"/>
+            <dimension name="YTOS" xvalue="30"/>
+            <dimension name="YTUC" xvalue="728"/>
+            <dimension name="YTTL" xvalue="25"/>
+            <dimension name="XTTW" xvalue="5"/>
+            <dimension name="XTUR" xvalue="463"/>
+            <dimension name="WDSP" xvalue="246"/>
+            <dimension name="BARS" xvalue="1000"/>
+            <dimension name="XTUD" xvalue="463"/>
+            <dimension name="STUI" xvalue="92"/>
+            <dimension name="STUO" xvalue="92"/>
+            <dimension name="STLI" xvalue="32"/>
+            <dimension name="STLO" xvalue="32"/>
+        </output>
+      </mapping>
+      <mapping>
+        <input>
+            <dimension name="Slant" xvalue="-3"/>
+        </input>
+        <output>
+            <dimension name="VANG" xvalue="-3"/>
+            <dimension name="VROT" xvalue="4"/>
+            <dimension name="XOPQ" xvalue="96"/>
+            <dimension name="XTRA" xvalue="463"/>
+            <dimension name="XTSP" xvalue="0"/>
+            <dimension name="YOPE" xvalue="79"/>
+            <dimension name="YOPQ" xvalue="79"/>
+            <dimension name="YTAS" xvalue="728"/>
+            <dimension name="YTDE" xvalue="-208"/>
+            <dimension name="YTFI" xvalue="743"/>
+            <dimension name="YTLC" xvalue="526"/>
+            <dimension name="YTOS" xvalue="30"/>
+            <dimension name="YTUC" xvalue="728"/>
+            <dimension name="YTTL" xvalue="25"/>
+            <dimension name="XTTW" xvalue="5"/>
+            <dimension name="XTUR" xvalue="463"/>
+            <dimension name="WDSP" xvalue="246"/>
+            <dimension name="BARS" xvalue="1000"/>
+            <dimension name="XTUD" xvalue="463"/>
+            <dimension name="STUI" xvalue="92"/>
+            <dimension name="STUO" xvalue="92"/>
+            <dimension name="STLI" xvalue="32"/>
+            <dimension name="STLO" xvalue="32"/>
+        </output>
+      </mapping>
+      
+      
+<!--       GLOBAL FENCES, A.K.A avar1 / DESIGNSPACE LIMITATIONS-->
+
+<!--       OPSZ14 WDTH100 WGHT400 -->
+<!--       XTRA FENCES -->
+      <mapping description="XTRA MIN global fence">
+        <input>
+          <dimension name="Optical size" xvalue="0"/>
+          <dimension name="Weight" xvalue="400"/>
+          <dimension name="Width" xvalue="100"/>
+          <dimension name="XTRA" xvalue="390"/>
+        </input>
+        <output>
+          <dimension name="Optical size" xvalue="0"/>
+          <dimension name="Weight" xvalue="400"/>
+          <dimension name="Width" xvalue="100"/>
+          <dimension name="XTRA" xvalue="390"/>
+        </output>
+      </mapping>
+      <mapping>
+        <input>
+          <dimension name="Optical size" xvalue="0"/>
+          <dimension name="Weight" xvalue="400"/>
+          <dimension name="Width" xvalue="100"/>
+          <dimension name="XTRA" xvalue="244"/>
+        </input>
+        <output>
+          <dimension name="Optical size" xvalue="0"/>
+          <dimension name="Weight" xvalue="400"/>
+          <dimension name="Width" xvalue="100"/>
+          <dimension name="XTRA" xvalue="390"/>
+        </output>
+      </mapping>
+      <mapping  description="XTRA MAX global fence">
+        <input>
+          <dimension name="Optical size" xvalue="0"/>
+          <dimension name="Weight" xvalue="400"/>
+          <dimension name="Width" xvalue="100"/>
+          <dimension name="XTRA" xvalue="550"/>
+        </input>
+        <output>
+          <dimension name="Optical size" xvalue="0"/>
+          <dimension name="Weight" xvalue="400"/>
+          <dimension name="Width" xvalue="100"/>
+          <dimension name="XTRA" xvalue="550"/>
+        </output>
+      </mapping>
+      <mapping>
+        <input>
+          <dimension name="Optical size" xvalue="0"/>
+          <dimension name="Weight" xvalue="400"/>
+          <dimension name="Width" xvalue="100"/>
+          <dimension name="XTRA" xvalue="741"/>
+        </input>
+        <output>
+          <dimension name="Optical size" xvalue="0"/>
+          <dimension name="Weight" xvalue="400"/>
+          <dimension name="Width" xvalue="100"/>
+          <dimension name="XTRA" xvalue="550"/>
+        </output>
+      </mapping>
+      
+<!--       XOPQ FENCES-->
+      <mapping description="XOPQ MIN global fence">
+        <input>
+          <dimension name="Optical size" xvalue="0"/>
+          <dimension name="Weight" xvalue="400"/>
+          <dimension name="Width" xvalue="100"/>
+          <dimension name="XOPQ" xvalue="47"/>
+        </input>
+        <output>
+          <dimension name="Optical size" xvalue="0"/>
+          <dimension name="Weight" xvalue="400"/>
+          <dimension name="Width" xvalue="100"/>
+          <dimension name="XOPQ" xvalue="47"/>
+        </output>
+      </mapping>
+      <mapping>
+        <input>
+          <dimension name="Optical size" xvalue="0"/>
+          <dimension name="Weight" xvalue="400"/>
+          <dimension name="Width" xvalue="100"/>
+          <dimension name="XOPQ" xvalue="2"/>
+        </input>
+        <output>
+          <dimension name="Optical size" xvalue="0"/>
+          <dimension name="Weight" xvalue="400"/>
+          <dimension name="Width" xvalue="100"/>
+          <dimension name="XOPQ" xvalue="47"/>
+        </output>
+      </mapping>
+      <mapping  description="XOPQ MAX global fence">
+        <input>
+          <dimension name="Optical size" xvalue="0"/>
+          <dimension name="Weight" xvalue="400"/>
+          <dimension name="Width" xvalue="100"/>
+          <dimension name="XOPQ" xvalue="210"/>
+        </input>
+        <output>
+          <dimension name="Optical size" xvalue="0"/>
+          <dimension name="Weight" xvalue="400"/>
+          <dimension name="Width" xvalue="100"/>
+          <dimension name="XOPQ" xvalue="210"/>
+        </output>
+      </mapping>
+      <mapping>
+        <input>
+          <dimension name="Optical size" xvalue="0"/>
+          <dimension name="Weight" xvalue="400"/>
+          <dimension name="Width" xvalue="100"/>
+          <dimension name="XOPQ" xvalue="310"/>
+        </input>
+        <output>
+          <dimension name="Optical size" xvalue="0"/>
+          <dimension name="Weight" xvalue="400"/>
+          <dimension name="Width" xvalue="100"/>
+          <dimension name="XOPQ" xvalue="210"/>
+        </output>
+      </mapping>
+      
+<!--       YOPQ FENCES -->
+      <mapping description="YOPQ MIN global fence">
+        <input>
+          <dimension name="Optical size" xvalue="0"/>
+          <dimension name="Weight" xvalue="400"/>
+          <dimension name="Width" xvalue="100"/>
+          <dimension name="YOPQ" xvalue="44"/>
+        </input>
+        <output>
+          <dimension name="Optical size" xvalue="0"/>
+          <dimension name="Weight" xvalue="400"/>
+          <dimension name="Width" xvalue="100"/>
+          <dimension name="YOPQ" xvalue="44"/>
+        </output>
+      </mapping>
+      <mapping>
+        <input>
+          <dimension name="Optical size" xvalue="0"/>
+          <dimension name="Weight" xvalue="400"/>
+          <dimension name="Width" xvalue="100"/>
+          <dimension name="YOPQ" xvalue="2"/>
+        </input>
+        <output>
+          <dimension name="Optical size" xvalue="0"/>
+          <dimension name="Weight" xvalue="400"/>
+          <dimension name="Width" xvalue="100"/>
+          <dimension name="YOPQ" xvalue="44"/>
+        </output>
+      </mapping>
+      <mapping description="YOPQ MAX global fence">
+        <input>
+          <dimension name="Optical size" xvalue="0"/>
+          <dimension name="Weight" xvalue="400"/>
+          <dimension name="Width" xvalue="100"/>
+          <dimension name="YOPQ" xvalue="156"/>
+        </input>
+        <output>
+          <dimension name="Optical size" xvalue="0"/>
+          <dimension name="Weight" xvalue="400"/>
+          <dimension name="Width" xvalue="100"/>
+          <dimension name="YOPQ" xvalue="156"/>
+        </output>
+      </mapping>
+      <mapping>
+        <input>
+          <dimension name="Optical size" xvalue="0"/>
+          <dimension name="Weight" xvalue="400"/>
+          <dimension name="Width" xvalue="100"/>
+          <dimension name="YOPQ" xvalue="280"/>
+        </input>
+        <output>
+          <dimension name="Optical size" xvalue="0"/>
+          <dimension name="Weight" xvalue="400"/>
+          <dimension name="Width" xvalue="100"/>
+          <dimension name="YOPQ" xvalue="156"/>
+        </output>
+      </mapping>
+      
+      <!--       XTSP FENCES -->
+      <mapping description="XTSP MIN global fence">
+        <input>
+          <dimension name="Optical size" xvalue="0"/>
+          <dimension name="Weight" xvalue="400"/>
+          <dimension name="Width" xvalue="100"/>
+          <dimension name="XTSP" xvalue="-20"/>
+        </input>
+        <output>
+          <dimension name="Optical size" xvalue="0"/>
+          <dimension name="Weight" xvalue="400"/>
+          <dimension name="Width" xvalue="100"/>
+          <dimension name="XTSP" xvalue="-20"/>
+        </output>
+      </mapping>
+      <mapping>
+        <input>
+          <dimension name="Optical size" xvalue="0"/>
+          <dimension name="Weight" xvalue="400"/>
+          <dimension name="Width" xvalue="100"/>
+          <dimension name="XTSP" xvalue="-100"/>
+        </input>
+        <output>
+          <dimension name="Optical size" xvalue="0"/>
+          <dimension name="Weight" xvalue="400"/>
+          <dimension name="Width" xvalue="100"/>
+          <dimension name="XTSP" xvalue="-20"/>
+        </output>
+      </mapping>
+      <mapping description="YOPQ MAX global fence">
+        <input>
+          <dimension name="Optical size" xvalue="0"/>
+          <dimension name="Weight" xvalue="400"/>
+          <dimension name="Width" xvalue="100"/>
+          <dimension name="XTSP" xvalue="20"/>
+        </input>
+        <output>
+          <dimension name="Optical size" xvalue="0"/>
+          <dimension name="Weight" xvalue="400"/>
+          <dimension name="Width" xvalue="100"/>
+          <dimension name="XTSP" xvalue="20"/>
+        </output>
+      </mapping>
+      <mapping>
+        <input>
+          <dimension name="Optical size" xvalue="0"/>
+          <dimension name="Weight" xvalue="400"/>
+          <dimension name="Width" xvalue="100"/>
+          <dimension name="XTSP" xvalue="100"/>
+        </input>
+        <output>
+          <dimension name="Optical size" xvalue="0"/>
+          <dimension name="Weight" xvalue="400"/>
+          <dimension name="Width" xvalue="100"/>
+          <dimension name="XTSP" xvalue="20"/>
+        </output>
+      </mapping>
+
+<!--       OPSZ8 WDTH100 WGHT400 -->
+<!--       XTRA FENCES -->
+      <mapping description="XTRA MIN fence">
+        <input>
+          <dimension name="Optical size" xvalue="-1"/>
+          <dimension name="Weight" xvalue="400"/>
+          <dimension name="Width" xvalue="100"/>
+          <dimension name="XTRA" xvalue="420"/>
+        </input>
+        <output>
+          <dimension name="Optical size" xvalue="-1"/>
+          <dimension name="Weight" xvalue="400"/>
+          <dimension name="Width" xvalue="100"/>
+          <dimension name="XTRA" xvalue="420"/>
+          <dimension name="XTSP" xvalue="0"/>
+          <dimension name="YOPQ" xvalue="86"/>
+          <dimension name="YTAS" xvalue="768"/>
+          <dimension name="YTDE" xvalue="-208"/>
+          <dimension name="YTFI" xvalue="743"/>
+          <dimension name="YTLC" xvalue="545"/>
+          <dimension name="YTOS" xvalue="30"/>
+          <dimension name="YTUC" xvalue="728"/>
+          <dimension name="YTTL" xvalue="25"/>
+          <dimension name="XTTW" xvalue="5"/>
+        </output>
+      </mapping>
+      <mapping>
+        <input>
+          <dimension name="Optical size" xvalue="-1"/>
+          <dimension name="Weight" xvalue="400"/>
+          <dimension name="Width" xvalue="100"/>
+          <dimension name="XTRA" xvalue="244"/>
+        </input>
+        <output>
+          <dimension name="Optical size" xvalue="-1"/>
+          <dimension name="Weight" xvalue="400"/>
+          <dimension name="Width" xvalue="100"/>
+          <dimension name="XTRA" xvalue="420"/>
+          <dimension name="XTSP" xvalue="0"/>
+          <dimension name="YOPQ" xvalue="86"/>
+          <dimension name="YTAS" xvalue="768"/>
+          <dimension name="YTDE" xvalue="-208"/>
+          <dimension name="YTFI" xvalue="743"/>
+          <dimension name="YTLC" xvalue="545"/>
+          <dimension name="YTOS" xvalue="30"/>
+          <dimension name="YTUC" xvalue="728"/>
+          <dimension name="YTTL" xvalue="25"/>
+          <dimension name="XTTW" xvalue="5"/>
+        </output>
+      </mapping>
+<!--       RE-MAP GLOBAL FENCE TO CUSTOM FENCE -->
+      <mapping>
+        <input>
+          <dimension name="Optical size" xvalue="-1"/>
+          <dimension name="Weight" xvalue="400"/>
+          <dimension name="Width" xvalue="100"/>
+          <dimension name="XTRA" xvalue="390"/>
+        </input>
+        <output>
+          <dimension name="Optical size" xvalue="-1"/>
+          <dimension name="Weight" xvalue="400"/>
+          <dimension name="Width" xvalue="100"/>
+          <dimension name="XTRA" xvalue="420"/>
+          <dimension name="XTSP" xvalue="0"/>
+          <dimension name="YOPQ" xvalue="86"/>
+          <dimension name="YTAS" xvalue="768"/>
+          <dimension name="YTDE" xvalue="-208"/>
+          <dimension name="YTFI" xvalue="743"/>
+          <dimension name="YTLC" xvalue="545"/>
+          <dimension name="YTOS" xvalue="30"/>
+          <dimension name="YTUC" xvalue="728"/>
+          <dimension name="YTTL" xvalue="25"/>
+          <dimension name="XTTW" xvalue="5"/>
+        </output>
+      </mapping>
+      <mapping description="XTRA MAX fence">
+        <input>
+          <dimension name="Optical size" xvalue="-1"/>
+          <dimension name="Weight" xvalue="400"/>
+          <dimension name="Width" xvalue="100"/>
+          <dimension name="XTRA" xvalue="520"/>
+        </input>
+        <output>
+          <dimension name="Optical size" xvalue="-1"/>
+          <dimension name="Weight" xvalue="400"/>
+          <dimension name="Width" xvalue="100"/>
+          <dimension name="XTRA" xvalue="520"/>
+          <dimension name="XTSP" xvalue="0"/>
+          <dimension name="YOPQ" xvalue="86"/>
+          <dimension name="YTAS" xvalue="768"/>
+          <dimension name="YTDE" xvalue="-208"/>
+          <dimension name="YTFI" xvalue="743"/>
+          <dimension name="YTLC" xvalue="545"/>
+          <dimension name="YTOS" xvalue="30"/>
+          <dimension name="YTUC" xvalue="728"/>
+          <dimension name="YTTL" xvalue="25"/>
+          <dimension name="XTTW" xvalue="5"/>
+        </output>
+      </mapping>
+      <mapping>
+        <input>
+          <dimension name="Optical size" xvalue="-1"/>
+          <dimension name="Weight" xvalue="400"/>
+          <dimension name="Width" xvalue="100"/>
+          <dimension name="XTRA" xvalue="741"/>
+        </input>
+        <output>
+          <dimension name="Optical size" xvalue="-1"/>
+          <dimension name="Weight" xvalue="400"/>
+          <dimension name="Width" xvalue="100"/>
+          <dimension name="XTRA" xvalue="520"/>
+          <dimension name="XTSP" xvalue="0"/>
+          <dimension name="YOPQ" xvalue="86"/>
+          <dimension name="YTAS" xvalue="768"/>
+          <dimension name="YTDE" xvalue="-208"/>
+          <dimension name="YTFI" xvalue="743"/>
+          <dimension name="YTLC" xvalue="545"/>
+          <dimension name="YTOS" xvalue="30"/>
+          <dimension name="YTUC" xvalue="728"/>
+          <dimension name="YTTL" xvalue="25"/>
+          <dimension name="XTTW" xvalue="5"/>
+        </output>
+      </mapping>
+<!--       RE-MAP GLOBAL FENCE TO CUSTOM FENCE -->
+      <mapping>
+        <input>
+          <dimension name="Optical size" xvalue="-1"/>
+          <dimension name="Weight" xvalue="400"/>
+          <dimension name="Width" xvalue="100"/>
+          <dimension name="XTRA" xvalue="550"/>
+        </input>
+        <output>
+          <dimension name="Optical size" xvalue="-1"/>
+          <dimension name="Weight" xvalue="400"/>
+          <dimension name="Width" xvalue="100"/>
+          <dimension name="XTRA" xvalue="520"/>
+          <dimension name="XTSP" xvalue="0"/>
+          <dimension name="YOPQ" xvalue="86"/>
+          <dimension name="YTAS" xvalue="768"/>
+          <dimension name="YTDE" xvalue="-208"/>
+          <dimension name="YTFI" xvalue="743"/>
+          <dimension name="YTLC" xvalue="545"/>
+          <dimension name="YTOS" xvalue="30"/>
+          <dimension name="YTUC" xvalue="728"/>
+          <dimension name="YTTL" xvalue="25"/>
+          <dimension name="XTTW" xvalue="5"/>
+        </output>
+      </mapping>
+      
+<!--       XOPQ FENCES-->
+<!--       MIN FENCE-->
+      <mapping description="XOPQ MIN fence">
+        <input>
+          <dimension name="Optical size" xvalue="-1"/>
+          <dimension name="Weight" xvalue="400"/>
+          <dimension name="Width" xvalue="100"/>
+          <dimension name="XOPQ" xvalue="80"/>
+        </input>
+        <output>
+          <dimension name="Optical size" xvalue="-1"/>
+          <dimension name="Slant" xvalue="0"/>
+          <dimension name="Weight" xvalue="400"/>
+          <dimension name="Width" xvalue="100"/>
+          <dimension name="XOPQ" xvalue="80"/>
+          <dimension name="XTRA" xvalue="480"/>
+          <dimension name="XTSP" xvalue="0"/>
+          <dimension name="YOPQ" xvalue="86"/>
+          <dimension name="YTAS" xvalue="768"/>
+          <dimension name="YTDE" xvalue="-208"/>
+          <dimension name="YTFI" xvalue="743"/>
+          <dimension name="YTLC" xvalue="545"/>
+          <dimension name="YTOS" xvalue="30"/>
+          <dimension name="YTUC" xvalue="728"/>
+          <dimension name="YTTL" xvalue="25"/>
+          <dimension name="XTTW" xvalue="5"/>
+        </output>
+      </mapping>
+      <mapping>
+        <input>
+          <dimension name="Optical size" xvalue="-1"/>
+          <dimension name="Weight" xvalue="400"/>
+          <dimension name="Width" xvalue="100"/>
+          <dimension name="XOPQ" xvalue="2"/>
+        </input>
+        <output>
+          <dimension name="Optical size" xvalue="-1"/>
+          <dimension name="Slant" xvalue="0"/>
+          <dimension name="Weight" xvalue="400"/>
+          <dimension name="Width" xvalue="100"/>
+          <dimension name="XOPQ" xvalue="80"/>
+          <dimension name="XTRA" xvalue="480"/>
+          <dimension name="XTSP" xvalue="0"/>
+          <dimension name="YOPQ" xvalue="86"/>
+          <dimension name="YTAS" xvalue="768"/>
+          <dimension name="YTDE" xvalue="-208"/>
+          <dimension name="YTFI" xvalue="743"/>
+          <dimension name="YTLC" xvalue="545"/>
+          <dimension name="YTOS" xvalue="30"/>
+          <dimension name="YTUC" xvalue="728"/>
+          <dimension name="YTTL" xvalue="25"/>
+          <dimension name="XTTW" xvalue="5"/>
+        </output>
+      </mapping>
+<!--       RE-MAP GLOBAL FENCE TO CUSTOM FENCE -->
+      <mapping>
+        <input>
+          <dimension name="Optical size" xvalue="-1"/>
+          <dimension name="Weight" xvalue="400"/>
+          <dimension name="Width" xvalue="100"/>
+          <dimension name="XOPQ" xvalue="47"/>
+        </input>
+        <output>
+          <dimension name="Optical size" xvalue="-1"/>
+          <dimension name="Slant" xvalue="0"/>
+          <dimension name="Weight" xvalue="400"/>
+          <dimension name="Width" xvalue="100"/>
+          <dimension name="XOPQ" xvalue="80"/>
+          <dimension name="XTRA" xvalue="480"/>
+          <dimension name="XTSP" xvalue="0"/>
+          <dimension name="YOPQ" xvalue="86"/>
+          <dimension name="YTAS" xvalue="768"/>
+          <dimension name="YTDE" xvalue="-208"/>
+          <dimension name="YTFI" xvalue="743"/>
+          <dimension name="YTLC" xvalue="545"/>
+          <dimension name="YTOS" xvalue="30"/>
+          <dimension name="YTUC" xvalue="728"/>
+          <dimension name="YTTL" xvalue="25"/>
+          <dimension name="XTTW" xvalue="5"/>
+        </output>
+      </mapping>
+<!--       MAX FENCE-->
+      <mapping description="XOPQ MAX fence">
+        <input>
+          <dimension name="Optical size" xvalue="-1"/>
+          <dimension name="Weight" xvalue="400"/>
+          <dimension name="Width" xvalue="100"/>
+          <dimension name="XOPQ" xvalue="190"/>
+        </input>
+        <output>
+          <dimension name="Optical size" xvalue="-1"/>
+          <dimension name="Slant" xvalue="0"/>
+          <dimension name="Weight" xvalue="400"/>
+          <dimension name="Width" xvalue="100"/>
+          <dimension name="XOPQ" xvalue="190"/>
+          <dimension name="XTRA" xvalue="480"/>
+          <dimension name="XTSP" xvalue="0"/>
+          <dimension name="YOPQ" xvalue="86"/>
+          <dimension name="YTAS" xvalue="768"/>
+          <dimension name="YTDE" xvalue="-208"/>
+          <dimension name="YTFI" xvalue="743"/>
+          <dimension name="YTLC" xvalue="545"/>
+          <dimension name="YTOS" xvalue="30"/>
+          <dimension name="YTUC" xvalue="728"/>
+          <dimension name="YTTL" xvalue="25"/>
+          <dimension name="XTTW" xvalue="5"/>
+        </output>
+      </mapping>
+      <mapping>
+        <input>
+          <dimension name="Optical size" xvalue="-1"/>
+          <dimension name="Weight" xvalue="400"/>
+          <dimension name="Width" xvalue="100"/>
+          <dimension name="XOPQ" xvalue="310"/>
+        </input>
+        <output>
+          <dimension name="Optical size" xvalue="-1"/>
+          <dimension name="Slant" xvalue="0"/>
+          <dimension name="Weight" xvalue="400"/>
+          <dimension name="Width" xvalue="100"/>
+          <dimension name="XOPQ" xvalue="190"/>
+          <dimension name="XTRA" xvalue="480"/>
+          <dimension name="XTSP" xvalue="0"/>
+          <dimension name="YOPQ" xvalue="86"/>
+          <dimension name="YTAS" xvalue="768"/>
+          <dimension name="YTDE" xvalue="-208"/>
+          <dimension name="YTFI" xvalue="743"/>
+          <dimension name="YTLC" xvalue="545"/>
+          <dimension name="YTOS" xvalue="30"/>
+          <dimension name="YTUC" xvalue="728"/>
+          <dimension name="YTTL" xvalue="25"/>
+          <dimension name="XTTW" xvalue="5"/>
+        </output>
+      </mapping>
+<!--       RE-MAP GLOBAL FENCE TO CUSTOM FENCE -->
+      <mapping>
+        <input>
+          <dimension name="Optical size" xvalue="-1"/>
+          <dimension name="Weight" xvalue="400"/>
+          <dimension name="Width" xvalue="100"/>
+          <dimension name="XOPQ" xvalue="210"/>
+        </input>
+        <output>
+          <dimension name="Optical size" xvalue="-1"/>
+          <dimension name="Slant" xvalue="0"/>
+          <dimension name="Weight" xvalue="400"/>
+          <dimension name="Width" xvalue="100"/>
+          <dimension name="XOPQ" xvalue="190"/>
+          <dimension name="XTRA" xvalue="480"/>
+          <dimension name="XTSP" xvalue="0"/>
+          <dimension name="YOPQ" xvalue="86"/>
+          <dimension name="YTAS" xvalue="768"/>
+          <dimension name="YTDE" xvalue="-208"/>
+          <dimension name="YTFI" xvalue="743"/>
+          <dimension name="YTLC" xvalue="545"/>
+          <dimension name="YTOS" xvalue="30"/>
+          <dimension name="YTUC" xvalue="728"/>
+          <dimension name="YTTL" xvalue="25"/>
+          <dimension name="XTTW" xvalue="5"/>
+        </output>
+      </mapping>
+
+<!--       YOPQ FENCES-->
+<!--       MIN FENCE-->
+      <mapping description="YOPQ MIN fence">
+        <input>
+          <dimension name="Optical size" xvalue="-1"/>
+          <dimension name="Weight" xvalue="400"/>
+          <dimension name="Width" xvalue="100"/>
+          <dimension name="YOPQ" xvalue="60"/>
+        </input>
+        <output>
+          <dimension name="Optical size" xvalue="-1"/>
+          <dimension name="Slant" xvalue="0"/>
+          <dimension name="Weight" xvalue="400"/>
+          <dimension name="Width" xvalue="100"/>
+          <dimension name="XOPQ" xvalue="103"/>
+          <dimension name="XTRA" xvalue="480"/>
+          <dimension name="XTSP" xvalue="0"/>
+          <dimension name="YOPQ" xvalue="60"/>
+          <dimension name="YTAS" xvalue="768"/>
+          <dimension name="YTDE" xvalue="-208"/>
+          <dimension name="YTFI" xvalue="743"/>
+          <dimension name="YTLC" xvalue="545"/>
+          <dimension name="YTOS" xvalue="30"/>
+          <dimension name="YTUC" xvalue="728"/>
+          <dimension name="YTTL" xvalue="25"/>
+          <dimension name="XTTW" xvalue="5"/>
+        </output>
+      </mapping>
+      <mapping>
+        <input>
+          <dimension name="Optical size" xvalue="-1"/>
+          <dimension name="Weight" xvalue="400"/>
+          <dimension name="Width" xvalue="100"/>
+          <dimension name="YOPQ" xvalue="2"/>
+        </input>
+        <output>
+          <dimension name="Optical size" xvalue="-1"/>
+          <dimension name="Slant" xvalue="0"/>
+          <dimension name="Weight" xvalue="400"/>
+          <dimension name="Width" xvalue="100"/>
+          <dimension name="XOPQ" xvalue="103"/>
+          <dimension name="XTRA" xvalue="480"/>
+          <dimension name="XTSP" xvalue="0"/>
+          <dimension name="YOPQ" xvalue="60"/>
+          <dimension name="YTAS" xvalue="768"/>
+          <dimension name="YTDE" xvalue="-208"/>
+          <dimension name="YTFI" xvalue="743"/>
+          <dimension name="YTLC" xvalue="545"/>
+          <dimension name="YTOS" xvalue="30"/>
+          <dimension name="YTUC" xvalue="728"/>
+          <dimension name="YTTL" xvalue="25"/>
+          <dimension name="XTTW" xvalue="5"/>
+        </output>
+      </mapping>
+<!--       RE-MAP GLOBAL FENCE TO CUSTOM FENCE -->
+      <mapping>
+        <input>
+          <dimension name="Optical size" xvalue="-1"/>
+          <dimension name="Weight" xvalue="400"/>
+          <dimension name="Width" xvalue="100"/>
+          <dimension name="YOPQ" xvalue="44"/>
+        </input>
+        <output>
+          <dimension name="Optical size" xvalue="-1"/>
+          <dimension name="Slant" xvalue="0"/>
+          <dimension name="Weight" xvalue="400"/>
+          <dimension name="Width" xvalue="100"/>
+          <dimension name="XOPQ" xvalue="103"/>
+          <dimension name="XTRA" xvalue="480"/>
+          <dimension name="XTSP" xvalue="0"/>
+          <dimension name="YOPQ" xvalue="60"/>
+          <dimension name="YTAS" xvalue="768"/>
+          <dimension name="YTDE" xvalue="-208"/>
+          <dimension name="YTFI" xvalue="743"/>
+          <dimension name="YTLC" xvalue="545"/>
+          <dimension name="YTOS" xvalue="30"/>
+          <dimension name="YTUC" xvalue="728"/>
+          <dimension name="YTTL" xvalue="25"/>
+          <dimension name="XTTW" xvalue="5"/>
+        </output>
+      </mapping>
+<!--       MAX FENCE-->
+      <mapping description="YOPQ MAX fence">
+        <input>
+          <dimension name="Optical size" xvalue="-1"/>
+          <dimension name="Weight" xvalue="400"/>
+          <dimension name="Width" xvalue="100"/>
+          <dimension name="YOPQ" xvalue="140"/>
+        </input>
+        <output>
+          <dimension name="Optical size" xvalue="-1"/>
+          <dimension name="Slant" xvalue="0"/>
+          <dimension name="Weight" xvalue="400"/>
+          <dimension name="Width" xvalue="100"/>
+          <dimension name="XOPQ" xvalue="103"/>
+          <dimension name="XTRA" xvalue="480"/>
+          <dimension name="XTSP" xvalue="0"/>
+          <dimension name="YOPQ" xvalue="140"/>
+          <dimension name="YTAS" xvalue="768"/>
+          <dimension name="YTDE" xvalue="-208"/>
+          <dimension name="YTFI" xvalue="743"/>
+          <dimension name="YTLC" xvalue="545"/>
+          <dimension name="YTOS" xvalue="30"/>
+          <dimension name="YTUC" xvalue="728"/>
+          <dimension name="YTTL" xvalue="25"/>
+          <dimension name="XTTW" xvalue="5"/>
+        </output>
+      </mapping>
+      <mapping>
+        <input>
+          <dimension name="Optical size" xvalue="-1"/>
+          <dimension name="Weight" xvalue="400"/>
+          <dimension name="Width" xvalue="100"/>
+          <dimension name="YOPQ" xvalue="280"/>
+        </input>
+        <output>
+          <dimension name="Optical size" xvalue="-1"/>
+          <dimension name="Slant" xvalue="0"/>
+          <dimension name="Weight" xvalue="400"/>
+          <dimension name="Width" xvalue="100"/>
+          <dimension name="XOPQ" xvalue="103"/>
+          <dimension name="XTRA" xvalue="480"/>
+          <dimension name="XTSP" xvalue="0"/>
+          <dimension name="YOPQ" xvalue="140"/>
+          <dimension name="YTAS" xvalue="768"/>
+          <dimension name="YTDE" xvalue="-208"/>
+          <dimension name="YTFI" xvalue="743"/>
+          <dimension name="YTLC" xvalue="545"/>
+          <dimension name="YTOS" xvalue="30"/>
+          <dimension name="YTUC" xvalue="728"/>
+          <dimension name="YTTL" xvalue="25"/>
+          <dimension name="XTTW" xvalue="5"/>
+        </output>
+      </mapping>
+<!--       RE-MAP GLOBAL FENCE TO CUSTOM FENCE -->
+      <mapping>
+        <input>
+          <dimension name="Optical size" xvalue="-1"/>
+          <dimension name="Weight" xvalue="400"/>
+          <dimension name="Width" xvalue="100"/>
+          <dimension name="YOPQ" xvalue="156"/>
+        </input>
+        <output>
+          <dimension name="Optical size" xvalue="-1"/>
+          <dimension name="Slant" xvalue="0"/>
+          <dimension name="Weight" xvalue="400"/>
+          <dimension name="Width" xvalue="100"/>
+          <dimension name="XOPQ" xvalue="103"/>
+          <dimension name="XTRA" xvalue="480"/>
+          <dimension name="XTSP" xvalue="0"/>
+          <dimension name="YOPQ" xvalue="140"/>
+          <dimension name="YTAS" xvalue="768"/>
+          <dimension name="YTDE" xvalue="-208"/>
+          <dimension name="YTFI" xvalue="743"/>
+          <dimension name="YTLC" xvalue="545"/>
+          <dimension name="YTOS" xvalue="30"/>
+          <dimension name="YTUC" xvalue="728"/>
+          <dimension name="YTTL" xvalue="25"/>
+          <dimension name="XTTW" xvalue="5"/>
+        </output>
+      </mapping>
+
+<!--       OPSZ144 -->
+<!--       THIS USE THE AXIS MIN, SO NO MAPPING NEEDED -->
+<!--       XOPQ MIN -->
+      <mapping>
+        <input>
+          <dimension name="Optical size" xvalue="1"/>
+          <dimension name="Weight" xvalue="400"/>
+          <dimension name="Width" xvalue="100"/>
+          <dimension name="XOPQ" xvalue="2"/>
+        </input>
+        <output>
+          <dimension name="Optical size" xvalue="1"/>
+          <dimension name="Slant" xvalue="0"/>
+          <dimension name="Weight" xvalue="400"/>
+          <dimension name="Width" xvalue="100"/>
+          <dimension name="XOPQ" xvalue="2"/>
+          <dimension name="XTRA" xvalue="447"/>
+          <dimension name="XTSP" xvalue="-40"/>
+          <dimension name="YOPQ" xvalue="49"/>
+          <dimension name="YTAS" xvalue="728"/>
+          <dimension name="YTDE" xvalue="-155"/>
+          <dimension name="YTFI" xvalue="743"/>
+          <dimension name="YTLC" xvalue="458"/>
+          <dimension name="YTOS" xvalue="30"/>
+          <dimension name="YTUC" xvalue="728"/>
+          <dimension name="YTTL" xvalue="0"/>
+          <dimension name="XTTW" xvalue="0"/>
+        </output>
+      </mapping>
+<!--       XOPQ MAX -->
+      <mapping>
+        <input>
+          <dimension name="Optical size" xvalue="1"/>
+          <dimension name="Weight" xvalue="400"/>
+          <dimension name="Width" xvalue="100"/>
+          <dimension name="XOPQ" xvalue="310"/>
+        </input>
+        <output>
+          <dimension name="Optical size" xvalue="1"/>
+          <dimension name="Slant" xvalue="0"/>
+          <dimension name="Weight" xvalue="400"/>
+          <dimension name="Width" xvalue="100"/>
+          <dimension name="XOPQ" xvalue="310"/>
+          <dimension name="XTRA" xvalue="447"/>
+          <dimension name="XTSP" xvalue="-40"/>
+          <dimension name="YOPQ" xvalue="49"/>
+          <dimension name="YTAS" xvalue="728"/>
+          <dimension name="YTDE" xvalue="-155"/>
+          <dimension name="YTFI" xvalue="743"/>
+          <dimension name="YTLC" xvalue="458"/>
+          <dimension name="YTOS" xvalue="30"/>
+          <dimension name="YTUC" xvalue="728"/>
+          <dimension name="YTTL" xvalue="0"/>
+          <dimension name="XTTW" xvalue="0"/>
+        </output>
+      </mapping>
+<!--       XTRA MIN -->
+      <mapping>
+        <input>
+          <dimension name="Optical size" xvalue="1"/>
+          <dimension name="Weight" xvalue="400"/>
+          <dimension name="Width" xvalue="100"/>
+          <dimension name="XTRA" xvalue="244"/>
+        </input>
+        <output>
+          <dimension name="Optical size" xvalue="1"/>
+          <dimension name="Slant" xvalue="0"/>
+          <dimension name="Weight" xvalue="400"/>
+          <dimension name="Width" xvalue="100"/>
+          <dimension name="XOPQ" xvalue="55"/>
+          <dimension name="XTRA" xvalue="244"/>
+          <dimension name="XTSP" xvalue="-40"/>
+          <dimension name="YOPQ" xvalue="49"/>
+          <dimension name="YTAS" xvalue="728"/>
+          <dimension name="YTDE" xvalue="-155"/>
+          <dimension name="YTFI" xvalue="743"/>
+          <dimension name="YTLC" xvalue="458"/>
+          <dimension name="YTOS" xvalue="30"/>
+          <dimension name="YTUC" xvalue="728"/>
+          <dimension name="YTTL" xvalue="0"/>
+          <dimension name="XTTW" xvalue="0"/>
+        </output>
+      </mapping>
+<!--       XTRA MAX -->
+      <mapping>
+        <input>
+          <dimension name="Optical size" xvalue="1"/>
+          <dimension name="Weight" xvalue="400"/>
+          <dimension name="Width" xvalue="100"/>
+          <dimension name="XTRA" xvalue="741"/>
+        </input>
+        <output>
+          <dimension name="Optical size" xvalue="1"/>
+          <dimension name="Slant" xvalue="0"/>
+          <dimension name="Weight" xvalue="400"/>
+          <dimension name="Width" xvalue="100"/>
+          <dimension name="XOPQ" xvalue="55"/>
+          <dimension name="XTRA" xvalue="741"/>
+          <dimension name="XTSP" xvalue="-40"/>
+          <dimension name="YOPQ" xvalue="49"/>
+          <dimension name="YTAS" xvalue="728"/>
+          <dimension name="YTDE" xvalue="-155"/>
+          <dimension name="YTFI" xvalue="743"/>
+          <dimension name="YTLC" xvalue="458"/>
+          <dimension name="YTOS" xvalue="30"/>
+          <dimension name="YTUC" xvalue="728"/>
+          <dimension name="YTTL" xvalue="0"/>
+          <dimension name="XTTW" xvalue="0"/>
+        </output>
+      </mapping>
+<!--       YOPQ MIN -->
+      <mapping>
+        <input>
+          <dimension name="Optical size" xvalue="1"/>
+          <dimension name="Weight" xvalue="400"/>
+          <dimension name="Width" xvalue="100"/>
+          <dimension name="YOPQ" xvalue="2"/>
+        </input>
+        <output>
+          <dimension name="Optical size" xvalue="1"/>
+          <dimension name="Slant" xvalue="0"/>
+          <dimension name="Weight" xvalue="400"/>
+          <dimension name="Width" xvalue="100"/>
+          <dimension name="XOPQ" xvalue="55"/>
+          <dimension name="XTRA" xvalue="447"/>
+          <dimension name="XTSP" xvalue="-40"/>
+          <dimension name="YOPQ" xvalue="2"/>
+          <dimension name="YTAS" xvalue="728"/>
+          <dimension name="YTDE" xvalue="-155"/>
+          <dimension name="YTFI" xvalue="743"/>
+          <dimension name="YTLC" xvalue="458"/>
+          <dimension name="YTOS" xvalue="30"/>
+          <dimension name="YTUC" xvalue="728"/>
+          <dimension name="YTTL" xvalue="0"/>
+          <dimension name="XTTW" xvalue="0"/>
+        </output>
+      </mapping>
+<!--       YOPQ MAX -->
+      <mapping>
+        <input>
+          <dimension name="Optical size" xvalue="1"/>
+          <dimension name="Weight" xvalue="400"/>
+          <dimension name="Width" xvalue="100"/>
+          <dimension name="YOPQ" xvalue="280"/>
+        </input>
+        <output>
+          <dimension name="Optical size" xvalue="1"/>
+          <dimension name="Slant" xvalue="0"/>
+          <dimension name="Weight" xvalue="400"/>
+          <dimension name="Width" xvalue="100"/>
+          <dimension name="XOPQ" xvalue="55"/>
+          <dimension name="XTRA" xvalue="447"/>
+          <dimension name="XTSP" xvalue="-40"/>
+          <dimension name="YOPQ" xvalue="280"/>
+          <dimension name="YTAS" xvalue="728"/>
+          <dimension name="YTDE" xvalue="-155"/>
+          <dimension name="YTFI" xvalue="743"/>
+          <dimension name="YTLC" xvalue="458"/>
+          <dimension name="YTOS" xvalue="30"/>
+          <dimension name="YTUC" xvalue="728"/>
+          <dimension name="YTTL" xvalue="0"/>
+          <dimension name="XTTW" xvalue="0"/>
+        </output>
+      </mapping>
+      <!--       XTSP MIN -->
+      <mapping>
+        <input>
+          <dimension name="Optical size" xvalue="1"/>
+          <dimension name="Width" xvalue="100"/>
+          <dimension name="Weight" xvalue="400"/>
+          <dimension name="XTSP" xvalue="-100"/>
+        </input>
+        <output>
+          <dimension name="Optical size" xvalue="1"/>
+          <dimension name="Slant" xvalue="0"/>
+          <dimension name="Weight" xvalue="400"/>
+          <dimension name="Width" xvalue="100"/>
+          <dimension name="XOPQ" xvalue="55"/>
+          <dimension name="XTRA" xvalue="447"/>
+          <dimension name="XTSP" xvalue="-100"/>
+          <dimension name="YOPQ" xvalue="49"/>
+          <dimension name="YTAS" xvalue="728"/>
+          <dimension name="YTDE" xvalue="-155"/>
+          <dimension name="YTFI" xvalue="743"/>
+          <dimension name="YTLC" xvalue="458"/>
+          <dimension name="YTOS" xvalue="30"/>
+          <dimension name="YTUC" xvalue="728"/>
+          <dimension name="YTTL" xvalue="0"/>
+          <dimension name="XTTW" xvalue="0"/>
+        </output>
+      </mapping>
+      <!--       XTSP MAX -->
+      <mapping>
+        <input>
+          <dimension name="Optical size" xvalue="1"/>
+          <dimension name="Width" xvalue="100"/>
+          <dimension name="Weight" xvalue="400"/>
+          <dimension name="XTSP" xvalue="100"/>
+        </input>
+        <output>
+          <dimension name="Optical size" xvalue="1"/>
+          <dimension name="Slant" xvalue="0"/>
+          <dimension name="Weight" xvalue="400"/>
+          <dimension name="Width" xvalue="100"/>
+          <dimension name="XOPQ" xvalue="55"/>
+          <dimension name="XTRA" xvalue="447"/>
+          <dimension name="XTSP" xvalue="100"/>
+          <dimension name="YOPQ" xvalue="49"/>
+          <dimension name="YTAS" xvalue="728"/>
+          <dimension name="YTDE" xvalue="-155"/>
+          <dimension name="YTFI" xvalue="743"/>
+          <dimension name="YTLC" xvalue="458"/>
+          <dimension name="YTOS" xvalue="30"/>
+          <dimension name="YTUC" xvalue="728"/>
+          <dimension name="YTTL" xvalue="0"/>
+          <dimension name="XTTW" xvalue="0"/>
+        </output>
+      </mapping>
+
+<!--       OPSZ144 WDTH100 WGHT100 -->
+
+<!--       XOPQ MAX -->
+      <mapping>
+        <input>
+          <dimension name="Optical size" xvalue="1"/>
+          <dimension name="Weight" xvalue="100"/>
+          <dimension name="Width" xvalue="100"/>
+          <dimension name="XOPQ" xvalue="20"/>
+        </input>
+        <output>
+          <dimension name="Optical size" xvalue="1"/>
+          <dimension name="Weight" xvalue="100"/>
+          <dimension name="Width" xvalue="100"/>
+          <dimension name="XOPQ" xvalue="20"/>
+          <dimension name="XTRA" xvalue="506"/>
+          <dimension name="XTSP" xvalue="-10"/>
+          <dimension name="YOPQ" xvalue="4"/>
+          <dimension name="YTAS" xvalue="728"/>
+          <dimension name="YTDE" xvalue="-155"/>
+          <dimension name="YTFI" xvalue="743"/>
+          <dimension name="YTLC" xvalue="458"/>
+          <dimension name="YTOS" xvalue="10"/>
+          <dimension name="YTUC" xvalue="728"/>
+          <dimension name="YTTL" xvalue="0"/>
+          <dimension name="XTTW" xvalue="0"/>
+          <dimension name="XTUR" xvalue="463"/>
+          <dimension name="WDSP" xvalue="162"/>
+          <dimension name="BARS" xvalue="1000"/>
+          <dimension name="XTUD" xvalue="463"/>
+          <dimension name="STUI" xvalue="92"/>
+          <dimension name="STUO" xvalue="92"/>
+          <dimension name="STLI" xvalue="32"/>
+          <dimension name="STLO" xvalue="32"/>
+        </output>
+      </mapping>
+      <mapping>
+        <input>
+          <dimension name="Optical size" xvalue="1"/>
+          <dimension name="Weight" xvalue="100"/>
+          <dimension name="Width" xvalue="100"/>
+          <dimension name="XOPQ" xvalue="310"/>
+        </input>
+        <output>
+          <dimension name="Optical size" xvalue="1"/>
+          <dimension name="Weight" xvalue="100"/>
+          <dimension name="Width" xvalue="100"/>
+          <dimension name="XOPQ" xvalue="20"/>
+          <dimension name="XTRA" xvalue="506"/>
+          <dimension name="XTSP" xvalue="-10"/>
+          <dimension name="YOPQ" xvalue="4"/>
+          <dimension name="YTAS" xvalue="728"/>
+          <dimension name="YTDE" xvalue="-155"/>
+          <dimension name="YTFI" xvalue="743"/>
+          <dimension name="YTLC" xvalue="458"/>
+          <dimension name="YTOS" xvalue="10"/>
+          <dimension name="YTUC" xvalue="728"/>
+          <dimension name="YTTL" xvalue="0"/>
+          <dimension name="XTTW" xvalue="0"/>
+          <dimension name="XTUR" xvalue="463"/>
+          <dimension name="WDSP" xvalue="162"/>
+          <dimension name="BARS" xvalue="1000"/>
+          <dimension name="XTUD" xvalue="463"/>
+          <dimension name="STUI" xvalue="92"/>
+          <dimension name="STUO" xvalue="92"/>
+          <dimension name="STLI" xvalue="32"/>
+          <dimension name="STLO" xvalue="32"/>
+        </output>
+      </mapping>
+<!--       START DRAGGING BACK ALL PREVIOUS DEFINED XOPQ MAX FENCES -->
+
+<!--
+      <mapping>
+        <input>
+          <dimension name="Optical size" xvalue="1"/>
+          <dimension name="Weight" xvalue="100"/>
+          <dimension name="Width" xvalue="100"/>
+          <dimension name="XOPQ" xvalue="210"/>
+        </input>
+        <output>
+          <dimension name="Optical size" xvalue="1"/>
+          <dimension name="Weight" xvalue="100"/>
+          <dimension name="Width" xvalue="100"/>
+          <dimension name="XOPQ" xvalue="20"/>
+          <dimension name="XTRA" xvalue="506"/>
+          <dimension name="XTSP" xvalue="-10"/>
+          <dimension name="YOPQ" xvalue="4"/>
+          <dimension name="YTAS" xvalue="728"/>
+          <dimension name="YTDE" xvalue="-155"/>
+          <dimension name="YTFI" xvalue="743"/>
+          <dimension name="YTLC" xvalue="458"/>
+          <dimension name="YTOS" xvalue="10"/>
+          <dimension name="YTUC" xvalue="728"/>
+          <dimension name="YTTL" xvalue="0"/>
+          <dimension name="XTTW" xvalue="0"/>
+          <dimension name="XTUR" xvalue="463"/>
+          <dimension name="WDSP" xvalue="162"/>
+          <dimension name="BARS" xvalue="1000"/>
+          <dimension name="XTUD" xvalue="463"/>
+          <dimension name="STUI" xvalue="92"/>
+          <dimension name="STUO" xvalue="92"/>
+          <dimension name="STLI" xvalue="32"/>
+          <dimension name="STLO" xvalue="32"/>
+        </output>
+      </mapping>
+     <mapping>
+        <input>
+          <dimension name="Optical size" xvalue="1"/>
+          <dimension name="Weight" xvalue="100"/>
+          <dimension name="Width" xvalue="100"/>
+          <dimension name="XOPQ" xvalue="96"/>
+        </input>
+        <output>
+          <dimension name="Optical size" xvalue="1"/>
+          <dimension name="Weight" xvalue="100"/>
+          <dimension name="Width" xvalue="100"/>
+          <dimension name="XOPQ" xvalue="20"/>
+          <dimension name="XTRA" xvalue="506"/>
+          <dimension name="XTSP" xvalue="-10"/>
+          <dimension name="YOPQ" xvalue="4"/>
+          <dimension name="YTAS" xvalue="728"/>
+          <dimension name="YTDE" xvalue="-155"/>
+          <dimension name="YTFI" xvalue="743"/>
+          <dimension name="YTLC" xvalue="458"/>
+          <dimension name="YTOS" xvalue="10"/>
+          <dimension name="YTUC" xvalue="728"/>
+          <dimension name="YTTL" xvalue="0"/>
+          <dimension name="XTTW" xvalue="0"/>
+          <dimension name="XTUR" xvalue="463"/>
+          <dimension name="WDSP" xvalue="162"/>
+          <dimension name="BARS" xvalue="1000"/>
+          <dimension name="XTUD" xvalue="463"/>
+          <dimension name="STUI" xvalue="92"/>
+          <dimension name="STUO" xvalue="92"/>
+          <dimension name="STLI" xvalue="32"/>
+          <dimension name="STLO" xvalue="32"/>
+        </output>
+      </mapping>
+      <mapping>
+        <input>
+          <dimension name="Optical size" xvalue="1"/>
+          <dimension name="Weight" xvalue="100"/>
+          <dimension name="Width" xvalue="100"/>
+          <dimension name="XOPQ" xvalue="47"/>
+        </input>
+        <output>
+          <dimension name="Optical size" xvalue="1"/>
+          <dimension name="Weight" xvalue="100"/>
+          <dimension name="Width" xvalue="100"/>
+          <dimension name="XOPQ" xvalue="20"/>
+          <dimension name="XTRA" xvalue="506"/>
+          <dimension name="XTSP" xvalue="-10"/>
+          <dimension name="YOPQ" xvalue="4"/>
+          <dimension name="YTAS" xvalue="728"/>
+          <dimension name="YTDE" xvalue="-155"/>
+          <dimension name="YTFI" xvalue="743"/>
+          <dimension name="YTLC" xvalue="458"/>
+          <dimension name="YTOS" xvalue="10"/>
+          <dimension name="YTUC" xvalue="728"/>
+          <dimension name="YTTL" xvalue="0"/>
+          <dimension name="XTTW" xvalue="0"/>
+          <dimension name="XTUR" xvalue="463"/>
+          <dimension name="WDSP" xvalue="162"/>
+          <dimension name="BARS" xvalue="1000"/>
+          <dimension name="XTUD" xvalue="463"/>
+          <dimension name="STUI" xvalue="92"/>
+          <dimension name="STUO" xvalue="92"/>
+          <dimension name="STLI" xvalue="32"/>
+          <dimension name="STLO" xvalue="32"/>
+        </output>
+      </mapping>
+-->
+      
+<!--       OPSZ144 WDTH100 WGHT1000 -->
+
+<!--       YOPQ MAX -->
+
+      <mapping>
+        <input>
+          <dimension name="Optical size" xvalue="1"/>
+          <dimension name="Slant" xvalue="0"/>
+          <dimension name="Weight" xvalue="1000"/>
+          <dimension name="Width" xvalue="100"/>
+          <dimension name="YOPQ" xvalue="230"/>
+        </input>
+        <output>
+          <dimension name="Optical size" xvalue="1"/>
+          <dimension name="Weight" xvalue="1000"/>
+          <dimension name="Width" xvalue="100"/>
+          <dimension name="VANG" xvalue="0"/>
+          <dimension name="VROT" xvalue="0"/>
+          <dimension name="XOPQ" xvalue="300"/>
+          <dimension name="XTRA" xvalue="262"/>
+          <dimension name="XTSP" xvalue="-80"/>
+          <dimension name="YOPQ" xvalue="230"/>
+          <dimension name="YTAS" xvalue="728"/>
+          <dimension name="YTDE" xvalue="-155"/>
+          <dimension name="YTFI" xvalue="743"/>
+          <dimension name="YTLC" xvalue="458"/>
+          <dimension name="YTOS" xvalue="30"/>
+          <dimension name="YTUC" xvalue="728"/>
+          <dimension name="YTTL" xvalue="0"/>
+          <dimension name="XTTW" xvalue="0"/>
+          <dimension name="XTUR" xvalue="463"/>
+          <dimension name="WDSP" xvalue="306"/>
+          <dimension name="BARS" xvalue="0"/>
+          <dimension name="XTUD" xvalue="550"/>
+          <dimension name="STUI" xvalue="92"/>
+          <dimension name="STUO" xvalue="92"/>
+          <dimension name="STLI" xvalue="32"/>
+          <dimension name="STLO" xvalue="32"/>
+        </output>
+      </mapping>
+      <mapping>
+        <input>
+          <dimension name="Optical size" xvalue="1"/>
+          <dimension name="Slant" xvalue="0"/>
+          <dimension name="Weight" xvalue="1000"/>
+          <dimension name="Width" xvalue="100"/>
+          <dimension name="YOPQ" xvalue="280"/>
+        </input>
+        <output>
+          <dimension name="Optical size" xvalue="1"/>
+          <dimension name="Weight" xvalue="1000"/>
+          <dimension name="Width" xvalue="100"/>
+          <dimension name="VANG" xvalue="0"/>
+          <dimension name="VROT" xvalue="0"/>
+          <dimension name="XOPQ" xvalue="300"/>
+          <dimension name="XTRA" xvalue="262"/>
+          <dimension name="XTSP" xvalue="-80"/>
+          <dimension name="YOPQ" xvalue="230"/>
+          <dimension name="YTAS" xvalue="728"/>
+          <dimension name="YTDE" xvalue="-155"/>
+          <dimension name="YTFI" xvalue="743"/>
+          <dimension name="YTLC" xvalue="458"/>
+          <dimension name="YTOS" xvalue="30"/>
+          <dimension name="YTUC" xvalue="728"/>
+          <dimension name="YTTL" xvalue="0"/>
+          <dimension name="XTTW" xvalue="0"/>
+          <dimension name="XTUR" xvalue="463"/>
+          <dimension name="WDSP" xvalue="306"/>
+          <dimension name="BARS" xvalue="0"/>
+          <dimension name="XTUD" xvalue="550"/>
+          <dimension name="STUI" xvalue="92"/>
+          <dimension name="STUO" xvalue="92"/>
+          <dimension name="STLI" xvalue="32"/>
+          <dimension name="STLO" xvalue="32"/>
+        </output>
+      </mapping>
+
+      
+    </mappings>
+  </axes>
+  
+  <rules>
+    <rule>
+      <conditionset>
+        <condition name="Slant" minimum="6" maximum="13"/>
+      </conditionset>
+      <sub name="A" with="A.ital"/>
+      <sub name="B" with="B.ital"/>
+      <sub name="C" with="C.ital"/>
+      <sub name="D" with="D.ital"/>
+      <sub name="E" with="E.ital"/>
+      <sub name="F" with="F.ital"/>
+      <sub name="G" with="G.ital"/>
+      <sub name="H" with="H.ital"/>
+      <sub name="I" with="I.ital"/>
+      <sub name="J" with="J.ital"/>
+      <sub name="K" with="K.ital"/>
+      <sub name="L" with="L.ital"/>
+      <sub name="M" with="M.ital"/>
+      <sub name="N" with="N.ital"/>
+      <sub name="O" with="O.ital"/>
+      <sub name="P" with="P.ital"/>
+      <sub name="Q" with="Q.ital"/>
+      <sub name="R" with="R.ital"/>
+      <sub name="S" with="S.ital"/>
+      <sub name="T" with="T.ital"/>
+      <sub name="U" with="U.ital"/>
+      <sub name="V" with="V.ital"/>
+      <sub name="W" with="W.ital"/>
+      <sub name="X" with="X.ital"/>
+      <sub name="Y" with="Y.ital"/>
+      <sub name="Z" with="Z.ital"/>
+      <sub name="a" with="a.ital"/>
+      <sub name="b" with="b.ital"/>
+      <sub name="c" with="c.ital"/>
+      <sub name="d" with="d.ital"/>
+      <sub name="e" with="e.ital"/>
+      <sub name="f" with="f.ital"/>
+      <sub name="g" with="g.ital"/>
+      <sub name="h" with="h.ital"/>
+      <sub name="i" with="i.ital"/>
+      <sub name="j" with="j.ital"/>
+      <sub name="k" with="k.ital"/>
+      <sub name="l" with="l.ital"/>
+      <sub name="m" with="m.ital"/>
+      <sub name="n" with="n.ital"/>
+      <sub name="o" with="o.ital"/>
+      <sub name="p" with="p.ital"/>
+      <sub name="q" with="q.ital"/>
+      <sub name="r" with="r.ital"/>
+      <sub name="s" with="s.ital"/>
+      <sub name="t" with="t.ital"/>
+      <sub name="u" with="u.ital"/>
+      <sub name="v" with="v.ital"/>
+      <sub name="w" with="w.ital"/>
+      <sub name="x" with="x.ital"/>
+      <sub name="y" with="y.ital"/>
+      <sub name="z" with="z.ital"/>
+      <sub name="Germandbls" with="Germandbls.ital"/>
+      <sub name="germandbls" with="germandbls.ital"/>
+      <sub name="paragraph" with="paragraph.ital"/>
+      <sub name="dollar" with="dollar.ital"/>
+      <sub name="sterling" with="sterling.ital"/>
+      <sub name="yen" with="yen.ital"/>
+      <sub name="numbersign" with="numbersign.ital"/>
+      <sub name="Euro" with="Euro.ital"/>
+      <sub name="franc" with="franc.ital"/>
+      <sub name="lira" with="lira.ital"/>
+      <sub name="naira" with="naira.ital"/>
+      <sub name="peseta" with="peseta.ital"/>
+      <sub name="won" with="won.ital"/>
+      <sub name="dong" with="dong.ital"/>
+      <sub name="rupeeIndian" with="rupeeIndian.ital"/>
+      <sub name="liraTurkish" with="liraTurkish.ital"/>
+      <sub name="manat" with="manat.ital"/>
+      <sub name="ruble" with="ruble.ital"/>
+      <sub name="numero" with="numero.ital"/>
+      <sub name="commercialMinusSign" with="commercialMinusSign.ital"/>
+      <sub name="florin" with="florin.ital"/>
+      <sub name="coloncurrency" with="coloncurrency.ital"/>
+      <sub name="uni20AD" with="uni20AD.ital"/>
+      <sub name="uni20B1" with="uni20B1.ital"/>
+      <sub name="uni20B2" with="uni20B2.ital"/>
+      <sub name="uni20B5" with="uni20B5.ital"/>
+      <sub name="hryvnia" with="hryvnia.ital"/>
+      <sub name="tenge" with="tenge.ital"/>
+      <sub name="dollar.rvrn" with="dollar.rvrn.ital"/>
+      <sub name="cent.rvrn" with="cent.rvrn.ital"/>
+      <sub name="coloncurrency.rvrn" with="coloncurrency.rvrn.ital"/>
+      <sub name="naira.rvrn" with="naira.rvrn.ital"/>
+      <sub name="won.rvrn" with="won.rvrn.ital"/>
+      <sub name="uni20B1.rvrn" with="uni20B1.rvrn.ital"/>
+      <sub name="uni20B2.rvrn" with="uni20B2.rvrn.ital"/>
+      <sub name="uni20B5.rvrn" with="uni20B5.rvrn.ital"/>
+      <sub name="hryvnia.rvrn" with="hryvnia.rvrn.ital"/>
+      <sub name="zero" with="zero.ital"/>
+      <sub name="one" with="one.ital"/>
+      <sub name="two" with="two.ital"/>
+      <sub name="three" with="three.ital"/>
+      <sub name="four" with="four.ital"/>
+      <sub name="five" with="five.ital"/>
+      <sub name="six" with="six.ital"/>
+      <sub name="seven" with="seven.ital"/>
+      <sub name="eight" with="eight.ital"/>
+      <sub name="nine" with="nine.ital"/>
+      <sub name="zero.prop" with="zero.prop.ital"/>
+      <sub name="one.prop" with="one.prop.ital"/>
+      <sub name="two.prop" with="two.prop.ital"/>
+      <sub name="three.prop" with="three.prop.ital"/>
+      <sub name="four.prop" with="four.prop.ital"/>
+      <sub name="five.prop" with="five.prop.ital"/>
+      <sub name="six.prop" with="six.prop.ital"/>
+      <sub name="seven.prop" with="seven.prop.ital"/>
+      <sub name="eight.prop" with="eight.prop.ital"/>
+      <sub name="nine.prop" with="nine.prop.ital"/>
+      <sub name="cent" with="cent.ital"/>
+      <sub name="ordfeminine" with="ordfeminine.ital"/>
+      <sub name="ordmasculine" with="ordmasculine.ital"/>
+      <sub name="less" with="less.ital"/>
+      <sub name="greater" with="greater.ital"/>
+      <sub name="equal" with="equal.ital"/>
+      <sub name="at" with="at.ital"/>
+      <sub name="plus" with="plus.ital"/>
+      <sub name="percent" with="percent.ital"/>
+      <sub name="grave" with="grave.ital"/>
+      <sub name="period" with="period.ital"/>
+      <sub name="semicolon" with="semicolon.ital"/>
+      <sub name="colon" with="colon.ital"/>
+      <sub name="quotesingle" with="quotesingle.ital"/>
+      <sub name="quotedbl" with="quotedbl.ital"/>
+      <sub name="ampersand" with="ampersand.ital"/>
+      <sub name="questiondown" with="questiondown.ital"/>
+      <sub name="question" with="question.ital"/>
+      <sub name="exclamdown" with="exclamdown.ital"/>
+      <sub name="exclam" with="exclam.ital"/>
+      <sub name="parenleft" with="parenleft.ital"/>
+      <sub name="slash" with="slash.ital"/>
+      <sub name="parenright" with="parenright.ital"/>
+      <sub name="bracketleft" with="bracketleft.ital"/>
+      <sub name="backslash" with="backslash.ital"/>
+      <sub name="bracketright" with="bracketright.ital"/>
+      <sub name="braceleft" with="braceleft.ital"/>
+      <sub name="bar" with="bar.ital"/>
+      <sub name="braceright" with="braceright.ital"/>
+      <sub name="brokenbar" with="brokenbar.ital"/>
+      <sub name="asterisk" with="asterisk.ital"/>
+      <sub name="comma" with="comma.ital"/>
+      <sub name="periodcentered" with="periodcentered.ital"/>
+      <sub name="quoteleft" with="quoteleft.ital"/>
+      <sub name="quoteright" with="quoteright.ital"/>
+      <sub name="quotesinglbase" with="quotesinglbase.ital"/>
+      <sub name="quotedblleft" with="quotedblleft.ital"/>
+      <sub name="quotedblright" with="quotedblright.ital"/>
+      <sub name="quotedblbase" with="quotedblbase.ital"/>
+      <sub name="guilsinglleft" with="guilsinglleft.ital"/>
+      <sub name="guilsinglright" with="guilsinglright.ital"/>
+      <sub name="guillemotleft" with="guillemotleft.ital"/>
+      <sub name="guillemotright" with="guillemotright.ital"/>
+      <sub name="underscore" with="underscore.ital"/>
+      <sub name="hyphen" with="hyphen.ital"/>
+      <sub name="hyphentwo" with="hyphentwo.ital"/>
+      <sub name="endash" with="endash.ital"/>
+      <sub name="emdash" with="emdash.ital"/>
+      <sub name="softhyphen" with="softhyphen.ital"/>
+      <sub name="trademark" with="trademark.ital"/>
+      <sub name="asciicircum" with="asciicircum.ital"/>
+      <sub name="asciitilde" with="asciitilde.ital"/>
+      <sub name="zerosuperior" with="zerosuperior.ital"/>
+      <sub name="onesuperior" with="onesuperior.ital"/>
+      <sub name="twosuperior" with="twosuperior.ital"/>
+      <sub name="threesuperior" with="threesuperior.ital"/>
+      <sub name="foursuperior" with="foursuperior.ital"/>
+      <sub name="fraction" with="fraction.ital"/>
+      <sub name="divisionslash" with="divisionslash.ital"/>
+      <sub name="primemod" with="primemod.ital"/>
+      <sub name="doubleprimemod" with="doubleprimemod.ital"/>
+      <sub name="apostrophemod" with="apostrophemod.ital"/>
+      <sub name="horizontalbar" with="horizontalbar.ital"/>
+      <sub name="minute" with="minute.ital"/>
+      <sub name="second" with="second.ital"/>
+      <sub name="leftanglebracket" with="leftanglebracket.ital"/>
+      <sub name="rightanglebracket" with="rightanglebracket.ital"/>
+      <sub name="gravecomb" with="gravecomb.ital"/>
+      <sub name="acutecomb" with="acutecomb.ital"/>
+      <sub name="circumflexcomb" with="circumflexcomb.ital"/>
+      <sub name="tildecomb" with="tildecomb.ital"/>
+      <sub name="macroncomb" with="macroncomb.ital"/>
+      <sub name="brevecomb" with="brevecomb.ital"/>
+      <sub name="dotaccentcomb" with="dotaccentcomb.ital"/>
+      <sub name="dieresiscomb" with="dieresiscomb.ital"/>
+      <sub name="hookabovecomb" with="hookabovecomb.ital"/>
+      <sub name="ringcomb" with="ringcomb.ital"/>
+      <sub name="hungarumlautcomb" with="hungarumlautcomb.ital"/>
+      <sub name="caroncomb" with="caroncomb.ital"/>
+      <sub name="breveinvertedcomb" with="breveinvertedcomb.ital"/>
+      <sub name="dblgravecomb" with="dblgravecomb.ital"/>
+      <sub name="horncomb" with="horncomb.ital"/>
+      <sub name="dotbelowcomb" with="dotbelowcomb.ital"/>
+      <sub name="dieresisbelowcomb" with="dieresisbelowcomb.ital"/>
+      <sub name="commaaccentcomb" with="commaaccentcomb.ital"/>
+      <sub name="cedillacomb" with="cedillacomb.ital"/>
+      <sub name="ogonekcomb" with="ogonekcomb.ital"/>
+      <sub name="brevebelowcomb" with="brevebelowcomb.ital"/>
+      <sub name="macronbelowcomb" with="macronbelowcomb.ital"/>
+      <sub name="commaaccentturnedcomb" with="commaaccentturnedcomb.ital"/>
+      <sub name="gravecomb-stack" with="gravecomb-stack.ital"/>
+      <sub name="acutecomb-stack" with="acutecomb-stack.ital"/>
+      <sub name="dieresiscomb-stack" with="dieresiscomb-stack.ital"/>
+      <sub name="macroncomb-stack" with="macroncomb-stack.ital"/>
+      <sub name="circumflexcomb-stack" with="circumflexcomb-stack.ital"/>
+      <sub name="caroncomb-stack" with="caroncomb-stack.ital"/>
+      <sub name="brevecomb-stack" with="brevecomb-stack.ital"/>
+      <sub name="dotaccentcomb-stack" with="dotaccentcomb-stack.ital"/>
+      <sub name="ringcomb-stack" with="ringcomb-stack.ital"/>
+      <sub name="tildecomb-stack" with="tildecomb-stack.ital"/>
+      <sub name="hungarumlautcomb-stack" with="hungarumlautcomb-stack.ital"/>
+      <sub name="hookabovecomb-stack" with="hookabovecomb-stack.ital"/>
+      <sub name="breveinvertedcomb.stack" with="breveinvertedcomb.stack.ital"/>
+      <sub name="dblgravecomb-stack" with="dblgravecomb-stack.ital"/>
+      <sub name="gravecomb.case" with="gravecomb.case.ital"/>
+      <sub name="acutecomb.case" with="acutecomb.case.ital"/>
+      <sub name="dieresiscomb.case" with="dieresiscomb.case.ital"/>
+      <sub name="macroncomb.case" with="macroncomb.case.ital"/>
+      <sub name="cedillacomb.case" with="cedillacomb.case.ital"/>
+      <sub name="circumflexcomb.case" with="circumflexcomb.case.ital"/>
+      <sub name="caroncomb.case" with="caroncomb.case.ital"/>
+      <sub name="brevecomb.case" with="brevecomb.case.ital"/>
+      <sub name="dotaccentcomb.case" with="dotaccentcomb.case.ital"/>
+      <sub name="ringcomb.case" with="ringcomb.case.ital"/>
+      <sub name="ogonekcomb.case" with="ogonekcomb.case.ital"/>
+      <sub name="tildecomb.case" with="tildecomb.case.ital"/>
+      <sub name="hungarumlautcomb.case" with="hungarumlautcomb.case.ital"/>
+      <sub name="hookabovecomb.case" with="hookabovecomb.case.ital"/>
+      <sub name="breveinvertedcomb.case" with="breveinvertedcomb.case.ital"/>
+      <sub name="dblgravecomb.case" with="dblgravecomb.case.ital"/>
+      <sub name="horncomb.case" with="horncomb.case.ital"/>
+      <sub name="dotbelowcomb.case" with="dotbelowcomb.case.ital"/>
+      <sub name="dieresisbelowcomb.case" with="dieresisbelowcomb.case.ital"/>
+      <sub name="commaaccentcomb.case" with="commaaccentcomb.case.ital"/>
+      <sub name="brevebelowcomb.case" with="brevebelowcomb.case.ital"/>
+      <sub name="macronbelowcomb.case" with="macronbelowcomb.case.ital"/>
+      <sub name="gravecombstack.case" with="gravecombstack.case.ital"/>
+      <sub name="acutecombstack.case" with="acutecombstack.case.ital"/>
+      <sub name="dieresiscombstack.case" with="dieresiscombstack.case.ital"/>
+      <sub name="macroncombstack.case" with="macroncombstack.case.ital"/>
+      <sub name="circumflexcombstack.case" with="circumflexcombstack.case.ital"/>
+      <sub name="brevecombstack.case" with="brevecombstack.case.ital"/>
+      <sub name="dotaccentcombstack.case" with="dotaccentcombstack.case.ital"/>
+      <sub name="tildecombstack.case" with="tildecombstack.case.ital"/>
+      <sub name="hookabovecombstack.case" with="hookabovecombstack.case.ital"/>
+      <sub name="gravecomb-stack.case" with="gravecomb-stack.case.ital"/>
+      <sub name="acutecomb-stack.case" with="acutecomb-stack.case.ital"/>
+      <sub name="dieresiscomb-stack.case" with="dieresiscomb-stack.case.ital"/>
+      <sub name="macroncomb-stack.case" with="macroncomb-stack.case.ital"/>
+      <sub name="circumflexcomb-stack.case" with="circumflexcomb-stack.case.ital"/>
+      <sub name="caroncomb-stack.case" with="caroncomb-stack.case.ital"/>
+      <sub name="brevecomb-stack.case" with="brevecomb-stack.case.ital"/>
+      <sub name="dotaccentcomb-stack.case" with="dotaccentcomb-stack.case.ital"/>
+      <sub name="ringcomb-stack.case" with="ringcomb-stack.case.ital"/>
+      <sub name="tildecomb-stack.case" with="tildecomb-stack.case.ital"/>
+      <sub name="hungarumlautcomb-stack.case" with="hungarumlautcomb-stack.case.ital"/>
+      <sub name="hookcomb-stack.case" with="hookcomb-stack.case.ital"/>
+      <sub name="breveinvertedcomb-stack.case" with="breveinvertedcomb-stack.case.ital"/>
+      <sub name="dblgravecomb-stack.case" with="dblgravecomb-stack.case.ital"/>
+      <sub name="AE" with="AE.ital"/>
+      <sub name="Thorn" with="Thorn.ital"/>
+      <sub name="ae" with="ae.ital"/>
+      <sub name="eth" with="eth.ital"/>
+      <sub name="thorn" with="thorn.ital"/>
+      <sub name="kgreenlandic" with="kgreenlandic.ital"/>
+      <sub name="OE" with="OE.ital"/>
+      <sub name="oe" with="oe.ital"/>
+      <sub name="idotless" with="idotless.ital"/>
+      <sub name="jdotless" with="jdotless.ital"/>
+      <sub name="Schwa" with="Schwa.ital"/>
+      <sub name="schwa" with="schwa.ital"/>
+      <sub name="caroncomb.alt" with="caroncomb.alt.ital"/>
+      <sub name="diagonalbarO" with="diagonalbarO.ital"/>
+      <sub name="diagonalbarl" with="diagonalbarl.ital"/>
+      <sub name="diagonalbaro" with="diagonalbaro.ital"/>
+      <sub name="engtail" with="engtail.ital"/>
+      <sub name="horizontalbarH" with="horizontalbarH.ital"/>
+      <sub name="horizontalbarlc" with="horizontalbarlc.ital"/>
+      <sub name="diagonalbarL" with="diagonalbarL.ital"/>
+      <sub name="diagonalbarO.rvrn" with="diagonalbarO.rvrn.ital"/>
+      <sub name="diagonalbaro.rvrn" with="diagonalbaro.rvrn.ital"/>
+      <sub name="Gamma" with="Gamma.ital"/>
+      <sub name="Delta" with="Delta.ital"/>
+      <sub name="Theta" with="Theta.ital"/>
+      <sub name="Lambda" with="Lambda.ital"/>
+      <sub name="Xi" with="Xi.ital"/>
+      <sub name="Pi" with="Pi.ital"/>
+      <sub name="Sigma" with="Sigma.ital"/>
+      <sub name="Phi" with="Phi.ital"/>
+      <sub name="Psi" with="Psi.ital"/>
+      <sub name="Omega" with="Omega.ital"/>
+      <sub name="Kaisymbol" with="Kaisymbol.ital"/>
+      <sub name="alpha" with="alpha.ital"/>
+      <sub name="beta" with="beta.ital"/>
+      <sub name="gamma" with="gamma.ital"/>
+      <sub name="delta" with="delta.ital"/>
+      <sub name="epsilon" with="epsilon.ital"/>
+      <sub name="zeta" with="zeta.ital"/>
+      <sub name="eta" with="eta.ital"/>
+      <sub name="theta" with="theta.ital"/>
+      <sub name="iota" with="iota.ital"/>
+      <sub name="kappa" with="kappa.ital"/>
+      <sub name="lambda" with="lambda.ital"/>
+      <sub name="mu" with="mu.ital"/>
+      <sub name="xi" with="xi.ital"/>
+      <sub name="pi" with="pi.ital"/>
+      <sub name="rho" with="rho.ital"/>
+      <sub name="finalsigma" with="finalsigma.ital"/>
+      <sub name="sigma" with="sigma.ital"/>
+      <sub name="tau" with="tau.ital"/>
+      <sub name="upsilon" with="upsilon.ital"/>
+      <sub name="phi" with="phi.ital"/>
+      <sub name="chi" with="chi.ital"/>
+      <sub name="psi" with="psi.ital"/>
+      <sub name="omega" with="omega.ital"/>
+      <sub name="kaisymbol" with="kaisymbol.ital"/>
+      <sub name="numeralsign" with="numeralsign.ital"/>
+      <sub name="lownumeralsign" with="lownumeralsign.ital"/>
+      <sub name="tonoscomb" with="tonoscomb.ital"/>
+      <sub name="tonoscomb.case" with="tonoscomb.case.ital"/>
+      <sub name="Dje" with="Dje.ital"/>
+      <sub name="Ieukran" with="Ieukran.ital"/>
+      <sub name="Lje" with="Lje.ital"/>
+      <sub name="Nje" with="Nje.ital"/>
+      <sub name="Tshe" with="Tshe.ital"/>
+      <sub name="Dzhe" with="Dzhe.ital"/>
+      <sub name="Be" with="Be.ital"/>
+      <sub name="De" with="De.ital"/>
+      <sub name="Zhe" with="Zhe.ital"/>
+      <sub name="Ze" with="Ze.ital"/>
+      <sub name="Icyr" with="Icyr.ital"/>
+      <sub name="Ka" with="Ka.ital"/>
+      <sub name="El" with="El.ital"/>
+      <sub name="Ucyr" with="Ucyr.ital"/>
+      <sub name="Tse" with="Tse.ital"/>
+      <sub name="Che" with="Che.ital"/>
+      <sub name="Sha" with="Sha.ital"/>
+      <sub name="Hard" with="Hard.ital"/>
+      <sub name="Soft" with="Soft.ital"/>
+      <sub name="Ecyr" with="Ecyr.ital"/>
+      <sub name="Ya" with="Ya.ital"/>
+      <sub name="Gheup" with="Gheup.ital"/>
+      <sub name="Kaverticalstrokecyr" with="Kaverticalstrokecyr.ital"/>
+      <sub name="Kabashkircyr" with="Kabashkircyr.ital"/>
+      <sub name="Cheverticalstroke-cy" with="Cheverticalstroke-cy.ital"/>
+      <sub name="Shha" with="Shha.ital"/>
+      <sub name="De.bgr" with="De.bgr.ital"/>
+      <sub name="Zhe.bgr" with="Zhe.bgr.ital"/>
+      <sub name="be" with="be.ital"/>
+      <sub name="ve" with="ve.ital"/>
+      <sub name="ghe" with="ghe.ital"/>
+      <sub name="de" with="de.ital"/>
+      <sub name="zhe" with="zhe.ital"/>
+      <sub name="ze" with="ze.ital"/>
+      <sub name="icyr" with="icyr.ital"/>
+      <sub name="ka" with="ka.ital"/>
+      <sub name="el" with="el.ital"/>
+      <sub name="em" with="em.ital"/>
+      <sub name="en" with="en.ital"/>
+      <sub name="pe" with="pe.ital"/>
+      <sub name="te" with="te.ital"/>
+      <sub name="tse" with="tse.ital"/>
+      <sub name="che" with="che.ital"/>
+      <sub name="sha" with="sha.ital"/>
+      <sub name="hard" with="hard.ital"/>
+      <sub name="soft" with="soft.ital"/>
+      <sub name="ecyr" with="ecyr.ital"/>
+      <sub name="ya" with="ya.ital"/>
+      <sub name="ieukran" with="ieukran.ital"/>
+      <sub name="lje" with="lje.ital"/>
+      <sub name="nje" with="nje.ital"/>
+      <sub name="dzhe" with="dzhe.ital"/>
+      <sub name="gheup" with="gheup.ital"/>
+      <sub name="kaverticalstrokecyr" with="kaverticalstrokecyr.ital"/>
+      <sub name="kabashkircyr" with="kabashkircyr.ital"/>
+      <sub name="ustraight" with="ustraight.ital"/>
+      <sub name="cheverticalstroke-cy" with="cheverticalstroke-cy.ital"/>
+      <sub name="ve.bgr" with="ve.bgr.ital"/>
+      <sub name="ghe.bgr" with="ghe.bgr.ital"/>
+      <sub name="zhe.bgr" with="zhe.bgr.ital"/>
+      <sub name="ze.bgr" with="ze.bgr.ital"/>
+      <sub name="el.bgr" with="el.bgr.ital"/>
+      <sub name="sha.bgr" with="sha.bgr.ital"/>
+      <sub name="hard.bgr" with="hard.bgr.ital"/>
+      <sub name="soft.bgr" with="soft.bgr.ital"/>
+      <sub name="be.locl" with="be.locl.ital"/>
+      <sub name="breve.cyrcomb.case" with="breve.cyrcomb.case.ital"/>
+      <sub name="breve.cyrcomb" with="breve.cyrcomb.ital"/>
+      <sub name="Cy-descendercomb.case" with="Cy-descendercomb.case.ital"/>
+      <sub name="cy-descendercomb" with="cy-descendercomb.ital"/>
+      <sub name="U-stroke" with="U-stroke.ital"/>
+      <sub name="u-stroke" with="u-stroke.ital"/>
+      <sub name="Obarcyr-stroke" with="Obarcyr-stroke.ital"/>
+      <sub name="Hacyr-stroke" with="Hacyr-stroke.ital"/>
+      <sub name="obarcyr-stroke" with="obarcyr-stroke.ital"/>
+      <sub name="hacyr-stroke" with="hacyr-stroke.ital"/>
+      <sub name="Yu-dash.case" with="Yu-dash.case.ital"/>
+      <sub name="yu-dash" with="yu-dash.ital"/>
+
+    </rule>
+  </rules>
+  
+  <sources>
+    <source filename="RobotoAvar2-wght400.ufo" familyname="RobotoAvar2" stylename="Regular">
+      <location>
+        <dimension name="Optical size" xvalue="0"/>
+        <dimension name="Slant" xvalue="0"/>
+        <dimension name="Weight" xvalue="400"/>
+        <dimension name="Width" xvalue="100"/>
+        <dimension name="VANG" xvalue="0"/>
+        <dimension name="VROT" xvalue="0"/>
+        <dimension name="XOPQ" xvalue="96"/>
+        <dimension name="XTRA" xvalue="463"/>
+        <dimension name="XTSP" xvalue="0"/>
+        <dimension name="YOPE" xvalue="79"/>
+        <dimension name="YOPQ" xvalue="79"/>
+        <dimension name="YTAS" xvalue="728"/>
+        <dimension name="YTDE" xvalue="-208"/>
+        <dimension name="YTFI" xvalue="743"/>
+        <dimension name="YTLC" xvalue="526"/>
+        <dimension name="YTOS" xvalue="30"/>
+        <dimension name="YTUC" xvalue="728"/>
+        <dimension name="YTTL" xvalue="25"/>
+        <dimension name="XTTW" xvalue="5"/>
+        <dimension name="XTUR" xvalue="463"/>
+        <dimension name="WDSP" xvalue="246"/>
+        <dimension name="BARS" xvalue="1000"/>
+        <dimension name="XTUD" xvalue="463"/>
+        <dimension name="STUI" xvalue="92"/>
+        <dimension name="STUO" xvalue="92"/>
+        <dimension name="STLI" xvalue="32"/>
+        <dimension name="STLO" xvalue="32"/>
+      </location>
+    </source>
+    <source filename="RobotoAvar2-VANG-3.ufo" familyname="RobotoAvar2" stylename="VANG-3">
+      <location>
+        <dimension name="Optical size" xvalue="0"/>
+        <dimension name="Slant" xvalue="0"/>
+        <dimension name="Weight" xvalue="400"/>
+        <dimension name="Width" xvalue="100"/>
+        <dimension name="VANG" xvalue="-3"/>
+        <dimension name="VROT" xvalue="0"/>
+        <dimension name="XOPQ" xvalue="96"/>
+        <dimension name="XTRA" xvalue="463"/>
+        <dimension name="XTSP" xvalue="0"/>
+        <dimension name="YOPE" xvalue="79"/>
+        <dimension name="YOPQ" xvalue="79"/>
+        <dimension name="YTAS" xvalue="728"/>
+        <dimension name="YTDE" xvalue="-208"/>
+        <dimension name="YTFI" xvalue="743"/>
+        <dimension name="YTLC" xvalue="526"/>
+        <dimension name="YTOS" xvalue="30"/>
+        <dimension name="YTUC" xvalue="728"/>
+        <dimension name="YTTL" xvalue="25"/>
+        <dimension name="XTTW" xvalue="5"/>
+        <dimension name="XTUR" xvalue="463"/>
+        <dimension name="WDSP" xvalue="246"/>
+        <dimension name="BARS" xvalue="1000"/>
+        <dimension name="XTUD" xvalue="463"/>
+        <dimension name="STUI" xvalue="92"/>
+        <dimension name="STUO" xvalue="92"/>
+        <dimension name="STLI" xvalue="32"/>
+        <dimension name="STLO" xvalue="32"/>
+      </location>
+    </source>
+    <source filename="RobotoAvar2-VANG13.ufo" familyname="RobotoAvar2" stylename="VANG13">
+      <location>
+        <dimension name="Optical size" xvalue="0"/>
+        <dimension name="Slant" xvalue="0"/>
+        <dimension name="Weight" xvalue="400"/>
+        <dimension name="Width" xvalue="100"/>
+        <dimension name="VANG" xvalue="13"/>
+        <dimension name="VROT" xvalue="0"/>
+        <dimension name="XOPQ" xvalue="96"/>
+        <dimension name="XTRA" xvalue="463"/>
+        <dimension name="XTSP" xvalue="0"/>
+        <dimension name="YOPE" xvalue="79"/>
+        <dimension name="YOPQ" xvalue="79"/>
+        <dimension name="YTAS" xvalue="728"/>
+        <dimension name="YTDE" xvalue="-208"/>
+        <dimension name="YTFI" xvalue="743"/>
+        <dimension name="YTLC" xvalue="526"/>
+        <dimension name="YTOS" xvalue="30"/>
+        <dimension name="YTUC" xvalue="728"/>
+        <dimension name="YTTL" xvalue="25"/>
+        <dimension name="XTTW" xvalue="5"/>
+        <dimension name="XTUR" xvalue="463"/>
+        <dimension name="WDSP" xvalue="246"/>
+        <dimension name="BARS" xvalue="1000"/>
+        <dimension name="XTUD" xvalue="463"/>
+        <dimension name="STUI" xvalue="92"/>
+        <dimension name="STUO" xvalue="92"/>
+        <dimension name="STLI" xvalue="32"/>
+        <dimension name="STLO" xvalue="32"/>
+      </location>
+    </source>
+    <source filename="RobotoAvar2-VROT13.ufo" familyname="RobotoAvar2" stylename="VROT13" layer="foreground">
+      <location>
+        <dimension name="Optical size" xvalue="0"/>
+        <dimension name="Slant" xvalue="0"/>
+        <dimension name="Weight" xvalue="400"/>
+        <dimension name="Width" xvalue="100"/>
+        <dimension name="VANG" xvalue="13"/>
+        <dimension name="VROT" xvalue="13"/>
+        <dimension name="XOPQ" xvalue="96"/>
+        <dimension name="XTRA" xvalue="463"/>
+        <dimension name="XTSP" xvalue="0"/>
+        <dimension name="YOPE" xvalue="79"/>
+        <dimension name="YOPQ" xvalue="79"/>
+        <dimension name="YTAS" xvalue="728"/>
+        <dimension name="YTDE" xvalue="-208"/>
+        <dimension name="YTFI" xvalue="743"/>
+        <dimension name="YTLC" xvalue="526"/>
+        <dimension name="YTOS" xvalue="30"/>
+        <dimension name="YTUC" xvalue="728"/>
+        <dimension name="YTTL" xvalue="25"/>
+        <dimension name="XTTW" xvalue="5"/>
+        <dimension name="XTUR" xvalue="463"/>
+        <dimension name="WDSP" xvalue="246"/>
+        <dimension name="BARS" xvalue="1000"/>
+        <dimension name="XTUD" xvalue="463"/>
+        <dimension name="STUI" xvalue="92"/>
+        <dimension name="STUO" xvalue="92"/>
+        <dimension name="STLI" xvalue="32"/>
+        <dimension name="STLO" xvalue="32"/>
+      </location>
+    </source>
+    <source filename="RobotoAvar2-XOPQ2.ufo" familyname="RobotoAvar2" stylename="XOPQ2">
+      <location>
+        <dimension name="Optical size" xvalue="0"/>
+        <dimension name="Slant" xvalue="0"/>
+        <dimension name="Weight" xvalue="400"/>
+        <dimension name="Width" xvalue="100"/>
+        <dimension name="VANG" xvalue="0"/>
+        <dimension name="VROT" xvalue="0"/>
+        <dimension name="XOPQ" xvalue="2"/>
+        <dimension name="XTRA" xvalue="463"/>
+        <dimension name="XTSP" xvalue="0"/>
+        <dimension name="YOPE" xvalue="79"/>
+        <dimension name="YOPQ" xvalue="79"/>
+        <dimension name="YTAS" xvalue="728"/>
+        <dimension name="YTDE" xvalue="-208"/>
+        <dimension name="YTFI" xvalue="743"/>
+        <dimension name="YTLC" xvalue="526"/>
+        <dimension name="YTOS" xvalue="30"/>
+        <dimension name="YTUC" xvalue="728"/>
+        <dimension name="YTTL" xvalue="25"/>
+        <dimension name="XTTW" xvalue="5"/>
+        <dimension name="XTUR" xvalue="463"/>
+        <dimension name="WDSP" xvalue="246"/>
+        <dimension name="BARS" xvalue="1000"/>
+        <dimension name="XTUD" xvalue="463"/>
+        <dimension name="STUI" xvalue="92"/>
+        <dimension name="STUO" xvalue="92"/>
+        <dimension name="STLI" xvalue="32"/>
+        <dimension name="STLO" xvalue="32"/>
+      </location>
+    </source>
+    <source filename="RobotoAvar2-XOPQ310.ufo" familyname="RobotoAvar2" stylename="XOPQ310">
+      <location>
+        <dimension name="Optical size" xvalue="0"/>
+        <dimension name="Slant" xvalue="0"/>
+        <dimension name="Weight" xvalue="400"/>
+        <dimension name="Width" xvalue="100"/>
+        <dimension name="VANG" xvalue="0"/>
+        <dimension name="VROT" xvalue="0"/>
+        <dimension name="XOPQ" xvalue="310"/>
+        <dimension name="XTRA" xvalue="463"/>
+        <dimension name="XTSP" xvalue="0"/>
+        <dimension name="YOPE" xvalue="79"/>
+        <dimension name="YOPQ" xvalue="79"/>
+        <dimension name="YTAS" xvalue="728"/>
+        <dimension name="YTDE" xvalue="-208"/>
+        <dimension name="YTFI" xvalue="743"/>
+        <dimension name="YTLC" xvalue="526"/>
+        <dimension name="YTOS" xvalue="30"/>
+        <dimension name="YTUC" xvalue="728"/>
+        <dimension name="YTTL" xvalue="25"/>
+        <dimension name="XTTW" xvalue="5"/>
+        <dimension name="XTUR" xvalue="463"/>
+        <dimension name="WDSP" xvalue="246"/>
+        <dimension name="BARS" xvalue="1000"/>
+        <dimension name="XTUD" xvalue="463"/>
+        <dimension name="STUI" xvalue="92"/>
+        <dimension name="STUO" xvalue="92"/>
+        <dimension name="STLI" xvalue="32"/>
+        <dimension name="STLO" xvalue="32"/>
+      </location>
+    </source>
+    <source filename="RobotoAvar2-XTRA244.ufo" familyname="RobotoAvar2" stylename="XTRA244">
+      <location>
+        <dimension name="Optical size" xvalue="0"/>
+        <dimension name="Slant" xvalue="0"/>
+        <dimension name="Weight" xvalue="400"/>
+        <dimension name="Width" xvalue="100"/>
+        <dimension name="VANG" xvalue="0"/>
+        <dimension name="VROT" xvalue="0"/>
+        <dimension name="XOPQ" xvalue="96"/>
+        <dimension name="XTRA" xvalue="244"/>
+        <dimension name="XTSP" xvalue="0"/>
+        <dimension name="YOPQ" xvalue="79"/>
+        <dimension name="YOPE" xvalue="79"/>
+        <dimension name="YTAS" xvalue="728"/>
+        <dimension name="YTDE" xvalue="-208"/>
+        <dimension name="YTFI" xvalue="743"/>
+        <dimension name="YTLC" xvalue="526"/>
+        <dimension name="YTOS" xvalue="30"/>
+        <dimension name="YTUC" xvalue="728"/>
+        <dimension name="YTTL" xvalue="25"/>
+        <dimension name="XTTW" xvalue="5"/>
+        <dimension name="XTUR" xvalue="463"/>
+        <dimension name="WDSP" xvalue="246"/>
+        <dimension name="BARS" xvalue="1000"/>
+        <dimension name="XTUD" xvalue="463"/>
+        <dimension name="STUI" xvalue="92"/>
+        <dimension name="STUO" xvalue="92"/>
+        <dimension name="STLI" xvalue="32"/>
+        <dimension name="STLO" xvalue="32"/>
+      </location>
+    </source>
+    <source filename="RobotoAvar2-XTRA244-opsz144-wdth25-wght100.ufo" familyname="RobotoAvar2" stylename="XTRA244-opsz144-wdth25-wght100">
+      <location>
+        <dimension name="Optical size" xvalue="1"/>
+        <dimension name="Slant" xvalue="0"/>
+        <dimension name="Weight" xvalue="100"/>
+        <dimension name="Width" xvalue="25"/>
+        <dimension name="VANG" xvalue="0"/>
+        <dimension name="VROT" xvalue="0"/>
+        <dimension name="XOPQ" xvalue="96"/>
+        <dimension name="XTRA" xvalue="244"/>
+        <dimension name="XTSP" xvalue="0"/>
+        <dimension name="YOPE" xvalue="79"/>
+        <dimension name="YOPQ" xvalue="79"/>
+        <dimension name="YTAS" xvalue="728"/>
+        <dimension name="YTDE" xvalue="-208"/>
+        <dimension name="YTFI" xvalue="743"/>
+        <dimension name="YTLC" xvalue="526"/>
+        <dimension name="YTOS" xvalue="30"/>
+        <dimension name="YTUC" xvalue="728"/>
+        <dimension name="YTTL" xvalue="25"/>
+        <dimension name="XTTW" xvalue="5"/>
+        <dimension name="XTUR" xvalue="463"/>
+        <dimension name="WDSP" xvalue="246"/>
+        <dimension name="BARS" xvalue="1000"/>
+        <dimension name="XTUD" xvalue="463"/>
+        <dimension name="STUI" xvalue="92"/>
+        <dimension name="STUO" xvalue="92"/>
+        <dimension name="STLI" xvalue="32"/>
+        <dimension name="STLO" xvalue="32"/>
+      </location>
+    </source>
+    <source filename="RobotoAvar2-XTRA741.ufo" familyname="RobotoAvar2" stylename="XTRA741">
+      <location>
+        <dimension name="Optical size" xvalue="0"/>
+        <dimension name="Slant" xvalue="0"/>
+        <dimension name="Weight" xvalue="400"/>
+        <dimension name="Width" xvalue="100"/>
+        <dimension name="VANG" xvalue="0"/>
+        <dimension name="VROT" xvalue="0"/>
+        <dimension name="XOPQ" xvalue="96"/>
+        <dimension name="XTRA" xvalue="741"/>
+        <dimension name="XTSP" xvalue="0"/>
+        <dimension name="YOPE" xvalue="79"/>
+        <dimension name="YOPQ" xvalue="79"/>
+        <dimension name="YTAS" xvalue="728"/>
+        <dimension name="YTDE" xvalue="-208"/>
+        <dimension name="YTFI" xvalue="743"/>
+        <dimension name="YTLC" xvalue="526"/>
+        <dimension name="YTOS" xvalue="30"/>
+        <dimension name="YTUC" xvalue="728"/>
+        <dimension name="YTTL" xvalue="25"/>
+        <dimension name="XTTW" xvalue="5"/>
+        <dimension name="XTUR" xvalue="463"/>
+        <dimension name="WDSP" xvalue="246"/>
+        <dimension name="BARS" xvalue="1000"/>
+        <dimension name="XTUD" xvalue="463"/>
+        <dimension name="STUI" xvalue="92"/>
+        <dimension name="STUO" xvalue="92"/>
+        <dimension name="STLI" xvalue="32"/>
+        <dimension name="STLO" xvalue="32"/>
+      </location>
+    </source>
+    <source filename="RobotoAvar2-XTRA741-opsz144-wdth151-wght100.ufo" familyname="RobotoAvar2" stylename="XTRA741-opsz144-wdth151-wght100">
+      <location>
+        <dimension name="Optical size" xvalue="1"/>
+        <dimension name="Slant" xvalue="0"/>
+        <dimension name="Weight" xvalue="100"/>
+        <dimension name="Width" xvalue="151"/>
+        <dimension name="VANG" xvalue="0"/>
+        <dimension name="VROT" xvalue="0"/>
+        <dimension name="XOPQ" xvalue="96"/>
+        <dimension name="XTRA" xvalue="741"/>
+        <dimension name="XTSP" xvalue="0"/>
+        <dimension name="YOPE" xvalue="79"/>
+        <dimension name="YOPQ" xvalue="79"/>
+        <dimension name="YTAS" xvalue="728"/>
+        <dimension name="YTDE" xvalue="-208"/>
+        <dimension name="YTFI" xvalue="743"/>
+        <dimension name="YTLC" xvalue="526"/>
+        <dimension name="YTOS" xvalue="30"/>
+        <dimension name="YTUC" xvalue="728"/>
+        <dimension name="YTTL" xvalue="25"/>
+        <dimension name="XTTW" xvalue="5"/>
+        <dimension name="XTUR" xvalue="463"/>
+        <dimension name="WDSP" xvalue="246"/>
+        <dimension name="BARS" xvalue="1000"/>
+        <dimension name="XTUD" xvalue="463"/>
+        <dimension name="STUI" xvalue="92"/>
+        <dimension name="STUO" xvalue="92"/>
+        <dimension name="STLI" xvalue="32"/>
+        <dimension name="STLO" xvalue="32"/>
+      </location>
+    </source>
+    <source filename="RobotoAvar2-XTSP-100.ufo" familyname="RobotoAvar2" stylename="XTSP-100">
+      <location>
+        <dimension name="Optical size" xvalue="0"/>
+        <dimension name="Slant" xvalue="0"/>
+        <dimension name="Weight" xvalue="400"/>
+        <dimension name="Width" xvalue="100"/>
+        <dimension name="VANG" xvalue="0"/>
+        <dimension name="VROT" xvalue="0"/>
+        <dimension name="XOPQ" xvalue="96"/>
+        <dimension name="XTRA" xvalue="463"/>
+        <dimension name="XTSP" xvalue="-100"/>
+        <dimension name="YOPE" xvalue="79"/>
+        <dimension name="YOPQ" xvalue="79"/>
+        <dimension name="YTAS" xvalue="728"/>
+        <dimension name="YTDE" xvalue="-208"/>
+        <dimension name="YTFI" xvalue="743"/>
+        <dimension name="YTLC" xvalue="526"/>
+        <dimension name="YTOS" xvalue="30"/>
+        <dimension name="YTUC" xvalue="728"/>
+        <dimension name="YTTL" xvalue="25"/>
+        <dimension name="XTTW" xvalue="5"/>
+        <dimension name="XTUR" xvalue="463"/>
+        <dimension name="WDSP" xvalue="246"/>
+        <dimension name="BARS" xvalue="1000"/>
+        <dimension name="XTUD" xvalue="463"/>
+        <dimension name="STUI" xvalue="92"/>
+        <dimension name="STUO" xvalue="92"/>
+        <dimension name="STLI" xvalue="32"/>
+        <dimension name="STLO" xvalue="32"/>
+      </location>
+    </source>
+    <source filename="RobotoAvar2-XTSP100.ufo" familyname="RobotoAvar2" stylename="XTSP100">
+      <location>
+        <dimension name="Optical size" xvalue="0"/>
+        <dimension name="Slant" xvalue="0"/>
+        <dimension name="Weight" xvalue="400"/>
+        <dimension name="Width" xvalue="100"/>
+        <dimension name="VANG" xvalue="0"/>
+        <dimension name="VROT" xvalue="0"/>
+        <dimension name="XOPQ" xvalue="96"/>
+        <dimension name="XTRA" xvalue="463"/>
+        <dimension name="XTSP" xvalue="100"/>
+        <dimension name="YOPE" xvalue="79"/>
+        <dimension name="YOPQ" xvalue="79"/>
+        <dimension name="YTAS" xvalue="728"/>
+        <dimension name="YTDE" xvalue="-208"/>
+        <dimension name="YTFI" xvalue="743"/>
+        <dimension name="YTLC" xvalue="526"/>
+        <dimension name="YTOS" xvalue="30"/>
+        <dimension name="YTUC" xvalue="728"/>
+        <dimension name="YTTL" xvalue="25"/>
+        <dimension name="XTTW" xvalue="5"/>
+        <dimension name="XTUR" xvalue="463"/>
+        <dimension name="WDSP" xvalue="246"/>
+        <dimension name="BARS" xvalue="1000"/>
+        <dimension name="XTUD" xvalue="463"/>
+        <dimension name="STUI" xvalue="92"/>
+        <dimension name="STUO" xvalue="92"/>
+        <dimension name="STLI" xvalue="32"/>
+        <dimension name="STLO" xvalue="32"/>
+      </location>
+    </source>
+    <source filename="RobotoAvar2-YOPQ2.ufo" familyname="RobotoAvar2" stylename="YOPQ2">
+      <location>
+        <dimension name="Optical size" xvalue="0"/>
+        <dimension name="Slant" xvalue="0"/>
+        <dimension name="Weight" xvalue="400"/>
+        <dimension name="Width" xvalue="100"/>
+        <dimension name="VANG" xvalue="0"/>
+        <dimension name="VROT" xvalue="0"/>
+        <dimension name="XOPQ" xvalue="96"/>
+        <dimension name="XTRA" xvalue="463"/>
+        <dimension name="XTSP" xvalue="0"/>
+        <dimension name="YOPE" xvalue="79"/>
+        <dimension name="YOPQ" xvalue="2"/>
+        <dimension name="YTAS" xvalue="728"/>
+        <dimension name="YTDE" xvalue="-208"/>
+        <dimension name="YTFI" xvalue="743"/>
+        <dimension name="YTLC" xvalue="526"/>
+        <dimension name="YTOS" xvalue="30"/>
+        <dimension name="YTUC" xvalue="728"/>
+        <dimension name="YTTL" xvalue="25"/>
+        <dimension name="XTTW" xvalue="5"/>
+        <dimension name="XTUR" xvalue="463"/>
+        <dimension name="WDSP" xvalue="246"/>
+        <dimension name="BARS" xvalue="1000"/>
+        <dimension name="XTUD" xvalue="463"/>
+        <dimension name="STUI" xvalue="92"/>
+        <dimension name="STUO" xvalue="92"/>
+        <dimension name="STLI" xvalue="32"/>
+        <dimension name="STLO" xvalue="32"/>
+      </location>
+    </source>
+    <source filename="RobotoAvar2-YOPQ280.ufo" familyname="RobotoAvar2" stylename="YOPQ280">
+      <location>
+        <dimension name="Optical size" xvalue="0"/>
+        <dimension name="Slant" xvalue="0"/>
+        <dimension name="Weight" xvalue="400"/>
+        <dimension name="Width" xvalue="100"/>
+        <dimension name="VANG" xvalue="0"/>
+        <dimension name="VROT" xvalue="0"/>
+        <dimension name="XOPQ" xvalue="96"/>
+        <dimension name="XTRA" xvalue="463"/>
+        <dimension name="XTSP" xvalue="0"/>
+        <dimension name="YOPE" xvalue="79"/>
+        <dimension name="YOPQ" xvalue="280"/>
+        <dimension name="YTAS" xvalue="728"/>
+        <dimension name="YTDE" xvalue="-208"/>
+        <dimension name="YTFI" xvalue="743"/>
+        <dimension name="YTLC" xvalue="526"/>
+        <dimension name="YTOS" xvalue="30"/>
+        <dimension name="YTUC" xvalue="728"/>
+        <dimension name="YTTL" xvalue="25"/>
+        <dimension name="XTTW" xvalue="5"/>
+        <dimension name="XTUR" xvalue="463"/>
+        <dimension name="WDSP" xvalue="246"/>
+        <dimension name="BARS" xvalue="1000"/>
+        <dimension name="XTUD" xvalue="463"/>
+        <dimension name="STUI" xvalue="92"/>
+        <dimension name="STUO" xvalue="92"/>
+        <dimension name="STLI" xvalue="32"/>
+        <dimension name="STLO" xvalue="32"/>
+      </location>
+    </source>
+    <source filename="RobotoAvar2-YOPE280.ufo" familyname="RobotoAvar2" stylename="YOPE280" layer="public.default">
+      <location>
+        <dimension name="Optical size" xvalue="0"/>
+        <dimension name="Slant" xvalue="0"/>
+        <dimension name="Weight" xvalue="400"/>
+        <dimension name="Width" xvalue="100"/>
+        <dimension name="VANG" xvalue="0"/>
+        <dimension name="VROT" xvalue="0"/>
+        <dimension name="XOPQ" xvalue="96"/>
+        <dimension name="XTRA" xvalue="463"/>
+        <dimension name="XTSP" xvalue="0"/>
+        <dimension name="YOPE" xvalue="280"/>
+        <dimension name="YOPQ" xvalue="79"/>
+        <dimension name="YTAS" xvalue="728"/>
+        <dimension name="YTDE" xvalue="-208"/>
+        <dimension name="YTFI" xvalue="743"/>
+        <dimension name="YTLC" xvalue="526"/>
+        <dimension name="YTOS" xvalue="30"/>
+        <dimension name="YTUC" xvalue="728"/>
+        <dimension name="YTTL" xvalue="25"/>
+        <dimension name="XTTW" xvalue="5"/>
+        <dimension name="XTUR" xvalue="463"/>
+        <dimension name="WDSP" xvalue="246"/>
+        <dimension name="BARS" xvalue="1000"/>
+        <dimension name="XTUD" xvalue="463"/>
+        <dimension name="STUI" xvalue="92"/>
+        <dimension name="STUO" xvalue="92"/>
+        <dimension name="STLI" xvalue="32"/>
+        <dimension name="STLO" xvalue="32"/>
+      </location>
+    </source>
+    <source filename="RobotoAvar2-YTAS665.ufo" familyname="RobotoAvar2" stylename="YTAS665">
+      <location>
+        <dimension name="Optical size" xvalue="0"/>
+        <dimension name="Slant" xvalue="0"/>
+        <dimension name="Weight" xvalue="400"/>
+        <dimension name="Width" xvalue="100"/>
+        <dimension name="VANG" xvalue="0"/>
+        <dimension name="VROT" xvalue="0"/>
+        <dimension name="XOPQ" xvalue="96"/>
+        <dimension name="XTRA" xvalue="463"/>
+        <dimension name="XTSP" xvalue="0"/>
+        <dimension name="YOPE" xvalue="79"/>
+        <dimension name="YOPQ" xvalue="79"/>
+        <dimension name="YTAS" xvalue="665"/>
+        <dimension name="YTDE" xvalue="-208"/>
+        <dimension name="YTFI" xvalue="743"/>
+        <dimension name="YTLC" xvalue="526"/>
+        <dimension name="YTOS" xvalue="30"/>
+        <dimension name="YTUC" xvalue="728"/>
+        <dimension name="YTTL" xvalue="25"/>
+        <dimension name="XTTW" xvalue="5"/>
+        <dimension name="XTUR" xvalue="463"/>
+        <dimension name="WDSP" xvalue="246"/>
+        <dimension name="BARS" xvalue="1000"/>
+        <dimension name="XTUD" xvalue="463"/>
+        <dimension name="STUI" xvalue="92"/>
+        <dimension name="STUO" xvalue="92"/>
+        <dimension name="STLI" xvalue="32"/>
+        <dimension name="STLO" xvalue="32"/>
+      </location>
+    </source>
+    <source filename="RobotoAvar2-YTAS875.ufo" familyname="RobotoAvar2" stylename="YTAS875">
+      <location>
+        <dimension name="Optical size" xvalue="0"/>
+        <dimension name="Slant" xvalue="0"/>
+        <dimension name="Weight" xvalue="400"/>
+        <dimension name="Width" xvalue="100"/>
+        <dimension name="VANG" xvalue="0"/>
+        <dimension name="VROT" xvalue="0"/>
+        <dimension name="XOPQ" xvalue="96"/>
+        <dimension name="XTRA" xvalue="463"/>
+        <dimension name="XTSP" xvalue="0"/>
+        <dimension name="YOPE" xvalue="79"/>
+        <dimension name="YOPQ" xvalue="79"/>
+        <dimension name="YTAS" xvalue="875"/>
+        <dimension name="YTDE" xvalue="-208"/>
+        <dimension name="YTFI" xvalue="743"/>
+        <dimension name="YTLC" xvalue="526"/>
+        <dimension name="YTOS" xvalue="30"/>
+        <dimension name="YTUC" xvalue="728"/>
+        <dimension name="YTTL" xvalue="25"/>
+        <dimension name="XTTW" xvalue="5"/>
+        <dimension name="XTUR" xvalue="463"/>
+        <dimension name="WDSP" xvalue="246"/>
+        <dimension name="BARS" xvalue="1000"/>
+        <dimension name="XTUD" xvalue="463"/>
+        <dimension name="STUI" xvalue="92"/>
+        <dimension name="STUO" xvalue="92"/>
+        <dimension name="STLI" xvalue="32"/>
+        <dimension name="STLO" xvalue="32"/>
+      </location>
+    </source>
+    <source filename="RobotoAvar2-YTDE-100.ufo" familyname="RobotoAvar2" stylename="YTDE-100">
+      <location>
+        <dimension name="Optical size" xvalue="0"/>
+        <dimension name="Slant" xvalue="0"/>
+        <dimension name="Weight" xvalue="400"/>
+        <dimension name="Width" xvalue="100"/>
+        <dimension name="VANG" xvalue="0"/>
+        <dimension name="VROT" xvalue="0"/>
+        <dimension name="XOPQ" xvalue="96"/>
+        <dimension name="XTRA" xvalue="463"/>
+        <dimension name="XTSP" xvalue="0"/>
+        <dimension name="YOPE" xvalue="79"/>
+        <dimension name="YOPQ" xvalue="79"/>
+        <dimension name="YTAS" xvalue="728"/>
+        <dimension name="YTDE" xvalue="-100"/>
+        <dimension name="YTFI" xvalue="743"/>
+        <dimension name="YTLC" xvalue="526"/>
+        <dimension name="YTOS" xvalue="30"/>
+        <dimension name="YTUC" xvalue="728"/>
+        <dimension name="YTTL" xvalue="25"/>
+        <dimension name="XTTW" xvalue="5"/>
+        <dimension name="XTUR" xvalue="463"/>
+        <dimension name="WDSP" xvalue="246"/>
+        <dimension name="BARS" xvalue="1000"/>
+        <dimension name="XTUD" xvalue="463"/>
+        <dimension name="STUI" xvalue="92"/>
+        <dimension name="STUO" xvalue="92"/>
+        <dimension name="STLI" xvalue="32"/>
+        <dimension name="STLO" xvalue="32"/>
+      </location>
+    </source>
+    <source filename="RobotoAvar2-YTDE-310.ufo" familyname="RobotoAvar2" stylename="YTDE-310">
+      <location>
+        <dimension name="Optical size" xvalue="0"/>
+        <dimension name="Slant" xvalue="0"/>
+        <dimension name="Weight" xvalue="400"/>
+        <dimension name="Width" xvalue="100"/>
+        <dimension name="VANG" xvalue="0"/>
+        <dimension name="VROT" xvalue="0"/>
+        <dimension name="XOPQ" xvalue="96"/>
+        <dimension name="XTRA" xvalue="463"/>
+        <dimension name="XTSP" xvalue="0"/>
+        <dimension name="YOPE" xvalue="79"/>
+        <dimension name="YOPQ" xvalue="79"/>
+        <dimension name="YTAS" xvalue="728"/>
+        <dimension name="YTDE" xvalue="-310"/>
+        <dimension name="YTFI" xvalue="743"/>
+        <dimension name="YTLC" xvalue="526"/>
+        <dimension name="YTOS" xvalue="30"/>
+        <dimension name="YTUC" xvalue="728"/>
+        <dimension name="YTTL" xvalue="25"/>
+        <dimension name="XTTW" xvalue="5"/>
+        <dimension name="XTUR" xvalue="463"/>
+        <dimension name="WDSP" xvalue="246"/>
+        <dimension name="BARS" xvalue="1000"/>
+        <dimension name="XTUD" xvalue="463"/>
+        <dimension name="STUI" xvalue="92"/>
+        <dimension name="STUO" xvalue="92"/>
+        <dimension name="STLI" xvalue="32"/>
+        <dimension name="STLO" xvalue="32"/>
+      </location>
+    </source>
+    <source filename="RobotoAvar2-YTFI270.ufo" familyname="RobotoAvar2" stylename="YTFI270">
+      <location>
+        <dimension name="Optical size" xvalue="0"/>
+        <dimension name="Slant" xvalue="0"/>
+        <dimension name="Weight" xvalue="400"/>
+        <dimension name="Width" xvalue="100"/>
+        <dimension name="VANG" xvalue="0"/>
+        <dimension name="VROT" xvalue="0"/>
+        <dimension name="XOPQ" xvalue="96"/>
+        <dimension name="XTRA" xvalue="463"/>
+        <dimension name="XTSP" xvalue="0"/>
+        <dimension name="YOPE" xvalue="79"/>
+        <dimension name="YOPQ" xvalue="79"/>
+        <dimension name="YTAS" xvalue="728"/>
+        <dimension name="YTDE" xvalue="-208"/>
+        <dimension name="YTFI" xvalue="270"/>
+        <dimension name="YTLC" xvalue="526"/>
+        <dimension name="YTOS" xvalue="30"/>
+        <dimension name="YTUC" xvalue="728"/>
+        <dimension name="YTTL" xvalue="25"/>
+        <dimension name="XTTW" xvalue="5"/>
+        <dimension name="XTUR" xvalue="463"/>
+        <dimension name="WDSP" xvalue="246"/>
+        <dimension name="BARS" xvalue="1000"/>
+        <dimension name="XTUD" xvalue="463"/>
+        <dimension name="STUI" xvalue="92"/>
+        <dimension name="STUO" xvalue="92"/>
+        <dimension name="STLI" xvalue="32"/>
+        <dimension name="STLO" xvalue="32"/>
+      </location>
+    </source>
+    <source filename="RobotoAvar2-YTFI793.ufo" familyname="RobotoAvar2" stylename="YTFI793">
+      <location>
+        <dimension name="Optical size" xvalue="0"/>
+        <dimension name="Slant" xvalue="0"/>
+        <dimension name="Weight" xvalue="400"/>
+        <dimension name="Width" xvalue="100"/>
+        <dimension name="VANG" xvalue="0"/>
+        <dimension name="VROT" xvalue="0"/>
+        <dimension name="XOPQ" xvalue="96"/>
+        <dimension name="XTRA" xvalue="463"/>
+        <dimension name="XTSP" xvalue="0"/>
+        <dimension name="YOPE" xvalue="79"/>
+        <dimension name="YOPQ" xvalue="79"/>
+        <dimension name="YTAS" xvalue="728"/>
+        <dimension name="YTDE" xvalue="-208"/>
+        <dimension name="YTFI" xvalue="793"/>
+        <dimension name="YTLC" xvalue="526"/>
+        <dimension name="YTOS" xvalue="30"/>
+        <dimension name="YTUC" xvalue="728"/>
+        <dimension name="YTTL" xvalue="25"/>
+        <dimension name="XTTW" xvalue="5"/>
+        <dimension name="XTUR" xvalue="463"/>
+        <dimension name="WDSP" xvalue="246"/>
+        <dimension name="BARS" xvalue="1000"/>
+        <dimension name="XTUD" xvalue="463"/>
+        <dimension name="STUI" xvalue="92"/>
+        <dimension name="STUO" xvalue="92"/>
+        <dimension name="STLI" xvalue="32"/>
+        <dimension name="STLO" xvalue="32"/>
+      </location>
+    </source>
+    <source filename="RobotoAvar2-YTLC426.ufo" familyname="RobotoAvar2" stylename="YTLC426">
+      <location>
+        <dimension name="Optical size" xvalue="0"/>
+        <dimension name="Slant" xvalue="0"/>
+        <dimension name="Weight" xvalue="400"/>
+        <dimension name="Width" xvalue="100"/>
+        <dimension name="VANG" xvalue="0"/>
+        <dimension name="VROT" xvalue="0"/>
+        <dimension name="XOPQ" xvalue="96"/>
+        <dimension name="XTRA" xvalue="463"/>
+        <dimension name="XTSP" xvalue="0"/>
+        <dimension name="YOPE" xvalue="79"/>
+        <dimension name="YOPQ" xvalue="79"/>
+        <dimension name="YTAS" xvalue="728"/>
+        <dimension name="YTDE" xvalue="-208"/>
+        <dimension name="YTFI" xvalue="743"/>
+        <dimension name="YTLC" xvalue="426"/>
+        <dimension name="YTOS" xvalue="30"/>
+        <dimension name="YTUC" xvalue="728"/>
+        <dimension name="YTTL" xvalue="25"/>
+        <dimension name="XTTW" xvalue="5"/>
+        <dimension name="XTUR" xvalue="463"/>
+        <dimension name="WDSP" xvalue="246"/>
+        <dimension name="BARS" xvalue="1000"/>
+        <dimension name="XTUD" xvalue="463"/>
+        <dimension name="STUI" xvalue="92"/>
+        <dimension name="STUO" xvalue="92"/>
+        <dimension name="STLI" xvalue="32"/>
+        <dimension name="STLO" xvalue="32"/>
+      </location>
+    </source>
+    <source filename="RobotoAvar2-YTLC584.ufo" familyname="RobotoAvar2" stylename="YTLC584">
+      <location>
+        <dimension name="Optical size" xvalue="0"/>
+        <dimension name="Slant" xvalue="0"/>
+        <dimension name="Weight" xvalue="400"/>
+        <dimension name="Width" xvalue="100"/>
+        <dimension name="VANG" xvalue="0"/>
+        <dimension name="VROT" xvalue="0"/>
+        <dimension name="XOPQ" xvalue="96"/>
+        <dimension name="XTRA" xvalue="463"/>
+        <dimension name="XTSP" xvalue="0"/>
+        <dimension name="YOPE" xvalue="79"/>
+        <dimension name="YOPQ" xvalue="79"/>
+        <dimension name="YTAS" xvalue="728"/>
+        <dimension name="YTDE" xvalue="-208"/>
+        <dimension name="YTFI" xvalue="743"/>
+        <dimension name="YTLC" xvalue="584"/>
+        <dimension name="YTOS" xvalue="30"/>
+        <dimension name="YTUC" xvalue="728"/>
+        <dimension name="YTTL" xvalue="25"/>
+        <dimension name="XTTW" xvalue="5"/>
+        <dimension name="XTUR" xvalue="463"/>
+        <dimension name="WDSP" xvalue="246"/>
+        <dimension name="BARS" xvalue="1000"/>
+        <dimension name="XTUD" xvalue="463"/>
+        <dimension name="STUI" xvalue="92"/>
+        <dimension name="STUO" xvalue="92"/>
+        <dimension name="STLI" xvalue="32"/>
+        <dimension name="STLO" xvalue="32"/>
+      </location>
+    </source>
+    <source filename="RobotoAvar2-YTOS0.ufo" familyname="RobotoAvar2" stylename="YTOS0">
+      <location>
+        <dimension name="Optical size" xvalue="0"/>
+        <dimension name="Slant" xvalue="0"/>
+        <dimension name="Weight" xvalue="400"/>
+        <dimension name="Width" xvalue="100"/>
+        <dimension name="VANG" xvalue="0"/>
+        <dimension name="VROT" xvalue="0"/>
+        <dimension name="XOPQ" xvalue="96"/>
+        <dimension name="XTRA" xvalue="463"/>
+        <dimension name="XTSP" xvalue="0"/>
+        <dimension name="YOPE" xvalue="79"/>
+        <dimension name="YOPQ" xvalue="79"/>
+        <dimension name="YTAS" xvalue="728"/>
+        <dimension name="YTDE" xvalue="-208"/>
+        <dimension name="YTFI" xvalue="743"/>
+        <dimension name="YTLC" xvalue="526"/>
+        <dimension name="YTOS" xvalue="0"/>
+        <dimension name="YTUC" xvalue="728"/>
+        <dimension name="YTTL" xvalue="25"/>
+        <dimension name="XTTW" xvalue="5"/>
+        <dimension name="XTUR" xvalue="463"/>
+        <dimension name="WDSP" xvalue="246"/>
+        <dimension name="BARS" xvalue="1000"/>
+        <dimension name="XTUD" xvalue="463"/>
+        <dimension name="STUI" xvalue="92"/>
+        <dimension name="STUO" xvalue="92"/>
+        <dimension name="STLI" xvalue="32"/>
+        <dimension name="STLO" xvalue="32"/>
+      </location>
+    </source>
+    <source filename="RobotoAvar2-YTOS50.ufo" familyname="RobotoAvar2" stylename="YTOS50">
+      <location>
+        <dimension name="Optical size" xvalue="0"/>
+        <dimension name="Slant" xvalue="0"/>
+        <dimension name="Weight" xvalue="400"/>
+        <dimension name="Width" xvalue="100"/>
+        <dimension name="VANG" xvalue="0"/>
+        <dimension name="VROT" xvalue="0"/>
+        <dimension name="XOPQ" xvalue="96"/>
+        <dimension name="XTRA" xvalue="463"/>
+        <dimension name="XTSP" xvalue="0"/>
+        <dimension name="YOPE" xvalue="79"/>
+        <dimension name="YOPQ" xvalue="79"/>
+        <dimension name="YTAS" xvalue="728"/>
+        <dimension name="YTDE" xvalue="-208"/>
+        <dimension name="YTFI" xvalue="743"/>
+        <dimension name="YTLC" xvalue="526"/>
+        <dimension name="YTOS" xvalue="50"/>
+        <dimension name="YTUC" xvalue="728"/>
+        <dimension name="YTTL" xvalue="25"/>
+        <dimension name="XTTW" xvalue="5"/>
+        <dimension name="XTUR" xvalue="463"/>
+        <dimension name="WDSP" xvalue="246"/>
+        <dimension name="BARS" xvalue="1000"/>
+        <dimension name="XTUD" xvalue="463"/>
+        <dimension name="STUI" xvalue="92"/>
+        <dimension name="STUO" xvalue="92"/>
+        <dimension name="STLI" xvalue="32"/>
+        <dimension name="STLO" xvalue="32"/>
+      </location>
+    </source>
+    <source filename="RobotoAvar2-YTUC528.ufo" familyname="RobotoAvar2" stylename="YTUC528">
+      <location>
+        <dimension name="Optical size" xvalue="0"/>
+        <dimension name="Slant" xvalue="0"/>
+        <dimension name="Weight" xvalue="400"/>
+        <dimension name="Width" xvalue="100"/>
+        <dimension name="VANG" xvalue="0"/>
+        <dimension name="VROT" xvalue="0"/>
+        <dimension name="XOPQ" xvalue="96"/>
+        <dimension name="XTRA" xvalue="463"/>
+        <dimension name="XTSP" xvalue="0"/>
+        <dimension name="YOPE" xvalue="79"/>
+        <dimension name="YOPQ" xvalue="79"/>
+        <dimension name="YTAS" xvalue="728"/>
+        <dimension name="YTDE" xvalue="-208"/>
+        <dimension name="YTFI" xvalue="743"/>
+        <dimension name="YTLC" xvalue="526"/>
+        <dimension name="YTOS" xvalue="30"/>
+        <dimension name="YTUC" xvalue="528"/>
+        <dimension name="YTTL" xvalue="25"/>
+        <dimension name="XTTW" xvalue="5"/>
+        <dimension name="XTUR" xvalue="463"/>
+        <dimension name="WDSP" xvalue="246"/>
+        <dimension name="BARS" xvalue="1000"/>
+        <dimension name="XTUD" xvalue="463"/>
+        <dimension name="STUI" xvalue="92"/>
+        <dimension name="STUO" xvalue="92"/>
+        <dimension name="STLI" xvalue="32"/>
+        <dimension name="STLO" xvalue="32"/>
+      </location>
+    </source>
+    <source filename="RobotoAvar2-YTUC778.ufo" familyname="RobotoAvar2" stylename="YTUC778">
+      <location>
+        <dimension name="Optical size" xvalue="0"/>
+        <dimension name="Slant" xvalue="0"/>
+        <dimension name="Weight" xvalue="400"/>
+        <dimension name="Width" xvalue="100"/>
+        <dimension name="VANG" xvalue="0"/>
+        <dimension name="VROT" xvalue="0"/>
+        <dimension name="XOPQ" xvalue="96"/>
+        <dimension name="XTRA" xvalue="463"/>
+        <dimension name="XTSP" xvalue="0"/>
+        <dimension name="YOPE" xvalue="79"/>
+        <dimension name="YOPQ" xvalue="79"/>
+        <dimension name="YTAS" xvalue="728"/>
+        <dimension name="YTDE" xvalue="-208"/>
+        <dimension name="YTFI" xvalue="743"/>
+        <dimension name="YTLC" xvalue="526"/>
+        <dimension name="YTOS" xvalue="30"/>
+        <dimension name="YTUC" xvalue="778"/>
+        <dimension name="YTTL" xvalue="25"/>
+        <dimension name="XTTW" xvalue="5"/>
+        <dimension name="XTUR" xvalue="463"/>
+        <dimension name="WDSP" xvalue="246"/>
+        <dimension name="BARS" xvalue="1000"/>
+        <dimension name="XTUD" xvalue="463"/>
+        <dimension name="STUI" xvalue="92"/>
+        <dimension name="STUO" xvalue="92"/>
+        <dimension name="STLI" xvalue="32"/>
+        <dimension name="STLO" xvalue="32"/>
+      </location>
+    </source>
+    <source filename="RobotoAvar2-YTTL50.ufo" familyname="RobotoAvar2" stylename="YTTL50">
+      <location>
+        <dimension name="Optical size" xvalue="0"/>
+        <dimension name="Slant" xvalue="0"/>
+        <dimension name="Weight" xvalue="400"/>
+        <dimension name="Width" xvalue="100"/>
+        <dimension name="VANG" xvalue="0"/>
+        <dimension name="VROT" xvalue="0"/>
+        <dimension name="XOPQ" xvalue="96"/>
+        <dimension name="XTRA" xvalue="463"/>
+        <dimension name="XTSP" xvalue="0"/>
+        <dimension name="YOPE" xvalue="79"/>
+        <dimension name="YOPQ" xvalue="79"/>
+        <dimension name="YTAS" xvalue="728"/>
+        <dimension name="YTDE" xvalue="-208"/>
+        <dimension name="YTFI" xvalue="743"/>
+        <dimension name="YTLC" xvalue="526"/>
+        <dimension name="YTOS" xvalue="30"/>
+        <dimension name="YTUC" xvalue="728"/>
+        <dimension name="YTTL" xvalue="50"/>
+        <dimension name="XTTW" xvalue="5"/>
+        <dimension name="XTUR" xvalue="463"/>
+        <dimension name="WDSP" xvalue="246"/>
+        <dimension name="BARS" xvalue="1000"/>
+        <dimension name="XTUD" xvalue="463"/>
+        <dimension name="STUI" xvalue="92"/>
+        <dimension name="STUO" xvalue="92"/>
+        <dimension name="STLI" xvalue="32"/>
+        <dimension name="STLO" xvalue="32"/>
+      </location>
+    </source>
+    <source filename="RobotoAvar2-YTTL0.ufo" familyname="RobotoAvar2" stylename="YTTL0">
+      <location>
+        <dimension name="Optical size" xvalue="0"/>
+        <dimension name="Slant" xvalue="0"/>
+        <dimension name="Weight" xvalue="400"/>
+        <dimension name="Width" xvalue="100"/>
+        <dimension name="VANG" xvalue="0"/>
+        <dimension name="VROT" xvalue="0"/>
+        <dimension name="XOPQ" xvalue="96"/>
+        <dimension name="XTRA" xvalue="463"/>
+        <dimension name="XTSP" xvalue="0"/>
+        <dimension name="YOPE" xvalue="79"/>
+        <dimension name="YOPQ" xvalue="79"/>
+        <dimension name="YTAS" xvalue="728"/>
+        <dimension name="YTDE" xvalue="-208"/>
+        <dimension name="YTFI" xvalue="743"/>
+        <dimension name="YTLC" xvalue="526"/>
+        <dimension name="YTOS" xvalue="30"/>
+        <dimension name="YTUC" xvalue="728"/>
+        <dimension name="YTTL" xvalue="0"/>
+        <dimension name="XTTW" xvalue="5"/>
+        <dimension name="XTUR" xvalue="463"/>
+        <dimension name="WDSP" xvalue="246"/>
+        <dimension name="BARS" xvalue="1000"/>
+        <dimension name="XTUD" xvalue="463"/>
+        <dimension name="STUI" xvalue="92"/>
+        <dimension name="STUO" xvalue="92"/>
+        <dimension name="STLI" xvalue="32"/>
+        <dimension name="STLO" xvalue="32"/>
+      </location>
+    </source>
+    <source filename="RobotoAvar2-XTTW30.ufo" familyname="RobotoAvar2" stylename="XTTW30">
+      <location>
+        <dimension name="Optical size" xvalue="0"/>
+        <dimension name="Slant" xvalue="0"/>
+        <dimension name="Weight" xvalue="400"/>
+        <dimension name="Width" xvalue="100"/>
+        <dimension name="VANG" xvalue="0"/>
+        <dimension name="VROT" xvalue="0"/>
+        <dimension name="XOPQ" xvalue="96"/>
+        <dimension name="XTRA" xvalue="463"/>
+        <dimension name="XTSP" xvalue="0"/>
+        <dimension name="YOPE" xvalue="79"/>
+        <dimension name="YOPQ" xvalue="79"/>
+        <dimension name="YTAS" xvalue="728"/>
+        <dimension name="YTDE" xvalue="-208"/>
+        <dimension name="YTFI" xvalue="743"/>
+        <dimension name="YTLC" xvalue="526"/>
+        <dimension name="YTOS" xvalue="30"/>
+        <dimension name="YTUC" xvalue="728"/>
+        <dimension name="YTTL" xvalue="25"/>
+        <dimension name="XTTW" xvalue="30"/>
+        <dimension name="XTUR" xvalue="463"/>
+        <dimension name="WDSP" xvalue="246"/>
+        <dimension name="BARS" xvalue="1000"/>
+        <dimension name="XTUD" xvalue="463"/>
+        <dimension name="STUI" xvalue="92"/>
+        <dimension name="STUO" xvalue="92"/>
+        <dimension name="STLI" xvalue="32"/>
+        <dimension name="STLO" xvalue="32"/>
+      </location>
+    </source>
+    <source filename="RobotoAvar2-XTTW0.ufo" familyname="RobotoAvar2" stylename="XTTW0">
+      <location>
+        <dimension name="Optical size" xvalue="0"/>
+        <dimension name="Slant" xvalue="0"/>
+        <dimension name="Weight" xvalue="400"/>
+        <dimension name="Width" xvalue="100"/>
+        <dimension name="VANG" xvalue="0"/>
+        <dimension name="VROT" xvalue="0"/>
+        <dimension name="XOPQ" xvalue="96"/>
+        <dimension name="XTRA" xvalue="463"/>
+        <dimension name="XTSP" xvalue="0"/>
+        <dimension name="YOPE" xvalue="79"/>
+        <dimension name="YOPQ" xvalue="79"/>
+        <dimension name="YTAS" xvalue="728"/>
+        <dimension name="YTDE" xvalue="-208"/>
+        <dimension name="YTFI" xvalue="743"/>
+        <dimension name="YTLC" xvalue="526"/>
+        <dimension name="YTOS" xvalue="30"/>
+        <dimension name="YTUC" xvalue="728"/>
+        <dimension name="YTTL" xvalue="25"/>
+        <dimension name="XTTW" xvalue="0"/>
+        <dimension name="XTUR" xvalue="463"/>
+        <dimension name="WDSP" xvalue="246"/>
+        <dimension name="BARS" xvalue="1000"/>
+        <dimension name="XTUD" xvalue="463"/>
+        <dimension name="STUI" xvalue="92"/>
+        <dimension name="STUO" xvalue="92"/>
+        <dimension name="STLI" xvalue="32"/>
+        <dimension name="STLO" xvalue="32"/>
+      </location>
+    </source>
+    <source filename="RobotoAvar2-XTUR741.ufo" familyname="RobotoAvar2" stylename="XTUR741" layer="foreground">
+      <location>
+        <dimension name="Optical size" xvalue="0"/>
+        <dimension name="Slant" xvalue="0"/>
+        <dimension name="Weight" xvalue="400"/>
+        <dimension name="Width" xvalue="100"/>
+        <dimension name="VANG" xvalue="0"/>
+        <dimension name="VROT" xvalue="0"/>
+        <dimension name="XOPQ" xvalue="96"/>
+        <dimension name="XTRA" xvalue="463"/>
+        <dimension name="XTSP" xvalue="0"/>
+        <dimension name="YOPE" xvalue="79"/>
+        <dimension name="YOPQ" xvalue="79"/>
+        <dimension name="YTAS" xvalue="728"/>
+        <dimension name="YTDE" xvalue="-208"/>
+        <dimension name="YTFI" xvalue="743"/>
+        <dimension name="YTLC" xvalue="526"/>
+        <dimension name="YTOS" xvalue="30"/>
+        <dimension name="YTUC" xvalue="728"/>
+        <dimension name="YTTL" xvalue="25"/>
+        <dimension name="XTTW" xvalue="5"/>
+        <dimension name="XTUR" xvalue="741"/>
+        <dimension name="WDSP" xvalue="246"/>
+        <dimension name="BARS" xvalue="1000"/>
+        <dimension name="XTUD" xvalue="463"/>
+        <dimension name="STUI" xvalue="92"/>
+        <dimension name="STUO" xvalue="92"/>
+        <dimension name="STLI" xvalue="32"/>
+        <dimension name="STLO" xvalue="32"/>
+      </location>
+    </source>
+    <source filename="RobotoAvar2-WDSP0.ufo" familyname="RobotoAvar2" stylename="WDSP0" layer="foreground">
+      <location>
+        <dimension name="Optical size" xvalue="0"/>
+        <dimension name="Slant" xvalue="0"/>
+        <dimension name="Weight" xvalue="400"/>
+        <dimension name="Width" xvalue="100"/>
+        <dimension name="VANG" xvalue="0"/>
+        <dimension name="VROT" xvalue="0"/>
+        <dimension name="XOPQ" xvalue="96"/>
+        <dimension name="XTRA" xvalue="463"/>
+        <dimension name="XTSP" xvalue="0"/>
+        <dimension name="YOPE" xvalue="79"/>
+        <dimension name="YOPQ" xvalue="79"/>
+        <dimension name="YTAS" xvalue="728"/>
+        <dimension name="YTDE" xvalue="-208"/>
+        <dimension name="YTFI" xvalue="743"/>
+        <dimension name="YTLC" xvalue="526"/>
+        <dimension name="YTOS" xvalue="30"/>
+        <dimension name="YTUC" xvalue="728"/>
+        <dimension name="YTTL" xvalue="25"/>
+        <dimension name="XTTW" xvalue="5"/>
+        <dimension name="XTUR" xvalue="463"/>
+        <dimension name="WDSP" xvalue="0"/>
+        <dimension name="BARS" xvalue="1000"/>
+        <dimension name="XTUD" xvalue="463"/>
+        <dimension name="STUI" xvalue="92"/>
+        <dimension name="STUO" xvalue="92"/>
+        <dimension name="STLI" xvalue="32"/>
+        <dimension name="STLO" xvalue="32"/>
+      </location>
+    </source>
+    <source filename="RobotoAvar2-WDSP1000.ufo" familyname="RobotoAvar2" stylename="WDSP1000" layer="foreground">
+      <location>
+        <dimension name="Optical size" xvalue="0"/>
+        <dimension name="Slant" xvalue="0"/>
+        <dimension name="Weight" xvalue="400"/>
+        <dimension name="Width" xvalue="100"/>
+        <dimension name="VANG" xvalue="0"/>
+        <dimension name="VROT" xvalue="0"/>
+        <dimension name="XOPQ" xvalue="96"/>
+        <dimension name="XTRA" xvalue="463"/>
+        <dimension name="XTSP" xvalue="0"/>
+        <dimension name="YOPE" xvalue="79"/>
+        <dimension name="YOPQ" xvalue="79"/>
+        <dimension name="YTAS" xvalue="728"/>
+        <dimension name="YTDE" xvalue="-208"/>
+        <dimension name="YTFI" xvalue="743"/>
+        <dimension name="YTLC" xvalue="526"/>
+        <dimension name="YTOS" xvalue="30"/>
+        <dimension name="YTUC" xvalue="728"/>
+        <dimension name="YTTL" xvalue="25"/>
+        <dimension name="XTTW" xvalue="5"/>
+        <dimension name="XTUR" xvalue="463"/>
+        <dimension name="WDSP" xvalue="1000"/>
+        <dimension name="BARS" xvalue="1000"/>
+        <dimension name="XTUD" xvalue="463"/>
+        <dimension name="STUI" xvalue="92"/>
+        <dimension name="STUO" xvalue="92"/>
+        <dimension name="STLI" xvalue="32"/>
+        <dimension name="STLO" xvalue="32"/>
+      </location>
+    </source>
+    <source filename="RobotoAvar2-BARS0.ufo" familyname="RobotoAvar2" stylename="BARS0" layer="foreground">
+      <location>
+        <dimension name="Optical size" xvalue="0"/>
+        <dimension name="Slant" xvalue="0"/>
+        <dimension name="Weight" xvalue="400"/>
+        <dimension name="Width" xvalue="100"/>
+        <dimension name="VANG" xvalue="0"/>
+        <dimension name="VROT" xvalue="0"/>
+        <dimension name="XOPQ" xvalue="96"/>
+        <dimension name="XTRA" xvalue="463"/>
+        <dimension name="XTSP" xvalue="0"/>
+        <dimension name="YOPE" xvalue="79"/>
+        <dimension name="YOPQ" xvalue="79"/>
+        <dimension name="YTAS" xvalue="728"/>
+        <dimension name="YTDE" xvalue="-208"/>
+        <dimension name="YTFI" xvalue="743"/>
+        <dimension name="YTLC" xvalue="526"/>
+        <dimension name="YTOS" xvalue="30"/>
+        <dimension name="YTUC" xvalue="728"/>
+        <dimension name="YTTL" xvalue="25"/>
+        <dimension name="XTTW" xvalue="5"/>
+        <dimension name="XTUR" xvalue="463"/>
+        <dimension name="WDSP" xvalue="246"/>
+        <dimension name="BARS" xvalue="0"/>
+        <dimension name="XTUD" xvalue="463"/>
+        <dimension name="STUI" xvalue="92"/>
+        <dimension name="STUO" xvalue="92"/>
+        <dimension name="STLI" xvalue="32"/>
+        <dimension name="STLO" xvalue="32"/>
+      </location>
+    </source>
+    <source filename="RobotoAvar2-XTUD741.ufo" familyname="RobotoAvar2" stylename="XTUD741" layer="foreground">
+      <location>
+        <dimension name="Optical size" xvalue="0"/>
+        <dimension name="Slant" xvalue="0"/>
+        <dimension name="Weight" xvalue="400"/>
+        <dimension name="Width" xvalue="100"/>
+        <dimension name="VANG" xvalue="0"/>
+        <dimension name="VROT" xvalue="0"/>
+        <dimension name="XOPQ" xvalue="96"/>
+        <dimension name="XTRA" xvalue="463"/>
+        <dimension name="XTSP" xvalue="0"/>
+        <dimension name="YOPE" xvalue="79"/>
+        <dimension name="YOPQ" xvalue="79"/>
+        <dimension name="YTAS" xvalue="728"/>
+        <dimension name="YTDE" xvalue="-208"/>
+        <dimension name="YTFI" xvalue="743"/>
+        <dimension name="YTLC" xvalue="526"/>
+        <dimension name="YTOS" xvalue="30"/>
+        <dimension name="YTUC" xvalue="728"/>
+        <dimension name="YTTL" xvalue="25"/>
+        <dimension name="XTTW" xvalue="5"/>
+        <dimension name="XTUR" xvalue="463"/>
+        <dimension name="WDSP" xvalue="246"/>
+        <dimension name="BARS" xvalue="1000"/>
+        <dimension name="XTUD" xvalue="741"/>
+        <dimension name="STUI" xvalue="92"/>
+        <dimension name="STUO" xvalue="92"/>
+        <dimension name="STLI" xvalue="32"/>
+        <dimension name="STLO" xvalue="32"/>
+      </location>
+    </source>
+    <source filename="RobotoAvar2-STLI2.ufo" familyname="RobotoAvar2" stylename="STLI2">
+      <location>
+        <dimension name="Optical size" xvalue="0"/>
+        <dimension name="Slant" xvalue="0"/>
+        <dimension name="Weight" xvalue="400"/>
+        <dimension name="Width" xvalue="100"/>
+        <dimension name="VANG" xvalue="0"/>
+        <dimension name="VROT" xvalue="0"/>
+        <dimension name="XOPQ" xvalue="96"/>
+        <dimension name="XTRA" xvalue="463"/>
+        <dimension name="XTSP" xvalue="0"/>
+        <dimension name="YOPE" xvalue="79"/>
+        <dimension name="YOPQ" xvalue="79"/>
+        <dimension name="YTAS" xvalue="728"/>
+        <dimension name="YTDE" xvalue="-208"/>
+        <dimension name="YTFI" xvalue="743"/>
+        <dimension name="YTLC" xvalue="526"/>
+        <dimension name="YTOS" xvalue="30"/>
+        <dimension name="YTUC" xvalue="728"/>
+        <dimension name="YTTL" xvalue="25"/>
+        <dimension name="XTTW" xvalue="5"/>
+        <dimension name="XTUR" xvalue="463"/>
+        <dimension name="WDSP" xvalue="246"/>
+        <dimension name="BARS" xvalue="1000"/>
+        <dimension name="XTUD" xvalue="463"/>
+        <dimension name="STUI" xvalue="92"/>
+        <dimension name="STUO" xvalue="92"/>
+        <dimension name="STLI" xvalue="2"/>
+        <dimension name="STLO" xvalue="32"/>
+      </location>
+    </source>
+    <source filename="RobotoAvar2-STLI412.ufo" familyname="RobotoAvar2" stylename="STLI412">
+      <location>
+        <dimension name="Optical size" xvalue="0"/>
+        <dimension name="Slant" xvalue="0"/>
+        <dimension name="Weight" xvalue="400"/>
+        <dimension name="Width" xvalue="100"/>
+        <dimension name="VANG" xvalue="0"/>
+        <dimension name="VROT" xvalue="0"/>
+        <dimension name="XOPQ" xvalue="96"/>
+        <dimension name="XTRA" xvalue="463"/>
+        <dimension name="XTSP" xvalue="0"/>
+        <dimension name="YOPE" xvalue="79"/>
+        <dimension name="YOPQ" xvalue="79"/>
+        <dimension name="YTAS" xvalue="728"/>
+        <dimension name="YTDE" xvalue="-208"/>
+        <dimension name="YTFI" xvalue="743"/>
+        <dimension name="YTLC" xvalue="526"/>
+        <dimension name="YTOS" xvalue="30"/>
+        <dimension name="YTUC" xvalue="728"/>
+        <dimension name="YTTL" xvalue="25"/>
+        <dimension name="XTTW" xvalue="5"/>
+        <dimension name="XTUR" xvalue="463"/>
+        <dimension name="WDSP" xvalue="246"/>
+        <dimension name="BARS" xvalue="1000"/>
+        <dimension name="XTUD" xvalue="463"/>
+        <dimension name="STUI" xvalue="92"/>
+        <dimension name="STUO" xvalue="92"/>
+        <dimension name="STLI" xvalue="412"/>
+        <dimension name="STLO" xvalue="32"/>
+      </location>
+    </source>
+    <source filename="RobotoAvar2-STLO2.ufo" familyname="RobotoAvar2" stylename="STLO2">
+      <location>
+        <dimension name="Optical size" xvalue="0"/>
+        <dimension name="Slant" xvalue="0"/>
+        <dimension name="Weight" xvalue="400"/>
+        <dimension name="Width" xvalue="100"/>
+        <dimension name="VANG" xvalue="0"/>
+        <dimension name="VROT" xvalue="0"/>
+        <dimension name="XOPQ" xvalue="96"/>
+        <dimension name="XTRA" xvalue="463"/>
+        <dimension name="XTSP" xvalue="0"/>
+        <dimension name="YOPE" xvalue="79"/>
+        <dimension name="YOPQ" xvalue="79"/>
+        <dimension name="YTAS" xvalue="728"/>
+        <dimension name="YTDE" xvalue="-208"/>
+        <dimension name="YTFI" xvalue="743"/>
+        <dimension name="YTLC" xvalue="526"/>
+        <dimension name="YTOS" xvalue="30"/>
+        <dimension name="YTUC" xvalue="728"/>
+        <dimension name="YTTL" xvalue="25"/>
+        <dimension name="XTTW" xvalue="5"/>
+        <dimension name="XTUR" xvalue="463"/>
+        <dimension name="WDSP" xvalue="246"/>
+        <dimension name="BARS" xvalue="1000"/>
+        <dimension name="XTUD" xvalue="463"/>
+        <dimension name="STUI" xvalue="92"/>
+        <dimension name="STUO" xvalue="92"/>
+        <dimension name="STLI" xvalue="32"/>
+        <dimension name="STLO" xvalue="2"/>
+      </location>
+    </source>
+    <source filename="RobotoAvar2-STLO426.ufo" familyname="RobotoAvar2" stylename="STLO426">
+      <location>
+        <dimension name="Optical size" xvalue="0"/>
+        <dimension name="Slant" xvalue="0"/>
+        <dimension name="Weight" xvalue="400"/>
+        <dimension name="Width" xvalue="100"/>
+        <dimension name="VANG" xvalue="0"/>
+        <dimension name="VROT" xvalue="0"/>
+        <dimension name="XOPQ" xvalue="96"/>
+        <dimension name="XTRA" xvalue="463"/>
+        <dimension name="XTSP" xvalue="0"/>
+        <dimension name="YOPE" xvalue="79"/>
+        <dimension name="YOPQ" xvalue="79"/>
+        <dimension name="YTAS" xvalue="728"/>
+        <dimension name="YTDE" xvalue="-208"/>
+        <dimension name="YTFI" xvalue="743"/>
+        <dimension name="YTLC" xvalue="526"/>
+        <dimension name="YTOS" xvalue="30"/>
+        <dimension name="YTUC" xvalue="728"/>
+        <dimension name="YTTL" xvalue="25"/>
+        <dimension name="XTTW" xvalue="5"/>
+        <dimension name="XTUR" xvalue="463"/>
+        <dimension name="WDSP" xvalue="246"/>
+        <dimension name="BARS" xvalue="1000"/>
+        <dimension name="XTUD" xvalue="463"/>
+        <dimension name="STUI" xvalue="92"/>
+        <dimension name="STUO" xvalue="92"/>
+        <dimension name="STLI" xvalue="32"/>
+        <dimension name="STLO" xvalue="426"/>
+      </location>
+    </source>
+    <source filename="RobotoAvar2-STUI2.ufo" familyname="RobotoAvar2" stylename="STUI2">
+      <location>
+        <dimension name="Optical size" xvalue="0"/>
+        <dimension name="Slant" xvalue="0"/>
+        <dimension name="Weight" xvalue="400"/>
+        <dimension name="Width" xvalue="100"/>
+        <dimension name="VANG" xvalue="0"/>
+        <dimension name="VROT" xvalue="0"/>
+        <dimension name="XOPQ" xvalue="96"/>
+        <dimension name="XTRA" xvalue="463"/>
+        <dimension name="XTSP" xvalue="0"/>
+        <dimension name="YOPE" xvalue="79"/>
+        <dimension name="YOPQ" xvalue="79"/>
+        <dimension name="YTAS" xvalue="728"/>
+        <dimension name="YTDE" xvalue="-208"/>
+        <dimension name="YTFI" xvalue="743"/>
+        <dimension name="YTLC" xvalue="526"/>
+        <dimension name="YTOS" xvalue="30"/>
+        <dimension name="YTUC" xvalue="728"/>
+        <dimension name="YTTL" xvalue="25"/>
+        <dimension name="XTTW" xvalue="5"/>
+        <dimension name="XTUR" xvalue="463"/>
+        <dimension name="WDSP" xvalue="246"/>
+        <dimension name="BARS" xvalue="1000"/>
+        <dimension name="XTUD" xvalue="463"/>
+        <dimension name="STUI" xvalue="2"/>
+        <dimension name="STUO" xvalue="92"/>
+        <dimension name="STLI" xvalue="32"/>
+        <dimension name="STLO" xvalue="32"/>
+      </location>
+    </source>
+    <source filename="RobotoAvar2-STUI736.ufo" familyname="RobotoAvar2" stylename="STUI736">
+      <location>
+        <dimension name="Optical size" xvalue="0"/>
+        <dimension name="Slant" xvalue="0"/>
+        <dimension name="Weight" xvalue="400"/>
+        <dimension name="Width" xvalue="100"/>
+        <dimension name="VANG" xvalue="0"/>
+        <dimension name="VROT" xvalue="0"/>
+        <dimension name="XOPQ" xvalue="96"/>
+        <dimension name="XTRA" xvalue="463"/>
+        <dimension name="XTSP" xvalue="0"/>
+        <dimension name="YOPE" xvalue="79"/>
+        <dimension name="YOPQ" xvalue="79"/>
+        <dimension name="YTAS" xvalue="728"/>
+        <dimension name="YTDE" xvalue="-208"/>
+        <dimension name="YTFI" xvalue="743"/>
+        <dimension name="YTLC" xvalue="526"/>
+        <dimension name="YTOS" xvalue="30"/>
+        <dimension name="YTUC" xvalue="728"/>
+        <dimension name="YTTL" xvalue="25"/>
+        <dimension name="XTTW" xvalue="5"/>
+        <dimension name="XTUR" xvalue="463"/>
+        <dimension name="WDSP" xvalue="246"/>
+        <dimension name="BARS" xvalue="1000"/>
+        <dimension name="XTUD" xvalue="463"/>
+        <dimension name="STUI" xvalue="736"/>
+        <dimension name="STUO" xvalue="92"/>
+        <dimension name="STLI" xvalue="32"/>
+        <dimension name="STLO" xvalue="32"/>
+      </location>
+    </source>
+    <source filename="RobotoAvar2-STUO2.ufo" familyname="RobotoAvar2" stylename="STUO2">
+      <location>
+        <dimension name="Optical size" xvalue="0"/>
+        <dimension name="Slant" xvalue="0"/>
+        <dimension name="Weight" xvalue="400"/>
+        <dimension name="Width" xvalue="100"/>
+        <dimension name="VANG" xvalue="0"/>
+        <dimension name="VROT" xvalue="0"/>
+        <dimension name="XOPQ" xvalue="96"/>
+        <dimension name="XTRA" xvalue="463"/>
+        <dimension name="XTSP" xvalue="0"/>
+        <dimension name="YOPE" xvalue="79"/>
+        <dimension name="YOPQ" xvalue="79"/>
+        <dimension name="YTAS" xvalue="728"/>
+        <dimension name="YTDE" xvalue="-208"/>
+        <dimension name="YTFI" xvalue="743"/>
+        <dimension name="YTLC" xvalue="526"/>
+        <dimension name="YTOS" xvalue="30"/>
+        <dimension name="YTUC" xvalue="728"/>
+        <dimension name="YTTL" xvalue="25"/>
+        <dimension name="XTTW" xvalue="5"/>
+        <dimension name="XTUR" xvalue="463"/>
+        <dimension name="WDSP" xvalue="246"/>
+        <dimension name="BARS" xvalue="1000"/>
+        <dimension name="XTUD" xvalue="463"/>
+        <dimension name="STUI" xvalue="92"/>
+        <dimension name="STUO" xvalue="2"/>
+        <dimension name="STLI" xvalue="32"/>
+        <dimension name="STLO" xvalue="32"/>
+      </location>
+    </source>
+    <source filename="RobotoAvar2-STUO722.ufo" familyname="RobotoAvar2" stylename="STU0722">
+      <location>
+        <dimension name="Optical size" xvalue="0"/>
+        <dimension name="Slant" xvalue="0"/>
+        <dimension name="Weight" xvalue="400"/>
+        <dimension name="Width" xvalue="100"/>
+        <dimension name="VANG" xvalue="0"/>
+        <dimension name="VROT" xvalue="0"/>
+        <dimension name="XOPQ" xvalue="96"/>
+        <dimension name="XTRA" xvalue="463"/>
+        <dimension name="XTSP" xvalue="0"/>
+        <dimension name="YOPE" xvalue="79"/>
+        <dimension name="YOPQ" xvalue="79"/>
+        <dimension name="YTAS" xvalue="728"/>
+        <dimension name="YTDE" xvalue="-208"/>
+        <dimension name="YTFI" xvalue="743"/>
+        <dimension name="YTLC" xvalue="526"/>
+        <dimension name="YTOS" xvalue="30"/>
+        <dimension name="YTUC" xvalue="728"/>
+        <dimension name="YTTL" xvalue="25"/>
+        <dimension name="XTTW" xvalue="5"/>
+        <dimension name="XTUR" xvalue="463"/>
+        <dimension name="WDSP" xvalue="246"/>
+        <dimension name="BARS" xvalue="1000"/>
+        <dimension name="XTUD" xvalue="463"/>
+        <dimension name="STUI" xvalue="92"/>
+        <dimension name="STUO" xvalue="722"/>
+        <dimension name="STLI" xvalue="32"/>
+        <dimension name="STLO" xvalue="32"/>
+      </location>
+    </source>
+  </sources>
+  
+
+</designspace>

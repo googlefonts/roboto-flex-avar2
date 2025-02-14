@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tonoscomb.case" format="2">
+  <anchor x="18.867016194240087" y="1052" name="_tonos"/>
+  <outline>
+    <contour>
+      <point x="18.867016194240087" y="1052.0" type="line"/>
+      <point x="-105.70521718425118" y="1082.0" type="line"/>
+      <point x="-52.2009110775427" y="1454.0" type="line"/>
+      <point x="133.7948367288351" y="1435.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0,0.1,1,0.2</string>
+    </dict>
+  </lib>
+</glyph>

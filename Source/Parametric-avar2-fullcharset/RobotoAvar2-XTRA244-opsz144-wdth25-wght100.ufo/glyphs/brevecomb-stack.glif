@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="brevecomb-stack" format="2">
+  <anchor x="0.0" y="1350" name="top"/>
+  <anchor x="0.0" y="1052" name="_top"/>
+  <outline>
+    <contour>
+      <point x="0" y="1197" type="qcurve"/>
+      <point x="-51" y="1197"/>
+      <point x="-106" y="1278"/>
+      <point x="-115" y="1385" type="qcurve"/>
+      <point x="-16" y="1437" type="line"/>
+      <point x="-16" y="1380"/>
+      <point x="-15" y="1361"/>
+      <point x="0" y="1361" type="qcurve"/>
+      <point x="15" y="1361"/>
+      <point x="16" y="1380"/>
+      <point x="16" y="1437" type="qcurve"/>
+      <point x="115" y="1385" type="line"/>
+      <point x="106" y="1278"/>
+      <point x="51" y="1197"/>
+    </contour>
+  </outline>
+</glyph>

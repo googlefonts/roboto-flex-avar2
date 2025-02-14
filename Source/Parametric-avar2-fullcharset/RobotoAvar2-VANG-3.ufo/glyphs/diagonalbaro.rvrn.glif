@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="diagonalbaro.rvrn" format="2">
+  <advance width="512"/>
+  <outline>
+    <contour>
+      <point x="-43.81588204460107" y="-118.0" type="line"/>
+      <point x="29.335707643809286" y="89.0" type="line"/>
+      <point x="47.59774654022449" y="84.0" type="line"/>
+      <point x="65.23939647248761" y="129.0" type="line"/>
+      <point x="174.96460099520579" y="77.0" type="line"/>
+      <point x="166.1175721394327" y="55.0" type="line"/>
+      <point x="186.32720325656487" y="51.0" type="line"/>
+      <point x="121.44615685181414" y="-123.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="396.04550050020026" y="1144.0" type="line"/>
+      <point x="567.2027238380493" y="1141.0" type="line"/>
+      <point x="499.3174252396764" y="948.0" type="line"/>
+      <point x="478.0553863432612" y="953.0" type="line"/>
+      <point x="466.8896586181677" y="918.0" type="line"/>
+      <point x="356.3740852125817" y="966.0" type="line"/>
+      <point x="360.58796852333603" y="981.0" type="line"/>
+      <point x="340.27352184763777" y="987.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0,0.1,1,0.2</string>
+    </dict>
+  </lib>
+</glyph>

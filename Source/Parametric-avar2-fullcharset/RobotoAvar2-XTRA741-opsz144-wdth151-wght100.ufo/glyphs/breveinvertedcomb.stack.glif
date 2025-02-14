@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="breveinvertedcomb.stack" format="2">
+  <anchor x="0.0" y="1052" name="_top"/>
+  <anchor x="0.0" y="1535" name="top"/>
+  <outline>
+    <contour>
+      <point x="-472" y="1215" type="qcurve"/>
+      <point x="-572" y="1267" type="line"/>
+      <point x="-483" y="1381"/>
+      <point x="-186" y="1535"/>
+      <point x="0" y="1535" type="qcurve"/>
+      <point x="186" y="1535"/>
+      <point x="483" y="1381"/>
+      <point x="572" y="1267" type="qcurve"/>
+      <point x="472" y="1215" type="line"/>
+      <point x="402" y="1272"/>
+      <point x="158" y="1371"/>
+      <point x="0" y="1371" type="qcurve"/>
+      <point x="-158" y="1371"/>
+      <point x="-402" y="1272"/>
+    </contour>
+  </outline>
+</glyph>

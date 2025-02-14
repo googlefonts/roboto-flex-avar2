@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Ushort" format="2">
+  <advance width="1978"/>
+  <unicode hex="040E"/>
+  <outline>
+    <component base="Ucyr"/>
+    <component base="breve.cyrcomb.case" xOffset="1005"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.0676,0,0.9997,1</string>
+    </dict>
+  </lib>
+</glyph>

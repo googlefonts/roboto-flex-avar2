@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ordmasculine" format="2">
+  <advance width="932"/>
+  <unicode hex="00BA"/>
+  <guideline x="-65.50536408400744" y="1975" angle="0" identifier="Jnt0R9CyOf"/>
+  <outline>
+    <contour>
+      <point x="107.33868620778746" y="1043.0" type="qcurve"/>
+      <point x="103.09365608586108" y="1124.0" type="line"/>
+      <point x="95.02285807627266" y="1278.0"/>
+      <point x="269.59370999894736" y="1477.0"/>
+      <point x="426.59370999894736" y="1477.0" type="qcurve" smooth="yes"/>
+      <point x="584.5937099989474" y="1477.0"/>
+      <point x="779.0228580762727" y="1278.0"/>
+      <point x="787.0936560858611" y="1124.0" type="qcurve"/>
+      <point x="791.3386862077874" y="1043.0" type="line"/>
+      <point x="799.4094842173758" y="889.0"/>
+      <point x="626.7862245154181" y="691.0"/>
+      <point x="469.78622451541816" y="691.0" type="qcurve" smooth="yes"/>
+      <point x="311.78622451541816" y="691.0"/>
+      <point x="115.40948421737589" y="889.0"/>
+    </contour>
+    <contour>
+      <point x="266.0936560858611" y="1124.0" type="qcurve"/>
+      <point x="270.3386862077875" y="1043.0" type="line"/>
+      <point x="275.10779412254425" y="952.0"/>
+      <point x="370.5015431950753" y="830.0"/>
+      <point x="462.5015431950753" y="830.0" type="qcurve" smooth="yes"/>
+      <point x="551.5015431950753" y="830.0"/>
+      <point x="634.1077941225443" y="952.0"/>
+      <point x="629.3386862077874" y="1043.0" type="qcurve"/>
+      <point x="625.0936560858611" y="1124.0" type="line"/>
+      <point x="620.4293637296704" y="1213.0"/>
+      <point x="523.9832068778562" y="1336.0"/>
+      <point x="433.9832068778562" y="1336.0" type="qcurve" smooth="yes"/>
+      <point x="343.9832068778562" y="1336.0"/>
+      <point x="261.4293637296704" y="1213.0"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.guideline.magnetic.Jnt0R9CyOf</key>
+      <integer>5</integer>
+      <key>public.markColor</key>
+      <string>0,0.1,1,0.2</string>
+    </dict>
+  </lib>
+</glyph>

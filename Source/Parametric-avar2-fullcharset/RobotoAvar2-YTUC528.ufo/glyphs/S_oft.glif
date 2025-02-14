@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Soft" format="2">
+  <advance width="1200"/>
+  <unicode hex="042C"/>
+  <outline>
+    <contour>
+      <point x="170" y="0" type="line"/>
+      <point x="170" y="1082" type="line"/>
+      <point x="362" y="1082" type="line"/>
+      <point x="362" y="158" type="line"/>
+      <point x="652" y="158" type="line" smooth="yes"/>
+      <point x="819" y="158"/>
+      <point x="958" y="278"/>
+      <point x="958" y="390" type="qcurve" smooth="yes"/>
+      <point x="958" y="501"/>
+      <point x="819" y="621"/>
+      <point x="652" y="621" type="qcurve" smooth="yes"/>
+      <point x="272" y="621" type="line"/>
+      <point x="272" y="779" type="line"/>
+      <point x="652" y="779" type="line" smooth="yes"/>
+      <point x="892" y="779"/>
+      <point x="1150" y="577"/>
+      <point x="1150" y="390" type="qcurve" smooth="yes"/>
+      <point x="1150" y="202"/>
+      <point x="892" y="0"/>
+      <point x="652" y="0" type="qcurve" smooth="yes"/>
+    </contour>
+  </outline>
+</glyph>

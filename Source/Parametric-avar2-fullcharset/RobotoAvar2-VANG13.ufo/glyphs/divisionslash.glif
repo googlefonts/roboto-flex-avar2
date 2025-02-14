@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="divisionslash" format="2">
+  <advance width="656"/>
+  <unicode hex="2215"/>
+  <outline>
+    <contour>
+      <point x="-251.93505112619314" y="-121.0" type="line"/>
+      <point x="740.613541568865" y="1536.0" type="line"/>
+      <point x="898.613541568865" y="1536.0" type="line"/>
+      <point x="-93.93505112619314" y="-121.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0,0.1,1,0.2</string>
+    </dict>
+  </lib>
+</glyph>
