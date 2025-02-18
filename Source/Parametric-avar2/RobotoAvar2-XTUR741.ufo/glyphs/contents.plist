@@ -4,6 +4,8 @@
   <dict>
     <key>C</key>
     <string>C_.glif</string>
+    <key>C.ital</key>
+    <string>C_.ital.glif</string>
     <key>Cacute</key>
     <string>C_acute.glif</string>
     <key>Ccaron</key>
@@ -22,6 +24,8 @@
     <string>E_sdescendercyr.glif</string>
     <key>G</key>
     <string>G_.glif</string>
+    <key>G.ital</key>
+    <string>G_.ital.glif</string>
     <key>Gbreve</key>
     <string>G_breve.glif</string>
     <key>Gcaron</key>
@@ -34,10 +38,16 @@
     <string>G_dotaccent.glif</string>
     <key>I</key>
     <string>I_.glif</string>
+    <key>I.ital</key>
+    <string>I_.ital.glif</string>
     <key>O</key>
     <string>O_.glif</string>
+    <key>O.ital</key>
+    <string>O_.ital.glif</string>
     <key>OE</key>
     <string>O_E_.glif</string>
+    <key>OE.ital</key>
+    <string>O_E_.ital.glif</string>
     <key>Oacute</key>
     <string>O_acute.glif</string>
     <key>Obarcyr</key>
@@ -110,8 +120,12 @@
     <string>O_tildemacron.glif</string>
     <key>Q</key>
     <string>Q_.glif</string>
+    <key>Q.ital</key>
+    <string>Q_.ital.glif</string>
     <key>S</key>
     <string>S_.glif</string>
+    <key>S.ital</key>
+    <string>S_.ital.glif</string>
     <key>Sacute</key>
     <string>S_acute.glif</string>
     <key>Scaron</key>
