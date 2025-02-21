@@ -11,8 +11,8 @@
     </contour>
     <contour>
       <point x="759" y="361" type="line" smooth="yes"/>
-      <point x="463" y="361"/>
-      <point x="155" y="635"/>
+      <point x="433" y="361"/>
+      <point x="155" y="535"/>
       <point x="155" y="928" type="qcurve" smooth="yes"/>
       <point x="155" y="1456" type="line"/>
       <point x="347" y="1456" type="line"/>
@@ -27,8 +27,8 @@
       <point x="1318" y="1456" type="line"/>
       <point x="1510" y="1456" type="line"/>
       <point x="1510" y="928" type="line" smooth="yes"/>
-      <point x="1510" y="635"/>
-      <point x="1202" y="361"/>
+      <point x="1510" y="535"/>
+      <point x="1232" y="361"/>
       <point x="906" y="361" type="qcurve" smooth="yes"/>
     </contour>
   </outline>
