@@ -1,9 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="zhe" format="2">
   <advance width="1209"/>
-  <unicode hex="0436"/>
-  <anchor x="605" y="1052" name="top"/>
-  <anchor x="1224" y="0" name="cy_descender"/>
   <outline>
     <contour>
       <point x="609" y="0" type="line"/>
@@ -13,23 +10,23 @@
     </contour>
     <contour>
       <point x="1220" y="0" type="line"/>
-      <point x="856" y="508" type="line"/>
-      <point x="789" y="616" type="line"/>
+      <point x="882" y="472" type="line"/>
+      <point x="807" y="591" type="line"/>
       <point x="1229" y="0" type="line"/>
     </contour>
     <contour>
-      <point x="605" y="610" type="line"/>
+      <point x="604" y="610" type="line"/>
       <point x="696" y="610" type="line"/>
       <point x="1001" y="1052" type="line"/>
       <point x="1207" y="1052" type="line"/>
       <point x="795" y="465" type="line"/>
-      <point x="605" y="465" type="line"/>
+      <point x="604" y="465" type="line"/>
     </contour>
     <contour>
       <point x="-11" y="0" type="line"/>
       <point x="-20" y="0" type="line"/>
-      <point x="420" y="616" type="line"/>
-      <point x="353" y="508" type="line"/>
+      <point x="402" y="591" type="line"/>
+      <point x="327" y="472" type="line"/>
     </contour>
     <contour>
       <point x="605" y="610" type="line"/>

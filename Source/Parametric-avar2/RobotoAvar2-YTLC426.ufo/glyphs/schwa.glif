@@ -6,9 +6,9 @@
     <contour>
       <point x="1004" y="442" type="qcurve" smooth="yes"/>
       <point x="1004" y="410" type="line" smooth="yes"/>
-      <point x="1004" y="218"/>
-      <point x="746" y="-30"/>
-      <point x="528" y="-30" type="qcurve" smooth="yes"/>
+      <point x="1004" y="196"/>
+      <point x="742" y="-30"/>
+      <point x="519" y="-30" type="qcurve" smooth="yes"/>
       <point x="313" y="-30"/>
       <point x="81" y="198"/>
       <point x="81" y="392" type="qcurve" smooth="yes"/>
@@ -18,9 +18,9 @@
       <point x="268" y="320" type="line"/>
       <point x="268" y="316" type="line" smooth="yes"/>
       <point x="268" y="235"/>
-      <point x="388" y="122"/>
-      <point x="520" y="122" type="qcurve" smooth="yes"/>
-      <point x="653" y="122"/>
+      <point x="396" y="122"/>
+      <point x="519" y="122" type="qcurve" smooth="yes"/>
+      <point x="667" y="122"/>
       <point x="814" y="274"/>
       <point x="814" y="410" type="qcurve" smooth="yes"/>
       <point x="814" y="442" type="line" smooth="yes"/>
@@ -35,7 +35,7 @@
       <point x="348" y="882"/>
       <point x="498" y="882" type="qcurve" smooth="yes"/>
       <point x="743" y="882"/>
-      <point x="1004" y="634"/>
+      <point x="1004" y="647"/>
     </contour>
   </outline>
 </glyph>
