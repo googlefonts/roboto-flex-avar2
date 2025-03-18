@@ -5,7 +5,7 @@
   <anchor x="573" y="1052" name="top"/>
   <outline>
     <contour>
-      <point x="543" y="-30" type="qcurve"/>
+      <point x="543" y="-30" type="qcurve" smooth="yes"/>
       <point x="327" y="-30"/>
       <point x="99" y="133"/>
       <point x="99" y="286" type="qcurve" smooth="yes"/>
@@ -30,13 +30,13 @@
       <point x="327" y="906"/>
       <point x="327" y="755" type="qcurve" smooth="yes"/>
       <point x="327" y="658"/>
-      <point x="422" y="531"/>
+      <point x="424" y="531"/>
       <point x="509" y="531" type="qcurve" smooth="yes"/>
       <point x="719" y="531" type="line"/>
       <point x="719" y="524" type="line"/>
       <point x="509" y="524" type="line" smooth="yes"/>
-      <point x="403" y="524"/>
-      <point x="289" y="380"/>
+      <point x="390" y="524"/>
+      <point x="289" y="373"/>
       <point x="289" y="296" type="qcurve" smooth="yes"/>
       <point x="289" y="133"/>
       <point x="410" y="-23"/>
