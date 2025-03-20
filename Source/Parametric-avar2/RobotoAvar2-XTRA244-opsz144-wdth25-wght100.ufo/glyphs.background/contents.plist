@@ -2,6 +2,10 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
   <dict>
+    <key>A</key>
+    <string>A_.glif</string>
+    <key>Delta</key>
+    <string>D_elta.glif</string>
     <key>E</key>
     <string>E_.glif</string>
     <key>F</key>
@@ -36,6 +40,8 @@
     <string>four.glif</string>
     <key>four.prop</key>
     <string>four.prop.glif</string>
+    <key>gamma</key>
+    <string>gamma.glif</string>
     <key>germandbls</key>
     <string>germandbls.glif</string>
     <key>ghe.bgr</key>
