@@ -1,10 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Epsilontonos" format="2">
-  <advance width="1440"/>
+  <advance width="1540"/>
   <unicode hex="0388"/>
   <outline>
-    <component base="E" xOffset="278"/>
-    <component base="tonoscomb.case" xOffset="167" yOffset="22"/>
+    <component base="E" xOffset="378"/>
+    <component base="tonoscomb.case" xOffset="267" yOffset="22"/>
   </outline>
   <lib>
     <dict>
