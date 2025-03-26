@@ -3,8 +3,8 @@
   <advance width="1629"/>
   <outline>
     <component base="l"/>
-    <component base="yu-dash" xOffset="249"/>
-    <component base="o" xOffset="467"/>
+    <component base="yu-dash" xOffset="249" yOffset="6"/>
+    <component base="o" xOffset="467" yOffset="6"/>
   </outline>
   <lib>
     <dict>

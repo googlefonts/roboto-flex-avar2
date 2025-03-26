@@ -1,8 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="kaverticalstrokecyr" format="2">
-  <advance width="780"/>
+  <advance width="800"/>
   <unicode hex="049D"/>
-  <guideline x="547" y="651" angle="90.0" identifier="ATaXbxe4rK"/>
   <outline>
     <contour>
       <point x="529" y="852" type="line"/>
@@ -18,16 +17,16 @@
     </contour>
     <contour>
       <point x="600" y="0" type="line"/>
-      <point x="529" y="465" type="line"/>
-      <point x="644" y="591" type="line"/>
-      <point x="805" y="0" type="line"/>
+      <point x="505" y="495" type="line"/>
+      <point x="620" y="621" type="line"/>
+      <point x="825" y="0" type="line"/>
     </contour>
     <contour>
       <point x="447" y="610" type="line"/>
       <point x="529" y="610" type="line"/>
       <point x="579" y="1052" type="line"/>
-      <point x="785" y="1052" type="line"/>
-      <point x="616" y="465" type="line"/>
+      <point x="792" y="1052" type="line"/>
+      <point x="620" y="465" type="line"/>
       <point x="447" y="465" type="line"/>
     </contour>
   </outline>

@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Kaisymbol" format="2">
-  <advance width="1170"/>
+  <advance width="841"/>
   <unicode hex="03CF"/>
   <outline>
     <contour>
@@ -10,19 +10,19 @@
       <point x="177" y="0" type="line"/>
     </contour>
     <contour>
-      <point x="175" y="396" type="line"/>
-      <point x="175" y="636" type="line"/>
-      <point x="917" y="1456" type="line"/>
-      <point x="1149" y="1456" type="line"/>
-      <point x="506" y="757" type="line"/>
+      <point x="174" y="596" type="line"/>
+      <point x="174" y="606" type="line"/>
+      <point x="826" y="1456" type="line"/>
+      <point x="835" y="1456" type="line"/>
+      <point x="416" y="912" type="line"/>
     </contour>
     <contour>
-      <point x="1074" y="133" type="line"/>
-      <point x="520" y="878" type="line"/>
-      <point x="526" y="882" type="line"/>
-      <point x="1182" y="0" type="line"/>
-      <point x="450" y="-590" type="line"/>
-      <point x="336" y="-456" type="line"/>
+      <point x="844" y="31" type="line"/>
+      <point x="409" y="912" type="line"/>
+      <point x="414" y="916" type="line"/>
+      <point x="853" y="29" type="line"/>
+      <point x="288" y="-419" type="line"/>
+      <point x="283" y="-413" type="line"/>
     </contour>
   </outline>
 </glyph>

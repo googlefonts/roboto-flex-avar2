@@ -3,7 +3,7 @@
   <advance width="2605"/>
   <unicode hex="0436"/>
   <anchor x="1300" y="1052" name="top"/>
-  <anchor x="2494" y="0" name="cy_descender"/>
+  <anchor x="2252" y="0" name="cy_descender"/>
   <outline>
     <contour>
       <point x="1590" y="0" type="line"/>
@@ -19,10 +19,10 @@
     </contour>
     <contour>
       <point x="1300" y="610" type="line"/>
-      <point x="1979" y="610" type="line"/>
-      <point x="2284" y="1052" type="line"/>
+      <point x="1707" y="610" type="line"/>
+      <point x="2094" y="1052" type="line"/>
       <point x="2488" y="1052" type="line"/>
-      <point x="2076" y="465" type="line"/>
+      <point x="1976" y="465" type="line"/>
       <point x="1300" y="465" type="line"/>
     </contour>
     <contour>
@@ -34,10 +34,10 @@
     <contour>
       <point x="1300" y="610" type="line"/>
       <point x="1300" y="465" type="line"/>
-      <point x="522" y="465" type="line"/>
+      <point x="622" y="465" type="line"/>
       <point x="110" y="1052" type="line"/>
-      <point x="316" y="1052" type="line"/>
-      <point x="621" y="610" type="line"/>
+      <point x="496" y="1052" type="line"/>
+      <point x="892" y="610" type="line"/>
     </contour>
   </outline>
 </glyph>

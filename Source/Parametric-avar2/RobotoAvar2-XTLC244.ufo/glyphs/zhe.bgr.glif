@@ -1,36 +1,36 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="zhe.bgr" format="2">
-  <advance width="732"/>
+  <advance width="723"/>
   <outline>
     <contour>
       <point x="-16" y="0" type="line"/>
-      <point x="224" y="672" type="line"/>
-      <point x="340" y="544" type="line"/>
-      <point x="202" y="0" type="line"/>
+      <point x="239" y="672" type="line"/>
+      <point x="351" y="544" type="line"/>
+      <point x="197" y="0" type="line"/>
     </contour>
     <contour>
-      <point x="273" y="0" type="line"/>
-      <point x="273" y="1456" type="line"/>
-      <point x="459" y="1456" type="line"/>
-      <point x="459" y="0" type="line"/>
+      <point x="269" y="0" type="line"/>
+      <point x="269" y="1456" type="line"/>
+      <point x="455" y="1456" type="line"/>
+      <point x="455" y="0" type="line"/>
     </contour>
     <contour>
-      <point x="530" y="0" type="line"/>
-      <point x="391" y="544" type="line"/>
-      <point x="507" y="672" type="line"/>
-      <point x="748" y="0" type="line"/>
+      <point x="526" y="0" type="line"/>
+      <point x="372" y="544" type="line"/>
+      <point x="484" y="672" type="line"/>
+      <point x="739" y="0" type="line"/>
     </contour>
     <contour>
-      <point x="12" y="1052" type="line"/>
-      <point x="223" y="1052" type="line"/>
-      <point x="358" y="474" type="line"/>
-      <point x="358" y="258" type="line"/>
+      <point x="8" y="1052" type="line"/>
+      <point x="219" y="1052" type="line"/>
+      <point x="354" y="534" type="line"/>
+      <point x="354" y="258" type="line"/>
     </contour>
     <contour>
-      <point x="719" y="1052" type="line"/>
-      <point x="373" y="258" type="line"/>
-      <point x="373" y="474" type="line"/>
-      <point x="508" y="1052" type="line"/>
+      <point x="715" y="1052" type="line"/>
+      <point x="369" y="258" type="line"/>
+      <point x="369" y="534" type="line"/>
+      <point x="504" y="1052" type="line"/>
     </contour>
   </outline>
 </glyph>
