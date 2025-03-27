@@ -5,18 +5,18 @@
   <anchor x="0" y="1559" name="top"/>
   <outline>
     <contour>
-      <point x="-263" y="1427" type="qcurve" smooth="yes"/>
-      <point x="-263" y="1520"/>
-      <point x="-127" y="1643"/>
-      <point x="0" y="1643" type="qcurve" smooth="yes"/>
-      <point x="127" y="1643"/>
-      <point x="263" y="1520"/>
-      <point x="263" y="1427" type="qcurve" smooth="yes"/>
-      <point x="263" y="1335"/>
-      <point x="127" y="1211"/>
+      <point x="-332" y="1530" type="qcurve" smooth="yes"/>
+      <point x="-332" y="1662"/>
+      <point x="-161" y="1848"/>
+      <point x="0" y="1848" type="qcurve" smooth="yes"/>
+      <point x="160" y="1848"/>
+      <point x="331" y="1662"/>
+      <point x="331" y="1530" type="qcurve" smooth="yes"/>
+      <point x="331" y="1397"/>
+      <point x="160" y="1211"/>
       <point x="0" y="1211" type="qcurve" smooth="yes"/>
-      <point x="-127" y="1211"/>
-      <point x="-263" y="1335"/>
+      <point x="-161" y="1211"/>
+      <point x="-332" y="1397"/>
     </contour>
   </outline>
 </glyph>
