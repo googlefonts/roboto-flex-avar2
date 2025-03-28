@@ -98,14 +98,17 @@ AsciiAlpha
 
 ```
 LGCAlpha
-├── RobotoA2-avar2-VF.ttf
-└── RobotoA2-avar2-fences-VF.ttf
+├── RobotoA2-Delta-VF.ttf
+└── RobotoA2-Delta-no-fences-VF.ttf
+└── RobotoA2-Delta-no-slant-VF.ttf
 ```
 <dl>
-  <dt>RobotoA2-avar2.ttf</dt>
+  <dt>Roboto-Delta.VF.ttf</dt>
   <dd>Variable font in avar2 format. Blended axes are created by defining mappings from parametric axes to extrema input values, **with fencing mappings**</dd>
-  <dt>RobotoA2-avar2-no-fences.ttf</dt>
-  <dd>Variable font in avar2 format. Blended axes are created by defining mappings from parametric axes to extrema input values, **without fencing mappings**</dd>
+  <dt>Roboto-Delta-no-fences.ttf</dt>
+  <dd>Variable font in avar2 format. Blended axes are created by defining mappings from parametric axes to extrema input values, **without fencing mappings**</dd
+  <dt>Roboto-Delta-no-slant.ttf</dt>
+  <dd>Variable font in avar2 format. Blended axes are created by defining mappings from parametric axes to extrema input values, **without slant axis**</dd>
 </dl>
 
 
@@ -142,15 +145,9 @@ Roman
 ├── fences.json
 ├── features
 │   └── *.fea
-├── instances
-│   ├── RobotoA2-opsz8.ufo
-│   ├── RobotoA2-opsz144.ufo
-│   ├── RobotoA2-wdth25.ufo
-│   ├── RobotoA2-wdth151.ufo
-│   ├── RobotoA2-wght200.ufo
-│   └── RobotoA2-wght800.ufo
-├── RobotoA2-avar2.designspace
-└── RobotoA2-avar2-no-fences.designspace
+├── Roboto-Delta.designspace
+└── Roboto-Delta-no-fences.designspace
+└── Roboto-Delta-no-slant.designspace
 ```
 
 <dl>
@@ -166,10 +163,12 @@ Roman
 	<dd>Subfolder with files containing OpenType code which can be linked to the source fonts. <em>Currently not used when building the variable fonts.</em></dd>
 	<dt>instances</dt>
 	<dd>Subfolder containing instances generated from the parametric sources, which are used to add blended axes to the avar1 designspace. Also useful for comparison with the original RobotoFlex var1 sources for blended extrema.</dd>
-	<dt>RobotoA2-avar2.designspace</dt>
+	<dt>Roboto-Delta.designspace</dt>
 	<dd>Designspace for building avar2 variable font. Includes avar2 mappings which define blended sources from parametric values.</dd>
-	<dt>RobotoA2-avar2-no-fences.designspace</dt>
+	<dt>Roboto-Delta-no-fences.designspace</dt>
 	<dd>Designspace for building avar2 variable font. Does not includes avar2 fencing mappings, so we can see the parametric axes’ full range</dd>
+  <dt>Roboto-Delta-no-slant.designspace</dt>
+  <dd>Designspace for building avar2 variable font. Does not include Slant axis.</dd>
 	<dt>Scratch folder</dt>
 	<dd>Parametric axis from RobotoFlex public version.</dd>
 </dl>
@@ -199,18 +198,18 @@ A selection of production scripts which are worth mentioning:
 The designspace and variable font builder
 -----------------------------------------
 
-The different Variable Fonts are built by a single `build-RobotoAvar2.sh` shell script.
+The different Variable Fonts are built by a single `build-Roboto-Delta.sh` shell script.
 
 First make virtualenv.
 
 ```
-virtualenv tools/robotoflexA2-env
+virtualenv tools/roboto-delta-env
 ```
 
 Then install dependencies.
 
 ```
-source tools/robotoflexA2-env/bin/activate
+source tools/roboto-delta-env/bin/activate
 pip install -r requirements.txt
 deactivate
 ```
@@ -218,5 +217,5 @@ deactivate
 Finally build Variable Fonts.
 
 ```
-sh source/Parametric-avar2/build-RobotoAvar2.sh
+sh source/Parametric-avar2/build-Roboto-delta.sh
 ```

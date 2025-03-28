@@ -1,5 +1,5 @@
 
-source tools/robotoflexA2-env/bin/activate
+source tools/roboto-delta-env/bin/activate
 
 ## MAKE VF
 
