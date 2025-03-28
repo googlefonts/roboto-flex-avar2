@@ -1,7 +1,7 @@
-RobotoA2
+Roboto Delta
 ===========
 
-Alpha version of RobotoFlex made with avar2 data. (work in progress)
+Fully parametric version of RobotoFlex made with avar2 data. (work in progress)
 
 
 Table of contents
