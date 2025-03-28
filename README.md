@@ -23,7 +23,7 @@ File Size Comparison
 
 File | glyphs | file-size | bytes per glyph
 --|--|--|--|
-RobotoA2-avar2-VF.ttf | 1,042 | ![GitHub file size in bytes](https://img.shields.io/github/size/googlefonts/roboto-flex-avar2/fonts%2FLGCAlpha%2FRobotoA2-avar2-VF.ttf) | 476  
+Roboto-Delta-VF.ttf | 1,042 | ![GitHub file size in bytes](https://img.shields.io/github/size/googlefonts/roboto-flex-avar2/fonts%2FLGCAlpha%2FRoboto-Delta-VF.ttf) | 476  
 RobotoFlex[...].ttf | 948 | ![GitHub file size in bytes](https://img.shields.io/github/size/googlefonts/roboto-flex/fonts%2FRobotoFlex%5BGRAD%2CXOPQ%2CXTRA%2CYOPQ%2CYTAS%2CYTDE%2CYTFI%2CYTLC%2CYTUC%2Copsz%2Cslnt%2Cwdth%2Cwght%5D.ttf) | 1,885.33
 
 1,885.3291139241/476.072 = 3.96x smaller
@@ -34,7 +34,7 @@ Current folder structure
 ------------------------
 
 ```
-RobotoA2
+Roboto-Delta
 ├── docs/
 ├── fonts/
 ├── OFL.txt
