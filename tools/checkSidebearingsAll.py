@@ -2,7 +2,7 @@ from AppKit import *
 
 PATH = '../source/Parametric-avar2/'
 
-DEFAULT = 'RobotoAvar2-wght400.ufo'
+DEFAULT = 'Roboto-Delta-wght400.ufo'
 
 SOURCES = [                        # 'XOPQ2',            # 'XOPQ310',
             # 'XTRA244',            # 'XTRA741',            # 'YOPQ2',             'YOPQ280',
@@ -20,7 +20,7 @@ def checkSources(fonts, check, fix):
     for font in fonts:
         
         fontName1 = PATH + DEFAULT
-        fontName2 = PATH + 'RobotoAvar2-' + font + '.ufo'
+        fontName2 = PATH + 'Roboto-Delta-' + font + '.ufo'
             
         font1 = OpenFont(fontName1, showInterface=False)
         font2 = OpenFont(fontName2, showInterface=False)

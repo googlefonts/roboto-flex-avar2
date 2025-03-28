@@ -2,7 +2,7 @@ from fontTools.designspaceLib import DesignSpaceDocument, AxisDescriptor, Source
 import ufoProcessor
 from lxml import etree
 
-myPath = "source/Parametric-avar2/RobotoAvar2-avar1.designspace"
+myPath = "source/Parametric-avar2/Roboto-Delta.designspace"
 
 doc = ufoProcessor.DesignSpaceProcessor()
 

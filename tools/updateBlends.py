@@ -1,7 +1,7 @@
 import ufoProcessor
 import json
 
-myPath = "../source/Parametric-avar2/RobotoAvar2-avar2.designspace"
+myPath = "../source/Parametric-avar2/Roboto-Delta.designspace"
 
 doc = ufoProcessor.DesignSpaceProcessor()
 

@@ -54,73 +54,73 @@ def makeGlyphs(src_font, dst_font, glyphs, in_set):
 
 
 # # # XOPQs
-# makeGlyphs('RobotoAvar2-XOPQ2.ufo', 'RobotoAvar2-XOFI2.ufo', XOFI, True)
-# makeGlyphs('RobotoAvar2-XOPQ310.ufo', 'RobotoAvar2-XOFI300.ufo', XOFI, True)
-# makeGlyphs('RobotoAvar2-XOPQ2.ufo', 'RobotoAvar2-XOLC2.ufo', XOLC, True)
-# makeGlyphs('RobotoAvar2-XOPQ310.ufo', 'RobotoAvar2-XOLC294.ufo', XOLC, True)
-# makeGlyphs('RobotoAvar2-XOPQ2.ufo', 'RobotoAvar2-XOUC2.ufo', XOUC, True)
-# makeGlyphs('RobotoAvar2-XOPQ310.ufo', 'RobotoAvar2-XOUC310.ufo', XOUC, True)
+# makeGlyphs('Roboto-Delta-XOPQ2.ufo', 'Roboto-Delta-XOFI2.ufo', XOFI, True)
+# makeGlyphs('Roboto-Delta-XOPQ310.ufo', 'Roboto-Delta-XOFI300.ufo', XOFI, True)
+# makeGlyphs('Roboto-Delta-XOPQ2.ufo', 'Roboto-Delta-XOLC2.ufo', XOLC, True)
+# makeGlyphs('Roboto-Delta-XOPQ310.ufo', 'Roboto-Delta-XOLC294.ufo', XOLC, True)
+# makeGlyphs('Roboto-Delta-XOPQ2.ufo', 'Roboto-Delta-XOUC2.ufo', XOUC, True)
+# makeGlyphs('Roboto-Delta-XOPQ310.ufo', 'Roboto-Delta-XOUC310.ufo', XOUC, True)
 
 # # # XTRAs
-# makeGlyphs('RobotoAvar2-XTRA244.ufo', 'RobotoAvar2-XTFI244.ufo', XTFI, True)
-# makeGlyphs('RobotoAvar2-XTRA741.ufo', 'RobotoAvar2-XTFI741.ufo', XTFI, True)
-# makeGlyphs('RobotoAvar2-XTRA244.ufo', 'RobotoAvar2-XTLC244.ufo', XTLC, True)
-# makeGlyphs('RobotoAvar2-XTRA741.ufo', 'RobotoAvar2-XTLC741.ufo', XTLC, True)
-# makeGlyphs('RobotoAvar2-XTRA244.ufo', 'RobotoAvar2-XTUC244.ufo', XTUC, True)
-# makeGlyphs('RobotoAvar2-XTRA741.ufo', 'RobotoAvar2-XTUC741.ufo', XTUC, True)
+# makeGlyphs('Roboto-Delta-XTRA244.ufo', 'Roboto-Delta-XTFI244.ufo', XTFI, True)
+# makeGlyphs('Roboto-Delta-XTRA741.ufo', 'Roboto-Delta-XTFI741.ufo', XTFI, True)
+# makeGlyphs('Roboto-Delta-XTRA244.ufo', 'Roboto-Delta-XTLC244.ufo', XTLC, True)
+# makeGlyphs('Roboto-Delta-XTRA741.ufo', 'Roboto-Delta-XTLC741.ufo', XTLC, True)
+# makeGlyphs('Roboto-Delta-XTRA244.ufo', 'Roboto-Delta-XTUC244.ufo', XTUC, True)
+# makeGlyphs('Roboto-Delta-XTRA741.ufo', 'Roboto-Delta-XTUC741.ufo', XTUC, True)
 
 # # # YTAS
-# makeGlyphs('RobotoAvar2-wght400.ufo', 'RobotoAvar2-YTAS665.ufo', YTAS, False)
-# makeGlyphs('RobotoAvar2-wght400.ufo', 'RobotoAvar2-YTAS875.ufo', YTAS, False)
+# makeGlyphs('Roboto-Delta-wght400.ufo', 'Roboto-Delta-YTAS665.ufo', YTAS, False)
+# makeGlyphs('Roboto-Delta-wght400.ufo', 'Roboto-Delta-YTAS875.ufo', YTAS, False)
 
 # # # YTDE
-# makeGlyphs('RobotoAvar2-wght400.ufo', 'RobotoAvar2-YTDE-100.ufo', YTDE, False)
-# makeGlyphs('RobotoAvar2-wght400.ufo', 'RobotoAvar2-YTDE-310.ufo', YTDE, False)
+# makeGlyphs('Roboto-Delta-wght400.ufo', 'Roboto-Delta-YTDE-100.ufo', YTDE, False)
+# makeGlyphs('Roboto-Delta-wght400.ufo', 'Roboto-Delta-YTDE-310.ufo', YTDE, False)
 
 # # # YTFI
-# makeGlyphs('RobotoAvar2-wght400.ufo', 'RobotoAvar2-YTFI270.ufo', YTFI, False)
-# makeGlyphs('RobotoAvar2-wght400.ufo', 'RobotoAvar2-YTFI793.ufo', YTFI, False)
+# makeGlyphs('Roboto-Delta-wght400.ufo', 'Roboto-Delta-YTFI270.ufo', YTFI, False)
+# makeGlyphs('Roboto-Delta-wght400.ufo', 'Roboto-Delta-YTFI793.ufo', YTFI, False)
 
 # # # YTLC
-# makeGlyphs('RobotoAvar2-wght400.ufo', 'RobotoAvar2-YTLC426.ufo', YTLC, False)
-# makeGlyphs('RobotoAvar2-wght400.ufo', 'RobotoAvar2-YTLC584.ufo', YTLC, False)
+# makeGlyphs('Roboto-Delta-wght400.ufo', 'Roboto-Delta-YTLC426.ufo', YTLC, False)
+# makeGlyphs('Roboto-Delta-wght400.ufo', 'Roboto-Delta-YTLC584.ufo', YTLC, False)
 
 # # # YTUC
-# makeGlyphs('RobotoAvar2-wght400.ufo', 'RobotoAvar2-YTUC528.ufo', YTUC, False)
-# makeGlyphs('RobotoAvar2-wght400.ufo', 'RobotoAvar2-YTUC778.ufo', YTUC, False)
+# makeGlyphs('Roboto-Delta-wght400.ufo', 'Roboto-Delta-YTUC528.ufo', YTUC, False)
+# makeGlyphs('Roboto-Delta-wght400.ufo', 'Roboto-Delta-YTUC778.ufo', YTUC, False)
 
 # # # YTOS
-# makeGlyphs('RobotoAvar2-wght400.ufo', 'RobotoAvar2-YTOS0.ufo', YTOS, False)
-# makeGlyphs('RobotoAvar2-wght400.ufo', 'RobotoAvar2-YTOS50.ufo', YTOS, False)
+# makeGlyphs('Roboto-Delta-wght400.ufo', 'Roboto-Delta-YTOS0.ufo', YTOS, False)
+# makeGlyphs('Roboto-Delta-wght400.ufo', 'Roboto-Delta-YTOS50.ufo', YTOS, False)
 
 # # # XTTW
-# makeGlyphs('RobotoAvar2-wght400.ufo', 'RobotoAvar2-XTTW0.ufo', XTTW, False)
-# makeGlyphs('RobotoAvar2-wght400.ufo', 'RobotoAvar2-XTTW30.ufo', XTTW, False)
+# makeGlyphs('Roboto-Delta-wght400.ufo', 'Roboto-Delta-XTTW0.ufo', XTTW, False)
+# makeGlyphs('Roboto-Delta-wght400.ufo', 'Roboto-Delta-XTTW30.ufo', XTTW, False)
 
 # # # YTTL
-# makeGlyphs('RobotoAvar2-wght400.ufo', 'RobotoAvar2-YTTL0.ufo', YTTL, False)
-# makeGlyphs('RobotoAvar2-wght400.ufo', 'RobotoAvar2-YTTL50.ufo', YTTL, False)
+# makeGlyphs('Roboto-Delta-wght400.ufo', 'Roboto-Delta-YTTL0.ufo', YTTL, False)
+# makeGlyphs('Roboto-Delta-wght400.ufo', 'Roboto-Delta-YTTL50.ufo', YTTL, False)
 
 # # # STLI
-# makeGlyphs('RobotoAvar2-wght400.ufo', 'RobotoAvar2-STLI2.ufo', STLI, False)
-# makeGlyphs('RobotoAvar2-wght400.ufo', 'RobotoAvar2-STLI412.ufo', STLI, False)
+# makeGlyphs('Roboto-Delta-wght400.ufo', 'Roboto-Delta-STLI2.ufo', STLI, False)
+# makeGlyphs('Roboto-Delta-wght400.ufo', 'Roboto-Delta-STLI412.ufo', STLI, False)
 
 # # # STLO
-# makeGlyphs('RobotoAvar2-wght400.ufo', 'RobotoAvar2-STLO2.ufo', STLO, False)
-# makeGlyphs('RobotoAvar2-wght400.ufo', 'RobotoAvar2-STLO426.ufo', STLO, False)
+# makeGlyphs('Roboto-Delta-wght400.ufo', 'Roboto-Delta-STLO2.ufo', STLO, False)
+# makeGlyphs('Roboto-Delta-wght400.ufo', 'Roboto-Delta-STLO426.ufo', STLO, False)
 
 # # # STUI
-# makeGlyphs('RobotoAvar2-wght400.ufo', 'RobotoAvar2-STUI2.ufo', STUI, False)
-# makeGlyphs('RobotoAvar2-wght400.ufo', 'RobotoAvar2-STUI736.ufo', STUI, False)
+# makeGlyphs('Roboto-Delta-wght400.ufo', 'Roboto-Delta-STUI2.ufo', STUI, False)
+# makeGlyphs('Roboto-Delta-wght400.ufo', 'Roboto-Delta-STUI736.ufo', STUI, False)
 
 # # # STUO
-# makeGlyphs('RobotoAvar2-wght400.ufo', 'RobotoAvar2-STUO2.ufo', STUO, False)
-# makeGlyphs('RobotoAvar2-wght400.ufo', 'RobotoAvar2-STUO722.ufo', STUO, False)
+# makeGlyphs('Roboto-Delta-wght400.ufo', 'Roboto-Delta-STUO2.ufo', STUO, False)
+# makeGlyphs('Roboto-Delta-wght400.ufo', 'Roboto-Delta-STUO722.ufo', STUO, False)
 
 # # # XTUD
-# makeGlyphs('RobotoAvar2-XTRA741.ufo', 'RobotoAvar2-XTUD741.ufo', XTUD, True)
+# makeGlyphs('Roboto-Delta-XTRA741.ufo', 'Roboto-Delta-XTUD741.ufo', XTUD, True)
 
 # # # XTUR
-# makeGlyphs('RobotoAvar2-XTRA741.ufo', 'RobotoAvar2-XTUR741.ufo', XTUR, True)
+# makeGlyphs('Roboto-Delta-XTRA741.ufo', 'Roboto-Delta-XTUR741.ufo', XTUR, True)
 
 
