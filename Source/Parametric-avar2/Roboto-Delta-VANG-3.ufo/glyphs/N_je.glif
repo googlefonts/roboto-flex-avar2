@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Nje" format="2">
+  <advance width="2026"/>
+  <unicode hex="040A"/>
+  <outline>
+    <contour>
+      <point x="208.0" y="0.0" type="line"/>
+      <point x="400.0" y="0.0" type="line"/>
+      <point x="323.6942733638912" y="1456.0" type="line"/>
+      <point x="131.69427336389123" y="1456.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="1034.0" y="0.0" type="line"/>
+      <point x="1516.0" y="0.0" type="line" smooth="yes"/>
+      <point x="1756.0" y="0.0"/>
+      <point x="2001.369725192787" y="241.0"/>
+      <point x="1991.0978004533108" y="437.0" type="qcurve" smooth="yes"/>
+      <point x="1980.8258757138346" y="633.0"/>
+      <point x="1710.4052320237538" y="870.0"/>
+      <point x="1470.4052320237538" y="870.0" type="qcurve" smooth="yes"/>
+      <point x="1109.4052320237538" y="870.0" type="line"/>
+      <point x="1117.6856611504743" y="712.0" type="line"/>
+      <point x="1478.6856611504743" y="712.0" type="line" smooth="yes"/>
+      <point x="1648.6856611504743" y="712.0"/>
+      <point x="1792.9660902771948" y="554.0"/>
+      <point x="1799.0978004533108" y="437.0" type="qcurve" smooth="yes"/>
+      <point x="1805.2295106294266" y="320.0"/>
+      <point x="1677.7195708732795" y="158.0"/>
+      <point x="1507.7195708732795" y="158.0" type="qcurve" smooth="yes"/>
+      <point x="1217.7195708732795" y="158.0" type="line"/>
+      <point x="1149.6942733638912" y="1456.0" type="line"/>
+      <point x="957.6942733638912" y="1456.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="272.6856611504743" y="712.0" type="line"/>
+      <point x="1085.6856611504743" y="712.0" type="line"/>
+      <point x="1077.4052320237538" y="870.0" type="line"/>
+      <point x="264.4052320237537" y="870.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0,0.1,1,0.2</string>
+    </dict>
+  </lib>
+</glyph>

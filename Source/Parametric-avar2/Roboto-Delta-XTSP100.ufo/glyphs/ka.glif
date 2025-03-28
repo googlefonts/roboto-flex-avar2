@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ka" format="2">
+  <advance width="1293"/>
+  <unicode hex="043A"/>
+  <guideline x="241" y="553" angle="90" identifier="lmgRx0QBdK"/>
+  <anchor x="713" y="1052" name="top"/>
+  <anchor x="962" y="0" name="cy_descender"/>
+  <outline>
+    <contour>
+      <point x="955" y="0" type="line"/>
+      <point x="536" y="477" type="line"/>
+      <point x="650" y="603" type="line"/>
+      <point x="1183" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="366" y="610" type="line"/>
+      <point x="545" y="610" type="line"/>
+      <point x="930" y="1052" type="line"/>
+      <point x="1148" y="1052" type="line"/>
+      <point x="633" y="465" type="line"/>
+      <point x="366" y="465" type="line"/>
+    </contour>
+    <contour>
+      <point x="459" y="1052" type="line"/>
+      <point x="459" y="0" type="line"/>
+      <point x="273" y="0" type="line"/>
+      <point x="273" y="1052" type="line"/>
+    </contour>
+  </outline>
+</glyph>

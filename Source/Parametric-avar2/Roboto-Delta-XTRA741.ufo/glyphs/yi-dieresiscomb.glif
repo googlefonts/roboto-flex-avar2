@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="yi-dieresiscomb" format="2">
+  <anchor x="0" y="1052" name="_top"/>
+  <outline>
+    <contour>
+      <point x="-250" y="1370" type="qcurve" smooth="yes"/>
+      <point x="-250" y="1417"/>
+      <point x="-196" y="1481"/>
+      <point x="-145" y="1481" type="qcurve" smooth="yes"/>
+      <point x="-93" y="1481"/>
+      <point x="-39" y="1417"/>
+      <point x="-39" y="1370" type="qcurve" smooth="yes"/>
+      <point x="-39" y="1323"/>
+      <point x="-93" y="1259"/>
+      <point x="-145" y="1259" type="qcurve" smooth="yes"/>
+      <point x="-196" y="1259"/>
+      <point x="-250" y="1323"/>
+    </contour>
+    <contour>
+      <point x="39" y="1370" type="qcurve" smooth="yes"/>
+      <point x="39" y="1417"/>
+      <point x="93" y="1481"/>
+      <point x="144" y="1481" type="qcurve" smooth="yes"/>
+      <point x="196" y="1481"/>
+      <point x="250" y="1417"/>
+      <point x="250" y="1370" type="qcurve" smooth="yes"/>
+      <point x="250" y="1323"/>
+      <point x="196" y="1259"/>
+      <point x="144" y="1259" type="qcurve" smooth="yes"/>
+      <point x="93" y="1259"/>
+      <point x="39" y="1323"/>
+    </contour>
+  </outline>
+</glyph>

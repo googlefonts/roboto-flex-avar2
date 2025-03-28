@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="sha.bgr" format="2">
+  <advance width="2981"/>
+  <anchor x="2540" y="0" name="cy_descender"/>
+  <outline>
+    <contour>
+      <point x="2833" y="1052" type="line"/>
+      <point x="2833" y="0" type="line"/>
+      <point x="2265" y="0" type="line"/>
+      <point x="2247" y="212" type="line"/>
+      <point x="2247" y="1052" type="line"/>
+    </contour>
+    <contour>
+      <point x="1201" y="373" type="qcurve" smooth="yes"/>
+      <point x="1201" y="1052" type="line"/>
+      <point x="1787" y="1052" type="line"/>
+      <point x="1787" y="371" type="line" smooth="yes"/>
+      <point x="1787" y="245"/>
+      <point x="1900" y="136"/>
+      <point x="2004" y="136" type="qcurve" smooth="yes"/>
+      <point x="2111" y="136"/>
+      <point x="2278" y="302"/>
+      <point x="2540" y="851" type="qcurve"/>
+      <point x="2540" y="600" type="line"/>
+      <point x="2391" y="265"/>
+      <point x="2073" y="-20"/>
+      <point x="1796" y="-20" type="qcurve" smooth="yes"/>
+      <point x="1534" y="-20"/>
+      <point x="1201" y="161"/>
+    </contour>
+    <contour>
+      <point x="1477" y="600" type="line"/>
+      <point x="1328" y="265"/>
+      <point x="1010" y="-20"/>
+      <point x="733" y="-20" type="qcurve" smooth="yes"/>
+      <point x="471" y="-20"/>
+      <point x="138" y="161"/>
+      <point x="138" y="373" type="qcurve" smooth="yes"/>
+      <point x="138" y="1052" type="line"/>
+      <point x="724" y="1052" type="line"/>
+      <point x="724" y="371" type="line" smooth="yes"/>
+      <point x="724" y="245"/>
+      <point x="837" y="136"/>
+      <point x="941" y="136" type="qcurve" smooth="yes"/>
+      <point x="1048" y="136"/>
+      <point x="1215" y="302"/>
+      <point x="1477" y="851" type="qcurve"/>
+    </contour>
+  </outline>
+</glyph>
