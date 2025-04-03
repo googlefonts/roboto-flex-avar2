@@ -1144,6 +1144,8 @@
     <string>emacroncyr.glif</string>
     <key>emdash</key>
     <string>emdash.glif</string>
+    <key>emspace</key>
+    <string>emspace.glif</string>
     <key>en</key>
     <string>en.glif</string>
     <key>en.bgr</key>
@@ -1198,6 +1200,10 @@
     <string>f_ij.glif</string>
     <key>fi</key>
     <string>fi.glif</string>
+    <key>figuredash</key>
+    <string>figuredash.glif</string>
+    <key>figurespace</key>
+    <string>figurespace.glif</string>
     <key>finalsigma</key>
     <string>finalsigma.glif</string>
     <key>firsttonechinese</key>
@@ -1214,6 +1220,8 @@
     <string>four.glif</string>
     <key>four.prop</key>
     <string>four.prop.glif</string>
+    <key>fourperemspace</key>
+    <string>fourperemspace.glif</string>
     <key>foursuperior</key>
     <string>foursuperior.glif</string>
     <key>fraction</key>
@@ -1288,6 +1296,8 @@
     <string>hacyr-stroke.glif</string>
     <key>hadescender</key>
     <string>hadescender.glif</string>
+    <key>hairspace</key>
+    <string>hairspace.glif</string>
     <key>hard</key>
     <string>hard.glif</string>
     <key>hard.bgr</key>
@@ -1816,6 +1826,8 @@
     <string>six.glif</string>
     <key>six.prop</key>
     <string>six.prop.glif</string>
+    <key>sixperemspace</key>
+    <string>sixperemspace.glif</string>
     <key>slash</key>
     <string>slash.glif</string>
     <key>soft</key>
@@ -1860,8 +1872,12 @@
     <string>three.glif</string>
     <key>three.prop</key>
     <string>three.prop.glif</string>
+    <key>threeperemspace</key>
+    <string>threeperemspace.glif</string>
     <key>threequarters</key>
     <string>threequarters.glif</string>
+    <key>threequartersemdash</key>
+    <string>threequartersemdash.glif</string>
     <key>threesuperior</key>
     <string>threesuperior.glif</string>
     <key>tilde</key>

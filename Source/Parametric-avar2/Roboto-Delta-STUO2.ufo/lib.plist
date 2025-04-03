@@ -1838,8 +1838,10 @@
       <string>underscore</string>
       <string>hyphen</string>
       <string>hyphentwo</string>
+      <string>figuredash</string>
       <string>endash</string>
       <string>emdash</string>
+      <string>threequartersemdash</string>
       <string>softhyphen</string>
       <string>dagger</string>
       <string>daggerdbl</string>
@@ -2689,7 +2691,13 @@
       <string>increment</string>
       <string>replacementchar</string>
       <string>enspace</string>
+      <string>emspace</string>
+      <string>threeperemspace</string>
+      <string>fourperemspace</string>
+      <string>sixperemspace</string>
+      <string>figurespace</string>
       <string>thinspace</string>
+      <string>hairspace</string>
       <string>zerowidthspace</string>
       <string>zerowidthnbspace</string>
       <string>U-stroke</string>
