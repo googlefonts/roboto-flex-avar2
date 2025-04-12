@@ -1,10 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="zhebrevecyr" format="2">
-  <advance width="690"/>
+  <advance width="710"/>
   <unicode hex="04C2"/>
   <outline>
     <component base="zhe"/>
-    <component base="breve.cyrcomb" xOffset="345"/>
+    <component base="breve.cyrcomb" xOffset="355"/>
   </outline>
   <lib>
     <dict>
