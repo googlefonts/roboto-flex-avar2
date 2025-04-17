@@ -2,6 +2,15 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
   <dict>
+    <key>TYPETR.CurvePalette</key>
+    <dict>
+      <key>gridSize</key>
+      <integer>18</integer>
+      <key>maxRange</key>
+      <integer>100</integer>
+      <key>minRange</key>
+      <integer>30</integer>
+    </dict>
     <key>com.defcon.sortDescriptor</key>
     <array>
       <dict>
@@ -186,8 +195,10 @@
           <string>underscore</string>
           <string>hyphen</string>
           <string>hyphentwo</string>
+          <string>figuredash</string>
           <string>endash</string>
           <string>emdash</string>
+          <string>threequartersemdash</string>
           <string>softhyphen</string>
           <string>dagger</string>
           <string>daggerdbl</string>
@@ -1037,7 +1048,13 @@
           <string>increment</string>
           <string>replacementchar</string>
           <string>enspace</string>
+          <string>emspace</string>
+          <string>threeperemspace</string>
+          <string>fourperemspace</string>
+          <string>sixperemspace</string>
+          <string>figurespace</string>
           <string>thinspace</string>
+          <string>hairspace</string>
           <string>zerowidthspace</string>
           <string>zerowidthnbspace</string>
           <string>U-stroke</string>
@@ -1046,13 +1063,115 @@
           <string>Hacyr-stroke</string>
           <string>obarcyr-stroke</string>
           <string>hacyr-stroke</string>
+          <string>Yu-dash.case</string>
+          <string>yu-dash</string>
+          <string>idot</string>
+          <string>exclam.ital</string>
+          <string>quotedbl.ital</string>
+          <string>numbersign.ital</string>
+          <string>dollar.ital</string>
+          <string>percent.ital</string>
+          <string>ampersand.ital</string>
+          <string>quotesingle.ital</string>
+          <string>parenleft.ital</string>
+          <string>parenright.ital</string>
+          <string>asterisk.ital</string>
+          <string>plus.ital</string>
+          <string>comma.ital</string>
+          <string>hyphen.ital</string>
+          <string>period.ital</string>
+          <string>slash.ital</string>
+          <string>zero.ital</string>
+          <string>one.ital</string>
+          <string>two.ital</string>
+          <string>three.ital</string>
+          <string>four.ital</string>
+          <string>five.ital</string>
+          <string>six.ital</string>
+          <string>seven.ital</string>
+          <string>eight.ital</string>
+          <string>nine.ital</string>
+          <string>colon.ital</string>
+          <string>semicolon.ital</string>
+          <string>less.ital</string>
+          <string>equal.ital</string>
+          <string>greater.ital</string>
+          <string>question.ital</string>
+          <string>at.ital</string>
+          <string>A.ital</string>
+          <string>B.ital</string>
+          <string>C.ital</string>
+          <string>D.ital</string>
+          <string>E.ital</string>
+          <string>F.ital</string>
+          <string>G.ital</string>
+          <string>H.ital</string>
+          <string>I.ital</string>
+          <string>J.ital</string>
+          <string>K.ital</string>
+          <string>L.ital</string>
+          <string>M.ital</string>
+          <string>N.ital</string>
+          <string>O.ital</string>
+          <string>P.ital</string>
+          <string>Q.ital</string>
+          <string>R.ital</string>
+          <string>S.ital</string>
+          <string>T.ital</string>
+          <string>U.ital</string>
+          <string>V.ital</string>
+          <string>W.ital</string>
+          <string>X.ital</string>
+          <string>Y.ital</string>
+          <string>Z.ital</string>
+          <string>bracketleft.ital</string>
+          <string>backslash.ital</string>
+          <string>bracketright.ital</string>
+          <string>asciicircum.ital</string>
+          <string>underscore.ital</string>
+          <string>grave.ital</string>
+          <string>a.ital</string>
+          <string>b.ital</string>
+          <string>c.ital</string>
+          <string>d.ital</string>
+          <string>e.ital</string>
+          <string>f.ital</string>
+          <string>g.ital</string>
+          <string>h.ital</string>
+          <string>i.ital</string>
+          <string>j.ital</string>
+          <string>k.ital</string>
+          <string>l.ital</string>
+          <string>m.ital</string>
+          <string>n.ital</string>
+          <string>o.ital</string>
+          <string>p.ital</string>
+          <string>q.ital</string>
+          <string>r.ital</string>
+          <string>s.ital</string>
+          <string>t.ital</string>
+          <string>u.ital</string>
+          <string>v.ital</string>
+          <string>w.ital</string>
+          <string>x.ital</string>
+          <string>y.ital</string>
+          <string>z.ital</string>
+          <string>braceleft.ital</string>
+          <string>bar.ital</string>
+          <string>braceright.ital</string>
+          <string>asciitilde.ital</string>
+          <string>zerosuperior.ital</string>
+          <string>fraction.ital</string>
+          <string>gravecomb.ital</string>
+          <string>idotless.ital</string>
+          <string>jdotless.ital</string>
         </array>
         <key>type</key>
         <string>glyphList</string>
       </dict>
     </array>
     <key>com.typemytype.glyphBuilder.lastSavedFileName</key>
-    <string>RobotoFlex-Regular-Greek</string>
+    <string>RobotoFlex-Regular-Cyrillic</string>
     <key>com.typemytype.robofont.Roboto-Regular.layerShow</key>
     <false/>
     <key>com.typemytype.robofont.Roboto-Regular.layerStrokeColor</key>
@@ -1639,13 +1758,6 @@
         <real>0.25</real>
       </array>
     </dict>
-    <key>designspace.location</key>
-    <array>
-      <array>
-        <string>weight</string>
-        <real>400.0</real>
-      </array>
-    </array>
     <key>org.unifiedfontobject.normalizer.modTimes</key>
     <string>version: 0.6.1
 1648323906.0 fontinfo.plist
@@ -2805,8 +2917,6 @@
       <string>idotless.ital</string>
       <string>jdotless.ital</string>
     </array>
-    <key>public.skipExportGlyphs</key>
-    <array/>
     <key>tnCurvePalet</key>
     <dict>
       <key>sliderBottomMax</key>
