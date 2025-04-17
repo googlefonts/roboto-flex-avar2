@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="OE" format="2">
-  <advance width="2731"/>
+  <advance width="3067"/>
   <unicode hex="0152"/>
   <outline>
     <contour>
@@ -15,12 +15,12 @@
       <point x="1069" y="1477"/>
       <point x="1298" y="1464"/>
       <point x="1399" y="1456" type="qcurve"/>
-      <point x="2653" y="1456" type="line"/>
-      <point x="2653" y="1298" type="line"/>
+      <point x="2989" y="1456" type="line"/>
+      <point x="2989" y="1298" type="line"/>
       <point x="1931" y="1298" type="line"/>
       <point x="1931" y="157" type="line"/>
-      <point x="2663" y="157" type="line"/>
-      <point x="2663" y="0" type="line"/>
+      <point x="2999" y="157" type="line"/>
+      <point x="2999" y="0" type="line"/>
       <point x="1399" y="0" type="line"/>
       <point x="1298" y="-7"/>
       <point x="1072" y="-21"/>
@@ -44,8 +44,8 @@
     <contour>
       <point x="1626" y="673" type="line"/>
       <point x="1626" y="830" type="line"/>
-      <point x="2561" y="830" type="line"/>
-      <point x="2561" y="673" type="line"/>
+      <point x="2897" y="830" type="line"/>
+      <point x="2897" y="673" type="line"/>
     </contour>
   </outline>
 </glyph>
