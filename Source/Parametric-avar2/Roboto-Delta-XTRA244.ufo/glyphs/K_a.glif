@@ -4,19 +4,19 @@
   <unicode hex="041A"/>
   <guideline x="480" y="796" angle="90" identifier="LxfLwWU0sJ"/>
   <anchor x="410" y="1456" name="top"/>
-  <anchor x="452" y="0" name="cy_descender"/>
+  <anchor x="510" y="0" name="cy_descender"/>
   <outline>
     <contour>
-      <point x="413" y="0" type="line"/>
-      <point x="367" y="693" type="line"/>
-      <point x="475" y="823" type="line"/>
-      <point x="628" y="0" type="line"/>
+      <point x="471" y="0" type="line"/>
+      <point x="384" y="693" type="line"/>
+      <point x="512" y="823" type="line"/>
+      <point x="686" y="0" type="line"/>
     </contour>
     <contour>
       <point x="266" y="830" type="line"/>
-      <point x="385" y="830" type="line"/>
-      <point x="391" y="1456" type="line"/>
-      <point x="587" y="1456" type="line"/>
+      <point x="372" y="830" type="line"/>
+      <point x="459" y="1456" type="line"/>
+      <point x="655" y="1456" type="line"/>
       <point x="487" y="672" type="line"/>
       <point x="266" y="672" type="line"/>
     </contour>
