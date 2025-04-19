@@ -1,20 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Yu-dash.case" format="2">
-  <advance width="557"/>
-  <anchor x="-1.305834462281311" y="750" name="_yu_dash"/>
-  <anchor x="555.6941655377187" y="750" name="yu_dash"/>
+  <advance width="461"/>
+  <anchor x="0" y="750" name="_yu_dash"/>
+  <anchor x="461" y="750" name="yu_dash"/>
   <outline>
     <contour>
-      <point x="2.7819723217959478" y="672.0" type="line"/>
-      <point x="-5.4984568049246505" y="830.0" type="line"/>
-      <point x="551.5015431950753" y="830.0" type="line"/>
-      <point x="559.7819723217959" y="672.0" type="line"/>
+      <point x="0" y="672" type="line"/>
+      <point x="0" y="830" type="line"/>
+      <point x="461" y="830" type="line"/>
+      <point x="461" y="672" type="line"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>0,0.1,1,0.2</string>
-    </dict>
-  </lib>
 </glyph>

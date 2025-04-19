@@ -128,7 +128,7 @@ Ebrevecyr = Ecyr + breve.cyrcomb.case@top | 0xf524
 ebrevecyr = ecyr + breve.cyrcomb@top | 0xf525
 Yamacron = Ya + macroncomb.case@top | 0xf528
 yamacron = ya + macroncomb@top | 0xf529
-Yumacron = I + Yu-dash.case@yu_dash + O@yu_dash + macroncomb.case@I:110%, top ^ I,O | 0xf52c
+Yumacron = I + Yu-dash.case@yu_dash + O@yu_dash + macroncomb.case@I:115%, top ^ I,O | 0xf52c
 yumacron = idotless + yu-dash@yu_dash + o@yu_dash + macroncomb@idotless:102%, top  ^ idotless,o | 0xf52d
 
 
